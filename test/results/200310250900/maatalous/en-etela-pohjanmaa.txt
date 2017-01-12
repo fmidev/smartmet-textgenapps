@@ -1,0 +1,24 @@
+Weather report for Southern Ostrobothnia on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+From Saturday onwards intermittent rain.
+Probability of precipitation is today 70 percent, tomorrow smaller.
+Today mainly north-easterly wind 5-9 meters per second, tomorrow 4-6 meters per second.
+The maximum day temperature is today 0...-2 degrees, tomorrow about the same.
+The minimum night temperature is -3...-7 degrees.
+Probability of severe frost is on Sunday night 80 percent.
+The lowest relative humidity is tomorrow 60 percent.
+Total precipitation is today from forenoon 0-3 millimeters, tomorrow 0-1 millimeters.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is 0...+2 degrees, nightly minimum temperature -1...-4 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature 1 degrees.
+Mean maximum temperature 1 degrees.
+Mean minimum temperature -1 degrees.
+Total precipitation 10-20 millimeters.

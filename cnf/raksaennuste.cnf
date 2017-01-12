@@ -1,0 +1,513 @@
+# ----------------------------------------------------------------------
+# Hakemisto jonne ennusteet tallennetaan
+# ----------------------------------------------------------------------
+
+qdtext::outdir = out/raksa
+
+qdtext::logfile = out/raksa.log
+
+# ----------------------------------------------------------------------
+# Hakemisto, jossa aluekartat ovat (SVG-muodossa)
+# ----------------------------------------------------------------------
+
+qdtext
+{
+	// Testialue
+
+	areas	= suomi
+
+	areas	+= ahvenanmaa
+	areas	+= etela-karjala
+	areas	+= etela-pohjanmaa
+	areas	+= etela-savo
+	areas	+= hame
+	areas	+= kainuu
+	areas	+= keski-pohjanmaa
+	areas	+= keski-suomi
+	areas	+= koillismaa
+	areas	+= kymenlaakso
+	areas	+= lansi-lappi
+	areas	+= paijat-hame
+	areas	+= pirkanmaa
+	areas	+= pohjanmaa
+	areas	+= pohjois-karjala
+	areas	+= pohjois-pohjanmaa
+	areas	+= pohjois-savo
+	areas	+= satakunta
+	areas	+= uusimaa
+	areas	+= varsinais-suomi
+
+}
+
+qdtext::areas
+{
+	dir			= $(textgen::mappath)/raksa
+	radius			= 10
+
+	suomi			= $(dir)/suomi.svg
+	ahvenanmaa		= $(dir)/ahvenanmaa.svg:$(radius)
+	etela-karjala		= $(dir)/etela-karjala.svg:$(radius)
+	etela-pohjanmaa		= $(dir)/etela-pohjanmaa.svg:$(radius)
+	etela-savo		= $(dir)/etela-savo.svg:$(radius)
+	hame			= $(dir)/hame.svg:$(radius)
+	kainuu			= $(dir)/kainuu.svg:$(radius)
+	keski-pohjanmaa		= $(dir)/keski-pohjanmaa.svg:$(radius)
+	keski-suomi		= $(dir)/keski-suomi.svg:$(radius)
+	koillismaa		= $(dir)/koillismaa.svg:$(radius)
+	kymenlaakso		= $(dir)/kymenlaakso.svg:$(radius)
+	lansi-lappi		= $(dir)/lansi-lappi.svg:$(radius)
+	paijat-hame		= $(dir)/paijat-hame.svg:$(radius)
+	pirkanmaa		= $(dir)/pirkanmaa.svg:$(radius)
+	pohjanmaa		= $(dir)/pohjanmaa.svg:$(radius)
+	pohjois-karjala		= $(dir)/pohjois-karjala.svg:$(radius)
+	pohjois-pohjanmaa	= $(dir)/pohjois-pohjanmaa.svg:$(radius)
+	pohjois-savo		= $(dir)/pohjois-savo.svg:$(radius)
+	satakunta		= $(dir)/satakunta.svg:$(radius)
+	uusimaa			= $(dir)/uusimaa.svg:$(radius)
+	varsinais-suomi		= $(dir)/varsinais-suomi.svg:$(radius)
+}
+
+qdtext::dictionary = multimysql
+qdtext::timezone = Europe/Helsinki
+
+# Pohjois-Suomi ja Suomi ovat ylim‰‰r‰isi‰, ei l‰htetet‰ Soneralle
+
+qdtext::products = fi_txt,fi_html,sv_txt,sv_html,sonera
+
+qdtext::product::fi_txt
+{
+	language = fi
+	formatter = plainlines
+
+	filename
+	{
+		ahvenanmaa		= txt/fi/ahvenanmaa.txt
+		etela-karjala		= txt/fi/etela-karjala.txt
+		etela-pohjanmaa		= txt/fi/etela-pohjanmaa.txt
+		etela-savo		= txt/fi/etela-savo.txt
+		hame			= txt/fi/hame.txt
+		kainuu			= txt/fi/kainuu.txt
+		keski-pohjanmaa		= txt/fi/keski-pohjanmaa.txt
+		keski-suomi		= txt/fi/keski-suomi.txt
+		koillismaa		= txt/fi/koillismaa.txt
+		kymenlaakso		= txt/fi/kymenlaakso.txt
+		lansi-lappi		= txt/fi/lansi-lappi.txt
+		paijat-hame		= txt/fi/paijat-hame.txt
+		pirkanmaa		= txt/fi/pirkanmaa.txt
+		pohjanmaa		= txt/fi/pohjanmaa.txt
+		pohjois-karjala		= txt/fi/pohjois-karjala.txt
+		pohjois-pohjanmaa	= txt/fi/pohjois-pohjanmaa.txt
+		pohjois-savo		= txt/fi/pohjois-savo.txt
+		pohjois-suomi		= txt/fi/pohjois-suomi.txt
+		satakunta		= txt/fi/satakunta.txt
+		uusimaa			= txt/fi/uusimaa.txt
+		varsinais-suomi		= txt/fi/varsinais-suomi.txt
+		suomi			= txt/fi/suomi.txt
+	}	
+}
+
+qdtext::product::fi_html
+{
+	language = fi
+	formatter = html
+
+	filename
+	{
+		ahvenanmaa		= html/fi/ahvenanmaa.html
+		etela-karjala		= html/fi/etela-karjala.html
+		etela-pohjanmaa		= html/fi/etela-pohjanmaa.html
+		etela-savo		= html/fi/etela-savo.html
+		hame			= html/fi/hame.html
+		kainuu			= html/fi/kainuu.html
+		keski-pohjanmaa		= html/fi/keski-pohjanmaa.html
+		keski-suomi		= html/fi/keski-suomi.html
+		koillismaa		= html/fi/koillismaa.html
+		kymenlaakso		= html/fi/kymenlaakso.html
+		lansi-lappi		= html/fi/lansi-lappi.html
+		paijat-hame		= html/fi/paijat-hame.html
+		pirkanmaa		= html/fi/pirkanmaa.html
+		pohjanmaa		= html/fi/pohjanmaa.html
+		pohjois-karjala		= html/fi/pohjois-karjala.html
+		pohjois-pohjanmaa	= html/fi/pohjois-pohjanmaa.html
+		pohjois-savo		= html/fi/pohjois-savo.html
+		pohjois-suomi		= html/fi/pohjois-suomi.html
+		satakunta		= html/fi/satakunta.html
+		uusimaa			= html/fi/uusimaa.html
+		varsinais-suomi		= html/fi/varsinais-suomi.html
+		suomi			= html/fi/suomi.html
+	}	
+}
+
+qdtext::product::sv_txt
+{
+	language = sv
+	formatter = plainlines
+
+	filename
+	{
+		ahvenanmaa		= txt/sv/ahvenanmaa.txt
+		etela-karjala		= txt/sv/etela-karjala.txt
+		etela-pohjanmaa		= txt/sv/etela-pohjanmaa.txt
+		etela-savo		= txt/sv/etela-savo.txt
+		hame			= txt/sv/hame.txt
+		kainuu			= txt/sv/kainuu.txt
+		keski-pohjanmaa		= txt/sv/keski-pohjanmaa.txt
+		keski-suomi		= txt/sv/keski-suomi.txt
+		koillismaa		= txt/sv/koillismaa.txt
+		kymenlaakso		= txt/sv/kymenlaakso.txt
+		lansi-lappi		= txt/sv/lansi-lappi.txt
+		paijat-hame		= txt/sv/paijat-hame.txt
+		pirkanmaa		= txt/sv/pirkanmaa.txt
+		pohjanmaa		= txt/sv/pohjanmaa.txt
+		pohjois-karjala		= txt/sv/pohjois-karjala.txt
+		pohjois-pohjanmaa	= txt/sv/pohjois-pohjanmaa.txt
+		pohjois-savo		= txt/sv/pohjois-savo.txt
+		pohjois-suomi		= txt/sv/pohjois-suomi.txt
+		satakunta		= txt/sv/satakunta.txt
+		uusimaa			= txt/sv/uusimaa.txt
+		varsinais-suomi		= txt/sv/varsinais-suomi.txt
+		suomi			= txt/sv/suomi.txt
+	}
+}
+
+qdtext::product::sv_html
+{
+	language = sv
+	formatter = html
+
+	filename
+	{
+		ahvenanmaa		= html/sv/ahvenanmaa.html
+		etela-karjala		= html/sv/etela-karjala.html
+		etela-pohjanmaa		= html/sv/etela-pohjanmaa.html
+		etela-savo		= html/sv/etela-savo.html
+		hame			= html/sv/hame.html
+		kainuu			= html/sv/kainuu.html
+		keski-pohjanmaa		= html/sv/keski-pohjanmaa.html
+		keski-suomi		= html/sv/keski-suomi.html
+		koillismaa		= html/sv/koillismaa.html
+		kymenlaakso		= html/sv/kymenlaakso.html
+		lansi-lappi		= html/sv/lansi-lappi.html
+		paijat-hame		= html/sv/paijat-hame.html
+		pirkanmaa		= html/sv/pirkanmaa.html
+		pohjanmaa		= html/sv/pohjanmaa.html
+		pohjois-karjala		= html/sv/pohjois-karjala.html
+		pohjois-pohjanmaa	= html/sv/pohjois-pohjanmaa.html
+		pohjois-savo		= html/sv/pohjois-savo.html
+		pohjois-suomi		= html/sv/pohjois-suomi.html
+		satakunta		= html/sv/satakunta.html
+		uusimaa			= html/sv/uusimaa.html
+		varsinais-suomi		= html/sv/varsinais-suomi.html
+		suomi			= html/sv/suomi.html
+	}
+}
+
+qdtext::product::sonera
+{
+	language = sonera
+	formatter = sonera
+
+	// Huom! uusimaa tallennetaan kahtena tiedostona!
+
+	filename
+	{
+		ahvenanmaa		= sonera/aland.txt
+		etela-karjala		= sonera/etela_karjala.txt
+		etela-pohjanmaa		= sonera/etela_pohjanmaa.txt
+		etela-savo		= sonera/etela_savo.txt
+		hame			= sonera/hame.txt
+		kainuu			= sonera/kainuu.txt
+		keski-pohjanmaa		= sonera/keski_pohjanmaa.txt
+		keski-suomi		= sonera/keski_suomi.txt
+		koillismaa		= sonera/koillismaa.txt
+		kymenlaakso		= sonera/kymenlaakso.txt
+		lansi-lappi		= sonera/lansi_lappi.txt
+		paijat-hame		= sonera/paijat_hame.txt
+		pirkanmaa		= sonera/pirkanmaa.txt
+		pohjanmaa		= sonera/osterbotten.txt
+		pohjois-karjala		= sonera/pohjois_karjala.txt
+		pohjois-pohjanmaa	= sonera/pohjois_pohjanmaa.txt
+		pohjois-savo		= sonera/pohjois_savo.txt
+		satakunta		= sonera/satakunta.txt
+		uusimaa			= sonera/uusimaa.txt,sonera/nyland.txt
+		varsinais-suomi		= sonera/varsinais_suomi.txt
+	}	
+}
+
+# ======================================================================
+#		Kirjasto-osan kontrolli
+# ======================================================================
+
+# length of pause after each structure, 991=0.1s, 999=0.9s
+textgen::soneraformatter::pause
+{
+	paragraph	= 998
+	header		= 998
+	sentence	= 995
+	delimiter	= 994
+}
+
+# ----------------------------------------------------------------------
+# Ennustedata eri parametreille
+# ----------------------------------------------------------------------
+
+textgen::main_forecast = /data/pal/querydata/pal/skandinavia/pinta
+textgen::ground_forecast = /data/pal/querydata/pal/skandinavia/maanpinta
+
+textgen
+{
+	temperature_forecast			= $(main_forecast)
+	precipitation_forecast			= $(main_forecast)
+	precipitationprobability_forecast	= $(main_forecast)
+	cloudiness_forecast			= $(main_forecast)
+	windspeed_forecast			= $(main_forecast)
+	winddirection_forecast			= $(main_forecast)
+	thunder_forecast			= $(main_forecast)
+
+	frost_forecast			= $(ground_forecast)
+	severefrost_forecast		= $(ground_forecast)
+}
+
+textgen::mask::land = suomi
+
+textgen::units
+{
+	celsius::format		= phrase
+	meterspersecond::format	= phrase
+	millimeters::format	= phrase
+	percent::format		= phrase
+}
+
+# ----------------------------------------------------------------------
+# Tekstin kontrollointi
+# ----------------------------------------------------------------------
+
+textgen::sections = title,part1,part2,part3
+
+textgen::title
+{
+	period::type = now
+	header::type = report_area
+	header::colon = false
+	header::html::level = 2
+	content = none
+}
+
+textgen::part1
+{
+	period::type = until
+	header::type = until
+	header::colon = true
+	header::html::level = 4
+}
+
+textgen::part2
+{
+	period::type = from_until
+	header::type = from_until
+	header::colon = true
+	header::html::level = 4
+}
+
+textgen::part3
+{
+	period::type = from_until
+	header::type = several_days
+	header::colon = true
+	header::html::level = 4
+}
+
+# Huomiseen iltaan, klo 12 j‰lkeen ylihuomisiltaan
+
+textgen::part1::period
+{
+	days = 1
+	endhour = 18
+	switchhour = 12
+}
+
+# Edellisen alusta +4 p‰iv‰‰ aamuun
+
+textgen::part2::period
+{
+	starthour = 18
+	startday = 1
+	switchhour = 12
+	days = 4
+	endhour = 6
+}
+
+# Seuraavasta aamusta +5 p‰iv‰n aamuun
+
+textgen::part3::period
+{
+	starthour = 6
+	startday = 0
+	switchhour = 6
+	days = 5
+	endhour = 6
+}
+
+
+textgen::part1
+{
+	content = weather_overview
+	content += weather_thunderprobability
+	content += wind_daily_ranges
+	content += temperature_dailymax
+	content += temperature_nightlymin
+	content += frost_twonights
+}
+
+textgen::part2
+{
+	content = weather_shortoverview
+	content += temperature_weekly_minmax
+}
+
+textgen::part3
+{
+	content = temperature_mean
+	content += temperature_meanmax
+	content += temperature_meanmin
+	content += precipitation_classification
+}
+
+textgen::part1::story::weather_overview
+{
+	day::starthour = 0
+	day::endhour = 0
+	day::maxstarthour = 12
+	day::minendhour = 18
+
+	merge_same = true
+	merge_similar = true
+
+        rainyperiod::maximum_interval = 3
+        rainyperiod::night::maximum_interval = 4
+
+	days::phrases = today,tomorrow,weekday
+	today::phrases = today,tomorrow,weekday
+}
+
+
+textgen::part1::story::weather_thunderprobability
+{
+	precision = 10
+	limit = 10
+}
+
+textgen::part1::story::wind_daily_ranges
+{
+        day::starthour = 4
+        day::maxstarthour = 12
+	day::endhour = 21
+	day::minendhour = 18
+
+        today::phrases = today,tomorrow,weekday
+        next_day::phrases = tomorrow,weekday
+        next_days::phrases = tomorrow,weekday
+
+	mininterval = 0
+
+	same::minimum = 1
+	same::maximum = 1
+
+	direction::accurate = 22.5
+	direction::variable = 45
+
+}
+
+textgen::part1::story::temperature_dailymax
+{
+        today::phrases = today,tomorrow,weekday
+        next_day::phrases = tomorrow,followingday
+
+	day::starthour = 6
+	day::maxstarthour = 11
+	day::endhour = 18
+
+	comparison::significantly_higher = 6
+	comparison::higher = 3
+	comparison::somewhat_higher = 2
+	comparison::somewhat_lower = 2
+	comparison::lower = 3
+	comparison::significantly_lower = 6
+
+	always_zero_interval = true
+
+}
+
+textgen::part1::story::temperature_nightlymin
+{
+        tonight::phrases = none,weekday
+        next_night::phrases = weekday
+
+	night::starthour = 18
+	night::maxstarthour = 0
+	night::endhour = 6
+
+	comparison::significantly_higher = 6
+	comparison::higher = 3
+	comparison::somewhat_higher = 2
+	comparison::somewhat_lower = 2
+	comparison::lower = 3
+	comparison::significantly_lower = 6
+
+	always_zero_interval = true
+
+}
+
+textgen::part1::story::frost_twonights
+{
+	night::starthour = 18
+	night::endhour = 6
+
+	precision = 10
+	severe_frost_limit = 10
+	frost_limit = 10
+}
+
+textgen::part2::story::weather_shortoverview
+{
+	cloudiness::fullrange = false
+	cloudiness::day::starthour = 6
+	cloudiness::day::endhour = 21
+
+	cloudiness::clear = 40
+	cloudiness::cloudy = 70
+	cloudiness::single_limit = 60
+	cloudiness::double_limit = 85
+
+	precipitation::day::starthour = 0
+	precipitation::day::endhour = 0
+
+	precipitation::rainy_limit = 1
+	precipitation::partly_raily_limit = 0.1
+	precipitation::unstable_limit = 50
+}
+
+textgen::part2::story::temperature_weekly_minmax
+{
+	day::starthour = 6
+	day::endhour = 18
+	night::starthour = 18
+	night::endhour = 6
+}
+
+textgen::part2::story::temperature_weekly_averages
+{
+	day::starthour = 6
+	day::endhour = 18
+	night::starthour = 18
+	night::endhour = 6
+}
+
+textgen::part3::story::precipitation_classification
+{
+	max_some_places = 30
+	max_many_places = 70
+	some_places = 30
+	many_places = 70
+	classes = 0...2,2...5,5...10,10...20
+}

@@ -1,0 +1,26 @@
+Weather report for Uusimaa road district on Thursday 12 o'clock
+
+Expected weather until Saturday evening:
+
+From Thursday onwards intermittent rain.
+On Saturday rain, in the evening fair weather.
+Easterly wind 3-8 meters per second, on Saturday 3-9 meters per second.
+The maximum day temperature is tomorrow 2...5 degrees, the following day about the same.
+The minimum night temperature is -1...+1 degrees, on Saturday night about the same.
+Probability of severe frost is on Friday night 20 percent, the following night 10 percent.
+Total precipitation for the first 12 hours is 0-2 millimeters, for the following 12 hours 0-2 millimeters.
+The road temperature is today 3...16 degrees, at night -1...+10 degrees, tomorrow during the day -1...+13 degrees.
+In the evening the roads are dry, at night the roads are in some places covered by slush.
+Tomorrow morning the roads are in many places dry, during the day the roads are dry.
+
+Expected weather from Saturday evening until Wednesday morning:
+
+Mostly cloudy, intermittent rain.
+Daily maximum temperature is 2...5 degrees, nightly minimum temperature -1...+2 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature 2 degrees.
+Mean maximum temperature 3 degrees.
+Mean minimum temperature 0 degrees.
+Total precipitation 10-20 millimeters.

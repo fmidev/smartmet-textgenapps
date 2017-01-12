@@ -1,0 +1,24 @@
+Weather report for Upper Lapland on Thursday 12 o'clock
+
+Expected weather until Saturday evening:
+
+Today sunny, tomorrow and on Saturday variable cloudiness.
+Today southerly wind 3-6 meters per second, from Friday onwards 2-4 meters per second.
+The maximum day temperature is tomorrow 0...+4 degrees, the following day somewhat lower.
+The minimum night temperature is -7...-11 degrees, on Saturday night higher.
+Total precipitation for the next 24 hours is 0 millimeters.
+The road temperature is today 2...12 degrees, at night -16...+6 degrees, tomorrow during the day -13...+13 degrees.
+In the evening the roads are dry, at night the roads are in some places covered by frost.
+From tomorrow morning the roads are dry.
+
+Expected weather from Saturday evening until Wednesday morning:
+
+The weather is unstable.
+Daily maximum temperature is -2...+1 degrees, nightly minimum temperature -2...-8 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature -2 degrees.
+Mean maximum temperature 1 degrees.
+Mean minimum temperature -5 degrees.
+Total precipitation 10-20 millimeters.

@@ -1,0 +1,28 @@
+Imatra
+
+Weather report on Thursday 12 o'clock
+
+Expected weather until Saturday evening:
+
+Today cloudy, at noon in some places light showers.
+Tomorrow mostly fair weather.
+On Saturday from the morning in some places rain.
+Probability of precipitation is tomorrow 70 percent, the following day the same.
+South-easterly wind 4-5 meters per second.
+The maximum day temperature is tomorrow about 3 degrees, the following day about the same.
+The minimum night temperature is about -1 degree, on Saturday night higher.
+Probability of severe frost is on Friday night 30 percent, the following night 10 percent.
+The lowest relative humidity is tomorrow 80 percent, on Saturday somewhat greater.
+Total precipitation is today from the noon about 1 millimeters, tomorrow about 2 millimeters, on Saturday about 8 millimeters.
+
+Expected weather from Saturday evening until Wednesday morning:
+
+Mostly cloudy, intermittent rain.
+Daily maximum temperature is about 4 degrees, nightly minimum temperature about 1 degree.
+
+From Friday morning for the next five days:
+
+Mean temperature 2 degrees.
+Mean maximum temperature 4 degrees.
+Mean minimum temperature 1 degrees.
+Total precipitation 10-20 millimeters.

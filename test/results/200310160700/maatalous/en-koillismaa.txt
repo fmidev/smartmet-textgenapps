@@ -1,0 +1,24 @@
+Weather report for Koillismaa on Thursday 7 o'clock
+
+Expected weather until Friday evening:
+
+From Thursday onwards intermittent rain.
+Probability of precipitation is today 60 percent, tomorrow the same.
+Today westerly wind 3-4 meters per second, tomorrow 6-7 meters per second.
+The maximum day temperature is today 2...6 degrees, tomorrow about the same.
+The minimum night temperature is about 3 degrees.
+Probability of frost is on Friday night 40 percent.
+The lowest relative humidity is tomorrow 70 percent.
+Total precipitation is today from the morning 0-4 millimeters, tomorrow 1-7 millimeters.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is 0...-2 degrees, nightly minimum temperature -3...-5 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature -3 degrees.
+Mean maximum temperature -1 degrees.
+Mean minimum temperature -5 degrees.
+Total precipitation 5-10 millimeters.

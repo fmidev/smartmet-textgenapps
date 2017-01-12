@@ -1,0 +1,27 @@
+Viipuri
+
+Weather report on Monday 9 o'clock
+
+Expected weather until Tuesday evening:
+
+Today cloudy.
+Tomorrow in some places rain, from the afternoon fair weather.
+Probability of precipitation is today 20 percent, tomorrow significantly greater.
+South-westerly wind 4-5 meters per second.
+The maximum day temperature is today about 6 degrees, tomorrow about the same.
+The minimum night temperature is about 3 degrees.
+Probability of frost is on Tuesday night 40 percent.
+The lowest relative humidity is tomorrow 80 percent.
+Total precipitation is tomorrow about 3 millimeters.
+
+Expected weather from Tuesday evening until Saturday morning:
+
+The weather is unstable.
+Daily maximum temperature is about 7 degrees, nightly minimum temperature about 2 degrees.
+
+From Tuesday morning for the next five days:
+
+Mean temperature 4 degrees.
+Mean maximum temperature 6 degrees.
+Mean minimum temperature 1 degrees.
+Total precipitation 10-20 millimeters.

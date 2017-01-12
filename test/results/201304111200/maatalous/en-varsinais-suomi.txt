@@ -1,0 +1,26 @@
+Weather report for Finland Proper on Thursday 12 o'clock
+
+Expected weather until Saturday evening:
+
+Today mostly cloudy, in the afternoon in some places light rain.
+Tomorrow cloudy.
+On Saturday rain, from the afternoon fair weather.
+Probability of precipitation is tomorrow 20 percent, the following day significantly greater.
+Easterly wind 2-6 meters per second, on Saturday 4-8 meters per second.
+The maximum day temperature is tomorrow 3...5 degrees, the following day somewhat lower.
+The minimum night temperature is 0...-1 degrees, on Saturday night about the same.
+Probability of severe frost is on Friday night 30 percent, the following night 10 percent.
+The lowest relative humidity is tomorrow 80 percent, on Saturday somewhat greater.
+Total precipitation is on Saturday about 4 millimeters.
+
+Expected weather from Saturday evening until Wednesday morning:
+
+Mostly cloudy, intermittent rain.
+Daily maximum temperature is 2...5 degrees, nightly minimum temperature 0...+2 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature 2 degrees.
+Mean maximum temperature 4 degrees.
+Mean minimum temperature 1 degrees.
+Total precipitation 5-10 millimeters.

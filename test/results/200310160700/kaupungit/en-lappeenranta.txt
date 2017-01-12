@@ -1,0 +1,26 @@
+Lappeenranta
+
+Weather report on Thursday 7 o'clock
+
+Expected weather until Friday evening:
+
+Today variable cloudiness.
+Tomorrow mostly cloudy, before midnight in some places light showers.
+Probability of precipitation is today 40 percent, tomorrow somewhat greater.
+Today north-westerly wind 3 meters per second, tomorrow 5 meters per second.
+The maximum day temperature is today about 5 degrees, tomorrow about the same.
+The minimum night temperature is about 1 degree.
+Probability of severe frost is on Friday night 20 percent.
+The lowest relative humidity is tomorrow 80 percent.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is about 1 degree, nightly minimum temperature about -2 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature -1 degrees.
+Mean maximum temperature 2 degrees.
+Mean minimum temperature -3 degrees.
+Total precipitation 2-5 millimeters.

@@ -1,0 +1,26 @@
+Oulu
+
+Weather report on Monday 9 o'clock
+
+Expected weather until Tuesday evening:
+
+Today from the afternoon in some places rain, tomorrow cloudy.
+Probability of precipitation is today 80 percent, tomorrow smaller.
+Today south-westerly wind 6 meters per second, tomorrow 4 meters per second.
+The maximum day temperature is today about 5 degrees, tomorrow somewhat higher.
+The minimum night temperature is about 3 degrees.
+Probability of frost is on Tuesday night 40 percent.
+The lowest relative humidity is tomorrow 80 percent.
+Total precipitation is today from forenoon about 5 millimeters, tomorrow about 1 millimeters.
+
+Expected weather from Tuesday evening until Saturday morning:
+
+The weather is unstable.
+Daily maximum temperature is about 9 degrees, nightly minimum temperature about 0 degrees.
+
+From Tuesday morning for the next five days:
+
+Mean temperature 2 degrees.
+Mean maximum temperature 7 degrees.
+Mean minimum temperature -1 degrees.
+Total precipitation 10-20 millimeters.

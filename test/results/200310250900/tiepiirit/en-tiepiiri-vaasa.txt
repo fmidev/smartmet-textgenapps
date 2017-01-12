@@ -1,0 +1,24 @@
+Weather report for Vaasa road district on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today from forenoon in many places snowfall, tomorrow from forenoon fair weather, cloudy or partly cloudy.
+Today mainly northerly wind 5-18 meters per second, tomorrow 4-10 meters per second.
+The maximum day temperature is today -2...+2 degrees, tomorrow about the same.
+The minimum night temperature is -2...-7 degrees.
+Probability of severe frost is on Sunday night 70 percent.
+Total precipitation for the first 12 hours is 0-5 millimeters, for the following 12 hours 0-4 millimeters.
+The road temperature is today 0...-4 degrees, at night 0...-7 degrees, tomorrow during the day -1...-8 degrees.
+From forenoon the roads are in many places icy, from tonight the roads are in some places icy or partly icy.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is 0...+4 degrees, nightly minimum temperature -4...+1 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature 1 degrees.
+Mean maximum temperature 2 degrees.
+Mean minimum temperature 0 degrees.
+Total precipitation 10-20 millimeters.

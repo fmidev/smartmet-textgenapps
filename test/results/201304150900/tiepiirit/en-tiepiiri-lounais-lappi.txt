@@ -1,0 +1,26 @@
+Weather report for South Western Lapland on Monday 9 o'clock
+
+Expected weather until Tuesday evening:
+
+Today mostly cloudy, in the forenoon in some places sleet.
+Tomorrow mostly fair weather.
+Today south-westerly wind 4-6 meters per second, tomorrow 2-4 meters per second.
+The maximum day temperature is today 3...8 degrees, tomorrow about the same.
+The minimum night temperature is -1...+2 degrees.
+Probability of severe frost is on Tuesday night 20 percent.
+Total precipitation for the first 12 hours is 0-5 millimeters, for the following 12 hours 1-6 millimeters.
+The road temperature is today 1...27 degrees, at night -2...+15 degrees, tomorrow during the day -1...+26 degrees.
+During the day the roads are in some places moist, in the evening the roads are in some places covered by slush, at night the roads are in many places covered by slush.
+Tomorrow morning the roads are dry.
+
+Expected weather from Tuesday evening until Saturday morning:
+
+The weather is unstable.
+Daily maximum temperature is 4...6 degrees, nightly minimum temperature 0...-2 degrees.
+
+From Tuesday morning for the next five days:
+
+Mean temperature 1 degrees.
+Mean maximum temperature 4 degrees.
+Mean minimum temperature -1 degrees.
+Total precipitation 10-20 millimeters.

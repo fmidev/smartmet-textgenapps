@@ -1,0 +1,26 @@
+Weather report for Oulu road districts western parts on Thursday 7 o'clock
+
+Expected weather until Friday evening:
+
+Today cloudy or partly cloudy.
+Tomorrow mostly fair weather.
+Today westerly wind 3-5 meters per second, tomorrow 5-9 meters per second.
+The maximum day temperature is today 4...9 degrees, tomorrow about the same.
+The minimum night temperature is 2...6 degrees.
+Probability of frost is on Friday night 20 percent.
+Total precipitation for the first 12 hours is 0 millimeters, for the following 12 hours 0-2 millimeters.
+The road temperature is today -1...+11 degrees, at night 0...+6 degrees, tomorrow during the day -2...+8 degrees.
+During the day the roads are in some places wet or moist, from the evening the roads are in some places wet.
+Tomorrow morning the roads are in some places wet or moist.
+
+Expected weather from Friday evening until Tuesday morning:
+
+Mostly cloudy, intermittent rain.
+Daily maximum temperature is -1...+2 degrees, nightly minimum temperature 0...-4 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature -1 degrees.
+Mean maximum temperature 2 degrees.
+Mean minimum temperature -3 degrees.
+Total precipitation 2-5 millimeters.

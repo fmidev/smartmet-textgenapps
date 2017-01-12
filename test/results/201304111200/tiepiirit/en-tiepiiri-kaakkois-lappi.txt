@@ -1,0 +1,26 @@
+Weather report for South Eastern Lapland on Thursday 12 o'clock
+
+Expected weather until Saturday evening:
+
+Today and tomorrow variable cloudiness.
+On Saturday cloudy, before midnight in some places snowfall.
+Southerly wind 2-4 meters per second.
+The maximum day temperature is tomorrow 2...4 degrees, the following day about the same.
+The minimum night temperature is -8...-12 degrees, on Saturday night significantly higher.
+Probability of severe frost is on Friday night 100 percent, the following night 50 percent.
+Total precipitation for the next 24 hours is 0 millimeters.
+The road temperature is today 5...23 degrees, at night -16...+12 degrees, tomorrow during the day -13...+11 degrees.
+In the evening the roads are dry, at night the roads are in some places covered by frost.
+From tomorrow morning the roads are dry.
+
+Expected weather from Saturday evening until Wednesday morning:
+
+The weather is unstable.
+Daily maximum temperature is 0...+2 degrees, nightly minimum temperature -1...-3 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature 0 degrees.
+Mean maximum temperature 2 degrees.
+Mean minimum temperature -2 degrees.
+Total precipitation 10-20 millimeters.

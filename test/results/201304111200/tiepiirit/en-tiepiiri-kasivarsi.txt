@@ -1,0 +1,23 @@
+Weather report for North Western Lapland on Thursday 12 o'clock
+
+Expected weather until Saturday evening:
+
+Today sunny, tomorrow and on Saturday variable cloudiness.
+Today southerly wind 2-7 meters per second, from Friday onwards 2-4 meters per second.
+The maximum day temperature is tomorrow -3...+4 degrees, the following day about the same.
+The minimum night temperature is -8...-11 degrees, on Saturday night somewhat higher.
+Total precipitation for the next 24 hours is 0 millimeters.
+The road temperature is today 2...12 degrees, at night -14...+7 degrees, tomorrow during the day -14...+12 degrees.
+From the evening the roads are dry.
+
+Expected weather from Saturday evening until Wednesday morning:
+
+The weather is unstable.
+Daily maximum temperature is -4...+3 degrees, nightly minimum temperature -2...-7 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature -2 degrees.
+Mean maximum temperature 1 degrees.
+Mean minimum temperature -5 degrees.
+Total precipitation 5-10 millimeters.

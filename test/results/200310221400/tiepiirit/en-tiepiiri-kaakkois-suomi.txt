@@ -1,0 +1,24 @@
+Weather report for South Eastern Finlands road district on Wednesday 14 o'clock
+
+Expected weather until Friday evening:
+
+Tomorrow and on Friday cloudy or partly cloudy.
+Tomorrow variable wind 1-4 meters per second, on Friday mainly westerly wind.
+The maximum day temperature is tomorrow -2...+1 degrees, the following day about the same.
+The minimum night temperature is -5...-9 degrees, on Friday night about the same.
+Total precipitation for the first 12 hours is 0-1 millimeters, for the following 12 hours 0 millimeters.
+The road temperature is at night -1...-11 degrees, tomorrow during the day -11...+4 degrees, at night -2...-12 degrees.
+In the evening the roads are dry, at night the roads are in some places covered by frost.
+Tomorrow morning the roads are in many places covered by frost, during the day the roads are in some places covered by frost.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is -2...+1 degrees, nightly minimum temperature -1...-6 degrees.
+
+From Thursday morning for the next five days:
+
+Mean temperature -4 degrees.
+Mean maximum temperature -2 degrees.
+Mean minimum temperature -5 degrees.
+Total precipitation 5-10 millimeters.

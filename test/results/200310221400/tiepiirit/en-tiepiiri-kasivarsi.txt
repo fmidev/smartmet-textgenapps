@@ -1,0 +1,26 @@
+Weather report for North Western Lapland on Wednesday 14 o'clock
+
+Expected weather until Friday evening:
+
+Tomorrow at night in many places light snowfall, during the day cloudy and fair weather.
+On Friday from the morning snowfall.
+Tomorrow and the following day south-westerly wind 2-4 meters per second.
+The maximum day temperature is tomorrow 0...-3 degrees, the following day about the same.
+The minimum night temperature is -5...-8 degrees, on Friday night about the same.
+Probability of severe frost is on Thursday night 100 percent, the following night 90 percent.
+Total precipitation for the first 12 hours is 0-3 millimeters, for the following 12 hours 0-1 millimeters.
+The road temperature is at night -4...-11 degrees, tomorrow during the day -3...-10 degrees, at night -4...-10 degrees.
+From the evening the roads are in many places covered by snow, in some places icy.
+Tomorrow morning the roads are in many places icy, in some places partly icy, during the day the roads are in many places partly icy, in some places icy.
+
+Expected weather from Friday evening until Tuesday morning:
+
+Mostly cloudy or partly cloudy, on Saturday rain.
+Daily maximum temperature is -4...-6 degrees, nightly minimum temperature -10...-13 degrees.
+
+From Thursday morning for the next five days:
+
+Mean temperature -7 degrees.
+Mean maximum temperature -3 degrees.
+Mean minimum temperature -10 degrees.
+Total precipitation 5-10 millimeters.

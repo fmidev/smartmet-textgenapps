@@ -1,0 +1,24 @@
+Weather report for South Eastern Finlands road district on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today from forenoon snowfall, tomorrow from the afternoon fair weather.
+Mainly northerly wind 3-9 meters per second.
+The maximum day temperature is today -2...+2 degrees, tomorrow about the same.
+The minimum night temperature is -2...-6 degrees.
+Probability of severe frost is on Sunday night 70 percent.
+Total precipitation for the first 12 hours is 1-7 millimeters, for the following 12 hours about 1 millimeters.
+The road temperature is today 0...-4 degrees, at night 0...-6 degrees, tomorrow during the day -1...-6 degrees.
+From forenoon the roads are in many places icy, from tonight the roads are generally icy.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is -2...+3 degrees, nightly minimum temperature 0...-6 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature 0 degrees.
+Mean maximum temperature 1 degrees.
+Mean minimum temperature -2 degrees.
+Total precipitation 10-20 millimeters.

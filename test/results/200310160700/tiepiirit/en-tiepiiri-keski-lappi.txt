@@ -1,0 +1,25 @@
+Weather report for Central Lapland on Thursday 7 o'clock
+
+Expected weather until Friday evening:
+
+From Thursday onwards intermittent rain.
+Today westerly wind 4 meters per second, tomorrow 5-7 meters per second.
+The maximum day temperature is today 3...7 degrees, tomorrow somewhat lower.
+The minimum night temperature is 2...5 degrees.
+Probability of frost is on Friday night 40 percent.
+Total precipitation for the first 12 hours is 0-1 millimeters, for the following 12 hours 1-5 millimeters.
+The road temperature is today 0...+7 degrees, at night -7...+5 degrees, tomorrow during the day -3...+4 degrees.
+During the day the roads are in some places wet, in the evening the roads are in some places covered by snow, at night the roads are in some places covered by slush.
+Tomorrow morning the roads are in many places wet, in some places moist.
+
+Expected weather from Friday evening until Tuesday morning:
+
+Mostly cloudy, intermittent rain.
+Daily maximum temperature is about -1 degree, nightly minimum temperature about -5 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature -3 degrees.
+Mean maximum temperature -1 degrees.
+Mean minimum temperature -5 degrees.
+Total precipitation 2-5 millimeters.

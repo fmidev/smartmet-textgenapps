@@ -1,0 +1,25 @@
+Weather report for Päijänne Tavastia on Monday 9 o'clock
+
+Expected weather until Tuesday evening:
+
+Today from the noon rain.
+Tomorrow cloudy.
+Probability of precipitation is today 60 percent, tomorrow smaller.
+Today south-westerly wind 4-8 meters per second, tomorrow 3-6 meters per second.
+The maximum day temperature is today 5...7 degrees, tomorrow about the same.
+The minimum night temperature is about 2 degrees.
+Probability of frost is on Tuesday night 40 percent.
+The lowest relative humidity is tomorrow 80 percent.
+Total precipitation is today from forenoon 1-3 millimeters.
+
+Expected weather from Tuesday evening until Saturday morning:
+
+The weather is unstable.
+Daily maximum temperature is 5...7 degrees, nightly minimum temperature 0...+2 degrees.
+
+From Tuesday morning for the next five days:
+
+Mean temperature 3 degrees.
+Mean maximum temperature 6 degrees.
+Mean minimum temperature 0 degrees.
+Total precipitation 10-20 millimeters.

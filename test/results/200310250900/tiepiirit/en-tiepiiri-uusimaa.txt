@@ -1,0 +1,25 @@
+Weather report for Uusimaa road district on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today from forenoon until Sunday morning snow or sleet, on Sunday cloudy or partly cloudy.
+Today northerly wind 5-14 meters per second, tomorrow 5-10 meters per second.
+The maximum day temperature is today -1...+3 degrees, tomorrow lower.
+The minimum night temperature is 0...-5 degrees.
+Probability of severe frost is on Sunday night 50 percent.
+Total precipitation for the first 12 hours is 2-9 millimeters, for the following 12 hours 0-2 millimeters.
+The road temperature is today -3...+2 degrees, at night -6...+1 degrees, tomorrow during the day 0...-6 degrees.
+During the day the roads are in many places covered by snow, in some places icy, from the evening the roads are in many places icy.
+Tomorrow morning the roads are in some places icy or partly icy.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is 0...+4 degrees, nightly minimum temperature -5...+3 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature 2 degrees.
+Mean maximum temperature 2 degrees.
+Mean minimum temperature 0 degrees.
+Total precipitation 10-20 millimeters.

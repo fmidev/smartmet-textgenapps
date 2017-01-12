@@ -1,0 +1,25 @@
+Weather report for Vaasa road district on Thursday 7 o'clock
+
+Expected weather until Friday evening:
+
+Today cloudy or partly cloudy.
+Tomorrow mostly fair weather.
+Today westerly wind 2-5 meters per second, tomorrow 5-9 meters per second.
+The maximum day temperature is today 6...10 degrees, tomorrow about the same.
+The minimum night temperature is 1...6 degrees.
+Probability of frost is on Friday night 40 percent.
+Total precipitation for the next 24 hours is 0 millimeters.
+The road temperature is today -4...+12 degrees, at night -1...+8 degrees, tomorrow during the day 0...+12 degrees.
+During the day the roads are in many places dry, in the evening the roads are dry, from tonight the roads are in some places covered by frost.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is 1...4 degrees, nightly minimum temperature -3...+2 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature 0 degrees.
+Mean maximum temperature 3 degrees.
+Mean minimum temperature -2 degrees.
+Total precipitation 2-5 millimeters.

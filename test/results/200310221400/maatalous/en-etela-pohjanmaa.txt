@@ -1,0 +1,24 @@
+Weather report for Southern Ostrobothnia on Wednesday 14 o'clock
+
+Expected weather until Friday evening:
+
+Tomorrow mostly partly cloudy.
+On Friday cloudy or partly cloudy, in the evening snowfall.
+Probability of precipitation is tomorrow 20 percent, the following day greater.
+Tomorrow south-westerly wind 1-4 meters per second, on Friday 3-6 meters per second.
+The maximum day temperature is tomorrow -1...+1 degrees, the following day about the same.
+The minimum night temperature is -6...-10 degrees, on Friday night about the same.
+The lowest relative humidity is tomorrow 60 percent, on Friday the same.
+Total precipitation is tomorrow 0-1 millimeters, on Friday the same.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is 0...-2 degrees, nightly minimum temperature -3...-6 degrees.
+
+From Thursday morning for the next five days:
+
+Mean temperature -4 degrees.
+Mean maximum temperature -1 degrees.
+Mean minimum temperature -6 degrees.
+Total precipitation 10-20 millimeters.

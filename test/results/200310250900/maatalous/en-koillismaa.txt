@@ -1,0 +1,24 @@
+Weather report for Koillismaa on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today from forenoon in many places snowfall, in the evening fair weather.
+Tomorrow mostly partly cloudy.
+Probability of precipitation is today 70 percent, tomorrow smaller.
+Today northerly wind 3-8 meters per second, tomorrow 3-5 meters per second.
+The maximum day temperature is today -4...-6 degrees, tomorrow about the same.
+The minimum night temperature is -5...-10 degrees.
+The lowest relative humidity is tomorrow 70 percent.
+Total precipitation is today from forenoon 0-2 millimeters, tomorrow the same.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is -1...-5 degrees, nightly minimum temperature -6...-10 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature -4 degrees.
+Mean maximum temperature -4 degrees.
+Mean minimum temperature -7 degrees.
+Total precipitation 5-10 millimeters.

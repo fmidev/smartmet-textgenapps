@@ -1,0 +1,27 @@
+Viipuri
+
+Weather report on Thursday 12 o'clock
+
+Expected weather until Saturday evening:
+
+From Thursday onwards intermittent rain.
+On Saturday in some places rain.
+Probability of precipitation is tomorrow 70 percent, the following day somewhat greater.
+South-easterly wind 3-4 meters per second.
+The maximum day temperature is tomorrow about 4 degrees, the following day about the same.
+The minimum night temperature is about 1 degree, on Saturday night about the same.
+Probability of severe frost is on Friday night 10 percent, the following night probability of frost is 40 percent.
+The lowest relative humidity is tomorrow 80 percent, on Saturday the same.
+Total precipitation is today from the noon about 1 millimeters, tomorrow about 3 millimeters, on Saturday about 11 millimeters.
+
+Expected weather from Saturday evening until Wednesday morning:
+
+The weather is unstable.
+Daily maximum temperature is about 4 degrees, nightly minimum temperature about 1 degree.
+
+From Friday morning for the next five days:
+
+Mean temperature 2 degrees.
+Mean maximum temperature 4 degrees.
+Mean minimum temperature 1 degrees.
+Total precipitation over 20 millimeters.

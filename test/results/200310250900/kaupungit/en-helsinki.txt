@@ -1,0 +1,27 @@
+Helsinki
+
+Weather report on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today from forenoon in some places snow or sleet, in the evening fair weather.
+Tomorrow cloudy or partly cloudy.
+Probability of precipitation is today 80 percent, tomorrow smaller.
+Northerly wind 9 meters per second.
+The maximum day temperature is today about 0 degrees, tomorrow about the same.
+The minimum night temperature is about -2 degrees.
+Probability of severe frost is on Sunday night 60 percent.
+The lowest relative humidity is tomorrow 70 percent.
+Total precipitation is today from forenoon about 5 millimeters, tomorrow about 1 millimeters.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is about 2 degrees, nightly minimum temperature about 0 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature 2 degrees.
+Mean maximum temperature 3 degrees.
+Mean minimum temperature 1 degrees.
+Total precipitation 5-10 millimeters.

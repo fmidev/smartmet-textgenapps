@@ -1,0 +1,25 @@
+Weather report for Central Finlands road district on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today from forenoon in many places light snowfall, tomorrow cloudy or partly cloudy.
+Northerly wind 5 meters per second.
+The maximum day temperature is today about -2 degrees, tomorrow about the same.
+The minimum night temperature is -5...-7 degrees.
+Probability of severe frost is on Sunday night 90 percent.
+Total precipitation for the first 12 hours is about 1 millimeters, for the following 12 hours about 1 millimeters.
+The road temperature is today -2...-5 degrees, at night -3...-7 degrees, tomorrow during the day -4...-8 degrees.
+From forenoon the roads are in many places icy.
+Tomorrow morning the roads are in many places partly icy, in some places icy.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is 0...-1 degrees, nightly minimum temperature -3...-5 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature 0 degrees.
+Mean maximum temperature 0 degrees.
+Mean minimum temperature -2 degrees.
+Total precipitation 10-20 millimeters.

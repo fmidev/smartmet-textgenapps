@@ -1,0 +1,27 @@
+Ivalo
+
+Weather report on Wednesday 14 o'clock
+
+Expected weather until Friday evening:
+
+Tomorrow cloudy.
+On Friday in some places light snowfall.
+Probability of precipitation is tomorrow 60 percent, the following day greater.
+Tomorrow and the following day south-westerly wind 4 meters per second.
+The maximum day temperature is tomorrow about -2 degrees, the following day about the same.
+The minimum night temperature is about -7 degrees, on Friday night somewhat higher.
+Probability of severe frost is on Thursday night 100 percent, the following night 90 percent.
+The lowest relative humidity is tomorrow 80 percent, on Friday the same.
+Total precipitation is today from the afternoon about 1 millimeters, on Friday the same.
+
+Expected weather from Friday evening until Tuesday morning:
+
+Mostly cloudy or partly cloudy, on Saturday rain.
+Daily maximum temperature is about -5 degrees, nightly minimum temperature about -10 degrees.
+
+From Thursday morning for the next five days:
+
+Mean temperature -6 degrees.
+Mean maximum temperature -3 degrees.
+Mean minimum temperature -9 degrees.
+Total precipitation 5-10 millimeters.

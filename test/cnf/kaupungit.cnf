@@ -1,0 +1,471 @@
+# ----------------------------------------------------------------------
+# Hakemisto jonne ennusteet tallennetaan
+# ----------------------------------------------------------------------
+
+qdtext::outdir = <OUTDIR>
+
+qdtext::forecasttime = <FORECASTTIME>
+
+textgen::database = textgen2
+qdtext::encoding = utf8
+
+# ----------------------------------------------------------------------
+# Ennustuspisteet
+# ----------------------------------------------------------------------
+
+qdtext
+{
+	areas = helsinki
+	areas += imatra
+	areas += ivalo
+	areas += joensuu
+	areas += kuopio
+	areas += lahti
+	areas += lappeenranta
+	areas += oulu
+	areas += pori
+	areas += rauma
+	areas += rovaniemi
+	areas += tampere
+	areas += turku
+	areas += vaasa
+	areas += viipuri
+}
+
+
+qdtext::dictionary = multimysql
+qdtext::timezone = Europe/Helsinki
+
+qdtext::products = fi_txt,sv_txt,en_txt,fi_html
+
+qdtext::product::fi_txt
+{
+	language = fi
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= fi-helsinki.txt
+		imatra		= fi-imatra.txt
+		ivalo		= fi-ivalo.txt
+		joensuu		= fi-joensuu.txt
+		kuopio		= fi-kuopio.txt
+		lahti		= fi-lahti.txt
+		lappeenranta	= fi-lappeenranta.txt
+		oulu		= fi-oulu.txt
+		pori		= fi-pori.txt
+		rauma		= fi-rauma.txt
+		rovaniemi	= fi-rovaniemi.txt
+		tampere		= fi-tampere.txt
+		turku		= fi-turku.txt
+		vaasa		= fi-vaasa.txt
+		viipuri		= fi-viipuri.txt
+	}	
+}
+
+qdtext::product::fi_html
+{
+	language = fi
+	formatter = html
+
+	filename
+	{
+		helsinki	= fi-helsinki.html
+	}	
+}
+
+qdtext::product::sv_txt
+{
+	language = sv
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= sv-helsinki.txt
+		imatra		= sv-imatra.txt
+		ivalo		= sv-ivalo.txt
+		joensuu		= sv-joensuu.txt
+		kuopio		= sv-kuopio.txt
+		lahti		= sv-lahti.txt
+		lappeenranta	= sv-lappeenranta.txt
+		oulu		= sv-oulu.txt
+		pori		= sv-pori.txt
+		rauma		= sv-rauma.txt
+		rovaniemi	= sv-rovaniemi.txt
+		tampere		= sv-tampere.txt
+		turku		= sv-turku.txt
+		vaasa		= sv-vaasa.txt
+		viipuri		= sv-viipuri.txt
+	}
+}
+
+qdtext::product::en_txt
+{
+	language = en
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= en-helsinki.txt
+		imatra		= en-imatra.txt
+		ivalo		= en-ivalo.txt
+		joensuu		= en-joensuu.txt
+		kuopio		= en-kuopio.txt
+		lahti		= en-lahti.txt
+		lappeenranta	= en-lappeenranta.txt
+		oulu		= en-oulu.txt
+		pori		= en-pori.txt
+		rauma		= en-rauma.txt
+		rovaniemi	= en-rovaniemi.txt
+		tampere		= en-tampere.txt
+		turku		= en-turku.txt
+		vaasa		= en-vaasa.txt
+		viipuri		= en-viipuri.txt
+	}
+}
+
+# ======================================================================
+#		Kirjasto-osan kontrolli
+# ======================================================================
+
+# ----------------------------------------------------------------------
+# Ennustedata eri parametreille
+# ----------------------------------------------------------------------
+
+textgen::main_forecast = <DATADIR>/pinta
+textgen::ground_forecast = <DATADIR>/maanpinta
+
+textgen::frostseason = true
+
+textgen
+{
+	temperature_forecast			= $(main_forecast)
+	precipitation_forecast			= $(main_forecast)
+	precipitationprobability_forecast	= $(main_forecast)
+        precipitationtype_forecast              = $(main_forecast)
+        precipitationform_forecast              = $(main_forecast)
+	cloudiness_forecast			= $(main_forecast)
+	windspeed_forecast			= $(main_forecast)
+	winddirection_forecast			= $(main_forecast)
+	relativehumidity_forecast		= $(main_forecast)
+	thunder_forecast			= $(main_forecast)
+
+	frost_forecast			= $(ground_forecast)
+	severefrost_forecast		= $(ground_forecast)
+}
+
+textgen::mask::land = suomi
+
+textgen::units
+{
+	celsius::format		= phrase
+	meterspersecond::format	= phrase
+	millimeters::format	= phrase
+	percent::format		= phrase
+}
+
+# ----------------------------------------------------------------------
+# Tekstin kontrollointi
+# ----------------------------------------------------------------------
+
+textgen::sections = locationheader,timeheader,part1,part2,part3
+
+textgen::locationheader
+{
+	period::type = now
+	header::type = report_location
+	header::colon = false
+	header::html::level = 1
+	content = none
+}
+
+textgen::timeheader
+{
+	period::type = now
+	header::type = report_time
+	header::colon = false
+	header::html::level = 2
+	content = none
+}
+
+textgen::part1
+{
+	period::type = until
+	header::type = until
+	header::colon = true
+	header::html::level = 4
+}
+
+textgen::part2
+{
+	period::type = from_until
+	header::type = from_until
+	header::colon = true
+	header::html::level = 4
+}
+
+textgen::part3
+{
+	period::type = from_until
+	header::type = several_days
+	header::colon = true
+	header::html::level = 4
+}
+
+# Huomiseen iltaan, klo 12 j‰lkeen ylihuomisiltaan
+
+textgen::part1::period
+{
+	days = 1
+	endhour = 18
+	switchhour = 12
+}
+
+# Edellisen alusta +4 p‰iv‰‰ aamuun
+
+textgen::part2::period
+{
+	starthour = 18
+	startday = 1
+	switchhour = 12
+	days = 4
+	endhour = 6
+}
+
+# Seuraavasta aamusta +5 p‰iv‰n aamuun
+
+textgen::part3::period
+{
+	starthour = 6
+	startday = 0
+	switchhour = 6
+	days = 5
+	endhour = 6
+}
+
+
+textgen::part1
+{
+	content = weather_overview
+	content += pop_days
+	content += weather_thunderprobability
+	content += wind_daily_ranges
+	content += temperature_dailymax
+	content += temperature_nightlymin
+	content += frost_twonights
+	content += relativehumidity_lowest
+	content += precipitation_daily_sums
+}
+
+textgen::part2
+{
+	content = weather_shortoverview
+	content += temperature_weekly_minmax
+}
+
+textgen::part3
+{
+	content = temperature_mean
+	content += temperature_meanmax
+	content += temperature_meanmin
+	content += precipitation_classification
+}
+
+textgen::part1::story::weather_overview
+{
+	day::starthour = 0
+	day::endhour = 0
+	day::maxstarthour = 12
+	day::minendhour = 18
+
+	merge_same = true
+	merge_similar = true
+
+        rainyperiod::maximum_interval = 3
+        rainyperiod::night::maximum_interval = 4
+
+	days::phrases = today,tomorrow,weekday
+	today::phrases = today,tomorrow,weekday
+}
+
+textgen::part1::story::pop_days
+{
+	day::starthour = 0
+	day::endhour = 0
+	day::maxstarthour = 10
+	day::minendhour = 18
+
+        today::phrases = today,tomorrow,weekday
+        next_day::phrases = tomorrow,followingday
+
+        precision = 10
+        minimum = 10
+
+        comparison::significantly_greater = 50
+        comparison::greater = 20
+        comparison::somewhat_greater = 10
+        comparison::somewhat_smaller = 10
+        comparison::smaller = 20
+        comparison::significantly_smaller = 50
+}
+
+
+textgen::part1::story::weather_thunderprobability
+{
+	precision = 10
+	limit = 10
+}
+
+textgen::part1::story::wind_daily_ranges
+{
+        day::starthour = 4
+        day::maxstarthour = 12
+	day::endhour = 21
+	day::minendhour = 18
+
+        today::phrases = today,tomorrow,weekday
+        next_day::phrases = tomorrow,weekday
+        next_days::phrases = tomorrow,weekday
+
+	mininterval = 0
+
+	same::minimum = 1
+	same::maximum = 1
+
+	direction::accurate = 22.5
+	direction::variable = 45
+
+}
+
+textgen::part1::story::temperature_dailymax
+{
+        today::phrases = today,tomorrow,weekday
+        next_day::phrases = tomorrow,followingday
+
+	day::starthour = 6
+	day::maxstarthour = 11
+	day::endhour = 18
+
+	comparison::significantly_higher = 6
+	comparison::higher = 3
+	comparison::somewhat_higher = 2
+	comparison::somewhat_lower = 2
+	comparison::lower = 3
+	comparison::significantly_lower = 6
+
+	always_zero_interval = true
+
+}
+
+textgen::part1::story::temperature_nightlymin
+{
+        tonight::phrases = none,weekday
+        next_night::phrases = weekday
+
+	night::starthour = 18
+	night::maxstarthour = 0
+	night::endhour = 6
+
+	comparison::significantly_higher = 6
+	comparison::higher = 3
+	comparison::somewhat_higher = 2
+	comparison::somewhat_lower = 2
+	comparison::lower = 3
+	comparison::significantly_lower = 6
+
+	always_zero_interval = true
+
+}
+
+textgen::part1::story::frost_twonights
+{
+	night::starthour = 18
+	night::endhour = 6
+
+	precision = 10
+	severe_frost_limit = 10
+	frost_limit = 10
+}
+
+textgen::part1::story::relativehumidity_lowest
+{
+        today::phrases = today,tomorrow,weekday
+        next_day::phrases = tomorrow,weekday
+
+	day::maxstarthour = 6
+	day::minendhour = 18
+
+	precision = 10
+
+	comparison::significantly_greater = 50
+	comparison::greater = 20
+	comparison::somewhat_greater = 10
+	comparison::somewhat_smaller = 10
+	comparison::smaller = 20
+	comparison::significantly_smaller = 50
+
+}
+
+textgen::part1::story::precipitation_daily_sums
+{
+	today::phrases = today,tomorrow,weekday
+	next_day::phrases = tomorrow,weekday
+
+	day::starthour = 0
+	day::endhour = 0
+	day::maxstarthour = 17
+	day::minendhour = 18
+
+	minrain = 0.05
+	mininterval = 2
+
+	same::minimum = 0
+	same::maximum = 1
+
+	ignore_fair_days = true
+	
+}
+
+textgen::part2::story::weather_shortoverview
+{
+	cloudiness::fullrange = false
+	cloudiness::day::starthour = 6
+	cloudiness::day::endhour = 21
+
+	cloudiness::clear = 40
+	cloudiness::cloudy = 70
+	cloudiness::single_limit = 60
+	cloudiness::double_limit = 85
+
+	precipitation::day::starthour = 0
+	precipitation::day::endhour = 0
+
+	precipitation::rainy_limit = 1
+	precipitation::partly_raily_limit = 0.1
+	precipitation::unstable_limit = 50
+}
+
+textgen::part2::story::temperature_weekly_minmax
+{
+	day::starthour = 6
+	day::endhour = 18
+	night::starthour = 18
+	night::endhour = 6
+}
+
+textgen::part2::story::temperature_weekly_averages
+{
+	day::starthour = 6
+	day::endhour = 18
+	night::starthour = 18
+	night::endhour = 6
+}
+
+textgen::part3::story::precipitation_classification
+{
+	max_some_places = 30
+	max_many_places = 70
+	some_places = 30
+	many_places = 70
+	classes = 0...2,2...5,5...10,10...20
+}

@@ -1,0 +1,26 @@
+Oulu
+
+Weather report on Thursday 7 o'clock
+
+Expected weather until Friday evening:
+
+Today cloudy or partly cloudy.
+Tomorrow cloudy, in the forenoon in some places light rain.
+Probability of precipitation is today 40 percent, tomorrow greater.
+Today westerly wind 3 meters per second, tomorrow 6 meters per second.
+The maximum day temperature is today about 6 degrees, tomorrow about the same.
+The minimum night temperature is about 4 degrees.
+Probability of frost is on Friday night 10 percent.
+The lowest relative humidity is tomorrow 70 percent.
+
+Expected weather from Friday evening until Tuesday morning:
+
+Mostly cloudy, on Saturday in some places rain.
+Daily maximum temperature is about 0 degrees, nightly minimum temperature about -3 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature -1 degrees.
+Mean maximum temperature 2 degrees.
+Mean minimum temperature -3 degrees.
+Total precipitation 0-2 millimeters.

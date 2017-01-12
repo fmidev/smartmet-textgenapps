@@ -1,0 +1,25 @@
+Weather report for Ostrobothnia on Wednesday 14 o'clock
+
+Expected weather until Friday evening:
+
+Tomorrow mostly fair weather.
+On Friday from the afternoon snow or sleet.
+Probability of precipitation is tomorrow 20 percent, the following day greater.
+Tomorrow mainly southerly wind 2-6 meters per second, on Friday 4-8 meters per second.
+The maximum day temperature is tomorrow 0...+2 degrees, the following day about the same.
+The minimum night temperature is -4...-9 degrees, on Friday night about the same.
+Probability of severe frost is on Thursday night 90 percent, the following night 80 percent.
+The lowest relative humidity is tomorrow 60 percent, on Friday the same.
+Total precipitation is tomorrow 0-2 millimeters, on Friday the same.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is -1...+1 degrees, nightly minimum temperature -1...-5 degrees.
+
+From Thursday morning for the next five days:
+
+Mean temperature -2 degrees.
+Mean maximum temperature 0 degrees.
+Mean minimum temperature -3 degrees.
+Total precipitation 10-20 millimeters.

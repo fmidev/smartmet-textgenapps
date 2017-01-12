@@ -1,0 +1,24 @@
+Weather report for Pirkanmaa on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today from forenoon in many places snowfall, tomorrow cloudy or partly cloudy.
+Probability of precipitation is today 60 percent, tomorrow smaller.
+Today mainly northerly wind 5-7 meters per second, tomorrow 5 meters per second.
+The maximum day temperature is today about -2 degrees, tomorrow about the same.
+The minimum night temperature is -4...-7 degrees.
+Probability of severe frost is on Sunday night 90 percent.
+The lowest relative humidity is tomorrow 60 percent.
+Total precipitation is today from forenoon about 1 millimeters, tomorrow 0-1 millimeters.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is 0...+1 degrees, nightly minimum temperature -2...-5 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature 1 degrees.
+Mean maximum temperature 1 degrees.
+Mean minimum temperature -1 degrees.
+Total precipitation 10-20 millimeters.

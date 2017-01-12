@@ -1,0 +1,25 @@
+Weather report for North Western Lapland on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today cloudy or partly cloudy, in the forenoon in some places light snowfall.
+Tomorrow partly cloudy.
+Today mainly northerly wind 2-7 meters per second, tomorrow 2-3 meters per second.
+The maximum day temperature is today -4...-8 degrees, tomorrow about the same.
+The minimum night temperature is about -10 degrees.
+Total precipitation for the first 12 hours is 0-1 millimeters, for the following 12 hours 0 millimeters.
+The road temperature is today -6...-13 degrees, at night -8...-14 degrees, tomorrow during the day -7...-14 degrees.
+From forenoon the roads are in many places partly icy.
+Tomorrow morning the roads are in some places partly icy.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is -2...-4 degrees, nightly minimum temperature -7...-10 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature -5 degrees.
+Mean maximum temperature -4 degrees.
+Mean minimum temperature -8 degrees.
+Total precipitation 5-10 millimeters.

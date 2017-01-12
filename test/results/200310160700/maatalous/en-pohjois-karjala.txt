@@ -1,0 +1,24 @@
+Weather report for Northern Karelia on Thursday 7 o'clock
+
+Expected weather until Friday evening:
+
+Today mostly cloudy.
+Tomorrow cloudy, in the evening in many places light showers.
+Probability of precipitation is today 50 percent, tomorrow greater.
+Today westerly wind 3-4 meters per second, tomorrow 5-6 meters per second.
+The maximum day temperature is today about 4 degrees, tomorrow somewhat higher.
+The minimum night temperature is 1...4 degrees.
+Probability of severe frost is on Friday night 10 percent.
+The lowest relative humidity is tomorrow 80 percent.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is 0...+2 degrees, nightly minimum temperature -1...-4 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature -1 degrees.
+Mean maximum temperature 1 degrees.
+Mean minimum temperature -3 degrees.
+Total precipitation 2-5 millimeters.

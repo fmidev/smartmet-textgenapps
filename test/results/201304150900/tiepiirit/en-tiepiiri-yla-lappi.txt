@@ -1,0 +1,26 @@
+Weather report for Upper Lapland on Monday 9 o'clock
+
+Expected weather until Tuesday evening:
+
+Today during the day snow or rain, from the afternoon fair weather.
+Tomorrow mostly fair weather.
+Today south-westerly wind 3-7 meters per second, tomorrow 2-5 meters per second.
+The maximum day temperature is today 1...7 degrees, tomorrow about the same.
+The minimum night temperature is 0...-4 degrees.
+Probability of severe frost is on Tuesday night 40 percent.
+Total precipitation for the first 12 hours is 0-3 millimeters, for the following 12 hours 0-1 millimeters.
+The road temperature is today -4...+15 degrees, at night -12...+15 degrees, tomorrow during the day -6...+24 degrees.
+During the day the roads are in some places icy, in the evening the roads are in some places partly icy, at night the roads are in some places partly icy or covered by frost.
+Tomorrow morning the roads are in some places icy or partly icy.
+
+Expected weather from Tuesday evening until Saturday morning:
+
+The weather is unstable.
+Daily maximum temperature is 1...5 degrees, nightly minimum temperature 0...-2 degrees.
+
+From Tuesday morning for the next five days:
+
+Mean temperature 0 degrees.
+Mean maximum temperature 3 degrees.
+Mean minimum temperature -2 degrees.
+Total precipitation 10-20 millimeters.

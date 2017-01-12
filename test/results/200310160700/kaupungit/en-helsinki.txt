@@ -1,0 +1,25 @@
+Helsinki
+
+Weather report on Thursday 7 o'clock
+
+Expected weather until Friday evening:
+
+Today and tomorrow cloudy or partly cloudy.
+Probability of precipitation is today 30 percent, tomorrow greater.
+Today north-westerly wind 4 meters per second, tomorrow 8 meters per second.
+The maximum day temperature is today about 6 degrees, tomorrow somewhat higher.
+The minimum night temperature is about 1 degree.
+Probability of frost is on Friday night 50 percent.
+The lowest relative humidity is tomorrow 80 percent.
+
+Expected weather from Friday evening until Tuesday morning:
+
+Mostly cloudy, intermittent rain.
+Daily maximum temperature is about 5 degrees, nightly minimum temperature about 2 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature 3 degrees.
+Mean maximum temperature 5 degrees.
+Mean minimum temperature 2 degrees.
+Total precipitation 2-5 millimeters.

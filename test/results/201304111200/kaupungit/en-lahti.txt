@@ -1,0 +1,28 @@
+Lahti
+
+Weather report on Thursday 12 o'clock
+
+Expected weather until Saturday evening:
+
+Today cloudy, in the afternoon in some places light rain.
+Tomorrow after midnight in some places light snowfall, during the day cloudy and fair weather.
+On Saturday from the morning in some places rain, in the evening fair weather.
+Probability of precipitation is tomorrow 50 percent, the following day greater.
+South-easterly wind 3-4 meters per second.
+The maximum day temperature is tomorrow about 4 degrees, the following day about the same.
+The minimum night temperature is about 0 degrees, on Saturday night about the same.
+Probability of severe frost is on Friday night 20 percent, the following night 10 percent.
+The lowest relative humidity is tomorrow 80 percent, on Saturday somewhat greater.
+Total precipitation is tomorrow about 1 millimeters, on Saturday about 4 millimeters.
+
+Expected weather from Saturday evening until Wednesday morning:
+
+Mostly cloudy, on Tuesday in some places rain.
+Daily maximum temperature is about 5 degrees, nightly minimum temperature about 0 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature 2 degrees.
+Mean maximum temperature 4 degrees.
+Mean minimum temperature 0 degrees.
+Total precipitation 2-5 millimeters.

@@ -1,0 +1,23 @@
+Sääennuste Satakuntaan keskiviikkona kello 14
+
+Odotettavissa perjantai-iltaan asti:
+
+Huomenna pilvistä tai puolipilvistä.
+Perjantaina pilvistä tai puolipilvistä.
+Sateen todennäköisyys on huomenna 20 prosenttia, seuraavana päivänä suurempi.
+Huomenna kaakonpuoleista tuulta 1-3 metriä sekunnissa, perjantaina 3-4 metriä sekunnissa.
+Päivän ylin lämpötila on huomenna 0...-1 astetta, seuraavana päivänä hieman korkeampi.
+Yön alin lämpötila on -8...-11 astetta, perjantain vastaisena yönä hieman korkeampi.
+Alin suhteellinen kosteus on huomenna 60 prosenttia, perjantaina sama.
+
+Odotettavissa perjantai-illasta tiistaiaamuun:
+
+Sää on epävakaista.
+Päivien ylin lämpötila on 0...-1 astetta, öiden alin lämpötila -3...-6 astetta.
+
+Torstaiaamusta alkavan viiden vuorokauden sää:
+
+Keskilämpötila -3 astetta.
+Keskimääräinen ylin lämpötila 0 astetta.
+Keskimääräinen alin lämpötila -5 astetta.
+Sadesumma 10-20 millimetriä.

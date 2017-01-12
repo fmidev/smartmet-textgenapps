@@ -1,0 +1,26 @@
+Ivalo
+
+Weather report on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today from the noon in some places light snowfall.
+Tomorrow partly cloudy.
+Probability of precipitation is today 50 percent, tomorrow smaller.
+Today northerly wind 6 meters per second, tomorrow 3 meters per second.
+The maximum day temperature is today about -5 degrees, tomorrow about the same.
+The minimum night temperature is about -10 degrees.
+The lowest relative humidity is tomorrow 80 percent.
+Total precipitation is today from forenoon about 1 millimeters.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is about -4 degrees, nightly minimum temperature about -9 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature -4 degrees.
+Mean maximum temperature -4 degrees.
+Mean minimum temperature -8 degrees.
+Total precipitation 5-10 millimeters.

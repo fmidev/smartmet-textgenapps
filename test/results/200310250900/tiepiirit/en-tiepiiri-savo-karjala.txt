@@ -1,0 +1,25 @@
+Weather report for Savonia-Karelia road district on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today from forenoon snowfall, tomorrow from the afternoon fair weather.
+Mainly north-easterly wind 2-5 meters per second.
+The maximum day temperature is today -1...-3 degrees, tomorrow somewhat lower.
+The minimum night temperature is -4...-6 degrees.
+Probability of severe frost is on Sunday night 80 percent.
+Total precipitation for the first 12 hours is 1-5 millimeters, for the following 12 hours 0-2 millimeters.
+The road temperature is today -1...-5 degrees, at night -2...-6 degrees, tomorrow during the day -3...-8 degrees.
+From forenoon the roads are in many places covered by snow, in some places icy, at night the roads are in many places icy.
+Tomorrow morning the roads are in some places icy or partly icy.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is about -2 degrees, nightly minimum temperature -4...-7 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature -1 degrees.
+Mean maximum temperature -1 degrees.
+Mean minimum temperature -3 degrees.
+Total precipitation 10-20 millimeters.

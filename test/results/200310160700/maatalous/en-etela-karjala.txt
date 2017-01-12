@@ -1,0 +1,24 @@
+Weather report for Southern Karelia on Thursday 7 o'clock
+
+Expected weather until Friday evening:
+
+Today variable cloudiness.
+Tomorrow mostly cloudy, before midnight in many places rain or sleet.
+Probability of precipitation is today 50 percent, tomorrow somewhat greater.
+Today north-westerly wind 3-4 meters per second, tomorrow 5-7 meters per second.
+The maximum day temperature is today about 5 degrees, tomorrow about the same.
+The minimum night temperature is 0...+2 degrees.
+Probability of severe frost is on Friday night 20 percent.
+The lowest relative humidity is tomorrow 80 percent.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is about 1 degree, nightly minimum temperature about -2 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature -1 degrees.
+Mean maximum temperature 2 degrees.
+Mean minimum temperature -2 degrees.
+Total precipitation 2-5 millimeters.

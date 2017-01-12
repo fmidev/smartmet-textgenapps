@@ -1,0 +1,23 @@
+Weather report for Åland on Thursday 7 o'clock
+
+Expected weather until Friday evening:
+
+Today and tomorrow mostly partly cloudy.
+Probability of precipitation is today 30 percent, tomorrow the same.
+North-westerly wind 6-7 meters per second.
+The maximum day temperature is today about 7 degrees, tomorrow about the same.
+The minimum night temperature is about 5 degrees.
+Probability of frost is on Friday night 20 percent.
+The lowest relative humidity is tomorrow 80 percent.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is about 5 degrees, nightly minimum temperature about 2 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature 4 degrees.
+Mean maximum temperature 5 degrees.
+Mean minimum temperature 2 degrees.
+Total precipitation over 20 millimeters.

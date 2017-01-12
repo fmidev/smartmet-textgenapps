@@ -1,0 +1,26 @@
+Weather report for South Western Lapland on Wednesday 14 o'clock
+
+Expected weather until Friday evening:
+
+Tomorrow cloudy or partly cloudy.
+On Friday from the morning snowfall.
+Tomorrow and the following day south-westerly wind 3-5 meters per second.
+The maximum day temperature is tomorrow 0...-2 degrees, the following day about the same.
+The minimum night temperature is -5...-9 degrees, on Friday night somewhat higher.
+Probability of severe frost is on Thursday night 100 percent, the following night 90 percent.
+Total precipitation for the next 24 hours is 0 millimeters.
+The road temperature is at night -5...-13 degrees, tomorrow during the day -11...+2 degrees, at night 0...-10 degrees.
+From the evening the roads are generally covered by frost.
+From tomorrow morning the roads are in many places covered by frost.
+
+Expected weather from Friday evening until Tuesday morning:
+
+Mostly cloudy or partly cloudy, on Saturday rain.
+Daily maximum temperature is -2...-4 degrees, nightly minimum temperature -6...-10 degrees.
+
+From Thursday morning for the next five days:
+
+Mean temperature -5 degrees.
+Mean maximum temperature -2 degrees.
+Mean minimum temperature -8 degrees.
+Total precipitation 5-10 millimeters.

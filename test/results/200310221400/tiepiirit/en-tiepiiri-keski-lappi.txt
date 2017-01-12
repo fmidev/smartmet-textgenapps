@@ -1,0 +1,25 @@
+Weather report for Central Lapland on Wednesday 14 o'clock
+
+Expected weather until Friday evening:
+
+Tomorrow mostly cloudy.
+On Friday from the morning snowfall.
+Tomorrow and the following day south-westerly wind 2-4 meters per second.
+The maximum day temperature is tomorrow -1...-3 degrees, the following day about the same.
+The minimum night temperature is -5...-10 degrees, on Friday night somewhat higher.
+Total precipitation for the next 24 hours is 0 millimeters.
+The road temperature is at night -6...-12 degrees, tomorrow during the day -2...-11 degrees, at night -5...-10 degrees.
+In the evening the roads are generally covered by frost, from tonight the roads are in many places covered by frost.
+Tomorrow during the day the roads are in some places covered by frost.
+
+Expected weather from Friday evening until Tuesday morning:
+
+Mostly cloudy or partly cloudy, on Saturday rain.
+Daily maximum temperature is about -4 degrees, nightly minimum temperature -8...-11 degrees.
+
+From Thursday morning for the next five days:
+
+Mean temperature -7 degrees.
+Mean maximum temperature -3 degrees.
+Mean minimum temperature -9 degrees.
+Total precipitation 5-10 millimeters.

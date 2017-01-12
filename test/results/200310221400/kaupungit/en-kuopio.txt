@@ -1,0 +1,25 @@
+Kuopio
+
+Weather report on Wednesday 14 o'clock
+
+Expected weather until Friday evening:
+
+Tomorrow and on Friday cloudy or partly cloudy.
+Probability of precipitation is tomorrow 30 percent, the following day somewhat greater.
+Tomorrow westerly wind 1 meters per second, on Friday 3 meters per second.
+The maximum day temperature is tomorrow about -2 degrees, the following day about the same.
+The minimum night temperature is about -6 degrees, on Friday night about the same.
+Probability of severe frost is on Thursday night 90 percent, the following night 100 percent.
+The lowest relative humidity is tomorrow 70 percent, on Friday somewhat smaller.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is about -2 degrees, nightly minimum temperature about -6 degrees.
+
+From Thursday morning for the next five days:
+
+Mean temperature -4 degrees.
+Mean maximum temperature -2 degrees.
+Mean minimum temperature -6 degrees.
+Total precipitation 5-10 millimeters.

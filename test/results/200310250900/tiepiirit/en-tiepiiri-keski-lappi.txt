@@ -1,0 +1,24 @@
+Weather report for Central Lapland on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today mostly fair weather.
+Tomorrow partly cloudy.
+Today mainly northerly wind 6-8 meters per second, tomorrow 3-5 meters per second.
+The maximum day temperature is today -4...-6 degrees, tomorrow somewhat lower.
+The minimum night temperature is about -10 degrees.
+Total precipitation for the first 12 hours is about 1 millimeters, for the following 12 hours 0 millimeters.
+The road temperature is today -5...-12 degrees, at night -6...-13 degrees, tomorrow during the day -6...-14 degrees.
+During the day the roads are in many places covered by snow, in some places icy, in the evening the roads are in many places partly icy, in some places icy, from tonight the roads are in many places partly icy.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is -1...-4 degrees, nightly minimum temperature -6...-9 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature -4 degrees.
+Mean maximum temperature -4 degrees.
+Mean minimum temperature -7 degrees.
+Total precipitation 5-10 millimeters.

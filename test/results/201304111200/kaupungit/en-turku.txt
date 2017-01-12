@@ -1,0 +1,27 @@
+Turku
+
+Weather report on Thursday 12 o'clock
+
+Expected weather until Saturday evening:
+
+Today and tomorrow cloudy or partly cloudy.
+On Saturday in some places rain, from the afternoon fair weather.
+Probability of precipitation is tomorrow 30 percent, the following day greater.
+Easterly wind 3-4 meters per second.
+The maximum day temperature is tomorrow about 5 degrees, the following day somewhat lower.
+The minimum night temperature is about 0 degrees, on Saturday night somewhat higher.
+Probability of severe frost is on Friday night 20 percent, the following night 10 percent.
+The lowest relative humidity is tomorrow 80 percent, on Saturday somewhat greater.
+Total precipitation is on Saturday about 4 millimeters.
+
+Expected weather from Saturday evening until Wednesday morning:
+
+Mostly cloudy, on Monday rain.
+Daily maximum temperature is about 4 degrees, nightly minimum temperature about 0 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature 2 degrees.
+Mean maximum temperature 4 degrees.
+Mean minimum temperature 1 degrees.
+Total precipitation 5-10 millimeters.

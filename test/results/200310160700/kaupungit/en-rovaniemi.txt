@@ -1,0 +1,26 @@
+Rovaniemi
+
+Weather report on Thursday 7 o'clock
+
+Expected weather until Friday evening:
+
+From Thursday onwards intermittent rain.
+Probability of precipitation is today 60 percent, tomorrow the same.
+Today westerly wind 4 meters per second, tomorrow 6 meters per second.
+The maximum day temperature is today about 6 degrees, tomorrow somewhat lower.
+The minimum night temperature is about 4 degrees.
+Probability of frost is on Friday night 30 percent.
+The lowest relative humidity is tomorrow 70 percent.
+Total precipitation is today from the morning about 2 millimeters, tomorrow about 5 millimeters.
+
+Expected weather from Friday evening until Tuesday morning:
+
+Mostly cloudy, intermittent rain.
+Daily maximum temperature is about -1 degree, nightly minimum temperature about -5 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature -3 degrees.
+Mean maximum temperature 0 degrees.
+Mean minimum temperature -5 degrees.
+Total precipitation 5-10 millimeters.

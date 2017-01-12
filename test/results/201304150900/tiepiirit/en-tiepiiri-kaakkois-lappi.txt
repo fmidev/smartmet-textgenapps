@@ -1,0 +1,25 @@
+Weather report for South Eastern Lapland on Monday 9 o'clock
+
+Expected weather until Tuesday evening:
+
+From Monday onwards intermittent rain.
+Today south-westerly wind 4-7 meters per second, tomorrow 3-5 meters per second.
+The maximum day temperature is today 4...6 degrees, tomorrow about the same.
+The minimum night temperature is 0...+2 degrees.
+Probability of severe frost is on Tuesday night 10 percent.
+Total precipitation for the first 12 hours is 0-3 millimeters, for the following 12 hours 0-6 millimeters.
+The road temperature is today 0...+14 degrees, at night 0...+14 degrees, tomorrow during the day 0...+13 degrees.
+From forenoon the roads are in some places moist, at night the roads are in some places covered by slush or covered by snow.
+Tomorrow morning the roads are in some places moist.
+
+Expected weather from Tuesday evening until Saturday morning:
+
+The weather is unstable.
+Daily maximum temperature is about 4 degrees, nightly minimum temperature 0...-1 degrees.
+
+From Tuesday morning for the next five days:
+
+Mean temperature 1 degrees.
+Mean maximum temperature 4 degrees.
+Mean minimum temperature -1 degrees.
+Total precipitation 10-20 millimeters.

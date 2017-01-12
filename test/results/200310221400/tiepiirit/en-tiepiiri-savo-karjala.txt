@@ -1,0 +1,25 @@
+Weather report for Savonia-Karelia road district on Wednesday 14 o'clock
+
+Expected weather until Friday evening:
+
+Tomorrow cloudy or partly cloudy.
+On Friday cloudy, before midnight in some places snowfall.
+Tomorrow variable wind 1-2 meters per second, on Friday south-westerly wind 2-4 meters per second.
+The maximum day temperature is tomorrow about -2 degrees, the following day about the same.
+The minimum night temperature is -5...-8 degrees, on Friday night about the same.
+Total precipitation for the next 24 hours is 0 millimeters.
+The road temperature is at night -3...-11 degrees, tomorrow during the day -10...+4 degrees, at night -4...-9 degrees.
+In the evening the roads are dry, at night the roads are in some places covered by frost.
+Tomorrow morning the roads are in many places covered by frost, during the day the roads are in some places covered by frost.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is -1...-4 degrees, nightly minimum temperature -4...-7 degrees.
+
+From Thursday morning for the next five days:
+
+Mean temperature -5 degrees.
+Mean maximum temperature -2 degrees.
+Mean minimum temperature -6 degrees.
+Total precipitation 5-10 millimeters.

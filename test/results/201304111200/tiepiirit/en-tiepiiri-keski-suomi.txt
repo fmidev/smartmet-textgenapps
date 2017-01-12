@@ -1,0 +1,27 @@
+Weather report for Central Finlands road district on Thursday 12 o'clock
+
+Expected weather until Saturday evening:
+
+Today cloudy or partly cloudy.
+Tomorrow cloudy, in the morning in some places snowfall.
+On Saturday mostly fair weather.
+South-easterly wind 2-4 meters per second, on Saturday 3-6 meters per second.
+The maximum day temperature is tomorrow 2...4 degrees, the following day about the same.
+The minimum night temperature is 0...-7 degrees, on Saturday night higher.
+Probability of severe frost is on Friday night 80 percent, the following night 20 percent.
+Total precipitation for the first 12 hours is 0 millimeters, for the following 12 hours 0-2 millimeters.
+The road temperature is today 7...28 degrees, at night -9...+12 degrees, tomorrow during the day -8...+12 degrees.
+In the evening the roads are dry, from tonight the roads are in some places covered by snow.
+Tomorrow during the day the roads are dry.
+
+Expected weather from Saturday evening until Wednesday morning:
+
+Mostly cloudy, intermittent rain.
+Daily maximum temperature is about 4 degrees, nightly minimum temperature about 0 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature 1 degrees.
+Mean maximum temperature 3 degrees.
+Mean minimum temperature 0 degrees.
+Total precipitation 5-10 millimeters.

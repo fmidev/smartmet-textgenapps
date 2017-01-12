@@ -1,0 +1,25 @@
+Oulu
+
+Weather report on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today and tomorrow cloudy or partly cloudy.
+Probability of precipitation is today 60 percent, tomorrow smaller.
+Today northerly wind 7 meters per second, tomorrow 5 meters per second.
+The maximum day temperature is today about -3 degrees, tomorrow somewhat lower.
+The minimum night temperature is about -6 degrees.
+Probability of severe frost is on Sunday night 90 percent.
+The lowest relative humidity is tomorrow 70 percent.
+
+Expected weather from Sunday evening until Thursday morning:
+
+Mostly partly cloudy, intermittent rain.
+Daily maximum temperature is about -1 degree, nightly minimum temperature about -5 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature -1 degrees.
+Mean maximum temperature -1 degrees.
+Mean minimum temperature -4 degrees.
+Total precipitation 5-10 millimeters.

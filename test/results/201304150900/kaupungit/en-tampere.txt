@@ -1,0 +1,27 @@
+Tampere
+
+Weather report on Monday 9 o'clock
+
+Expected weather until Tuesday evening:
+
+Today from forenoon in some places rain.
+Tomorrow cloudy, from the evening in some places light showers.
+Probability of precipitation is today 80 percent, tomorrow significantly smaller.
+South-westerly wind 4-5 meters per second.
+The maximum day temperature is today about 6 degrees, tomorrow higher.
+The minimum night temperature is about 1 degree.
+Probability of severe frost is on Tuesday night 10 percent.
+The lowest relative humidity is tomorrow 80 percent.
+Total precipitation is today from forenoon about 3 millimeters.
+
+Expected weather from Tuesday evening until Saturday morning:
+
+The weather is unstable.
+Daily maximum temperature is about 5 degrees, nightly minimum temperature about 1 degree.
+
+From Tuesday morning for the next five days:
+
+Mean temperature 3 degrees.
+Mean maximum temperature 6 degrees.
+Mean minimum temperature 1 degrees.
+Total precipitation 10-20 millimeters.

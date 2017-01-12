@@ -1,0 +1,28 @@
+Helsinki
+
+Weather report on Thursday 12 o'clock
+
+Expected weather until Saturday evening:
+
+Today mostly fair weather.
+Tomorrow cloudy.
+On Saturday in some places rain, in the evening fair weather.
+Probability of precipitation is tomorrow 40 percent, the following day greater.
+Easterly wind 5-6 meters per second.
+The maximum day temperature is tomorrow about 2 degrees, the following day about the same.
+The minimum night temperature is about 0 degrees, on Saturday night about the same.
+Probability of severe frost is on Friday night 20 percent, the following night 10 percent.
+The lowest relative humidity is tomorrow 90 percent, on Saturday the same.
+Total precipitation is today from the noon about 1 millimeters, tomorrow the same, on Saturday about 7 millimeters.
+
+Expected weather from Saturday evening until Wednesday morning:
+
+Mostly cloudy, on Tuesday rain.
+Daily maximum temperature is about 4 degrees, nightly minimum temperature about 0 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature 1 degrees.
+Mean maximum temperature 3 degrees.
+Mean minimum temperature 0 degrees.
+Total precipitation 10-20 millimeters.

@@ -1,0 +1,24 @@
+Weather report for Northern Savonia on Thursday 7 o'clock
+
+Expected weather until Friday evening:
+
+Today cloudy or partly cloudy.
+Tomorrow cloudy, from the evening in many places rain or sleet.
+Probability of precipitation is today 40 percent, tomorrow greater.
+Today westerly wind 3 meters per second, tomorrow 5-6 meters per second.
+The maximum day temperature is today about 5 degrees, tomorrow somewhat higher.
+The minimum night temperature is 1...3 degrees.
+Probability of frost is on Friday night 40 percent.
+The lowest relative humidity is tomorrow 80 percent.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is 0...+2 degrees, nightly minimum temperature -2...-4 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature -1 degrees.
+Mean maximum temperature 2 degrees.
+Mean minimum temperature -3 degrees.
+Total precipitation 2-5 millimeters.

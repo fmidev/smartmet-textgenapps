@@ -1,0 +1,24 @@
+Weather report for Central Ostrobothnia on Thursday 7 o'clock
+
+Expected weather until Friday evening:
+
+Today cloudy or partly cloudy.
+Tomorrow mostly fair weather.
+Probability of precipitation is today 30 percent, tomorrow significantly greater.
+Today westerly wind 3-5 meters per second, tomorrow 5-9 meters per second.
+The maximum day temperature is today 6...9 degrees, tomorrow about the same.
+The minimum night temperature is 2...6 degrees.
+Probability of frost is on Friday night 30 percent.
+The lowest relative humidity is tomorrow 70 percent.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is 1...3 degrees, nightly minimum temperature -3...+1 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature 0 degrees.
+Mean maximum temperature 3 degrees.
+Mean minimum temperature -2 degrees.
+Total precipitation 5-10 millimeters.

@@ -1,0 +1,202 @@
+#!/usr/bin/perl
+
+# Regression tests for qdtext program
+#
+# Adding new regression tests:
+#
+# a) Add a new cnf file or add new data
+# b) Run the tests, you will get failures due to new tests
+# c) Move the new results from the tmp directory to the respective
+#    results directory
+
+$CNFDIR = "cnf";
+$DATADIR = "data";
+$RESULTDIR = "results";
+$TMPDIR = "tmp";
+
+# Establish all the directories in $DATADIR
+
+@datadirs = ();
+opendir(DIR, $DATADIR) or die "Can't open directory $DATADIR: $!";
+while(defined($file = readdir(DIR)))
+{
+    next if(substr($file,0,1) eq ".");
+    next if($file eq "CVS");
+    if(-d "$DATADIR/$file")
+    { push @datadirs,$file; }
+}
+closedir(DIR);
+
+# Establish all the configuration files in $CNFDIR
+
+@cnffiles = ();
+opendir(DIR, $CNFDIR) or die "Can't open directory $CNFDIR: $!";
+while(defined($file = readdir(DIR)))
+{
+    if(-f "$CNFDIR/$file" && substr($file,-4) eq ".cnf")
+    { push @cnffiles,$file; }
+}
+
+# Now fill in the blanks in the cnf-file:
+# <OUTDIR> = where the temporary results are to be saved
+# <FORECASTTIME> = the forecast time = the name of the data directory
+# <DATADIR> = path to data
+
+$total = 0;
+$failed = 0;
+
+foreach $cnffile(@cnffiles)
+{
+    $title = "Running regression tests for $cnffile";
+    titleprint($title,"=","\n\n");
+
+    $cnfname = substr($cnffile,0,-4);
+
+    $subtotal = 0;
+    $subfailed = 0;
+
+    foreach $data(@datadirs)
+    {
+	# Do not run new feature tests for old data
+	next if($cnfname eq "maatalous_uudet_tarinat" && substr($data,0,4) eq "2003");
+
+	$title = "Date $data:";
+	titleprint($title,"-","\n");
+
+	# Make sure the result directory exists
+
+	$resultdir = "$RESULTDIR/$data/$cnfname";
+	system("mkdir -p $resultdir");
+
+	# Make sure temporary results directory exists,
+	# and clear it from any possible old results
+
+	$outdir = "tmp/$data/$cnfname";
+	system("mkdir -p $outdir && rm -f $outdir/*");
+
+	# Create the cnf file
+
+	$cnf = readfile("$CNFDIR/$cnffile");
+
+	$cnf =~ s/<OUTDIR>/$outdir/g;
+	$cnf =~ s/<FORECASTTIME>/$data/g;
+	$cnf =~ s/<DATADIR>/$DATADIR\/$data/g;
+
+	$tmpcnf = "$outdir/$cnffile";
+
+	open(OUT,">$tmpcnf") or die "Could not open $tmpcnf for writing: $!";
+	print OUT $cnf;
+	close(OUT);
+
+	# Run qdtext for the created cnf file
+
+	`../qdtext $tmpcnf`;
+
+
+
+	# Delete the cnf file
+
+	system("rm -f $tmpcnf");
+
+	# Collect all files in results & out
+
+	@dirs = ($resultdir,$outdir);
+	%files = ();
+
+	foreach $dir(@dirs)
+	{
+	    opendir(DIR,$dir) or die "Can't open $dir: $!";
+	    while(defined($file = readdir(DIR)))
+	    {
+		next if(! -f "$dir/$file");
+		next if($file eq $cnffile);
+		$files{"$file"} = 1;
+	    }
+	    closedir(DIR);
+	}
+
+	@allcnf = sort(keys %files);
+
+	# Process all the expected and found results
+
+	foreach $file(@allcnf)
+	{
+	    $subtotal++;
+
+	    print padname($file);
+
+	    if(! -e "$resultdir/$file")
+	    {
+		print "failed, not an original result!";
+		$subfailed++;
+	    }
+	    elsif(! -e "$outdir/$file")
+	    {
+		print "failed, qdtext dir not create it!";
+		$subfailed++;
+	    }
+	    elsif(readfile("$resultdir/$file") eq readfile("$outdir/$file"))
+	    {
+		print "ok";
+	    }
+	    else
+	    {
+		print "failed, results differ!";
+		$subfailed++;
+	    }
+	    print "\n";
+	}
+
+	print "\nFailed $subfailed/$subtotal tests\n\n";
+
+	$total += $subtotal;
+	$failed += $subfailed;
+
+    }
+}
+
+print "\nTotal results: Failed $failed/$total tests\n\n\n";
+
+# ----------------------------------------------------------------------
+# Print a title with underlining
+# ----------------------------------------------------------------------
+
+sub titleprint
+{
+    my($title,$underline,$trail) = @_;
+    print $title,"\n";
+    for($i=0; $i<length($title); $i++)
+    {
+	print $underline;
+    }
+    print $trail;
+}
+
+# ----------------------------------------------------------------------
+# Read a file fully
+# ----------------------------------------------------------------------
+
+sub readfile
+{
+    my($file) = @_;
+    return "" if(! -e $file);
+    open(FILE,"$file");
+    read(FILE,$buffer,(stat(FILE))[7]);
+    close(FILE);
+    return $buffer;
+}
+
+# ----------------------------------------------------------------------
+# Pad the given string to 50 characters with dots
+# ----------------------------------------------------------------------
+
+sub padname
+{
+    my($str) = @_[0];
+
+    while(length($str) < 50)
+    {
+        $str .= ".";
+    }
+    return $str;
+}

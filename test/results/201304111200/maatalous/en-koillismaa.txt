@@ -1,0 +1,26 @@
+Weather report for Koillismaa on Thursday 12 o'clock
+
+Expected weather until Saturday evening:
+
+Today sunny or partly cloudy.
+Tomorrow cloudy or partly cloudy, in the afternoon in some places light snow or rain.
+On Saturday cloudy, from the evening in some places snowfall.
+Probability of precipitation is tomorrow 30 percent, the following day somewhat smaller.
+Today southerly wind 2-5 meters per second, from Friday onwards 2-3 meters per second.
+The maximum day temperature is tomorrow 1...4 degrees, the following day about the same.
+The minimum night temperature is -8...-12 degrees, on Saturday night significantly higher.
+Probability of severe frost is on Friday night 100 percent, the following night 70 percent.
+The lowest relative humidity is tomorrow 50 percent, on Saturday greater.
+Total precipitation is tomorrow 0-1 millimeters.
+
+Expected weather from Saturday evening until Wednesday morning:
+
+The weather is unstable.
+Daily maximum temperature is 0...+2 degrees, nightly minimum temperature 0...-5 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature 0 degrees.
+Mean maximum temperature 2 degrees.
+Mean minimum temperature -2 degrees.
+Total precipitation 10-20 millimeters.

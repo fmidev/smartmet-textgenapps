@@ -1,0 +1,24 @@
+Sääennuste Etelä-Pohjanmaalle lauantaina kello 9
+
+Odotettavissa sunnuntai-iltaan asti:
+
+Lauantaista alkaen ajoittain sadetta.
+Sateen todennäköisyys on tänään 70 prosenttia, huomenna pienempi.
+Tänään koillisenpuoleista tuulta 5-9 metriä sekunnissa, huomenna 4-6 metriä sekunnissa.
+Päivän ylin lämpötila on tänään 0...-2 astetta, huomenna suunnilleen sama.
+Yön alin lämpötila on -3...-7 astetta.
+Ankaran hallan todennäköisyys on sunnuntain vastaisena yönä 80 prosenttia.
+Alin suhteellinen kosteus on huomenna 60 prosenttia.
+Sadesumma on tänään aamupäivästä alkaen 0-3 millimetriä, huomenna 0-1 millimetriä.
+
+Odotettavissa sunnuntai-illasta torstaiaamuun:
+
+Sää on epävakaista.
+Päivien ylin lämpötila on 0...+2 astetta, öiden alin lämpötila -1...-4 astetta.
+
+Sunnuntaiaamusta alkavan viiden vuorokauden sää:
+
+Keskilämpötila 1 astetta.
+Keskimääräinen ylin lämpötila 1 astetta.
+Keskimääräinen alin lämpötila -1 astetta.
+Sadesumma 10-20 millimetriä.

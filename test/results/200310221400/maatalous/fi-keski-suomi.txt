@@ -1,0 +1,23 @@
+Sääennuste Keski-Suomeen keskiviikkona kello 14
+
+Odotettavissa perjantai-iltaan asti:
+
+Huomenna puolipilvistä.
+Perjantaina enimmäkseen pilvistä, iltayöllä monin paikoin lumisadetta.
+Sateen todennäköisyys on huomenna 30 prosenttia, seuraavana päivänä hieman suurempi.
+Huomenna suunnaltaan vaihtelevaa tuulta 1-2 metriä sekunnissa, perjantaina lounaistuulta 2-4 metriä sekunnissa.
+Päivän ylin lämpötila on huomenna 0...-2 astetta, seuraavana päivänä suunnilleen sama.
+Yön alin lämpötila on -7...-9 astetta, perjantain vastaisena yönä suunnilleen sama.
+Alin suhteellinen kosteus on huomenna 60 prosenttia, perjantaina sama.
+
+Odotettavissa perjantai-illasta tiistaiaamuun:
+
+Sää on epävakaista.
+Päivien ylin lämpötila on noin -2 astetta, öiden alin lämpötila noin -6 astetta.
+
+Torstaiaamusta alkavan viiden vuorokauden sää:
+
+Keskilämpötila -4 astetta.
+Keskimääräinen ylin lämpötila -2 astetta.
+Keskimääräinen alin lämpötila -6 astetta.
+Sadesumma 10-20 millimetriä.

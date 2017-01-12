@@ -1,0 +1,24 @@
+Sääennuste Koillismaalle torstaina kello 7
+
+Odotettavissa perjantai-iltaan asti:
+
+Torstaista alkaen ajoittain sadetta.
+Sateen todennäköisyys on tänään 60 prosenttia, huomenna sama.
+Tänään länsituulta 3-4 metriä sekunnissa, huomenna 6-7 metriä sekunnissa.
+Päivän ylin lämpötila on tänään 2...6 astetta, huomenna suunnilleen sama.
+Yön alin lämpötila on noin 3 astetta.
+Hallan todennäköisyys on perjantain vastaisena yönä 40 prosenttia.
+Alin suhteellinen kosteus on huomenna 70 prosenttia.
+Sadesumma on tänään aamusta alkaen 0-4 millimetriä, huomenna 1-7 millimetriä.
+
+Odotettavissa perjantai-illasta tiistaiaamuun:
+
+Sää on epävakaista.
+Päivien ylin lämpötila on 0...-2 astetta, öiden alin lämpötila -3...-5 astetta.
+
+Perjantaiaamusta alkavan viiden vuorokauden sää:
+
+Keskilämpötila -3 astetta.
+Keskimääräinen ylin lämpötila -1 astetta.
+Keskimääräinen alin lämpötila -5 astetta.
+Sadesumma 5-10 millimetriä.

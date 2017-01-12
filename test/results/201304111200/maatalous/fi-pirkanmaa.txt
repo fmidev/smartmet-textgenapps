@@ -1,0 +1,26 @@
+Sääennuste Pirkanmaalle torstaina kello 12
+
+Odotettavissa lauantai-iltaan asti:
+
+Tänään pilvistä tai puolipilvistä.
+Huomenna pilvistä, aamulla paikoin vähäistä lumisadetta.
+Lauantaina aamusta alkaen vesi- tai räntäsadetta, illalla poutaa.
+Sateen todennäköisyys on huomenna 20 prosenttia, seuraavana päivänä huomattavasti suurempi.
+Itätuulta 3 metriä sekunnissa, lauantaina 3-5 metriä sekunnissa.
+Päivän ylin lämpötila on huomenna noin 4 astetta, seuraavana päivänä suunnilleen sama.
+Yön alin lämpötila on 0...-5 astetta, lauantain vastaisena yönä korkeampi.
+Ankaran hallan todennäköisyys on perjantain vastaisena yönä 50 prosenttia, seuraavana yönä 20 prosenttia.
+Alin suhteellinen kosteus on huomenna 70 prosenttia, lauantaina hieman suurempi.
+Sadesumma on huomenna 0-1 millimetriä, lauantaina 2-5 millimetriä.
+
+Odotettavissa lauantai-illasta keskiviikkoaamuun:
+
+Enimmäkseen pilvistä, ajoittain sateista.
+Päivien ylin lämpötila on noin 4 astetta, öiden alin lämpötila noin 0 astetta.
+
+Perjantaiaamusta alkavan viiden vuorokauden sää:
+
+Keskilämpötila 2 astetta.
+Keskimääräinen ylin lämpötila 4 astetta.
+Keskimääräinen alin lämpötila 0 astetta.
+Sadesumma 5-10 millimetriä, paikoin enemmän.

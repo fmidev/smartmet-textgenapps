@@ -1,0 +1,173 @@
+/*!
+\page page_qdarea qdarea
+
+The \c qdarea program segments the querydata into desired
+time intervals, and then integrates the querydata for
+those time intervals with desired space and time integration
+functions.
+
+Typical use includes calculating daily maximum temperatures,
+precipitation sums and so on.
+
+Usage:
+\code
+qdarea [options]
+\endcode
+The available options are
+<dl>
+<dt>-h</dt>
+<dd>Print help information</dd>
+<dt>-P [parameter1,parameter2,...]</dt>
+<dd>
+The desired parameters. Each parameter definition is of the
+form areafunction(timefunction(parametername)). If the
+area and time functions are the same, the form can be simplified
+to function(parametername). Also, the area function does not
+have to be given when analyzing a point. Examples:
+<ul>
+<li>mean(min(Temperature))
+<li>min(Temperature)
+<li>mean(sum(Precipitation))
+</ul>
+</dd>
+<dt>-p [location]</dt>
+<dd>
+The area or point to be analyzed. The location can be specified
+using one of the forms
+<ul>
+<li>location - for example Helsinki
+<li>location:radius - for example Helsinki:50
+<li>lon,lat - for example 25,60
+<li>point:radius - for example Helsinki:50
+<li>lon,lat:radius - for example 25,60:50
+<li>areaname - for example maakunta/uusimaa
+<li>areaname:radius - for example maakunta/uusimaa:10
+</ul>
+The default search path for the area definitions (svg-files)
+is /data/share/textgendata/maps. One can obtain results
+for multiple areas simultaneously by separating the above
+forms with the character sequence "::", as in helsinki::tampere.
+</dd>
+<dt>-T [intervals]</dt>
+<dd>
+Definition of the desired time periods. The avaible forms ar
+<ul>
+<li>starthour-endhour
+<li>starthour-endhour:maxstarthour-minendhour
+<li>interval
+<li>starthour:interval
+<li>starthour:interval:mininterval
+</ul>
+The first type specifies a single interesting time interval,
+for example 06-18 for days or 18-06 for nights. One may
+optionally define a minimal time interval, for example 10-18
+for days and 23-06 for nights.
+
+The second form divides time into equal length intervals.
+The interval length must be one of 0,1,2,3,4,6,8,12 and 24,
+or a multiple of 24. Length 0 is interpreted as hourly values.
+
+One may also define a start hour other than 00 for the
+first period within a day, and a minimal length for the
+intervals in case the data doesn't fully cover the
+periods at the start and the end of the data. For example,
+3:6:4 results in 6-hour periods 03-09, 09-15, 15-21 and 21-03,
+but any such period may be missing two hours from the
+beginning or the end.
+</dd>
+<dt>-t [timezone]</dt>
+<dd>The desired timezone. The default value is Europe/Helsinki,
+    other useful values include Europe/Stockholm and UTC.
+</dd>
+<dt>-E</dt>
+<dd>Times are printed in Epoch seconds instead of YYYYMMDDHHMI timestamps</dd>
+<dt>-s</dt>
+<dd>Print the results as a PHP hash table</dd>
+<dt>-S [namelist]</dt>
+<dd>Print the results as a PHP hash table with given parameter names</dd>
+<dt>-q [querydata1,querydata2,...]</dt>
+<dd>The querydata filename or the directory containing the
+    latest querydata.</dd>
+<dt>-c [coordinatefile]</dt>
+<dd>The coordinate file to use for searching location names.</dd>
+<dt>-v</dt>
+<dd>Verbose mode</dd>
+</dl>
+
+For example, to get day and night minimum and maximum temperatures
+and precipitation sums for Helsinki area one could use
+
+\code
+qdarea -T 12 -p Helsinki:25 -P 'mean(min(t2m)),mean(max(t2m)),mean(sum(rr1h))'
+\endcode
+
+The daily mean maximum wind speed for Bay of Bothnia is
+
+\code
+qdarea -T 24 -p merialueet/B1 -P 'mean(max(wspd))'
+\endcode
+
+The six-hour interval mean winds in UTC-time are
+\code
+qdarea -t UTC -T 3:6 -p merialueet/B1 -P 'mean(wspd),mean(wdir)'
+\endcode
+
+Note that the intervals are 03-09, 09-15, 15-21, 21-03. These are
+the intervals customarily identified by times 06, 12, 18 and 00 respectively.
+
+Finally, to calculate the percentage of rainy hours each day one could use
+\code
+qdarea -T 24 -p merialueet/B1 -P 'mean(percentage[0.1:](rr1h))'
+\endcode
+
+The recognized parameter names are
+
+<table>
+<tr><th>Name</th><th>Aliases</th></tr>
+<tr><td>Temperature</td><td>t2m,t</td></tr>
+<tr><td>Precipitation</td><td>rr1h</td></tr>
+<tr><td>PrecipitationType</td><td>rtype</td></tr>
+<tr><td>PrecipitationForm</td><td>rform</td></tr>
+<tr><td>PrecipitationProbability</td><td>pop</td></tr>
+<tr><td>Cloudiness</td><td>n</td></tr>
+<tr><td>Frost</td><td>-</td></tr>
+<tr><td>SevereFrost</td><td>-</td></tr>
+<tr><td>RelativeHumidity</td><td>rh</td></tr>
+<tr><td>WindSpeed</td><td>wspd,ff</td></tr>
+<tr><td>WindDirection</td><td>wdir,dd</td></tr>
+<tr><td>Thunder</td><td>pot</td></tr>
+<tr><td>RoadTemperature</td><td>troad</td></tr>
+<tr><td>RoadCondition</td><td>wroad</td></tr>
+<tr><td>WaveHeight</td><td>-</td></tr>
+<tr><td>WaveDirection</td><td>-</td></tr>
+<tr><td>ForestFireIndex</td><td>mpi</td></tr>
+<tr><td>Evaporation</td><td>evap</td></tr>
+<tr><td>DewPoint</td><td>tdew</td></tr>
+<tr><td>GustSpeed</td><td>gust</td></tr>
+<tr><td>FogIntensity</td><td>fog</td></tr>
+</table>
+
+The available functions are
+
+<table>
+<tr><th>Function</th><th>Description</th></tr>
+<tr><td>mean</td><td>Mean value</td></tr>
+<tr><td>max</td><td>Maximum value</td></tr>
+<tr><td>min</td><td>Minimum value</td></tr>
+<tr><td>sum</td><td>Sum</td></tr>
+<tr><td>sdev</td><td>Standard deviation</td></tr>
+<tr><td>trend</td><td>Trend</td></tr>
+<tr><td>change</td><td>Change</td></tr>
+<tr><td>count</td><td>Occurrance count, requires limits</td></tr>
+<tr><td>percentage</td><td>Occurrance percentage, requires limits</td></tr>
+</table>
+
+The \c count and \c percentage functions require data limits, which
+are given as follows:
+\code
+count[lo:hi]
+percentage[lo:hi]
+\endcode
+If either limit is missing, the accepted range is open ended.
+
+*/

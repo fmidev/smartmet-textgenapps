@@ -1,0 +1,27 @@
+Joensuu
+
+Weather report on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today from forenoon in some places snowfall, in the evening fair weather.
+Tomorrow cloudy, during the day in some places light snowfall.
+Probability of precipitation is today 90 percent, tomorrow somewhat smaller.
+North-easterly wind 4-5 meters per second.
+The maximum day temperature is today about -2 degrees, tomorrow somewhat lower.
+The minimum night temperature is about -5 degrees.
+Probability of severe frost is on Sunday night 80 percent.
+The lowest relative humidity is tomorrow 70 percent.
+Total precipitation is today from forenoon about 3 millimeters, tomorrow about 1 millimeters.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is about -2 degrees, nightly minimum temperature about -5 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature -1 degrees.
+Mean maximum temperature -1 degrees.
+Mean minimum temperature -3 degrees.
+Total precipitation 10-20 millimeters.

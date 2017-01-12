@@ -1,0 +1,26 @@
+Sääennuste Hämeeseen torstaina kello 12
+
+Odotettavissa lauantai-iltaan asti:
+
+Tänään pilvistä, iltapäivällä monin paikoin heikkoa sadetta.
+Huomenna aamuyöllä paikoin vähäistä lumisadetta, päivällä pilvistä ja poutaa.
+Lauantaina aamusta alkaen sadetta, illalla poutaa.
+Sateen todennäköisyys on huomenna 30 prosenttia, seuraavana päivänä suurempi.
+Itätuulta 3 metriä sekunnissa, lauantaina 3-5 metriä sekunnissa.
+Päivän ylin lämpötila on huomenna noin 5 astetta, seuraavana päivänä hieman alempi.
+Yön alin lämpötila on 0...-1 astetta, lauantain vastaisena yönä suunnilleen sama.
+Ankaran hallan todennäköisyys on perjantain vastaisena yönä 20 prosenttia, seuraavana yönä 10 prosenttia.
+Alin suhteellinen kosteus on huomenna 70 prosenttia, lauantaina suurempi.
+Sadesumma on tänään keskipäivästä alkaen 0-1 millimetriä, huomenna sama, lauantaina 2-5 millimetriä.
+
+Odotettavissa lauantai-illasta keskiviikkoaamuun:
+
+Enimmäkseen pilvistä, ajoittain sateista.
+Päivien ylin lämpötila on noin 5 astetta, öiden alin lämpötila 0...-1 astetta.
+
+Perjantaiaamusta alkavan viiden vuorokauden sää:
+
+Keskilämpötila 2 astetta.
+Keskimääräinen ylin lämpötila 4 astetta.
+Keskimääräinen alin lämpötila 0 astetta.
+Sadesumma 2-5 millimetriä.

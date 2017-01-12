@@ -1,0 +1,23 @@
+Weather report for South Western Lapland on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today and tomorrow cloudy or partly cloudy.
+Today variable wind 7-9 meters per second, tomorrow northerly wind 3-5 meters per second.
+The maximum day temperature is today -3...-6 degrees, tomorrow somewhat lower.
+The minimum night temperature is -7...-10 degrees.
+Total precipitation for the first 12 hours is 0-1 millimeters, for the following 12 hours 0 millimeters.
+The road temperature is today -2...-7 degrees, at night -4...-12 degrees, tomorrow during the day -4...-12 degrees.
+During the day the roads are in some places icy or partly icy, from the evening the roads are in many places partly icy.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is -4...+1 degrees, nightly minimum temperature -4...-9 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature -2 degrees.
+Mean maximum temperature -3 degrees.
+Mean minimum temperature -5 degrees.
+Total precipitation 5-10 millimeters.

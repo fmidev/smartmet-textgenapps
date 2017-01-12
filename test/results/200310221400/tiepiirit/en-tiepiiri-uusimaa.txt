@@ -1,0 +1,26 @@
+Weather report for Uusimaa road district on Wednesday 14 o'clock
+
+Expected weather until Friday evening:
+
+Tomorrow mostly fair weather.
+On Friday in some places light snow or rain.
+Tomorrow and the following day north-easterly wind 1-5 meters per second.
+The maximum day temperature is tomorrow -2...+2 degrees, the following day somewhat higher.
+The minimum night temperature is -4...-10 degrees, on Friday night about the same.
+Probability of severe frost is on Thursday night 100 percent, the following night 90 percent.
+Total precipitation for the first 12 hours is 0 millimeters, for the following 12 hours 0-1 millimeters.
+The road temperature is at night 0...-12 degrees, tomorrow during the day -12...+3 degrees, at night 0...-15 degrees.
+From the evening the roads are dry.
+Tomorrow during the day the roads are in some places covered by snow.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is -2...+2 degrees, nightly minimum temperature 0...-6 degrees.
+
+From Thursday morning for the next five days:
+
+Mean temperature -2 degrees.
+Mean maximum temperature 0 degrees.
+Mean minimum temperature -4 degrees.
+Total precipitation 10-20 millimeters.

@@ -1,0 +1,25 @@
+Weather report for Kainuu on Thursday 7 o'clock
+
+Expected weather until Friday evening:
+
+Today cloudy.
+Tomorrow mostly fair weather.
+Probability of precipitation is today 50 percent, tomorrow greater.
+Today westerly wind 3-4 meters per second, tomorrow 6-7 meters per second.
+The maximum day temperature is today 4...6 degrees, tomorrow about the same.
+The minimum night temperature is 2...4 degrees.
+Probability of frost is on Friday night 20 percent.
+The lowest relative humidity is tomorrow 80 percent.
+Total precipitation is tomorrow 0-1 millimeters.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is 0...-1 degrees, nightly minimum temperature about -4 degrees.
+
+From Friday morning for the next five days:
+
+Mean temperature -2 degrees.
+Mean maximum temperature 1 degrees.
+Mean minimum temperature -4 degrees.
+Total precipitation 2-5 millimeters.

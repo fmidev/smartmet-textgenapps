@@ -1,0 +1,24 @@
+Weather report for Åland on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today from forenoon sleet or snow showers.
+Probability of precipitation is today 80 percent, tomorrow smaller.
+Today northerly wind 19-20 meters per second, tomorrow 11 meters per second.
+The maximum day temperature is today about 2 degrees, tomorrow about the same.
+The minimum night temperature is about 1 degree.
+Probability of severe frost is on Sunday night 10 percent.
+The lowest relative humidity is tomorrow 60 percent.
+Total precipitation is today from forenoon about 6 millimeters, tomorrow 3-5 millimeters.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is about 4 degrees, nightly minimum temperature about 2 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature 5 degrees.
+Mean maximum temperature 4 degrees.
+Mean minimum temperature 4 degrees.
+Total precipitation 10-20 millimeters.

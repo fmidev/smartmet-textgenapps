@@ -1,0 +1,18 @@
+/*!
+
+\mainpage textgenapps Tekstigeneraattorisovellukset
+
+\section johdanto Johdanto
+
+Tänne tulee tekstigeneraattorisovellusten dokumentaation etusivu.
+
+\section qdtext_section qdtext
+
+Ohjelma \c qdtext generoi maataloutta varten räätälöityjä tekstiennusteita.
+
+\section qdarea_section qdarea
+
+Ohjelma \ref page_qdarea laskee alue- ja aikaintegraaleja
+querydatasta.
+
+*/

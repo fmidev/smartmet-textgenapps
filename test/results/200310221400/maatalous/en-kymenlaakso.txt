@@ -1,0 +1,24 @@
+Weather report for Kymenlaakso on Wednesday 14 o'clock
+
+Expected weather until Friday evening:
+
+Tomorrow and on Friday mostly cloudy.
+Probability of precipitation is tomorrow 20 percent, the following day somewhat greater.
+Tomorrow and the following day mainly north-easterly wind 1-4 meters per second.
+The maximum day temperature is tomorrow -2...+1 degrees, the following day about the same.
+The minimum night temperature is -5...-10 degrees, on Friday night about the same.
+Probability of severe frost is on Thursday night 100 percent, the following night 90 percent.
+The lowest relative humidity is tomorrow 70 percent, on Friday somewhat smaller.
+Total precipitation is today from the afternoon 0-1 millimeters, on Friday the same.
+
+Expected weather from Friday evening until Tuesday morning:
+
+The weather is unstable.
+Daily maximum temperature is -2...+1 degrees, nightly minimum temperature -1...-6 degrees.
+
+From Thursday morning for the next five days:
+
+Mean temperature -3 degrees.
+Mean maximum temperature -1 degrees.
+Mean minimum temperature -5 degrees.
+Total precipitation 10-20 millimeters.

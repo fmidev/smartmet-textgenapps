@@ -1,0 +1,27 @@
+Viipuri
+
+Weather report on Saturday 9 o'clock
+
+Expected weather until Sunday evening:
+
+Today from the morning in some places snowfall.
+Tomorrow during the day in some places snow showers, from the afternoon fair weather.
+Probability of precipitation is today 90 percent, tomorrow the same.
+North-easterly wind 4-5 meters per second.
+The maximum day temperature is today about -1 degree, tomorrow about the same.
+The minimum night temperature is about -3 degrees.
+Probability of severe frost is on Sunday night 50 percent.
+The lowest relative humidity is tomorrow 80 percent.
+Total precipitation is today from forenoon about 6 millimeters, tomorrow about 2 millimeters.
+
+Expected weather from Sunday evening until Thursday morning:
+
+The weather is unstable.
+Daily maximum temperature is about 0 degrees, nightly minimum temperature about -4 degrees.
+
+From Sunday morning for the next five days:
+
+Mean temperature 0 degrees.
+Mean maximum temperature 1 degrees.
+Mean minimum temperature -2 degrees.
+Total precipitation over 20 millimeters.
