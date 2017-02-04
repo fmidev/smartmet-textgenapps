@@ -37,7 +37,7 @@ Weather Text Generator
 %prep
 rm -rf $RPM_BUILD_ROOT
 
-%setup -q -n %{BINNAME}
+%setup -q -n %{RPMNAME}
  
 %build
 make %{_smp_mflags} 
