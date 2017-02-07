@@ -1,7 +1,7 @@
 MODULE = textgenapps
 SPEC = smartmet-textgenapps
 
-MAINFLAGS = -MMD -Wall -W -Wno-unused-parameter
+MAINFLAGS = -MD -Wall -W -Wno-unused-parameter
 
 ifeq (6, $(RHEL_VERSION))
   MAINFLAGS += -std=c++0x
@@ -144,7 +144,7 @@ release: objdir $(MAINPROGS)
 profile: objdir $(MAINPROGS)
 
 .SECONDEXPANSION:
-$(MAINPROGS): % : $(OBJS) %.o 
+$(MAINPROGS): % : obj/%.o $(OBJFILES)
 	$(CC) $(LDFLAGS) -o $@ obj/$@.o $(OBJFILES) $(LIBS)
 
 clean:
@@ -180,7 +180,7 @@ rpm: clean
 
 .SUFFIXES: $(SUFFIXES) .cpp
 
-.cpp.o:
-	$(CC) $(CFLAGS) $(INCLUDES) -c -o $(objdir)/$@ $<
+obj/%.o : %.cpp
+	$(CC) $(CFLAGS) $(INCLUDES) -c -o $@ $<
 
 -include obj/*.d
