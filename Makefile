@@ -149,7 +149,7 @@ $(MAINPROGS): % : obj/%.o $(OBJFILES)
 
 clean:
 	rm -f $(MAINPROGS) $(OBJFILES) $(MAINOBJFILES)*~ source/*~ include/*~
-	rm -f obj/*.d
+	rm -rf obj/
 
 format:
 	clang-format -i -style=file include/*.h source/*.cpp main/*.cpp

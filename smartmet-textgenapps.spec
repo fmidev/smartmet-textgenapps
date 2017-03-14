@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 17.2.13
+Version: 17.3.14
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -11,15 +11,15 @@ Source0: %{name}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot-%(%{__id_u} -n)
 BuildRequires: boost-devel
 BuildRequires: smartmet-library-calculator-devel >= 17.2.10
-BuildRequires: smartmet-library-newbase-devel >= 17.2.13
-BuildRequires: smartmet-library-textgen-devel >= 17.2.10
+BuildRequires: smartmet-library-newbase-devel >= 17.3.9
+BuildRequires: smartmet-library-textgen-devel >= 17.3.14
 BuildRequires: mysql++-devel
 BuildRequires: mysql-devel
 BuildRequires: zlib-devel
 Requires: smartmet-library-calculator >= 17.2.10
-Requires: smartmet-library-newbase >= 17.2.13
-Requires: smartmet-library-textgen >= 17.2.10
-Requires: smartmet-library-macgyver >= 17.1.18
+Requires: smartmet-library-newbase >= 17.3.9
+Requires: smartmet-library-textgen >= 17.3.14
+Requires: smartmet-library-macgyver >= 17.3.14
 Requires: gdal
 Requires: glibc
 Requires: libgcc
@@ -53,6 +53,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Tue Mar 14 2017 Mika Heiskanen <mika.heiskanen@fmi.fi> - 17.3.14-1.fmi
+- Recompiled with latest newbase, macgyver and textgen
+
 * Mon Feb 13 2017 Mika Heiskanen <mika.heiskanen@fmi.fi> - 17.2.13-1.fmi
 - Repackaged due to newbase API change
 
