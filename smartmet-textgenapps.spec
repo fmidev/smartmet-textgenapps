@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 17.3.14
+Version: 17.8.28
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -55,6 +55,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Mon Aug 28 2017 Mika Heiskanen <mika.heiskanen@fmi.fi> - 17.8.28-1.fmi
+- Upgrade to boost 1.65
+
 * Tue Mar 14 2017 Mika Heiskanen <mika.heiskanen@fmi.fi> - 17.3.14-1.fmi
 - Recompiled with latest newbase, macgyver and textgen
 
@@ -105,7 +108,7 @@ rm -rf $RPM_BUILD_ROOT
 * Fri Nov 30 2012 Mika Heiskanen <mika.heiskanen@fmi.fi> - 12.11.30-1.fmi
 - Latest versions of the weather stories into use
 
-* Sun Nov 14 2012 Mika Heiskanen <mika.heiskanen@fmi.fi> - 12.11.14-1.fmi
+* Wed Nov 14 2012 Mika Heiskanen <mika.heiskanen@fmi.fi> - 12.11.14-1.fmi
 - PostGIS support
 - Improved stores
 
