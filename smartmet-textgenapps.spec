@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 17.8.28
+Version: 17.9.12
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -12,16 +12,16 @@ BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot-%(%{__id_u} -n)
 BuildRequires: gcc-c++
 BuildRequires: make
 BuildRequires: boost-devel
-BuildRequires: smartmet-library-calculator-devel >= 17.2.10
-BuildRequires: smartmet-library-newbase-devel >= 17.3.9
-BuildRequires: smartmet-library-textgen-devel >= 17.3.14
+BuildRequires: smartmet-library-calculator-devel >= 17.8.28
+BuildRequires: smartmet-library-newbase-devel >= 17.9.11
+BuildRequires: smartmet-library-textgen-devel >= 17.9.12
 BuildRequires: mysql++-devel
 BuildRequires: mysql-devel
 BuildRequires: zlib-devel
-Requires: smartmet-library-calculator >= 17.2.10
-Requires: smartmet-library-newbase >= 17.3.9
-Requires: smartmet-library-textgen >= 17.3.14
-Requires: smartmet-library-macgyver >= 17.3.14
+Requires: smartmet-library-calculator >= 17.8.28
+Requires: smartmet-library-newbase >= 17.9.11
+Requires: smartmet-library-textgen >= 17.9.12
+Requires: smartmet-library-macgyver >= 17.8.28
 Requires: gdal
 Requires: glibc
 Requires: libgcc
@@ -55,6 +55,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Tue Sep 12 2017 Mika Heiskanen <mika.heiskanen@fmi.fi> - 17.9.12-1.fmi
+- Repackaged due to textgen library ABI change when auto_ptr was replaced by unique_ptr
+
 * Mon Aug 28 2017 Mika Heiskanen <mika.heiskanen@fmi.fi> - 17.8.28-1.fmi
 - Upgrade to boost 1.65
 
