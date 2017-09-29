@@ -18,6 +18,7 @@ BuildRequires: smartmet-library-textgen-devel >= 17.9.12
 BuildRequires: mysql++-devel
 BuildRequires: mysql-devel
 BuildRequires: zlib-devel
+BuildRequires: gdal-devel
 Requires: smartmet-library-calculator >= 17.8.28
 Requires: smartmet-library-newbase >= 17.9.11
 Requires: smartmet-library-textgen >= 17.9.12
