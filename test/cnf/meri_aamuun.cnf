@@ -1,0 +1,298 @@
+# ----------------------------------------------------------------------
+# Hakemisto jonne ennusteet tallennetaan
+# ----------------------------------------------------------------------
+
+qdtext::outdir = <OUTDIR>
+qdtext::forecasttime = <FORECASTTIME>
+qdtext::logfile = ./textgen.log
+
+textgen::database = textgen2
+qdtext::encoding = utf8
+
+# ----------------------------------------------------------------------
+# Hakemisto, jossa aluekartat ovat (SVG-muodossa)
+# ----------------------------------------------------------------------
+   
+qdtext
+{
+	// Testialue
+	areas	= B1
+	areas	+= B2,B3,B5
+	areas	+= B1N,B1S
+	areas	+= B3N,B3S
+	areas	+= B4E,B4W
+	areas	+= B5E,B5W
+}
+
+qdtext::areas
+{
+	dir			= $(textgen::mappath)/sonera
+	meridir                 = $(textgen::mappath)/merivaroitusalueet
+
+	radius			= 0
+	radius_ahvenanmaa       = 10
+
+	B1			= $(meridir)/B1.svg
+	B2			= $(meridir)/B2.svg
+	B3			= $(meridir)/B3.svg
+	B5			= $(meridir)/B5.svg
+	B1N			= $(meridir)/B1N.svg
+	B1S			= $(meridir)/B1S.svg
+	B3N			= $(meridir)/B3N.svg
+	B3S			= $(meridir)/B3S.svg
+	B4E			= $(meridir)/B4E.svg
+	B4W			= $(meridir)/B4W.svg
+	B5E			= $(meridir)/B5E.svg
+	B5W			= $(meridir)/B5W.svg
+	
+	marine			
+        {				
+          default = true
+	}
+}
+
+qdtext::dictionary = multimysql
+qdtext::timezone = Europe/Helsinki
+
+qdtext::products = fi_txt,sv_txt,en_txt
+
+qdtext::product::fi_txt
+{
+	language = fi
+	formatter = plainlines
+
+	filename
+	{
+		B1			= fi-B1_varo.txt
+		B2			= fi-B2_varo.txt
+		B3			= fi-B3_varo.txt
+		B5			= fi-B5_varo.txt
+		B1N			= fi-B1N_varo.txt
+		B1S			= fi-B1S_varo.txt
+		B3N			= fi-B3N_varo.txt
+		B3S			= fi-B3S_varo.txt
+		B4E			= fi-B4E_varo.txt
+		B4W			= fi-B4W_varo.txt
+		B5E			= fi-B5E_varo.txt
+		B5W			= fi-B5W_varo.txt
+	}	
+}
+
+qdtext::product::sv_txt
+{
+	language = sv
+	formatter = plainlines
+
+	filename
+	{
+		B1			= sv-B1_varo.txt
+		B2			= sv-B2_varo.txt
+		B3			= sv-B3_varo.txt
+		B5			= sv-B5_varo.txt
+		B1N			= sv-B1N_varo.txt
+		B1S			= sv-B1S_varo.txt
+		B3N			= sv-B3N_varo.txt
+		B3S			= sv-B3S_varo.txt
+		B4E			= sv-B4E_varo.txt
+		B4W			= sv-B4W_varo.txt
+		B5E			= sv-B5E_varo.txt
+		B5W			= sv-B5W_varo.txt
+	}	
+}
+
+qdtext::product::en_txt
+{
+	language = en
+	formatter = plainlines
+
+	filename
+	{
+		B1			= en-B1_varo.txt
+		B2			= en-B2_varo.txt
+		B3			= en-B3_varo.txt
+		B5			= en-B5_varo.txt
+		B1N			= en-B1N_varo.txt
+		B1S			= en-B1S_varo.txt
+		B3N			= en-B3N_varo.txt
+		B3S			= en-B3S_varo.txt
+		B4E			= en-B4E_varo.txt
+		B4W			= en-B4W_varo.txt
+		B5E			= en-B5E_varo.txt
+		B5W			= en-B5W_varo.txt
+	}
+}	
+
+# ======================================================================
+#		Kirjasto-osan kontrolli
+# ======================================================================
+
+# ----------------------------------------------------------------------
+# Ennustedata eri parametreille
+# ----------------------------------------------------------------------
+
+textgen::main_forecast = <DATADIR>/pinta
+
+textgen
+{
+	gustspeed_forecast			= $(main_forecast)
+	precipitation_forecast			= $(main_forecast)
+	precipitationprobability_forecast	= $(main_forecast)
+        precipitationtype_forecast              = $(main_forecast)
+        precipitationform_forecast              = $(main_forecast)
+        thunder_forecast		        = $(main_forecast)
+	fog_forecast				= $(main_forecast)
+	cloudiness_forecast			= $(main_forecast)
+	temperature_forecast			= $(main_forecast)
+	windspeed_forecast			= $(main_forecast)
+	maximumwind_forecast			= $(main_forecast)
+	winddirection_forecast			= $(main_forecast)
+	windchill_forecast			= $(main_forecast)
+}
+
+textgen::mask::coast = $(textgen::mappath)/merialueet/rannikko.svg:10
+
+textgen::units
+{
+	celsius::format		= phrase
+	meterspersecond::format	= SI
+	millimeters::format	= phrase
+	percent::format		= phrase
+}
+
+# ----------------------------------------------------------------------
+# Tekstin kontrollointi
+# ----------------------------------------------------------------------
+
+textgen::sections = title,part1
+
+textgen::title
+{
+        period::type = now
+        header::type = report_area
+        header::colon = false
+        content = none
+}
+
+textgen::part1
+{
+	period::type = until
+	header::type = until
+	header::colon = true
+}
+
+# Huomiseen aamuun, klo 15 jälkeen huomisaamusta seuraavaan aamuun
+
+textgen::part1::period
+{
+	days = 1
+	endhour = 6
+	switchhour = 0
+}
+
+textgen::part1
+{
+	content = wind_overview
+	content += text
+	content += weather_forecast
+	content += text
+	content += weather_forecast_at_sea
+}
+
+textgen::part1::story::text
+{
+	value::fi_txt = \n
+	value::sv_txt = \n
+	value::en_txt = \n
+}
+
+textgen::part1::story::wind_overview
+{
+	night::starthour = 18
+	night::maxstarthour = 23
+	night::endhour = 5
+	day::starthour = 6
+	day::maxstarthour = 12
+	day::endhour = 18
+
+	max_error_wind_speed = 1.0
+	max_error_wind_direction = 10.0
+	wind_speed_threshold = 3.0
+	wind_speed_warning_threshold = 10.0
+	wind_direction_threshold = 45.0
+	wind_direction_min_speed = 7.0
+	wind_calc_top_share = 80.0
+	wind_calc_top_share_weak = 50.0
+	wind_speed_top_coverage = 98.0
+	wind_speed_interval_min_size = 2
+	wind_speed_interval_max_size = 5
+
+	today::phrases = today
+	next_day::phrases = weekday
+	tonight::phrases = weekday
+	next_night::phrases = weekday
+}
+
+textgen::part1::story::weather_forecast
+{
+	night::starthour = 18
+	night::maxstarthour = 23
+	night::endhour = 6
+	day::starthour = 6
+	day::maxstarthour = 12
+	day::endhour = 18
+
+	dry_weather_limit = 0.0125 // mm/h
+	generally_limit = 90	// percentage
+	someplaces_limit = 10	// percentage
+	manyplaces_limit = 50	// percentage
+
+	summertime::startdate = 0401
+	summertime::enddate = 0930
+
+	today::phrases = today
+	next_day::phrases = weekday
+	tonight::phrases = weekday
+	next_night::phrases = weekday
+
+	summertime::thunder::normal_extent_min = 5
+	summertime::thunder::normal_extent_max = 30
+	wintertime::thunder::normal_extent_min = 10
+	wintertime::thunder::normal_extent_max = 30
+	thunder::small_probability_min = 20
+	thunder::small_probability_max = 30
+	thunder::normal_probability_min = 30
+	thunder::normal_probability_max = 60
+}
+
+textgen::part1::story::weather_forecast_at_sea
+{
+	night::starthour = 18
+	night::maxstarthour = 23
+	night::endhour = 6
+	day::starthour = 6
+	day::maxstarthour = 12
+	day::endhour = 18
+
+	dry_weather_limit = 0.0125 // mm/h
+	generally_limit = 90	// percentage
+	someplaces_limit = 10	// percentage
+	manyplaces_limit = 50	// percentage
+	in_some_places_upper_limit = 90
+
+	summertime::startdate = 0401
+	summertime::enddate = 0930
+
+	today::phrases = today
+	next_day::phrases = weekday
+	tonight::phrases = weekday
+	next_night::phrases = weekday
+
+	summertime::thunder::normal_extent_min = 5
+	summertime::thunder::normal_extent_max = 30
+	wintertime::thunder::normal_extent_min = 10
+	wintertime::thunder::normal_extent_max = 30
+	thunder::small_probability_min = 20
+	thunder::small_probability_max = 30
+	thunder::normal_probability_min = 30
+	thunder::normal_probability_max = 60
+}
