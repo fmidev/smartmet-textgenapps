@@ -35,8 +35,8 @@
 using namespace std;
 using namespace boost;
 
-typedef std::list<std::string> TextList;
-typedef std::map<std::string, TextList> TextMap;
+using TextList = std::list<std::string>;
+using TextMap = std::map<std::string, TextList>;
 
 static TextMap textMap;
 
