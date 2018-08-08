@@ -340,7 +340,7 @@ bool read_cmdline(int argc, const char* argv[])
 
   if (cmdline.Status().IsError()) throw runtime_error(cmdline.Status().ErrorLog().CharPtr());
 
-  if (cmdline.isOption('h'))
+  if (cmdline.isOption('h') != 0)
   {
     cout << "Usage: qdtext configfile | -h" << endl
          << endl
@@ -366,7 +366,7 @@ bool read_cmdline(int argc, const char* argv[])
 
   Settings::set(NFmiSettings::ToString());
 
-  if (cmdline.isOption('d'))
+  if (cmdline.isOption('d') != 0)
   {
     const string outdir = cmdline.OptionValue('d');
     if (outdir.empty()) throw runtime_error("Empty argument for option -d");
@@ -375,14 +375,14 @@ bool read_cmdline(int argc, const char* argv[])
     Settings::set("qdtext::outputdir", outdir);
   }
 
-  if (cmdline.isOption('a'))
+  if (cmdline.isOption('a') != 0)
   {
     const string areas = cmdline.OptionValue('a');
     if (areas.empty()) throw runtime_error("Empty argument for option -a");
     Settings::set("qdtext::areas", areas);
   }
 
-  if (cmdline.isOption('l'))
+  if (cmdline.isOption('l') != 0)
   {
     const string languages = cmdline.OptionValue('l');
     if (languages.empty()) throw runtime_error("Empty argument for option -l");
