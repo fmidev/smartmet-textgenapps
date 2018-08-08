@@ -406,7 +406,7 @@ int run(int argc, const char* argv[])
 
   // Read the command line arguments
 
-  if (read_cmdline(argc, argv) == false) return 0;
+  if (!read_cmdline(argc, argv)) return 0;
 
   // Settings are now fine
 
