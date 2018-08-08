@@ -5,37 +5,32 @@
  */
 // ======================================================================
 
+#include <boost/algorithm/string.hpp>
+#include <boost/foreach.hpp>
+#include <boost/locale.hpp>
+#include <boost/tokenizer.hpp>
 #include <calculator/Config.h>
 #include <calculator/Settings.h>
 #include <calculator/WeatherArea.h>
-
-#include <textgen/Dictionary.h>
-#include <textgen/DictionaryFactory.h>
-#include <textgen/Document.h>
-#include <textgen/MessageLogger.h>
-#include <textgen/TextFormatter.h>
-#include <textgen/TextFormatterFactory.h>
-#include <textgen/TextGenerator.h>
-#include <textgen/PostGISDataSource.h>
-
 #include <newbase/NFmiCmdLine.h>
 #include <newbase/NFmiFileSystem.h>
 #include <newbase/NFmiSettings.h>
 #include <newbase/NFmiStringTools.h>
-
-#include <boost/locale.hpp>
-#include <boost/foreach.hpp>
-#include <boost/tokenizer.hpp>
-#include <boost/algorithm/string.hpp>
-
-#include "ogrsf_frmts.h"
-
-#include <ctime>    // tzset
+#include <textgen/Dictionary.h>
+#include <textgen/DictionaryFactory.h>
+#include <textgen/Document.h>
+#include <textgen/MessageLogger.h>
+#include <textgen/PostGISDataSource.h>
+#include <textgen/TextFormatter.h>
+#include <textgen/TextFormatterFactory.h>
+#include <textgen/TextGenerator.h>
 #include <cstdlib>  // putenv
+#include <ctime>    // tzset
 #include <fstream>
-#include <stdexcept>
-#include <map>
 #include <list>
+#include <map>
+#include <ogrsf_frmts.h>
+#include <stdexcept>
 
 using namespace std;
 using namespace boost;
@@ -182,9 +177,9 @@ const TextGen::WeatherArea make_area(const string& theName)
       spec << Settings::require_double(longitudevar) << ','
            << Settings::require_double(latitudevar);
     else if (Settings::isset(longitudevar) || Settings::isset(latitudevar))
-      throw runtime_error("Area '" + theName +
-                          "' does not have a valid description in variable qdtext::areas::" +
-                          theName);
+      throw runtime_error(
+          "Area '" + theName +
+          "' does not have a valid description in variable qdtext::areas::" + theName);
     else
       spec << theName;
 
