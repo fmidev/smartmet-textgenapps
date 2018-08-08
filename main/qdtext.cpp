@@ -62,9 +62,9 @@ void write_forecasts(const string& theOutDir, const string& theFilenames, const 
   MessageLogger log("write_forecasts");
   const vector<string> filenames = NFmiStringTools::Split(theFilenames);
 
-  for (vector<string>::const_iterator it = filenames.begin(); it != filenames.end(); ++it)
+  for (const auto& file : filenames)
   {
-    const string filename = theOutDir + '/' + *it;
+    const string filename = theOutDir + '/' + file;
 
     log << "writing " << filename << endl;
 
@@ -101,9 +101,9 @@ void save_forecasts(const TextGen::Document& theDocument,
   const string productnames = Settings::require_string("qdtext::products");
   const vector<string> products = NFmiStringTools::Split(productnames);
 
-  for (vector<string>::const_iterator it = products.begin(); it != products.end(); ++it)
+  for (const auto& prodname : products)
   {
-    const string product = "qdtext::product::" + *it;
+    const string product = "qdtext::product::" + prodname;
     const string var = product + "::filename::" + theArea;
 
     // if no filename is given, print to stdout (indicated by '-')
@@ -116,7 +116,7 @@ void save_forecasts(const TextGen::Document& theDocument,
     boost::shared_ptr<TextGen::TextFormatter> formatter(
         TextGen::TextFormatterFactory::create(form));
     formatter->dictionary(theDictionary);
-    formatter->setProductName(*it);
+    formatter->setProductName(prodname);
 
     std::string forecast = formatter->format(theDocument);
 
@@ -247,21 +247,21 @@ void make_forecasts()
     if (!log_message.empty()) log << log_message << endl;
   }
 
-  for (vector<string>::const_iterator it = areas.begin(); it != areas.end(); ++it)
+  for (const auto& areaname : areas)
   {
-    log << "Area " + *it << endl;
+    log << "Area " + areaname << endl;
     Settings::set("html__append", "");
 
     // timezone can be defined for area
-    string variable = "qdtext::timezone::" + *it;
+    string variable = "qdtext::timezone::" + areaname;
     string timezone = Settings::optional_string(variable, default_timezone);
     TextGenPosixTime::SetThreadTimeZone(timezone);
 
-    log << *it << " timezone is " << timezone << endl;
+    log << areaname << " timezone is " << timezone << endl;
 
     if (usePostGISData)
     {
-      std::string area_name(Settings::require_string("qdtext::areas::" + *it));
+      std::string area_name(Settings::require_string("qdtext::areas::" + areaname));
       if (pgis.geoObjectExists(area_name))
       {
         if (pgis.isPolygon(area_name))
@@ -269,46 +269,43 @@ void make_forecasts()
           stringstream svg_string_stream(pgis.getSVGPath(area_name));
           NFmiSvgPath svgPath;
           svgPath.Read(svg_string_stream);
-          const TextGen::WeatherArea area(svgPath, *it);
+          const TextGen::WeatherArea area(svgPath, areaname);
           const TextGen::Document document = generator.generate(area);
-          save_forecasts(document, dict, *it);
+          save_forecasts(document, dict, areaname);
         }
         else  // if not polygon, it must be a point
         {
           std::pair<double, double> std_point(pgis.getPoint(area_name));
           NFmiPoint point(std_point.first, std_point.second);
-          const TextGen::WeatherArea area(point, *it);
+          const TextGen::WeatherArea area(point, areaname);
           const TextGen::Document document = generator.generate(area);
-          save_forecasts(document, dict, *it);
+          save_forecasts(document, dict, areaname);
         }
       }
       else
       {
-        log << "NOTE!! " + *it << " (" << area_name << ") not found in PostGIS database!" << endl;
+        log << "NOTE!! " + areaname << " (" << area_name << ") not found in PostGIS database!"
+            << endl;
       }
     }
     else
     {
-      const TextGen::WeatherArea area = make_area(*it);
+      const TextGen::WeatherArea area = make_area(areaname);
       const TextGen::Document document = generator.generate(area);
-      save_forecasts(document, dict, *it);
+      save_forecasts(document, dict, areaname);
     }
   }
 
   const string outdir = Settings::require_string("qdtext::outdir");
 
   // iterate the map and write out the forecasts
-  for (TextMap::iterator tm_iter = textMap.begin(); tm_iter != textMap.end(); ++tm_iter)
+  for (const auto& textmap : textMap)
   {
     std::ostringstream string_stream;
-    for (TextList::const_iterator tl_iter = tm_iter->second.begin();
-         tl_iter != tm_iter->second.end();
-         ++tl_iter)
-    {
-      std::string str(*tl_iter);
-      string_stream << str;
-    }
-    std::string outfile(tm_iter->first);
+    for (const auto& tl : textmap.second)
+      string_stream << tl;
+
+    std::string outfile(textmap.first);
 
     // if output file is '-' print to stdout
     if (outfile.compare("-") == 0)
