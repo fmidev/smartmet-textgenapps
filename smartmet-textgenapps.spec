@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 18.4.7
+Version: 18.8.8
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -13,17 +13,17 @@ BuildRequires: rpm-build
 BuildRequires: gcc-c++
 BuildRequires: make
 BuildRequires: boost-devel
-BuildRequires: smartmet-library-calculator-devel >= 18.4.7
-BuildRequires: smartmet-library-newbase-devel >= 18.4.7
-BuildRequires: smartmet-library-textgen-devel >= 18.4.7
+BuildRequires: smartmet-library-calculator-devel >= 18.8.1
+BuildRequires: smartmet-library-newbase-devel >= 18.8.6
+BuildRequires: smartmet-library-textgen-devel >= 18.8.1
 BuildRequires: mysql++-devel
 BuildRequires: mysql-devel
 BuildRequires: zlib-devel
 BuildRequires: gdal-devel
-Requires: smartmet-library-calculator >= 18.4.7
-Requires: smartmet-library-newbase >= 18.4.7
-Requires: smartmet-library-textgen >= 18.4.7
-Requires: smartmet-library-macgyver >= 18.4.7
+Requires: smartmet-library-calculator >= 18.8.1
+Requires: smartmet-library-newbase >= 18.8.6
+Requires: smartmet-library-textgen >= 18.8.1
+Requires: smartmet-library-macgyver >= 18.8.4
 Requires: boost-iostreams
 Requires: boost-locale
 Requires: boost-system
@@ -60,6 +60,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Wed Aug  8 2018 Mika Heiskanen <mika.heiskanen@fmi.fi> - 18.8.8-1.fmi
+- Silenced CodeChecker warnings
+
 * Sat Apr  7 2018 Mika Heiskanen <mika.heiskanen@fmi.fi> - 18.4.7-1.fmi
 - Upgrade to boost 1.66
 
