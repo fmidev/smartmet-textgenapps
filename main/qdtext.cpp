@@ -32,8 +32,15 @@
 #include <ogrsf_frmts.h>
 #include <stdexcept>
 
-using namespace std;
-using namespace boost;
+using std::cerr;
+using std::cout;
+using std::endl;
+using std::ofstream;
+using std::ostringstream;
+using std::runtime_error;
+using std::string;
+using std::stringstream;
+using std::vector;
 
 using TextList = std::list<std::string>;
 using TextMap = std::map<std::string, TextList>;
