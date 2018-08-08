@@ -308,7 +308,7 @@ void make_forecasts()
     std::string outfile(textmap.first);
 
     // if output file is '-' print to stdout
-    if (outfile.compare("-") == 0)
+    if (outfile == "-")
     {
       string encoding = Settings::optional_string("qdtext::encoding", "Latin1");
       if (encoding != "UTF-8")
