@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 18.8.8
+Version: 18.8.19
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -60,6 +60,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Sun Aug 19 2018 Mika Heiskanen <mika.heiskanen@fmi.fi> - 18.8.19-1.fmi
+- Silenced more CodeChecker warnings
+
 * Wed Aug  8 2018 Mika Heiskanen <mika.heiskanen@fmi.fi> - 18.8.8-1.fmi
 - Silenced CodeChecker warnings
 

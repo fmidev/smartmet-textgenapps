@@ -208,20 +208,18 @@ void make_forecasts()
 {
   MessageLogger log("make_forecasts");
 
-  using namespace NFmiStringTools;
-  using namespace TextGen;
-  log << "qdtext version " << TextGenerator::version() << endl;
+  log << "qdtext version " << TextGen::TextGenerator::version() << endl;
   log << "The configuration file:" << endl << NFmiSettings::ToString() << endl << endl;
 
   // Check required variables
 
-  const vector<string> areas = Split(Settings::require_string("qdtext::areas"));
+  const vector<string> areas = NFmiStringTools::Split(Settings::require_string("qdtext::areas"));
   const string dictionaryname = Settings::require_string("qdtext::dictionary");
   const string default_timezone = Settings::require_string("qdtext::timezone");
 
-  boost::shared_ptr<Dictionary> dict(DictionaryFactory::create(dictionaryname));
+  boost::shared_ptr<TextGen::Dictionary> dict(TextGen::DictionaryFactory::create(dictionaryname));
 
-  TextGenerator generator;
+  TextGen::TextGenerator generator;
   if (Settings::isset("qdtext::forecasttime"))
     generator.time(Settings::require_time("qdtext::forecasttime"));
 
