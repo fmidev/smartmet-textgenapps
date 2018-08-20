@@ -64,7 +64,7 @@ void write_forecasts(const string& theOutDir, const string& theFilenames, const 
 
   for (const auto& file : filenames)
   {
-    const string filename = theOutDir + '/' + file;
+    const string filename = std::string(theOutDir).append("/").append(file);
 
     log << "writing " << filename << endl;
 
@@ -104,7 +104,7 @@ void save_forecasts(const TextGen::Document& theDocument,
   for (const auto& prodname : products)
   {
     const string product = "qdtext::product::" + prodname;
-    const string var = product + "::filename::" + theArea;
+    const string var = std::string(product).append("::filename::").append(theArea);
 
     // if no filename is given, print to stdout (indicated by '-')
     const string filenames = Settings::optional_string(var, "-");
