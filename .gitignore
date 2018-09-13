@@ -2,3 +2,4 @@
 obj/
 qdtext
 test/tmp/
+compile_commands.json
