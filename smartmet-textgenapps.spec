@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 18.8.20
+Version: 18.9.13
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -13,17 +13,17 @@ BuildRequires: rpm-build
 BuildRequires: gcc-c++
 BuildRequires: make
 BuildRequires: boost-devel
-BuildRequires: smartmet-library-calculator-devel >= 18.8.1
-BuildRequires: smartmet-library-newbase-devel >= 18.8.6
-BuildRequires: smartmet-library-textgen-devel >= 18.8.1
+BuildRequires: smartmet-library-calculator-devel >= 18.9.8
+BuildRequires: smartmet-library-newbase-devel >= 18.9.11
+BuildRequires: smartmet-library-textgen-devel >= 18.9.13
 BuildRequires: mysql++-devel
 BuildRequires: mysql-devel
 BuildRequires: zlib-devel
 BuildRequires: gdal-devel
-Requires: smartmet-library-calculator >= 18.8.1
-Requires: smartmet-library-newbase >= 18.8.6
-Requires: smartmet-library-textgen >= 18.8.1
-Requires: smartmet-library-macgyver >= 18.8.4
+Requires: smartmet-library-calculator >= 18.9.8
+Requires: smartmet-library-newbase >= 18.9.11
+Requires: smartmet-library-textgen >= 18.9.13
+Requires: smartmet-library-macgyver >= 18.9.5
 Requires: boost-iostreams
 Requires: boost-locale
 Requires: boost-system
@@ -60,6 +60,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Thu Sep 13 2018 Mika Heiskanen <mika.heiskanen@fmi.fi> - 18.9.13-1.fmi
+- Updated since MessageLogger changed
+
 * Mon Aug 20 2018 Mika Heiskanen <mika.heiskanen@fmi.fi> - 18.8.20-1.fmi
 - Avoid unnecessary string temporaries as instructed by clang-tidy
 
