@@ -3,4 +3,4 @@ Weather report for Tavastia on Thursday 12 o'clock
 Expected weather until Saturday evening:
 
 The maximum day temperature is near 5 degrees, tomorrow about the same.
-The minimum night temperature is around zero.
+The minimum night temperature is around zero or a bit on the plus side.

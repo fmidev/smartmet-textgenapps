@@ -8,11 +8,11 @@ Huomenna pilvistä.
 Perjantaina paikoin vähäistä lumisadetta.
 Sateen todennäköisyys on huomenna 60 prosenttia, seuraavana päivänä suurempi.
 Huomenna ja seuraavana päivänä lounaistuulta 4 metriä sekunnissa.
-Päivän ylin lämpötila on huomenna noin -2 astetta, seuraavana päivänä suunnilleen sama.
-Yön alin lämpötila on noin -7 astetta, perjantain vastaisena yönä hieman korkeampi.
+Päivän ylin lämpötila on huomenna noin -3 astetta, seuraavana päivänä suunnilleen sama.
+Yön alin lämpötila on noin -8 astetta, perjantain vastaisena yönä hieman korkeampi.
 Ankaran hallan todennäköisyys on torstain vastaisena yönä 100 prosenttia, seuraavana yönä 90 prosenttia.
 Alin suhteellinen kosteus on huomenna 80 prosenttia, perjantaina sama.
-Sadesumma on tänään iltapäivästä alkaen noin 1 millimetriä, perjantaina sama.
+Sadesumma on tänään iltapäivästä alkaen noin 1 millimetriä, perjantaina noin 2 millimetriä.
 
 Odotettavissa perjantai-illasta tiistaiaamuun:
 
@@ -21,7 +21,7 @@ Päivien ylin lämpötila on noin -5 astetta, öiden alin lämpötila noin -10 a
 
 Torstaiaamusta alkavan viiden vuorokauden sää:
 
-Keskilämpötila -6 astetta.
-Keskimääräinen ylin lämpötila -3 astetta.
+Keskilämpötila -7 astetta.
+Keskimääräinen ylin lämpötila -4 astetta.
 Keskimääräinen alin lämpötila -9 astetta.
 Sadesumma 5-10 millimetriä.

@@ -3,18 +3,18 @@ Sääennuste Etelä-Pohjanmaalle keskiviikkona kello 14
 Odotettavissa perjantai-iltaan asti:
 
 Huomenna enimmäkseen puolipilvistä.
-Perjantaina pilvistä tai puolipilvistä, illalla lumisadetta.
+Perjantaina pilvistä tai puolipilvistä, illasta alkaen lumisadetta.
 Sateen todennäköisyys on huomenna 20 prosenttia, seuraavana päivänä suurempi.
-Huomenna lounaistuulta 1-4 metriä sekunnissa, perjantaina 3-6 metriä sekunnissa.
-Päivän ylin lämpötila on huomenna -1...+1 astetta, seuraavana päivänä suunnilleen sama.
-Yön alin lämpötila on -6...-10 astetta, perjantain vastaisena yönä suunnilleen sama.
+Huomenna etelänpuoleista tuulta 1-3 metriä sekunnissa, perjantaina 3-5 metriä sekunnissa.
+Päivän ylin lämpötila on huomenna 0...-2 astetta, seuraavana päivänä suunnilleen sama.
+Yön alin lämpötila on -8...-10 astetta, perjantain vastaisena yönä suunnilleen sama.
 Alin suhteellinen kosteus on huomenna 60 prosenttia, perjantaina sama.
-Sadesumma on huomenna 0-1 millimetriä, perjantaina sama.
+Sadesumma on huomenna 0-1 millimetriä.
 
 Odotettavissa perjantai-illasta tiistaiaamuun:
 
 Sää on epävakaista.
-Päivien ylin lämpötila on 0...-2 astetta, öiden alin lämpötila -3...-6 astetta.
+Päivien ylin lämpötila on 0...-2 astetta, öiden alin lämpötila -4...-6 astetta.
 
 Torstaiaamusta alkavan viiden vuorokauden sää:
 

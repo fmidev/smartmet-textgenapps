@@ -3,13 +3,13 @@ Weather report for Päijänne Tavastia on Saturday 9 o'clock
 Expected weather until Sunday evening:
 
 From Saturday onwards intermittent rain.
-Probability of precipitation is today 80 percent, tomorrow smaller.
+Probability of precipitation is today 90 percent, tomorrow smaller.
 North-easterly wind 5-6 meters per second.
-The maximum day temperature is today about -2 degrees, tomorrow about the same.
-The minimum night temperature is about -5 degrees.
-Probability of severe frost is on Sunday night 90 percent.
+The maximum day temperature is today 0...-2 degrees, tomorrow somewhat lower.
+The minimum night temperature is -4...-6 degrees.
+Probability of severe frost is on Sunday night 80 percent.
 The lowest relative humidity is tomorrow 60 percent.
-Total precipitation is today from forenoon 2-5 millimeters, tomorrow about 1 millimeters.
+Total precipitation is today from forenoon 2-6 millimeters, tomorrow about 1 millimeters.
 
 Expected weather from Sunday evening until Thursday morning:
 

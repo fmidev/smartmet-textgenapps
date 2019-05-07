@@ -18,7 +18,7 @@ Päivien ylin lämpötila on 4...6 astetta, öiden alin lämpötila 0...-2 astet
 
 Tiistaiaamusta alkavan viiden vuorokauden sää:
 
-Keskilämpötila 0 astetta.
+Keskilämpötila 1 astetta.
 Keskimääräinen ylin lämpötila 4 astetta.
 Keskimääräinen alin lämpötila -1 astetta.
 Sadesumma 10-20 millimetriä.

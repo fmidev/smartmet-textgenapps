@@ -2,14 +2,15 @@ Väderrapport för Kymmenedalen måndag klockan 9
 
 Utsikter till tisdag kväll:
 
-I dag från och med eftermiddagen flerstädes regn, i morgon från och med eftermiddagen uppehåll.
-Sannolikheten för nederbörd är i dag 40 procent, i morgon densamma.
-Sydvästlig vind 3-7 meter i sekunden.
-Dagens högsta temperatur är i dag 4...6 grader, i morgon ungefär densamma.
+I dag mulet, från och med kvällen flerstädes regn.
+I morgon från och med eftermiddagen uppehåll.
+Sannolikheten för nederbörd är i dag 40 procent, i morgon något större.
+Sydvästlig vind 3-9 meter i sekunden.
+Dagens högsta temperatur är i dag 2...6 grader, i morgon ungefär densamma.
 Nattens lägsta temperatur är cirka 2 grader.
 Sannolikheten för nattfrost är natten mot tisdagen 40 procent.
 Den lägsta relativa fuktigheten är i morgon 80 procent.
-Nederbördssumman är i dag från och med förmiddagen 0-2 millimeter, i morgon densamma.
+Nederbördssumman är i dag från och med förmiddagen 0-2 millimeter, i morgon 0-6 millimeter.
 
 Utsikter från och med tisdag kväll till lördag morgon:
 
@@ -19,6 +20,6 @@ Dagens maximi temperaturer är 4...7 grader, nattens minimi temperaturer 0...+2 
 Från och med tisdag morgon för de följande fem dygnen:
 
 Medeltemperaturen 3 grader.
-Maximitemperaturen i medeltal 6 grader.
-Minimitemperaturen i medeltal 0 grader.
+Maximitemperaturen i medeltal 5 grader.
+Minimitemperaturen i medeltal 1 grader.
 Nederbördssumman 10-20 millimeter.

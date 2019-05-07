@@ -2,11 +2,11 @@ Weather report for Northern Ostrobothnia on Saturday 9 o'clock
 
 Expected weather until Sunday evening:
 
-Today from forenoon in many places snowfall, in the evening fair weather.
+Today during the day in some places snowfall.
 Tomorrow cloudy or partly cloudy.
 Probability of precipitation is today 60 percent, tomorrow smaller.
 Today northerly wind 4-12 meters per second, tomorrow 4-8 meters per second.
-The maximum day temperature is today 0...-5 degrees, tomorrow somewhat lower.
+The maximum day temperature is today 0...-4 degrees, tomorrow somewhat lower.
 The minimum night temperature is -3...-9 degrees.
 Probability of severe frost is on Sunday night 90 percent.
 The lowest relative humidity is tomorrow 60 percent.

@@ -7,9 +7,9 @@ Sateen todennäköisyys on tänään 70 prosenttia, huomenna hieman pienempi.
 Pohjoistuulta 3-5 metriä sekunnissa.
 Päivän ylin lämpötila on tänään noin -3 astetta, huomenna suunnilleen sama.
 Yön alin lämpötila on noin -5 astetta.
-Ankaran hallan todennäköisyys on sunnuntain vastaisena yönä 90 prosenttia.
-Alin suhteellinen kosteus on huomenna 70 prosenttia.
-Sadesumma on tänään aamupäivästä alkaen 1-3 millimetriä, huomenna 0-2 millimetriä.
+Ankaran hallan todennäköisyys on sunnuntain vastaisena yönä 80 prosenttia.
+Alin suhteellinen kosteus on huomenna 60 prosenttia.
+Sadesumma on tänään aamupäivästä alkaen 1-4 millimetriä, huomenna 0-2 millimetriä.
 
 Odotettavissa sunnuntai-illasta torstaiaamuun:
 

@@ -5,7 +5,7 @@ Sääennuste keskiviikkona kello 14
 Odotettavissa perjantai-iltaan asti:
 
 Huomenna ja perjantaina pilvistä tai puolipilvistä.
-Sateen todennäköisyys on huomenna 20 prosenttia, seuraavana päivänä hieman suurempi.
+Sateen todennäköisyys on huomenna 20 prosenttia, seuraavana päivänä sama.
 Huomenna ja seuraavana päivänä luoteistuulta 1-2 metriä sekunnissa.
 Päivän ylin lämpötila on huomenna noin -2 astetta, seuraavana päivänä suunnilleen sama.
 Yön alin lämpötila on noin -7 astetta, perjantain vastaisena yönä suunnilleen sama.

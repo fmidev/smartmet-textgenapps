@@ -9,8 +9,7 @@ The maximum day temperature is today -3...-6 degrees, tomorrow somewhat lower.
 The minimum night temperature is -9...-13 degrees.
 Total precipitation for the first 12 hours is 0-2 millimeters, for the following 12 hours 0 millimeters.
 The road temperature is today -5...-11 degrees, at night -7...-15 degrees, tomorrow during the day -6...-15 degrees.
-From forenoon the roads are in many places covered by snow, in some places icy, at night the roads are in many places partly icy, in some places icy.
-Tomorrow morning the roads are in many places partly icy.
+From forenoon the roads are in many places covered by snow, in some places icy, from tonight the roads are in many places partly icy.
 
 Expected weather from Sunday evening until Thursday morning:
 

@@ -8,7 +8,7 @@ Tänään ja huomenna pilvistä tai puolipilvistä.
 Sateen todennäköisyys on tänään 60 prosenttia, huomenna huomattavasti pienempi.
 Tänään pohjoistuulta 8 metriä sekunnissa, huomenna 4 metriä sekunnissa.
 Päivän ylin lämpötila on tänään noin -5 astetta, huomenna suunnilleen sama.
-Yön alin lämpötila on noin -10 astetta.
+Yön alin lämpötila on noin -9 astetta.
 Alin suhteellinen kosteus on huomenna 70 prosenttia.
 
 Odotettavissa sunnuntai-illasta torstaiaamuun:
@@ -20,5 +20,5 @@ Sunnuntaiaamusta alkavan viiden vuorokauden sää:
 
 Keskilämpötila -3 astetta.
 Keskimääräinen ylin lämpötila -3 astetta.
-Keskimääräinen alin lämpötila -6 astetta.
+Keskimääräinen alin lämpötila -5 astetta.
 Sadesumma 5-10 millimetriä.

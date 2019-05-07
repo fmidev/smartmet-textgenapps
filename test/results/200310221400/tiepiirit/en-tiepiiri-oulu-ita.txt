@@ -4,9 +4,9 @@ Expected weather until Friday evening:
 
 Tomorrow cloudy or partly cloudy.
 On Friday from the afternoon snowfall.
-Tomorrow and the following day westerly wind 2-5 meters per second.
-The maximum day temperature is tomorrow about -2 degrees, the following day about the same.
-The minimum night temperature is -6...-9 degrees, on Friday night somewhat higher.
+Tomorrow westerly wind 1-4 meters per second, on Friday 3-5 meters per second.
+The maximum day temperature is tomorrow 0...-2 degrees, the following day about the same.
+The minimum night temperature is -6...-9 degrees, on Friday night about the same.
 Probability of severe frost is on Thursday night 100 percent, the following night 90 percent.
 Total precipitation for the next 24 hours is 0 millimeters.
 The road temperature is at night -4...-12 degrees, tomorrow during the day -11...+2 degrees, at night -4...-9 degrees.
@@ -16,7 +16,7 @@ From tomorrow morning the roads are in some places covered by frost.
 Expected weather from Friday evening until Tuesday morning:
 
 The weather is unstable.
-Daily maximum temperature is about -3 degrees, nightly minimum temperature -7...-10 degrees.
+Daily maximum temperature is about -3 degrees, nightly minimum temperature -6...-10 degrees.
 
 From Thursday morning for the next five days:
 

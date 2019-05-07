@@ -4,15 +4,15 @@ Weather report on Saturday 9 o'clock
 
 Expected weather until Sunday evening:
 
-Today in some places snowfall.
-Tomorrow mostly fair weather.
+Today from the morning in some places snowfall.
+Tomorrow cloudy or partly cloudy, during the day in some places snow showers.
 Probability of precipitation is today 90 percent, tomorrow somewhat smaller.
-North-easterly wind 5 meters per second.
+North-easterly wind 5-6 meters per second.
 The maximum day temperature is today about -1 degree, tomorrow about the same.
 The minimum night temperature is about -4 degrees.
 Probability of severe frost is on Sunday night 70 percent.
 The lowest relative humidity is tomorrow 70 percent.
-Total precipitation is today from forenoon about 4 millimeters, tomorrow about 2 millimeters.
+Total precipitation is today from forenoon about 5 millimeters, tomorrow about 2 millimeters.
 
 Expected weather from Sunday evening until Thursday morning:
 

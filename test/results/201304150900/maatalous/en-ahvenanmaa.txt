@@ -3,19 +3,19 @@ Weather report for Åland on Monday 9 o'clock
 Expected weather until Tuesday evening:
 
 Today from forenoon rain, in the evening fair weather.
-Tomorrow from the afternoon rain.
-Probability of precipitation is today 70 percent, tomorrow smaller.
+Tomorrow from the afternoon in many places rain.
+Probability of precipitation is today 60 percent, tomorrow smaller.
 Today southerly wind 9-13 meters per second, tomorrow 4-9 meters per second.
-The maximum day temperature is today 5...9 degrees, tomorrow higher.
+The maximum day temperature is today 4...9 degrees, tomorrow higher.
 The minimum night temperature is about 3 degrees.
 Probability of frost is on Tuesday night 30 percent.
 The lowest relative humidity is tomorrow 60 percent.
-Total precipitation is today from forenoon 1-3 millimeters, tomorrow about 1 millimeters.
+Total precipitation is today from forenoon 1-3 millimeters, tomorrow 0-1 millimeters.
 
 Expected weather from Tuesday evening until Saturday morning:
 
 The weather is unstable.
-Daily maximum temperature is 7...13 degrees, nightly minimum temperature about 4 degrees.
+Daily maximum temperature is 5...13 degrees, nightly minimum temperature about 4 degrees.
 
 From Tuesday morning for the next five days:
 

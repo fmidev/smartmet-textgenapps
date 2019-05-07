@@ -2,7 +2,8 @@ Weather report for Southern Savonia on Monday 9 o'clock
 
 Expected weather until Tuesday evening:
 
-From Monday onwards intermittent rain.
+Today mostly fair weather.
+Tomorrow in some places rain.
 Probability of precipitation is today 60 percent, tomorrow smaller.
 South-westerly wind 3-9 meters per second.
 The maximum day temperature is today 5...8 degrees, tomorrow about the same.

@@ -3,7 +3,7 @@ Weather report for Southern Ostrobothnia on Thursday 7 o'clock
 Expected weather until Friday evening:
 
 Today cloudy or partly cloudy.
-Tomorrow mostly cloudy, from the evening in many places rain or sleet.
+Tomorrow cloudy or partly cloudy, from the evening in many places light showers.
 Probability of precipitation is today 20 percent, tomorrow greater.
 Today westerly wind 2-3 meters per second, tomorrow 5-6 meters per second.
 The maximum day temperature is today 6...8 degrees, tomorrow about the same.

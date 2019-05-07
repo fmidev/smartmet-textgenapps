@@ -9,8 +9,8 @@ Dagens högsta temperatur är i morgon -1...-3 grader, följande dag ungefär de
 Nattens lägsta temperatur är -5...-10 grader, natten mot fredagen något högre.
 Nederbördssumman för de följande 24 timmar är 0 millimeter.
 Vägtemperaturen är i natt -6...-12 grader, i morgon på dagen -2...-11 grader, på natten -5...-10 grader.
-På kvällen är vägarna allmänt täckta av rimfrost, från och med natten är vägarna flerstädes täckta av rimfrost.
-I morgon på dagen är vägarna lokalt täckta av rimfrost.
+På kvällen är vägarna allmänt täckta av rimfrost, på natten är vägarna flerstädes täckta av rimfrost.
+I morgon bitti är vägarna allmänt täckta av rimfrost, på dagen är vägarna lokalt täckta av rimfrost.
 
 Utsikter från och med fredag kväll till tisdag morgon:
 

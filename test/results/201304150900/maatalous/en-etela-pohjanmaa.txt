@@ -5,12 +5,12 @@ Expected weather until Tuesday evening:
 Today from the morning rain.
 Tomorrow mostly cloudy, before midnight in many places rain.
 Probability of precipitation is today 70 percent, tomorrow significantly smaller.
-Today south-westerly wind 4-9 meters per second, tomorrow 3-6 meters per second.
-The maximum day temperature is today 5...8 degrees, tomorrow somewhat higher.
+Today southerly wind 4-9 meters per second, tomorrow 3-6 meters per second.
+The maximum day temperature is today 5...8 degrees, tomorrow higher.
 The minimum night temperature is 1...4 degrees.
 Probability of frost is on Tuesday night 40 percent.
 The lowest relative humidity is tomorrow 70 percent.
-Total precipitation is today from forenoon 1-5 millimeters.
+Total precipitation is today from forenoon 1-4 millimeters.
 
 Expected weather from Tuesday evening until Saturday morning:
 

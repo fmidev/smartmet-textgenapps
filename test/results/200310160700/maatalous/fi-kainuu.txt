@@ -5,17 +5,17 @@ Odotettavissa perjantai-iltaan asti:
 Tänään pilvistä.
 Huomenna enimmäkseen poutaa.
 Sateen todennäköisyys on tänään 50 prosenttia, huomenna suurempi.
-Tänään länsituulta 3-4 metriä sekunnissa, huomenna 6-7 metriä sekunnissa.
+Tänään länsituulta 3-4 metriä sekunnissa, huomenna 5-7 metriä sekunnissa.
 Päivän ylin lämpötila on tänään 4...6 astetta, huomenna suunnilleen sama.
-Yön alin lämpötila on 2...4 astetta.
+Yön alin lämpötila on noin 3 astetta.
 Hallan todennäköisyys on perjantain vastaisena yönä 20 prosenttia.
-Alin suhteellinen kosteus on huomenna 80 prosenttia.
+Alin suhteellinen kosteus on huomenna 70 prosenttia.
 Sadesumma on huomenna 0-1 millimetriä.
 
 Odotettavissa perjantai-illasta tiistaiaamuun:
 
 Sää on epävakaista.
-Päivien ylin lämpötila on 0...-1 astetta, öiden alin lämpötila noin -4 astetta.
+Päivien ylin lämpötila on -1...+1 astetta, öiden alin lämpötila noin -4 astetta.
 
 Perjantaiaamusta alkavan viiden vuorokauden sää:
 

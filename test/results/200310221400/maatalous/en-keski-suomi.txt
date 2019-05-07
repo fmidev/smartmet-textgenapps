@@ -2,12 +2,12 @@ Weather report for Central Finland on Wednesday 14 o'clock
 
 Expected weather until Friday evening:
 
-Tomorrow partly cloudy.
-On Friday mostly cloudy, before midnight in many places snowfall.
+Tomorrow mostly partly cloudy.
+On Friday mostly cloudy, before midnight in many places light snowfall.
 Probability of precipitation is tomorrow 30 percent, the following day somewhat greater.
 Tomorrow variable wind 1-2 meters per second, on Friday south-westerly wind 2-4 meters per second.
 The maximum day temperature is tomorrow 0...-2 degrees, the following day about the same.
-The minimum night temperature is -7...-9 degrees, on Friday night about the same.
+The minimum night temperature is -6...-9 degrees, on Friday night about the same.
 The lowest relative humidity is tomorrow 60 percent, on Friday the same.
 
 Expected weather from Friday evening until Tuesday morning:

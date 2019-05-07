@@ -22,5 +22,5 @@ From Friday morning for the next five days:
 
 Mean temperature -1 degrees.
 Mean maximum temperature 2 degrees.
-Mean minimum temperature -3 degrees.
+Mean minimum temperature -2 degrees.
 Total precipitation 2-5 millimeters.

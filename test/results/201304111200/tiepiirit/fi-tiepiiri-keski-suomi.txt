@@ -8,9 +8,9 @@ Lauantaina enimmäkseen poutaa.
 Kaakkoistuulta 2-4 metriä sekunnissa, lauantaina 3-6 metriä sekunnissa.
 Päivän ylin lämpötila on huomenna 2...4 astetta, seuraavana päivänä suunnilleen sama.
 Yön alin lämpötila on 0...-7 astetta, lauantain vastaisena yönä korkeampi.
-Ankaran hallan todennäköisyys on perjantain vastaisena yönä 80 prosenttia, seuraavana yönä 20 prosenttia.
+Ankaran hallan todennäköisyys on perjantain vastaisena yönä 70 prosenttia, seuraavana yönä 20 prosenttia.
 Ensimmäisen 12 tunnin sademäärä on 0 millimetriä, seuraavan 12 tunnin 0-2 millimetriä.
-Tienpintalämpötila on tänään 7...28 astetta, yöllä -9...+12 astetta, huomenna päivällä -8...+12 astetta.
+Tienpintalämpötila on tänään 7...28 astetta, yöllä -9...+12 astetta, huomenna päivällä -7...+11 astetta.
 Illalla tiet ovat kuivia, yöstä alkaen teillä on paikoin lunta.
 Huomenna päivällä tiet ovat kuivia.
 

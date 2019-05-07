@@ -5,9 +5,9 @@ Expected weather until Saturday evening:
 Today and tomorrow variable cloudiness.
 On Saturday from the morning rain or snowfall.
 Mainly easterly wind 1-5 meters per second, on Saturday 3-8 meters per second.
-The maximum day temperature is tomorrow 0...+7 degrees, the following day somewhat lower.
-The minimum night temperature is -2...-7 degrees, on Saturday night higher.
-Probability of severe frost is on Friday night 90 percent, the following night 30 percent.
+The maximum day temperature is tomorrow 1...7 degrees, the following day somewhat lower.
+The minimum night temperature is -1...-7 degrees, on Saturday night higher.
+Probability of severe frost is on Friday night 90 percent, the following night 20 percent.
 Total precipitation for the next 24 hours is 0 millimeters.
 The road temperature is today 4...31 degrees, at night -10...+14 degrees, tomorrow during the day -10...+16 degrees.
 From the evening the roads are dry.

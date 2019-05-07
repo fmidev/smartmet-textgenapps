@@ -2,7 +2,7 @@ Weather report for Bay of Bothnia on Monday 15 o'clock
 
 Expected weather until Tuesday evening:
 
-Variable wind 1-4 m/s.
+Variable wind 0-4 m/s.
 Gradually strengthening easterly wind from early Tuesday morning, in the afternoon 4-8 m/s, at its strongest 10 m/s.
 
 
