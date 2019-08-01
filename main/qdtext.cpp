@@ -6,12 +6,15 @@
 // ======================================================================
 
 #include <boost/algorithm/string.hpp>
+#include <boost/date_time/posix_time/posix_time.hpp>
 #include <boost/foreach.hpp>
 #include <boost/locale.hpp>
 #include <boost/tokenizer.hpp>
 #include <calculator/Config.h>
 #include <calculator/Settings.h>
 #include <calculator/WeatherArea.h>
+#include <fmt/format.h>
+#include <fmt/time.h>
 #include <newbase/NFmiCmdLine.h>
 #include <newbase/NFmiFileSystem.h>
 #include <newbase/NFmiSettings.h>
@@ -57,14 +60,20 @@ static TextMap textMap;
  */
 // ----------------------------------------------------------------------
 
-void write_forecasts(const string& theOutDir, const string& theFilenames, const string& theText)
+void write_forecasts(const string& theOutDir,
+                     const string& theFilenames,
+                     const string& theText,
+                     const boost::posix_time::ptime& theTime)
 {
   MessageLogger log("write_forecasts");
   const vector<string> filenames = NFmiStringTools::Split(theFilenames);
 
+  auto timeinfo = to_tm(theTime);
+
   for (const auto& file : filenames)
   {
-    const string filename = std::string(theOutDir).append("/").append(file);
+    string filename = std::string(theOutDir).append("/").append(file);
+    filename = fmt::format(filename, timeinfo);
 
     log << "writing " << filename << endl;
 
@@ -245,6 +254,8 @@ void make_forecasts()
     if (!log_message.empty()) log << log_message << endl;
   }
 
+  auto now = boost::posix_time::second_clock::universal_time();
+
   for (const auto& areaname : areas)
   {
     log << "Area " + areaname << endl;
@@ -315,7 +326,7 @@ void make_forecasts()
         cout << string_stream.str();
     }
     else
-      write_forecasts(outdir, outfile, string_stream.str());
+      write_forecasts(outdir, outfile, string_stream.str(), now);
   }
 }
 

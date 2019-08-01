@@ -60,6 +60,7 @@ LIBS = -L$(libdir) \
 	-lsmartmet-newbase \
 	-L$(libdir)/mysql -lmysqlpp \
 	-lgdal \
+	-lfmt \
 	-lboost_iostreams \
 	-lboost_locale \
 	-lboost_system
