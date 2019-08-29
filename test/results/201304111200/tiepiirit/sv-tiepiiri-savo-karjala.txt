@@ -10,7 +10,7 @@ Dagens högsta temperatur är i morgon 1...4 grader, följande dag ungefär dens
 Nattens lägsta temperatur är -1...-7 grader, natten mot lördagen högre.
 Sannolikheten för sträng nattfrost är natten mot fredagen 80 procent, följande natt 30 procent.
 Nederbördssumman för de första 12 timmar är 0-1 millimeter, för de följande 12 timmar 0-3 millimeter.
-Vägtemperaturen är i dag 2...28 grader, på natten -9...+11 grader, i morgon på dagen -9...+10 grader.
+Vägtemperaturen är i dag 2...27 grader, på natten -10...+11 grader, i morgon på dagen -10...+11 grader.
 På kvällen är vägarna torra, på natten är vägarna lokalt täckta av snö.
 I morgon bitti är vägarna lokalt isiga, på dagen är vägarna flerstädes torra.
 

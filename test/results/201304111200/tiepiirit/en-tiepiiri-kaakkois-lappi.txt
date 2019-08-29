@@ -3,7 +3,7 @@ Weather report for South Eastern Lapland on Thursday 12 o'clock
 Expected weather until Saturday evening:
 
 Today and tomorrow variable cloudiness.
-On Saturday cloudy, before midnight in many places snowfall.
+On Saturday cloudy, before midnight in some places snowfall.
 Southerly wind 2-4 meters per second.
 The maximum day temperature is tomorrow 2...4 degrees, the following day about the same.
 The minimum night temperature is -8...-12 degrees, on Saturday night significantly higher.

@@ -9,7 +9,7 @@ The maximum day temperature is today 4...8 degrees, tomorrow somewhat lower.
 The minimum night temperature is 2...6 degrees.
 Probability of frost is on Friday night 30 percent.
 The lowest relative humidity is tomorrow 70 percent.
-Total precipitation is today from the morning 0-3 millimeters, tomorrow 1-6 millimeters.
+Total precipitation is today from the morning 0-4 millimeters, tomorrow 1-6 millimeters.
 
 Expected weather from Friday evening until Tuesday morning:
 

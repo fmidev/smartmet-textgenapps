@@ -9,7 +9,7 @@ Probability of precipitation is tomorrow 20 percent, the following day the same.
 Tomorrow and the following day north-westerly wind 1-2 meters per second.
 The maximum day temperature is tomorrow about -1 degree, the following day about the same.
 The minimum night temperature is about -6 degrees, on Friday night about the same.
-Probability of severe frost is on Thursday night 90 percent, the following night 100 percent.
+Probability of severe frost is on Thursday night 90 percent, the following night the same.
 The lowest relative humidity is tomorrow 70 percent, on Friday somewhat smaller.
 
 Expected weather from Friday evening until Tuesday morning:
@@ -19,7 +19,7 @@ Daily maximum temperature is about -1 degree, nightly minimum temperature about 
 
 From Thursday morning for the next five days:
 
-Mean temperature -3 degrees.
+Mean temperature -4 degrees.
 Mean maximum temperature -1 degrees.
 Mean minimum temperature -5 degrees.
 Total precipitation 10-20 millimeters.

@@ -4,15 +4,15 @@ Weather report on Monday 9 o'clock
 
 Expected weather until Tuesday evening:
 
-Today cloudy or partly cloudy, in the evening and at night in some places sleet or rain.
+Today cloudy or partly cloudy, in the evening and at night in some places snow or rain.
 Tomorrow cloudy.
 Probability of precipitation is today 70 percent, tomorrow somewhat smaller.
-Today south-westerly wind 5 meters per second, tomorrow 3 meters per second.
-The maximum day temperature is today about 5 degrees, tomorrow about the same.
+South-westerly wind 3-4 meters per second.
+The maximum day temperature is today about 6 degrees, tomorrow about the same.
 The minimum night temperature is about 1 degree.
-Probability of severe frost is on Tuesday night 10 percent.
+Probability of severe frost is on Tuesday night 20 percent.
 The lowest relative humidity is tomorrow 80 percent.
-Total precipitation is today from forenoon about 4 millimeters, tomorrow about 3 millimeters.
+Total precipitation is today from forenoon about 3 millimeters, tomorrow the same.
 
 Expected weather from Tuesday evening until Saturday morning:
 

@@ -2,14 +2,14 @@ Weather report for Southern Ostrobothnia on Saturday 9 o'clock
 
 Expected weather until Sunday evening:
 
-Today from forenoon in many places snowfall, tomorrow cloudy or partly cloudy.
+From Saturday onwards intermittent rain.
 Probability of precipitation is today 70 percent, tomorrow smaller.
 Today mainly north-easterly wind 5-9 meters per second, tomorrow 4-6 meters per second.
 The maximum day temperature is today 0...-2 degrees, tomorrow about the same.
-The minimum night temperature is -4...-7 degrees.
+The minimum night temperature is -3...-7 degrees.
 Probability of severe frost is on Sunday night 80 percent.
 The lowest relative humidity is tomorrow 60 percent.
-Total precipitation is today from forenoon 0-2 millimeters, tomorrow the same.
+Total precipitation is today from forenoon 0-3 millimeters, tomorrow 0-1 millimeters.
 
 Expected weather from Sunday evening until Thursday morning:
 

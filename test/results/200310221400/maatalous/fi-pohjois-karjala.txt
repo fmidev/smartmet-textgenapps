@@ -2,7 +2,8 @@ Sääennuste Pohjois-Karjalaan keskiviikkona kello 14
 
 Odotettavissa perjantai-iltaan asti:
 
-Huomenna ja perjantaina pilvistä tai puolipilvistä.
+Huomenna pilvistä tai puolipilvistä.
+Perjantaina pilvistä.
 Sateen todennäköisyys on huomenna 30 prosenttia, seuraavana päivänä sama.
 Huomenna ja seuraavana päivänä länsituulta 1-3 metriä sekunnissa.
 Päivän ylin lämpötila on huomenna noin -2 astetta, seuraavana päivänä suunnilleen sama.

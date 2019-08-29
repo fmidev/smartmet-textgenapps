@@ -4,8 +4,9 @@ Sääennuste keskiviikkona kello 14
 
 Odotettavissa perjantai-iltaan asti:
 
-Huomenna ja perjantaina pilvistä tai puolipilvistä.
-Sateen todennäköisyys on huomenna 30 prosenttia, seuraavana päivänä sama.
+Huomenna pilvistä tai puolipilvistä.
+Perjantaina pilvistä tai puolipilvistä.
+Sateen todennäköisyys on huomenna 30 prosenttia, seuraavana päivänä hieman suurempi.
 Huomenna itätuulta 3 metriä sekunnissa, perjantaina 5 metriä sekunnissa.
 Päivän ylin lämpötila on huomenna noin 0 astetta, seuraavana päivänä hieman korkeampi.
 Yön alin lämpötila on noin -7 astetta, perjantain vastaisena yönä korkeampi.
@@ -19,7 +20,7 @@ Päivien ylin lämpötila on noin 1 aste, öiden alin lämpötila noin -2 astett
 
 Torstaiaamusta alkavan viiden vuorokauden sää:
 
-Keskilämpötila 0 astetta.
+Keskilämpötila -1 astetta.
 Keskimääräinen ylin lämpötila 1 astetta.
-Keskimääräinen alin lämpötila -2 astetta.
+Keskimääräinen alin lämpötila -3 astetta.
 Sadesumma 10-20 millimetriä.

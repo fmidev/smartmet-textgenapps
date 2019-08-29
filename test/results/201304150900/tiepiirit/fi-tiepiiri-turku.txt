@@ -8,7 +8,7 @@ Tänään etelätuulta 4-13 metriä sekunnissa, huomenna 3-10 metriä sekunnissa
 Päivän ylin lämpötila on tänään 3...7 astetta, huomenna suunnilleen sama.
 Yön alin lämpötila on 0...+4 astetta.
 Hallan todennäköisyys on tiistain vastaisena yönä 40 prosenttia.
-Ensimmäisen 12 tunnin sademäärä on 0-7 millimetriä, seuraavan 12 tunnin 0-2 millimetriä.
+Ensimmäisen 12 tunnin sademäärä on 0-7 millimetriä, seuraavan 12 tunnin 0-1 millimetriä.
 Tienpintalämpötila on tänään 2...18 astetta, yöllä -1...+6 astetta, huomenna päivällä -1...+20 astetta.
 Aamupäivästä alkaen tiet ovat paikoin kosteita, yöstä alkaen tiet ovat kuivia.
 

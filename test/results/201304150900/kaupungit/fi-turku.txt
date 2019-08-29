@@ -4,15 +4,15 @@ Sääennuste maanantaina kello 9
 
 Odotettavissa tiistai-iltaan asti:
 
-Tänään aamupäivästä alkaen paikoin sadetta.
-Huomenna pilvistä, iltapäivästä alkaen paikoin vähäisiä kuuroja.
+Tänään aamusta alkaen paikoin sadetta.
+Huomenna pilvistä, illalla paikoin vähäisiä kuuroja.
 Sateen todennäköisyys on tänään 80 prosenttia, huomenna pienempi.
-Tänään etelätuulta 7 metriä sekunnissa, huomenna 5 metriä sekunnissa.
+Tänään etelätuulta 6 metriä sekunnissa, huomenna 4 metriä sekunnissa.
 Päivän ylin lämpötila on tänään noin 5 astetta, huomenna suunnilleen sama.
-Yön alin lämpötila on noin 3 astetta.
+Yön alin lämpötila on noin 2 astetta.
 Hallan todennäköisyys on tiistain vastaisena yönä 40 prosenttia.
 Alin suhteellinen kosteus on huomenna 90 prosenttia.
-Sadesumma on tänään aamupäivästä alkaen noin 4 millimetriä, huomenna noin 1 millimetriä.
+Sadesumma on tänään aamupäivästä alkaen noin 6 millimetriä, huomenna noin 1 millimetriä.
 
 Odotettavissa tiistai-illasta lauantaiaamuun:
 
@@ -21,7 +21,7 @@ Päivien ylin lämpötila on noin 6 astetta, öiden alin lämpötila noin 3 aste
 
 Tiistaiaamusta alkavan viiden vuorokauden sää:
 
-Keskilämpötila 4 astetta.
-Keskimääräinen ylin lämpötila 5 astetta.
+Keskilämpötila 3 astetta.
+Keskimääräinen ylin lämpötila 6 astetta.
 Keskimääräinen alin lämpötila 2 astetta.
 Sadesumma 5-10 millimetriä.

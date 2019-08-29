@@ -14,7 +14,7 @@ Alin suhteellinen kosteus on huomenna 80 prosenttia.
 Odotettavissa perjantai-illasta tiistaiaamuun:
 
 Sää on epävakaista.
-Päivien ylin lämpötila on 0...+2 astetta, öiden alin lämpötila noin -2 astetta.
+Päivien ylin lämpötila on 0...+2 astetta, öiden alin lämpötila -2...-4 astetta.
 
 Perjantaiaamusta alkavan viiden vuorokauden sää:
 

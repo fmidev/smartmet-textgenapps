@@ -7,8 +7,8 @@ Expected weather until Saturday evening:
 Today and tomorrow variable cloudiness.
 On Saturday from the noon in some places rain or snowfall.
 Probability of precipitation is tomorrow 10 percent, the following day significantly greater.
-South-easterly wind 3 meters per second.
-The maximum day temperature is tomorrow about 6 degrees, the following day lower.
+Easterly wind 2-3 meters per second.
+The maximum day temperature is tomorrow about 7 degrees, the following day lower.
 The minimum night temperature is about -7 degrees, on Saturday night significantly higher.
 Probability of severe frost is on Friday night 100 percent, the following night 20 percent.
 The lowest relative humidity is tomorrow 70 percent, on Saturday greater.
@@ -22,6 +22,6 @@ Daily maximum temperature is about 4 degrees, nightly minimum temperature about 
 From Friday morning for the next five days:
 
 Mean temperature 2 degrees.
-Mean maximum temperature 5 degrees.
+Mean maximum temperature 4 degrees.
 Mean minimum temperature 1 degrees.
 Total precipitation 10-20 millimeters.

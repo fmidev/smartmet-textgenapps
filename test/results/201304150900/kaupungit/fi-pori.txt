@@ -4,12 +4,12 @@ Sääennuste maanantaina kello 9
 
 Odotettavissa tiistai-iltaan asti:
 
-Tänään enimmäkseen poutaa.
+Tänään aamupäivästä alkaen paikoin sadetta, illalla poutaa.
 Huomenna pilvistä tai puolipilvistä, illasta alkaen paikoin sadetta.
 Sateen todennäköisyys on tänään 80 prosenttia, huomenna huomattavasti pienempi.
-Tänään etelätuulta 8 metriä sekunnissa, huomenna 5 metriä sekunnissa.
+Tänään etelätuulta 7 metriä sekunnissa, huomenna 5 metriä sekunnissa.
 Päivän ylin lämpötila on tänään noin 6 astetta, huomenna korkeampi.
-Yön alin lämpötila on noin 2 astetta.
+Yön alin lämpötila on noin 1 aste.
 Ankaran hallan todennäköisyys on tiistain vastaisena yönä 10 prosenttia.
 Alin suhteellinen kosteus on huomenna 80 prosenttia.
 Sadesumma on tänään aamupäivästä alkaen noin 3 millimetriä.
@@ -17,11 +17,11 @@ Sadesumma on tänään aamupäivästä alkaen noin 3 millimetriä.
 Odotettavissa tiistai-illasta lauantaiaamuun:
 
 Sää on epävakaista.
-Päivien ylin lämpötila on noin 8 astetta, öiden alin lämpötila noin 3 astetta.
+Päivien ylin lämpötila on noin 8 astetta, öiden alin lämpötila noin 2 astetta.
 
 Tiistaiaamusta alkavan viiden vuorokauden sää:
 
 Keskilämpötila 4 astetta.
 Keskimääräinen ylin lämpötila 8 astetta.
 Keskimääräinen alin lämpötila 2 astetta.
-Sadesumma 10-20 millimetriä.
+Sadesumma yli 20 millimetriä.

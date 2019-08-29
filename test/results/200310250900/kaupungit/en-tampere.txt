@@ -4,13 +4,12 @@ Weather report on Saturday 9 o'clock
 
 Expected weather until Sunday evening:
 
-Today cloudy, in the forenoon in some places light snowfall.
+Today cloudy, at noon in some places light snowfall.
 Tomorrow cloudy or partly cloudy.
 Probability of precipitation is today 60 percent, tomorrow smaller.
 Northerly wind 5 meters per second.
 The maximum day temperature is today about -1 degree, tomorrow somewhat lower.
-The minimum night temperature is about -6 degrees.
-Probability of severe frost is on Sunday night 90 percent.
+The minimum night temperature is about -7 degrees.
 The lowest relative humidity is tomorrow 60 percent.
 Total precipitation is today from forenoon about 1 millimeters.
 

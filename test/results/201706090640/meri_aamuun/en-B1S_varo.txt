@@ -7,7 +7,7 @@ Variable wind 2-6 m/s.
 
 The weather is half cloudy and fair.
 On Friday afternoon light rain.
-In the evening and at night the weather is half cloudy or cloudy and fair.
+In the evening and at night the weather is half cloudy and fair.
 After midnight fog in some places.
 
 

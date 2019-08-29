@@ -19,6 +19,6 @@ Päivien ylin lämpötila on noin 1 aste, öiden alin lämpötila noin -4 astett
 Perjantaiaamusta alkavan viiden vuorokauden sää:
 
 Keskilämpötila -1 astetta.
-Keskimääräinen ylin lämpötila 1 astetta.
+Keskimääräinen ylin lämpötila 2 astetta.
 Keskimääräinen alin lämpötila -4 astetta.
 Sadesumma 10-20 millimetriä.

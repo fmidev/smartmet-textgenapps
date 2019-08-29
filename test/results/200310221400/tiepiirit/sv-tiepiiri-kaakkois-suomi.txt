@@ -3,11 +3,10 @@ Väderrapport för Sydöstra Finlands vägdistrikt onsdag klockan 14
 Utsikter till fredag kväll:
 
 I morgon och på fredagen mulet eller halvmulet.
-I morgon varierande vind 1-5 meter i sekunden, på fredagen vind omkring väst.
+I morgon varierande vind 1-4 meter i sekunden, på fredagen vind omkring väst.
 Dagens högsta temperatur är i morgon -2...+1 grader, följande dag ungefär densamma.
 Nattens lägsta temperatur är -5...-9 grader, natten mot fredagen ungefär densamma.
-Sannolikheten för sträng nattfrost är natten mot torsdagen 100 procent, följande natt 90 procent.
-Nederbördssumman för de första 12 timmar är 0-1 millimeter, för de följande 12 timmar 0-1 millimeter.
+Nederbördssumman för de första 12 timmar är 0-1 millimeter, för de följande 12 timmar 0 millimeter.
 Vägtemperaturen är i natt -1...-11 grader, i morgon på dagen -11...+4 grader, på natten -2...-12 grader.
 På kvällen är vägarna torra, på natten är vägarna lokalt täckta av rimfrost.
 I morgon bitti är vägarna flerstädes täckta av rimfrost, på dagen är vägarna lokalt täckta av rimfrost.
@@ -19,7 +18,7 @@ Dagens maximi temperaturer är -2...+1 grader, nattens minimi temperaturer -1...
 
 Från och med torsdag morgon för de följande fem dygnen:
 
-Medeltemperaturen -3 grader.
-Maximitemperaturen i medeltal -1 grader.
+Medeltemperaturen -4 grader.
+Maximitemperaturen i medeltal -2 grader.
 Minimitemperaturen i medeltal -5 grader.
-Nederbördssumman 10-20 millimeter.
+Nederbördssumman 5-10 millimeter.

@@ -14,7 +14,7 @@ The lowest relative humidity is tomorrow 80 percent.
 Expected weather from Friday evening until Tuesday morning:
 
 The weather is unstable.
-Daily maximum temperature is 0...+2 degrees, nightly minimum temperature about -2 degrees.
+Daily maximum temperature is 0...+2 degrees, nightly minimum temperature -2...-4 degrees.
 
 From Friday morning for the next five days:
 

@@ -5,7 +5,7 @@ Weather report on Wednesday 14 o'clock
 Expected weather until Friday evening:
 
 Tomorrow and on Friday cloudy or partly cloudy.
-Probability of precipitation is tomorrow 30 percent, the following day the same.
+Probability of precipitation is tomorrow 30 percent, the following day somewhat greater.
 Tomorrow westerly wind 1 meters per second, on Friday 3 meters per second.
 The maximum day temperature is tomorrow about -2 degrees, the following day about the same.
 The minimum night temperature is about -6 degrees, on Friday night about the same.
@@ -22,4 +22,4 @@ From Thursday morning for the next five days:
 Mean temperature -4 degrees.
 Mean maximum temperature -2 degrees.
 Mean minimum temperature -6 degrees.
-Total precipitation 10-20 millimeters.
+Total precipitation 5-10 millimeters.

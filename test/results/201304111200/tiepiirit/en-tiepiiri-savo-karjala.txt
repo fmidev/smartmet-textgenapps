@@ -10,7 +10,7 @@ The maximum day temperature is tomorrow 1...4 degrees, the following day about t
 The minimum night temperature is -1...-7 degrees, on Saturday night higher.
 Probability of severe frost is on Friday night 80 percent, the following night 30 percent.
 Total precipitation for the first 12 hours is 0-1 millimeters, for the following 12 hours 0-3 millimeters.
-The road temperature is today 2...28 degrees, at night -9...+11 degrees, tomorrow during the day -9...+10 degrees.
+The road temperature is today 2...27 degrees, at night -10...+11 degrees, tomorrow during the day -10...+11 degrees.
 In the evening the roads are dry, at night the roads are in some places covered by snow.
 Tomorrow morning the roads are in some places icy, during the day the roads are in many places dry.
 

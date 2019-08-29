@@ -6,12 +6,12 @@ Odotettavissa perjantai-iltaan asti:
 
 Torstaista alkaen ajoittain sadetta.
 Sateen todennäköisyys on tänään 60 prosenttia, huomenna sama.
-Tänään länsituulta 3 metriä sekunnissa, huomenna 6 metriä sekunnissa.
-Päivän ylin lämpötila on tänään noin 7 astetta, huomenna alempi.
+Tänään länsituulta 4 metriä sekunnissa, huomenna 6 metriä sekunnissa.
+Päivän ylin lämpötila on tänään noin 6 astetta, huomenna hieman alempi.
 Yön alin lämpötila on noin 4 astetta.
 Hallan todennäköisyys on perjantain vastaisena yönä 30 prosenttia.
 Alin suhteellinen kosteus on huomenna 70 prosenttia.
-Sadesumma on tänään aamusta alkaen noin 1 millimetriä, huomenna noin 5 millimetriä.
+Sadesumma on tänään aamusta alkaen noin 2 millimetriä, huomenna noin 5 millimetriä.
 
 Odotettavissa perjantai-illasta tiistaiaamuun:
 
@@ -20,7 +20,7 @@ Päivien ylin lämpötila on noin -1 aste, öiden alin lämpötila noin -5 astet
 
 Perjantaiaamusta alkavan viiden vuorokauden sää:
 
-Keskilämpötila -2 astetta.
+Keskilämpötila -3 astetta.
 Keskimääräinen ylin lämpötila 0 astetta.
 Keskimääräinen alin lämpötila -5 astetta.
 Sadesumma 5-10 millimetriä.

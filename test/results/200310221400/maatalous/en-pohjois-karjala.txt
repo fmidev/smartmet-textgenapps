@@ -2,7 +2,8 @@ Weather report for Northern Karelia on Wednesday 14 o'clock
 
 Expected weather until Friday evening:
 
-Tomorrow and on Friday cloudy or partly cloudy.
+Tomorrow cloudy or partly cloudy.
+On Friday cloudy.
 Probability of precipitation is tomorrow 30 percent, the following day the same.
 Tomorrow and the following day westerly wind 1-3 meters per second.
 The maximum day temperature is tomorrow about -2 degrees, the following day about the same.

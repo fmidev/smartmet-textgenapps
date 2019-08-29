@@ -4,7 +4,7 @@ Expected weather until Friday evening:
 
 Tomorrow and on Friday cloudy or partly cloudy.
 Probability of precipitation is tomorrow 10 percent, the following day greater.
-Tomorrow and the following day north-easterly wind 1-2 meters per second.
+Tomorrow and the following day mainly north-easterly wind 1-2 meters per second.
 The maximum day temperature is tomorrow about -2 degrees, the following day somewhat higher.
 The minimum night temperature is -9...-11 degrees, on Friday night about the same.
 The lowest relative humidity is tomorrow 60 percent, on Friday the same.

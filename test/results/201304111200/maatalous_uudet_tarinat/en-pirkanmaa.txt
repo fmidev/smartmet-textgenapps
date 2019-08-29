@@ -2,5 +2,5 @@ Weather report for Pirkanmaa on Thursday 12 o'clock
 
 Expected weather until Saturday evening:
 
-The maximum day temperature is about 5 degrees, tomorrow about the same.
-The minimum night temperature is 0...-4 degrees.
+The maximum day temperature is near 5 degrees, tomorrow about the same.
+The minimum night temperature is 0...-5 degrees.

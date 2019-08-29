@@ -4,9 +4,9 @@ Odotettavissa perjantai-iltaan asti:
 
 Huomenna pilvistä tai puolipilvistä.
 Perjantaina iltapäivästä alkaen lumisadetta.
-Huomenna länsituulta 1-4 metriä sekunnissa, perjantaina 3-5 metriä sekunnissa.
-Päivän ylin lämpötila on huomenna 0...-2 astetta, seuraavana päivänä suunnilleen sama.
-Yön alin lämpötila on -6...-9 astetta, perjantain vastaisena yönä suunnilleen sama.
+Huomenna ja seuraavana päivänä länsituulta 2-5 metriä sekunnissa.
+Päivän ylin lämpötila on huomenna noin -2 astetta, seuraavana päivänä suunnilleen sama.
+Yön alin lämpötila on -6...-9 astetta, perjantain vastaisena yönä hieman korkeampi.
 Ankaran hallan todennäköisyys on torstain vastaisena yönä 100 prosenttia, seuraavana yönä 90 prosenttia.
 Seuraavan 24 tunnin sademäärä on 0 millimetriä.
 Tienpintalämpötila on ensi yönä -4...-12 astetta, huomenna päivällä -11...+2 astetta, yöllä -4...-9 astetta.
@@ -16,7 +16,7 @@ Huomisaamusta alkaen teillä on paikoin kuuraa.
 Odotettavissa perjantai-illasta tiistaiaamuun:
 
 Sää on epävakaista.
-Päivien ylin lämpötila on noin -3 astetta, öiden alin lämpötila -6...-10 astetta.
+Päivien ylin lämpötila on noin -3 astetta, öiden alin lämpötila -7...-10 astetta.
 
 Torstaiaamusta alkavan viiden vuorokauden sää:
 
