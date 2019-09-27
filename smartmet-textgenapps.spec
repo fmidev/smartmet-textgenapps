@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 19.8.1
+Version: 19.9.27
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -13,18 +13,18 @@ BuildRequires: rpm-build
 BuildRequires: gcc-c++
 BuildRequires: make
 BuildRequires: boost-devel
-BuildRequires: smartmet-library-calculator-devel >= 18.11.24
-BuildRequires: smartmet-library-newbase-devel >= 19.7.29
-BuildRequires: smartmet-library-textgen-devel >= 18.10.1
+BuildRequires: smartmet-library-calculator-devel >= 19.9.26
+BuildRequires: smartmet-library-newbase-devel >= 19.9.26
+BuildRequires: smartmet-library-textgen-devel >= 19.9.26
 BuildRequires: mysql++-devel
 BuildRequires: mysql-devel
 BuildRequires: zlib-devel
 BuildRequires: gdal-devel
 BuildRequires: fmt-devel
-Requires: smartmet-library-calculator >= 18.11.24
-Requires: smartmet-library-newbase >= 19.7.29
-Requires: smartmet-library-textgen >= 18.10.1
-Requires: smartmet-library-macgyver >= 19.7.29
+Requires: smartmet-library-calculator >= 19.9.26
+Requires: smartmet-library-newbase >= 19.9.26
+Requires: smartmet-library-textgen >= 19.9.26
+Requires: smartmet-library-macgyver >= 19.9.26
 Requires: boost-iostreams
 Requires: boost-locale
 Requires: boost-system
@@ -63,6 +63,12 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Fri Sep 27 2019 Mika Heiskanen <mika.heiskanen@fmi.fi> - 19.9.27-1.fmi
+- Repackaged due to ABI changes in SmartMet libraries
+
+* Mon Sep  2 2019 Mika Heiskanen <mika.heiskanen@fmi.fi> - 19.9.2-1.fmi
+- Repackaged since TextGen::Dictionary ABI changed
+
 * Thu Aug  1 2019 Mika Heiskanen <mika.heiskanen@fmi.fi> - 19.8.1-1.fmi
 - Filenames can now contain time formatting directives
 
