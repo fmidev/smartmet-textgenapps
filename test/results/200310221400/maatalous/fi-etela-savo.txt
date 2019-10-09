@@ -7,7 +7,7 @@ Sateen todennäköisyys on huomenna 20 prosenttia, seuraavana päivänä sama.
 Huomenna suunnaltaan vaihtelevaa tuulta 1 metriä sekunnissa, perjantaina länsituulta 2-3 metriä sekunnissa.
 Päivän ylin lämpötila on huomenna noin -2 astetta, seuraavana päivänä suunnilleen sama.
 Yön alin lämpötila on -6...-8 astetta, perjantain vastaisena yönä suunnilleen sama.
-Alin suhteellinen kosteus on huomenna 70 prosenttia, perjantaina hieman pienempi.
+Alin suhteellinen kosteus on huomenna 70 prosenttia, perjantaina hieman alempi.
 
 Odotettavissa perjantai-illasta tiistaiaamuun:
 

@@ -12,7 +12,7 @@ Kaakkoistuulta 4-5 metriä sekunnissa.
 Päivän ylin lämpötila on huomenna noin 3 astetta, seuraavana päivänä suunnilleen sama.
 Yön alin lämpötila on noin -1 aste, lauantain vastaisena yönä korkeampi.
 Ankaran hallan todennäköisyys on perjantain vastaisena yönä 30 prosenttia, seuraavana yönä 10 prosenttia.
-Alin suhteellinen kosteus on huomenna 80 prosenttia, lauantaina hieman suurempi.
+Alin suhteellinen kosteus on huomenna 80 prosenttia, lauantaina hieman korkeampi.
 Sadesumma on tänään keskipäivästä alkaen noin 1 millimetriä, huomenna noin 2 millimetriä, lauantaina noin 8 millimetriä.
 
 Odotettavissa lauantai-illasta keskiviikkoaamuun:
