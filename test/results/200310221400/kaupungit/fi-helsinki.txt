@@ -9,7 +9,7 @@ Sateen todennäköisyys on huomenna 20 prosenttia, seuraavana päivänä hieman 
 Huomenna ja seuraavana päivänä koillistuulta 3 metriä sekunnissa.
 Päivän ylin lämpötila on huomenna noin 0 astetta, seuraavana päivänä hieman korkeampi.
 Yön alin lämpötila on noin -6 astetta, perjantain vastaisena yönä suunnilleen sama.
-Alin suhteellinen kosteus on huomenna 70 prosenttia, perjantaina hieman pienempi.
+Alin suhteellinen kosteus on huomenna 70 prosenttia, perjantaina hieman alempi.
 
 Odotettavissa perjantai-illasta tiistaiaamuun:
 

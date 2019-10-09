@@ -9,7 +9,7 @@ Huomenna lounaistuulta 2-7 metriä sekunnissa, perjantaina 3-9 metriä sekunniss
 Päivän ylin lämpötila on huomenna -2...+2 astetta, seuraavana päivänä suunnilleen sama.
 Yön alin lämpötila on -5...-9 astetta, perjantain vastaisena yönä hieman korkeampi.
 Ankaran hallan todennäköisyys on torstain vastaisena yönä 100 prosenttia, seuraavana yönä 80 prosenttia.
-Alin suhteellinen kosteus on huomenna 60 prosenttia, perjantaina hieman suurempi.
+Alin suhteellinen kosteus on huomenna 60 prosenttia, perjantaina hieman korkeampi.
 Sadesumma on tänään iltapäivästä alkaen 0-1 millimetriä, huomenna sama, perjantaina 0-3 millimetriä.
 
 Odotettavissa perjantai-illasta tiistaiaamuun:

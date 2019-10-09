@@ -7,7 +7,7 @@ Probability of precipitation is tomorrow 20 percent, the following day the same.
 Tomorrow variable wind 1 meters per second, on Friday westerly wind 2-3 meters per second.
 The maximum day temperature is tomorrow about -2 degrees, the following day about the same.
 The minimum night temperature is -6...-8 degrees, on Friday night about the same.
-The lowest relative humidity is tomorrow 70 percent, on Friday somewhat smaller.
+The lowest relative humidity is tomorrow 70 percent, on Friday somewhat lower.
 
 Expected weather from Friday evening until Tuesday morning:
 

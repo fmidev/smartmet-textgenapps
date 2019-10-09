@@ -11,7 +11,7 @@ Easterly wind 3-4 meters per second.
 The maximum day temperature is tomorrow about 5 degrees, the following day about the same.
 The minimum night temperature is about 0 degrees, on Saturday night about the same.
 Probability of severe frost is on Friday night 30 percent, the following night 10 percent.
-The lowest relative humidity is tomorrow 70 percent, on Saturday greater.
+The lowest relative humidity is tomorrow 70 percent, on Saturday higher.
 Total precipitation is on Saturday about 4 millimeters.
 
 Expected weather from Saturday evening until Wednesday morning:
