@@ -10,7 +10,7 @@ Huomenna ja seuraavana päivänä koillistuulta 2 metriä sekunnissa.
 Päivän ylin lämpötila on huomenna noin 0 astetta, seuraavana päivänä suunnilleen sama.
 Yön alin lämpötila on noin -5 astetta, perjantain vastaisena yönä suunnilleen sama.
 Ankaran hallan todennäköisyys on torstain vastaisena yönä 90 prosenttia, seuraavana yönä sama.
-Alin suhteellinen kosteus on huomenna 70 prosenttia, perjantaina hieman pienempi.
+Alin suhteellinen kosteus on huomenna 70 prosenttia, perjantaina hieman alempi.
 
 Odotettavissa perjantai-illasta tiistaiaamuun:
 

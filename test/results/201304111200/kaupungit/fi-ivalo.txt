@@ -9,7 +9,7 @@ Sateen todennäköisyys on huomenna 20 prosenttia, seuraavana päivänä sama.
 Etelätuulta 3-4 metriä sekunnissa.
 Päivän ylin lämpötila on huomenna noin 3 astetta, seuraavana päivänä suunnilleen sama.
 Yön alin lämpötila on noin -8 astetta, lauantain vastaisena yönä korkeampi.
-Alin suhteellinen kosteus on huomenna 50 prosenttia, lauantaina suurempi.
+Alin suhteellinen kosteus on huomenna 50 prosenttia, lauantaina korkeampi.
 
 Odotettavissa lauantai-illasta keskiviikkoaamuun:
 
