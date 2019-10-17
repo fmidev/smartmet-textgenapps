@@ -4,12 +4,12 @@ Expected weather until Sunday evening:
 
 From Saturday onwards intermittent rain.
 Today mainly northerly wind 6-18 meters per second, tomorrow 5-10 meters per second.
-The maximum day temperature is today -1...+3 degrees, tomorrow somewhat lower.
+The maximum day temperature is today -1...+4 degrees, tomorrow somewhat lower.
 The minimum night temperature is -5...+1 degrees.
-Probability of severe frost is on Sunday night 50 percent.
+Probability of severe frost is on Sunday night 40 percent.
 Total precipitation for the first 12 hours is 1-4 millimeters, for the following 12 hours 0-3 millimeters.
 The road temperature is today -3...+2 degrees, at night -6...+1 degrees, tomorrow during the day -6...+1 degrees.
-From forenoon the roads are in many places icy, at night the roads are in some places icy or partly icy.
+During the day the roads are in some places icy, in the evening the roads are in many places icy, at night the roads are in some places icy or partly icy.
 Tomorrow morning the roads are in many places partly icy.
 
 Expected weather from Sunday evening until Thursday morning:
@@ -22,4 +22,4 @@ From Sunday morning for the next five days:
 Mean temperature 3 degrees.
 Mean maximum temperature 3 degrees.
 Mean minimum temperature 2 degrees.
-Total precipitation 5-10 millimeters, more in some places.
+Total precipitation 5-10 millimeters.

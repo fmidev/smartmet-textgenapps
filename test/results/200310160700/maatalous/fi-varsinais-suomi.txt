@@ -2,23 +2,22 @@ Sääennuste Varsinais-Suomeen torstaina kello 7
 
 Odotettavissa perjantai-iltaan asti:
 
-Tänään selkeää tai puolipilvistä.
-Huomenna pilvistä tai puolipilvistä.
+Tänään ja huomenna pilvistä tai puolipilvistä.
 Sateen todennäköisyys on tänään 20 prosenttia, huomenna suurempi.
-Tänään luoteistuulta 2-4 metriä sekunnissa, huomenna 5-7 metriä sekunnissa.
-Päivän ylin lämpötila on tänään noin 7 astetta, huomenna suunnilleen sama.
-Yön alin lämpötila on 0...+2 astetta.
+Tänään luoteistuulta 2-6 metriä sekunnissa, huomenna 5-8 metriä sekunnissa.
+Päivän ylin lämpötila on tänään 6...8 astetta, huomenna suunnilleen sama.
+Yön alin lämpötila on 0...+6 astetta.
 Ankaran hallan todennäköisyys on perjantain vastaisena yönä 10 prosenttia.
 Alin suhteellinen kosteus on huomenna 80 prosenttia.
 
 Odotettavissa perjantai-illasta tiistaiaamuun:
 
 Sää on epävakaista.
-Päivien ylin lämpötila on 3...5 astetta, öiden alin lämpötila -2...+3 astetta.
+Päivien ylin lämpötila on 3...6 astetta, öiden alin lämpötila -2...+4 astetta.
 
 Perjantaiaamusta alkavan viiden vuorokauden sää:
 
-Keskilämpötila 2 astetta.
+Keskilämpötila 3 astetta.
 Keskimääräinen ylin lämpötila 4 astetta.
-Keskimääräinen alin lämpötila 0 astetta.
+Keskimääräinen alin lämpötila 1 astetta.
 Sadesumma 10-20 millimetriä.

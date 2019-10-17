@@ -4,12 +4,11 @@ Sääennuste torstaina kello 7
 
 Odotettavissa perjantai-iltaan asti:
 
-Tänään selkeää tai puolipilvistä.
-Huomenna pilvistä tai puolipilvistä.
+Tänään ja huomenna pilvistä tai puolipilvistä.
 Sateen todennäköisyys on tänään 30 prosenttia, huomenna suurempi.
-Tänään luoteistuulta 2 metriä sekunnissa, huomenna 5 metriä sekunnissa.
+Tänään luoteistuulta 3 metriä sekunnissa, huomenna 5 metriä sekunnissa.
 Päivän ylin lämpötila on tänään noin 5 astetta, huomenna suunnilleen sama.
-Yön alin lämpötila on noin 1 aste.
+Yön alin lämpötila on noin 0 astetta.
 Ankaran hallan todennäköisyys on perjantain vastaisena yönä 20 prosenttia.
 Alin suhteellinen kosteus on huomenna 80 prosenttia.
 

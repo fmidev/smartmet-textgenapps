@@ -3,13 +3,13 @@ Sääennuste Päijät-Hämeeseen lauantaina kello 9
 Odotettavissa sunnuntai-iltaan asti:
 
 Lauantaista alkaen ajoittain sadetta.
-Sateen todennäköisyys on tänään 80 prosenttia, huomenna pienempi.
+Sateen todennäköisyys on tänään 90 prosenttia, huomenna pienempi.
 Koillistuulta 5-6 metriä sekunnissa.
-Päivän ylin lämpötila on tänään noin -2 astetta, huomenna suunnilleen sama.
-Yön alin lämpötila on noin -5 astetta.
-Ankaran hallan todennäköisyys on sunnuntain vastaisena yönä 90 prosenttia.
+Päivän ylin lämpötila on tänään 0...-2 astetta, huomenna hieman alempi.
+Yön alin lämpötila on -4...-6 astetta.
+Ankaran hallan todennäköisyys on sunnuntain vastaisena yönä 80 prosenttia.
 Alin suhteellinen kosteus on huomenna 60 prosenttia.
-Sadesumma on tänään aamupäivästä alkaen 2-5 millimetriä, huomenna noin 1 millimetriä.
+Sadesumma on tänään aamupäivästä alkaen 2-6 millimetriä, huomenna noin 1 millimetriä.
 
 Odotettavissa sunnuntai-illasta torstaiaamuun:
 

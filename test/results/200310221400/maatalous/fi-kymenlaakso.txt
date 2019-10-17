@@ -2,14 +2,15 @@ Sääennuste Kymenlaaksoon keskiviikkona kello 14
 
 Odotettavissa perjantai-iltaan asti:
 
-Huomenna ja perjantaina enimmäkseen pilvistä.
-Sateen todennäköisyys on huomenna 20 prosenttia, seuraavana päivänä hieman suurempi.
+Huomenna enimmäkseen poutaa.
+Perjantaina paikoin vähäistä lumisadetta.
+Sateen todennäköisyys on huomenna 30 prosenttia, seuraavana päivänä sama.
 Huomenna ja seuraavana päivänä koillisenpuoleista tuulta 1-4 metriä sekunnissa.
 Päivän ylin lämpötila on huomenna -2...+1 astetta, seuraavana päivänä suunnilleen sama.
 Yön alin lämpötila on -5...-10 astetta, perjantain vastaisena yönä suunnilleen sama.
 Ankaran hallan todennäköisyys on torstain vastaisena yönä 100 prosenttia, seuraavana yönä 90 prosenttia.
 Alin suhteellinen kosteus on huomenna 70 prosenttia, perjantaina hieman alempi.
-Sadesumma on tänään iltapäivästä alkaen 0-1 millimetriä, perjantaina sama.
+Sadesumma on tänään iltapäivästä alkaen 0-1 millimetriä, huomenna sama, perjantaina 0-2 millimetriä.
 
 Odotettavissa perjantai-illasta tiistaiaamuun:
 
@@ -18,7 +19,7 @@ Päivien ylin lämpötila on -2...+1 astetta, öiden alin lämpötila -1...-6 as
 
 Torstaiaamusta alkavan viiden vuorokauden sää:
 
-Keskilämpötila -3 astetta.
-Keskimääräinen ylin lämpötila -1 astetta.
-Keskimääräinen alin lämpötila -5 astetta.
+Keskilämpötila -2 astetta.
+Keskimääräinen ylin lämpötila 0 astetta.
+Keskimääräinen alin lämpötila -4 astetta.
 Sadesumma 10-20 millimetriä.

@@ -3,7 +3,7 @@ Sääennuste Kaakkois-Lappiin keskiviikkona kello 14
 Odotettavissa perjantai-iltaan asti:
 
 Huomenna pilvistä tai puolipilvistä.
-Perjantaina lumisadetta.
+Perjantaina keskipäivästä alkaen lumisadetta.
 Huomenna ja seuraavana päivänä lounaistuulta 3-5 metriä sekunnissa.
 Päivän ylin lämpötila on huomenna -1...-3 astetta, seuraavana päivänä suunnilleen sama.
 Yön alin lämpötila on -6...-9 astetta, perjantain vastaisena yönä suunnilleen sama.
@@ -16,7 +16,7 @@ Huomenna päivällä teillä on paikoin kuuraa.
 Odotettavissa perjantai-illasta tiistaiaamuun:
 
 Enimmäkseen pilvistä tai puolipilvistä, lauantaina sadetta.
-Päivien ylin lämpötila on noin -4 astetta, öiden alin lämpötila noin -10 astetta.
+Päivien ylin lämpötila on noin -4 astetta, öiden alin lämpötila -8...-10 astetta.
 
 Torstaiaamusta alkavan viiden vuorokauden sää:
 

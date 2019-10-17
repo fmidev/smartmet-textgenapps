@@ -5,12 +5,12 @@ Väderrapport torsdag klockan 12
 Utsikter till lördag kväll:
 
 I dag och i morgon mulet eller halvmulet.
-På lördag från och med morgonen lokalt regn eller snöblandat regn, på kvällen uppehåll.
+På lördag från och med morgonen lokalt regn eller snöblandat regn, från och med eftermiddagen uppehåll.
 Sannolikheten för nederbörd är i morgon 20 procent, följande dag betydligt större.
 Ostlig vind 3-4 meter i sekunden.
 Dagens högsta temperatur är i morgon cirka 5 grader, följande dag ungefär densamma.
 Nattens lägsta temperatur är cirka 0 grader, natten mot lördag ungefär densamma.
-Sannolikheten för sträng nattfrost är natten mot fredag 30 procent, följande natt 10 procent.
+Sannolikheten för sträng nattfrost är natten mot fredag 30 procent, följande natt 20 procent.
 Den lägsta relativa fuktigheten är i morgon 70 procent, på lördag högre.
 Nederbördssumman är på lördag cirka 4 millimeter.
 
@@ -22,6 +22,6 @@ Dagens maximitemperatur är cirka 5 grader, nattens minimitemperatur cirka 0 gra
 Från och med fredag morgon för de följande fem dygnen:
 
 Medeltemperaturen 2 grader.
-Maximitemperaturen i medeltal 4 grader.
+Maximitemperaturen i medeltal 5 grader.
 Minimitemperaturen i medeltal 0 grader.
 Nederbördssumman 5-10 millimeter.

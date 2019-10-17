@@ -22,5 +22,5 @@ Sunnuntaiaamusta alkavan viiden vuorokauden sää:
 
 Keskilämpötila -1 astetta.
 Keskimääräinen ylin lämpötila 0 astetta.
-Keskimääräinen alin lämpötila -3 astetta.
+Keskimääräinen alin lämpötila -2 astetta.
 Sadesumma 10-20 millimetriä.

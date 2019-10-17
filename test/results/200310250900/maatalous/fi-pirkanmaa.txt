@@ -2,9 +2,9 @@ Sääennuste Pirkanmaalle lauantaina kello 9
 
 Odotettavissa sunnuntai-iltaan asti:
 
-Tänään aamupäivästä alkaen monin paikoin lumisadetta, huomenna pilvistä tai puolipilvistä.
+Lauantaista alkaen ajoittain sadetta.
 Sateen todennäköisyys on tänään 60 prosenttia, huomenna pienempi.
-Tänään pohjoisenpuoleista tuulta 5-7 metriä sekunnissa, huomenna 5 metriä sekunnissa.
+Tänään koillisenpuoleista tuulta 5-7 metriä sekunnissa, huomenna 5 metriä sekunnissa.
 Päivän ylin lämpötila on tänään noin -2 astetta, huomenna suunnilleen sama.
 Yön alin lämpötila on -4...-7 astetta.
 Ankaran hallan todennäköisyys on sunnuntain vastaisena yönä 90 prosenttia.
@@ -14,7 +14,7 @@ Sadesumma on tänään aamupäivästä alkaen noin 1 millimetriä, huomenna 0-1 
 Odotettavissa sunnuntai-illasta torstaiaamuun:
 
 Sää on epävakaista.
-Päivien ylin lämpötila on 0...+1 astetta, öiden alin lämpötila -2...-5 astetta.
+Päivien ylin lämpötila on 0...+2 astetta, öiden alin lämpötila -2...-5 astetta.
 
 Sunnuntaiaamusta alkavan viiden vuorokauden sää:
 

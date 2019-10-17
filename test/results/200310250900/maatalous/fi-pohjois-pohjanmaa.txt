@@ -2,11 +2,11 @@ Sääennuste Pohjois-Pohjanmaalle lauantaina kello 9
 
 Odotettavissa sunnuntai-iltaan asti:
 
-Tänään aamupäivästä alkaen monin paikoin lumisadetta, illalla poutaa.
+Tänään päivällä paikoin lumisadetta.
 Huomenna pilvistä tai puolipilvistä.
 Sateen todennäköisyys on tänään 60 prosenttia, huomenna pienempi.
 Tänään pohjoistuulta 4-12 metriä sekunnissa, huomenna 4-8 metriä sekunnissa.
-Päivän ylin lämpötila on tänään 0...-5 astetta, huomenna hieman alempi.
+Päivän ylin lämpötila on tänään 0...-4 astetta, huomenna hieman alempi.
 Yön alin lämpötila on -3...-9 astetta.
 Ankaran hallan todennäköisyys on sunnuntain vastaisena yönä 90 prosenttia.
 Alin suhteellinen kosteus on huomenna 60 prosenttia.

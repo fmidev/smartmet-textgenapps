@@ -4,21 +4,21 @@ Expected weather until Sunday evening:
 
 Today from forenoon until Sunday morning snowfall, on Sunday cloudy or partly cloudy.
 Probability of precipitation is today 70 percent, tomorrow smaller.
-Today northerly wind 5-14 meters per second, tomorrow 4-9 meters per second.
-The maximum day temperature is today -2...+1 degrees, tomorrow somewhat lower.
+Today northerly wind 5-10 meters per second, tomorrow 4-7 meters per second.
+The maximum day temperature is today 0...-2 degrees, tomorrow about the same.
 The minimum night temperature is -2...-6 degrees.
-Probability of severe frost is on Sunday night 70 percent.
+Probability of severe frost is on Sunday night 80 percent.
 The lowest relative humidity is tomorrow 60 percent.
-Total precipitation is today from forenoon 1-5 millimeters, tomorrow 0-2 millimeters.
+Total precipitation is today from forenoon 1-3 millimeters, tomorrow 0-2 millimeters.
 
 Expected weather from Sunday evening until Thursday morning:
 
 The weather is unstable.
-Daily maximum temperature is 0...+3 degrees, nightly minimum temperature 0...-4 degrees.
+Daily maximum temperature is 0...+2 degrees, nightly minimum temperature -1...-4 degrees.
 
 From Sunday morning for the next five days:
 
-Mean temperature 1 degrees.
-Mean maximum temperature 1 degrees.
-Mean minimum temperature -1 degrees.
+Mean temperature 0 degrees.
+Mean maximum temperature 0 degrees.
+Mean minimum temperature -2 degrees.
 Total precipitation 10-20 millimeters.

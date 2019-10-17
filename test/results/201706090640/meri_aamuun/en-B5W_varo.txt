@@ -5,8 +5,11 @@ Expected weather until Saturday morning:
 Variable wind 1-5 m/s.
 
 
-The weather is half cloudy or cloudy and fair.
+The weather is comparatively cloudy and fair.
 In the morning possibly dense fog in some places.
+On Friday afternoon possibly occasional rain showers.
+In the evening and at night the weather is partly cloudy or cloudy.
+In the afternoon possibly dense fog in some places.
 
 
-In the morning fog in some places.
+In the morning and in the afternoon fog in some places.

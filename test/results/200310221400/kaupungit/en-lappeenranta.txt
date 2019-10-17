@@ -7,8 +7,9 @@ Expected weather until Friday evening:
 Tomorrow and on Friday cloudy.
 Probability of precipitation is tomorrow 20 percent, the following day the same.
 Tomorrow and the following day northerly wind 1-2 meters per second.
-The maximum day temperature is tomorrow about -1 degree, the following day about the same.
-The minimum night temperature is about -6 degrees, on Friday night about the same.
+The maximum day temperature is tomorrow about 0 degrees, the following day about the same.
+The minimum night temperature is about -5 degrees, on Friday night about the same.
+Probability of severe frost is on Thursday night 90 percent, the following night 100 percent.
 The lowest relative humidity is tomorrow 70 percent, on Friday somewhat lower.
 
 Expected weather from Friday evening until Tuesday morning:
@@ -21,4 +22,4 @@ From Thursday morning for the next five days:
 Mean temperature -3 degrees.
 Mean maximum temperature -1 degrees.
 Mean minimum temperature -4 degrees.
-Total precipitation 5-10 millimeters.
+Total precipitation 10-20 millimeters.

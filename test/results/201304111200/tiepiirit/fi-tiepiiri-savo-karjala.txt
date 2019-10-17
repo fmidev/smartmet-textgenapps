@@ -10,7 +10,7 @@ Päivän ylin lämpötila on huomenna 1...4 astetta, seuraavana päivänä suunn
 Yön alin lämpötila on -1...-7 astetta, lauantain vastaisena yönä korkeampi.
 Ankaran hallan todennäköisyys on perjantain vastaisena yönä 80 prosenttia, seuraavana yönä 30 prosenttia.
 Ensimmäisen 12 tunnin sademäärä on 0-1 millimetriä, seuraavan 12 tunnin 0-3 millimetriä.
-Tienpintalämpötila on tänään 2...27 astetta, yöllä -10...+11 astetta, huomenna päivällä -10...+11 astetta.
+Tienpintalämpötila on tänään 2...28 astetta, yöllä -9...+11 astetta, huomenna päivällä -9...+10 astetta.
 Illalla tiet ovat kuivia, yöllä teillä on paikoin lunta.
 Huomisaamuna tiet ovat paikoin jäisiä, päivällä tiet ovat monin paikoin kuivia.
 

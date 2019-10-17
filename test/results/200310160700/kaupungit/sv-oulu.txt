@@ -12,6 +12,7 @@ Dagens högsta temperatur är i dag cirka 6 grader, i morgon ungefär densamma.
 Nattens lägsta temperatur är cirka 4 grader.
 Sannolikheten för nattfrost är natten mot fredag 10 procent.
 Den lägsta relativa fuktigheten är i morgon 70 procent.
+Nederbördssumman är i morgon cirka 1 millimeter.
 
 Utsikter från och med fredag kväll till tisdag morgon:
 
@@ -21,6 +22,6 @@ Dagens maximitemperatur är cirka 0 grader, nattens minimitemperatur cirka -3 gr
 Från och med fredag morgon för de följande fem dygnen:
 
 Medeltemperaturen -1 grader.
-Maximitemperaturen i medeltal 2 grader.
+Maximitemperaturen i medeltal 1 grader.
 Minimitemperaturen i medeltal -3 grader.
 Nederbördssumman 0-2 millimeter.
