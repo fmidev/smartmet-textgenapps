@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 19.11.20
+Version: 19.12.3
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -13,17 +13,17 @@ BuildRequires: rpm-build
 BuildRequires: gcc-c++
 BuildRequires: make
 BuildRequires: boost-devel
-BuildRequires: smartmet-library-calculator-devel >= 19.11.20
+BuildRequires: smartmet-library-calculator-devel >= 19.12.3
 BuildRequires: smartmet-library-newbase-devel >= 19.11.20
-BuildRequires: smartmet-library-textgen-devel >= 19.11.20
+BuildRequires: smartmet-library-textgen-devel >= 19.12.3
 BuildRequires: mysql++-devel
 BuildRequires: mysql-devel
 BuildRequires: zlib-devel
 BuildRequires: gdal-devel
 BuildRequires: fmt-devel
-Requires: smartmet-library-calculator >= 19.11.20
+Requires: smartmet-library-calculator >= 19.12.3
 Requires: smartmet-library-newbase >= 19.11.20
-Requires: smartmet-library-textgen >= 19.11.20
+Requires: smartmet-library-textgen >= 19.12.3
 Requires: smartmet-library-macgyver >= 19.9.26
 Requires: boost-iostreams
 Requires: boost-locale
@@ -63,6 +63,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Tue Dec 3 2019 Anssi Reponen <anssi.reponen> - 19.12.3-1.fmi
+- Test cases updated (BRAINSTORM-1727)
+
 * Wed Nov 20 2019 Mika Heiskanen <mika.heiskanen@fmi.fi> - 19.11.20-1.fmi
 - Repackaged due to newbase API changes
 
