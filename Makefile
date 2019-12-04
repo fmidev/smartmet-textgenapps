@@ -1,7 +1,7 @@
 MODULE = textgenapps
 SPEC = smartmet-textgenapps
 
-MAINFLAGS = -MD -Wall -W -Wno-unused-parameter
+MAINFLAGS = -MD -Wall -W -Wno-unused-parameter -fno-omit-frame-pointer
 
 ifeq (6, $(RHEL_VERSION))
   MAINFLAGS += -std=c++0x
