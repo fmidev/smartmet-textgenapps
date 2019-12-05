@@ -66,6 +66,10 @@ rm -rf $RPM_BUILD_ROOT
 * Wed Dec  4 2019 Mika Heiskanen <mika.heiskanen@fmi.fi> - 19.12.4-1.fmi
 - Fixed dependency to be on gdal-libs instead of gdal
 - Use -fno-omit-frame-pointer for a better profiling and debugging experience                                                                                              
+
+* Tue Dec 3 2019 Anssi Reponen <anssi.reponen> - 19.12.3-1.fmi
+- Test cases updated (BRAINSTORM-1727)
+
 * Wed Nov 20 2019 Mika Heiskanen <mika.heiskanen@fmi.fi> - 19.11.20-1.fmi
 - Repackaged due to newbase API changes
 

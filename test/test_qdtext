@@ -66,20 +66,20 @@ foreach $cnffile(@cnffiles)
 	    # Run new tests
 	    $runtest = 1;
 	}
-	elsif(substr($cnfname,0, 10) eq "meri_keski" && substr($data,0,8) eq "20170830" ||
-	      substr($cnfname,0, 10) eq "meri_keski" && substr($data,0,8) eq "20170809" ||
-	      substr($cnfname,0, 10) eq "meri_keski" && substr($data,0,8) eq "20170619")
+	elsif(substr($cnfname,0, 10) eq "meri_keski" && substr($data,0,8) eq "20190831" ||
+	      substr($cnfname,0, 10) eq "meri_keski" && substr($data,0,8) eq "20190810" ||
+	      substr($cnfname,0, 10) eq "meri_keski" && substr($data,0,8) eq "20190620")
 	{
 	    # Run 'keskipäivään asti'-tests for merialueet
 	    $runtest = 1;	    
 	}
-	elsif(substr($cnfname,0, 10) eq "meri_aamuu" && substr($data,0,8) eq "20170609" ||
-	    substr($cnfname,0, 10) eq "meri_aamuu" && substr($data,0,8) eq "20170223")
+	elsif(substr($cnfname,0, 10) eq "meri_aamuu" && substr($data,0,8) eq "20190610" ||
+	    substr($cnfname,0, 10) eq "meri_aamuu" && substr($data,0,8) eq "20190224")
 	{
 	    # Run 'aamuun asti'-tests for merialueet
 	    $runtest = 1;	    
 	}
-	elsif(substr($cnfname,0, 10) eq "meri_iltaa" && substr($data,0,8) eq "20170306")
+	elsif(substr($cnfname,0, 10) eq "meri_iltaa" && substr($data,0,8) eq "20190307")
 	{
 	    # Run 'aamuun asti'-tests for merialueet
 	    $runtest = 1;	    
