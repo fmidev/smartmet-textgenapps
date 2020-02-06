@@ -1,7 +1,7 @@
 MODULE = textgenapps
 SPEC = smartmet-textgenapps
 
-MAINFLAGS = -MD -Wall -W -Wno-unused-parameter
+MAINFLAGS = -MD -Wall -W -Wno-unused-parameter -fno-omit-frame-pointer
 
 ifeq (6, $(RHEL_VERSION))
   MAINFLAGS += -std=c++0x
@@ -51,7 +51,7 @@ LDFLAGS_PROFILE =
 
 INCLUDES = -I$(includedir) \
 	-I$(includedir)/smartmet \
-	-I/usr/include/gdal
+	-I$(PREFIX)/gdal30/include
 
 
 LIBS = -L$(libdir) \
@@ -59,7 +59,7 @@ LIBS = -L$(libdir) \
 	-lsmartmet-textgen \
 	-lsmartmet-newbase \
 	-L$(libdir)/mysql -lmysqlpp \
-	-lgdal \
+	-L$(PREFIX)/gdal30/lib `pkg-config --libs gdal30` \
 	-lfmt \
 	-lboost_iostreams \
 	-lboost_locale \
