@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 20.2.6
+Version: 20.3.30
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -13,18 +13,18 @@ BuildRequires: rpm-build
 BuildRequires: gcc-c++
 BuildRequires: make
 BuildRequires: boost-devel
-BuildRequires: smartmet-library-calculator-devel >= 20.2.6
-BuildRequires: smartmet-library-newbase-devel >= 20.2.6
-BuildRequires: smartmet-library-textgen-devel >= 20.2.6
+BuildRequires: smartmet-library-calculator-devel >= 20.3.26
+BuildRequires: smartmet-library-newbase-devel >= 20.3.30
+BuildRequires: smartmet-library-textgen-devel >= 20.3.26
 BuildRequires: mysql++-devel
 BuildRequires: mysql-devel
 BuildRequires: zlib-devel
 BuildRequires: gdal30-devel
 BuildRequires: fmt-devel
-Requires: smartmet-library-calculator >= 20.2.6
-Requires: smartmet-library-newbase >= 20.2.6
-Requires: smartmet-library-textgen >= 20.2.6
-Requires: smartmet-library-macgyver >= 20.2.5
+Requires: smartmet-library-calculator >= 20.3.26
+Requires: smartmet-library-newbase >= 20.3.30
+Requires: smartmet-library-textgen >= 20.3.26
+Requires: smartmet-library-macgyver >= 20.3.5
 Requires: boost-iostreams
 Requires: boost-locale
 Requires: boost-system
@@ -63,6 +63,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Mon Mar 30 2020 Mika Heiskanen <mika.heiskanen@fmi.fi> - 20.3.30-1.fmi
+- Repackaged due to NFmiArea ABI changes
+
 * Thu Feb  6 2020 Mika Heiskanen <mika.heiskanen@fmi.fi> - 20.2.6-1.fmi
 - Ported to GDAL 3
 
