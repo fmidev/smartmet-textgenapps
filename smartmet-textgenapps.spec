@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 19.12.4
+Version: 20.4.18
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -12,22 +12,22 @@ BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot-%(%{__id_u} -n)
 BuildRequires: rpm-build
 BuildRequires: gcc-c++
 BuildRequires: make
-BuildRequires: boost-devel
-BuildRequires: smartmet-library-calculator-devel >= 19.12.4
-BuildRequires: smartmet-library-newbase-devel >= 19.12.4
-BuildRequires: smartmet-library-textgen-devel >= 19.12.4
+BuildRequires: boost169-devel
+BuildRequires: smartmet-library-calculator-devel >= 20.4.18
+BuildRequires: smartmet-library-newbase-devel >= 20.4.18
+BuildRequires: smartmet-library-textgen-devel >= 20.4.18
 BuildRequires: mysql++-devel
 BuildRequires: mysql-devel
 BuildRequires: zlib-devel
 BuildRequires: gdal-devel
 BuildRequires: fmt-devel
-Requires: smartmet-library-calculator >= 19.12.4
-Requires: smartmet-library-newbase >= 19.12.4
-Requires: smartmet-library-textgen >= 19.12.4
-Requires: smartmet-library-macgyver >= 19.12.4
-Requires: boost-iostreams
-Requires: boost-locale
-Requires: boost-system
+Requires: smartmet-library-calculator >= 20.4.18
+Requires: smartmet-library-newbase >= 20.4.18
+Requires: smartmet-library-textgen >= 20.4.18
+Requires: smartmet-library-macgyver >= 20.4.18
+Requires: boost169-iostreams
+Requires: boost169-locale
+Requires: boost169-system
 Requires: gdal-libs
 Requires: glibc
 Requires: libgcc
@@ -63,6 +63,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Sat Apr 18 2020 Mika Heiskanen <mika.heiskanen@fmi.fi> - 20.4.18-1.fmi
+- Upgraded to Boost 1.69
+
 * Wed Dec  4 2019 Mika Heiskanen <mika.heiskanen@fmi.fi> - 19.12.4-1.fmi
 - Fixed dependency to be on gdal-libs instead of gdal
 - Use -fno-omit-frame-pointer for a better profiling and debugging experience                                                                                              
