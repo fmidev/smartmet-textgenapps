@@ -16,17 +16,17 @@ EXTRAFLAGS = \
 	-Wcast-qual \
 	-Wcast-align \
 	-Wwrite-strings \
-	-Wnon-virtual-dtor \
 	-Wno-pmf-conversions \
 	-Wsign-promo \
 	-Wchar-subscripts \
-	-Wredundant-decls \
 	-Woverloaded-virtual
 
 DIFFICULTFLAGS = \
 	-Wunreachable-code \
 	-Wconversion \
+	-Wnon-virtual-dtor \
 	-Wctor-dtor-privacy \
+	-Wredundant-decls \
 	-Weffc++ \
 	-Wold-style-cast \
 	-pedantic \
@@ -49,12 +49,20 @@ CFLAGS_PROFILE = $(DEFINES) -O2 -g -pg -DNDEBUG $(MAINFLAGS)
 LDFLAGS_DEBUG =
 LDFLAGS_PROFILE =
 
-INCLUDES = -I$(includedir) \
+# Boost 1.69
+
+ifneq "$(wildcard /usr/include/boost169)" ""
+  INCLUDES += -I/usr/include/boost169
+  LIBS += -L/usr/lib64/boost169
+endif
+
+
+INCLUDES += -I$(includedir) \
 	-I$(includedir)/smartmet \
 	-I$(PREFIX)/gdal30/include
 
 
-LIBS = -L$(libdir) \
+LIBS += -L$(libdir) \
 	-lsmartmet-calculator \
 	-lsmartmet-textgen \
 	-lsmartmet-newbase \
