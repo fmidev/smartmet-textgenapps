@@ -5,7 +5,7 @@ Odotettavissa sunnuntai-iltaan asti:
 Tänään aamupäivästä alkaen sunnuntaiaamuun asti lumisadetta, sunnuntaina pilvistä tai puolipilvistä.
 Sateen todennäköisyys on tänään 70 prosenttia, huomenna pienempi.
 Tänään pohjoistuulta 5-10 metriä sekunnissa, huomenna 4-7 metriä sekunnissa.
-Päivän ylin lämpötila on tänään 0...-2 astetta, huomenna suunnilleen sama.
+Päivän ylin lämpötila on tänään 0...-2 astetta, huomenna hieman alempi.
 Yön alin lämpötila on -2...-6 astetta.
 Ankaran hallan todennäköisyys on sunnuntain vastaisena yönä 80 prosenttia.
 Alin suhteellinen kosteus on huomenna 60 prosenttia.

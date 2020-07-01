@@ -6,7 +6,7 @@ Expected weather until Saturday evening:
 
 Today and tomorrow cloudy or partly cloudy.
 On Saturday from the morning in some places rain, from the afternoon fair weather.
-Probability of precipitation is tomorrow 20 percent, the following day significantly greater.
+Probability of precipitation is tomorrow 10 percent, the following day significantly greater.
 Easterly wind 2-3 meters per second, on Saturday 5 meters per second.
 The maximum day temperature is tomorrow about 5 degrees, the following day somewhat lower.
 The minimum night temperature is about -1 degree, on Saturday night somewhat higher.

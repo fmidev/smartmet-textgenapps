@@ -4,10 +4,10 @@ Odotettavissa sunnuntai-iltaan asti:
 
 Tänään aamupäivästä alkaen lumisadetta, huomenna iltapäivästä alkaen poutaa.
 Sateen todennäköisyys on tänään 90 prosenttia, huomenna hieman pienempi.
-Tänään suunnaltaan vaihtelevaa tuulta 3-6 metriä sekunnissa, huomenna pohjoistuulta.
+Koillisenpuoleista tuulta 3-7 metriä sekunnissa.
 Päivän ylin lämpötila on tänään 0...-2 astetta, huomenna suunnilleen sama.
 Yön alin lämpötila on noin -4 astetta.
-Ankaran hallan todennäköisyys on sunnuntain vastaisena yönä 60 prosenttia.
+Ankaran hallan todennäköisyys on sunnuntain vastaisena yönä 70 prosenttia.
 Alin suhteellinen kosteus on huomenna 70 prosenttia.
 Sadesumma on tänään aamupäivästä alkaen 2-7 millimetriä, huomenna 1-3 millimetriä.
 

@@ -6,8 +6,8 @@ Tänään aamusta alkaen sadetta.
 Huomenna enimmäkseen pilvistä, iltayöllä paikoin sadetta.
 Sateen todennäköisyys on tänään 70 prosenttia, huomenna huomattavasti pienempi.
 Tänään etelätuulta 4-13 metriä sekunnissa, huomenna 4-9 metriä sekunnissa.
-Päivän ylin lämpötila on tänään 3...7 astetta, huomenna korkeampi.
-Yön alin lämpötila on 1...4 astetta.
+Päivän ylin lämpötila on tänään 4...7 astetta, huomenna hieman korkeampi.
+Yön alin lämpötila on 2...4 astetta.
 Hallan todennäköisyys on tiistain vastaisena yönä 30 prosenttia.
 Alin suhteellinen kosteus on huomenna 70 prosenttia.
 Sadesumma on tänään aamupäivästä alkaen 1-5 millimetriä.

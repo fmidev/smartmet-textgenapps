@@ -4,14 +4,13 @@ Weather report on Monday 9 o'clock
 
 Expected weather until Tuesday evening:
 
-Today cloudy.
-Tomorrow mostly fair weather.
-Probability of precipitation is today 30 percent, tomorrow greater.
-South-westerly wind 3-4 meters per second.
-The maximum day temperature is today about 6 degrees, tomorrow somewhat lower.
+From Monday onwards intermittent rain.
+Probability of precipitation is today 40 percent, tomorrow somewhat greater.
+South-westerly wind 4-5 meters per second.
+The maximum day temperature is today about 5 degrees, tomorrow about the same.
 The minimum night temperature is about 3 degrees.
-Probability of frost is on Tuesday night 40 percent.
-The lowest relative humidity is tomorrow 80 percent.
+Probability of frost is on Tuesday night 30 percent.
+The lowest relative humidity is tomorrow 90 percent.
 Total precipitation is tomorrow about 2 millimeters.
 
 Expected weather from Tuesday evening until Saturday morning:

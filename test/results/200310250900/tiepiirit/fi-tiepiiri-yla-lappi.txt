@@ -9,7 +9,8 @@ Päivän ylin lämpötila on tänään -3...-6 astetta, huomenna hieman alempi.
 Yön alin lämpötila on -9...-13 astetta.
 Ensimmäisen 12 tunnin sademäärä on 0-2 millimetriä, seuraavan 12 tunnin 0 millimetriä.
 Tienpintalämpötila on tänään -5...-11 astetta, yöllä -7...-15 astetta, huomenna päivällä -6...-15 astetta.
-Aamupäivästä alkaen teillä on monin paikoin lunta, paikoin tiet ovat jäisiä, yöstä alkaen tiet ovat monin paikoin osittain jäisiä.
+Aamupäivästä alkaen teillä on monin paikoin lunta, paikoin tiet ovat jäisiä, yöllä tiet ovat monin paikoin osittain jäisiä, paikoin jäisiä.
+Huomisaamuna tiet ovat monin paikoin osittain jäisiä.
 
 Odotettavissa sunnuntai-illasta torstaiaamuun:
 

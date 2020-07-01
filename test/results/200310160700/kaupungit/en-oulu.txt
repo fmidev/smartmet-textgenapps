@@ -9,10 +9,9 @@ Tomorrow cloudy, in the forenoon in some places light rain.
 Probability of precipitation is today 40 percent, tomorrow greater.
 Today westerly wind 3 meters per second, tomorrow 6 meters per second.
 The maximum day temperature is today about 6 degrees, tomorrow about the same.
-The minimum night temperature is about 4 degrees.
+The minimum night temperature is about 3 degrees.
 Probability of frost is on Friday night 10 percent.
 The lowest relative humidity is tomorrow 70 percent.
-Total precipitation is tomorrow about 1 millimeters.
 
 Expected weather from Friday evening until Tuesday morning:
 
@@ -22,6 +21,6 @@ Daily maximum temperature is about 0 degrees, nightly minimum temperature about 
 From Friday morning for the next five days:
 
 Mean temperature -1 degrees.
-Mean maximum temperature 1 degrees.
+Mean maximum temperature 2 degrees.
 Mean minimum temperature -3 degrees.
 Total precipitation 0-2 millimeters.

@@ -5,7 +5,7 @@ Sääennuste torstaina kello 12
 Odotettavissa lauantai-iltaan asti:
 
 Tänään ja huomenna vaihtelevaa pilvisyyttä.
-Lauantaina pilvistä, iltayöllä paikoin lumisadetta.
+Lauantaina pilvistä, iltayöllä paikoin vähäistä lumisadetta.
 Sateen todennäköisyys on huomenna 10 prosenttia, seuraavana päivänä sama.
 Kaakkoistuulta 2-3 metriä sekunnissa.
 Päivän ylin lämpötila on huomenna noin 5 astetta, seuraavana päivänä suunnilleen sama.
@@ -16,11 +16,11 @@ Alin suhteellinen kosteus on huomenna 60 prosenttia, lauantaina hieman korkeampi
 Odotettavissa lauantai-illasta keskiviikkoaamuun:
 
 Sää on epävakaista.
-Päivien ylin lämpötila on noin 3 astetta, öiden alin lämpötila noin -1 aste.
+Päivien ylin lämpötila on noin 2 astetta, öiden alin lämpötila noin -1 aste.
 
 Perjantaiaamusta alkavan viiden vuorokauden sää:
 
 Keskilämpötila 0 astetta.
-Keskimääräinen ylin lämpötila 4 astetta.
+Keskimääräinen ylin lämpötila 3 astetta.
 Keskimääräinen alin lämpötila -2 astetta.
 Sadesumma 10-20 millimetriä.

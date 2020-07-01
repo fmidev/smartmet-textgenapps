@@ -6,7 +6,7 @@ Today cloudy, from the evening rain.
 Tomorrow from the afternoon fair weather.
 Probability of precipitation is today 40 percent, tomorrow somewhat greater.
 Today south-westerly wind 3-9 meters per second, tomorrow 3-7 meters per second.
-The maximum day temperature is today 3...6 degrees, tomorrow about the same.
+The maximum day temperature is today 5...7 degrees, tomorrow about the same.
 The minimum night temperature is about 3 degrees.
 Probability of frost is on Tuesday night 40 percent.
 The lowest relative humidity is tomorrow 80 percent.
@@ -22,4 +22,4 @@ From Tuesday morning for the next five days:
 Mean temperature 3 degrees.
 Mean maximum temperature 5 degrees.
 Mean minimum temperature 1 degrees.
-Total precipitation 10-20 millimeters.
+Total precipitation 5-10 millimeters, more in some places.

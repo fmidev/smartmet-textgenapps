@@ -9,7 +9,7 @@ Päivän ylin lämpötila on tänään 4...8 astetta, huomenna hieman alempi.
 Yön alin lämpötila on 2...6 astetta.
 Hallan todennäköisyys on perjantain vastaisena yönä 30 prosenttia.
 Alin suhteellinen kosteus on huomenna 70 prosenttia.
-Sadesumma on tänään aamusta alkaen 0-3 millimetriä, huomenna 1-6 millimetriä.
+Sadesumma on tänään aamusta alkaen 0-4 millimetriä, huomenna 1-6 millimetriä.
 
 Odotettavissa perjantai-illasta tiistaiaamuun:
 

@@ -21,5 +21,5 @@ From Tuesday morning for the next five days:
 
 Mean temperature 1 degrees.
 Mean maximum temperature 4 degrees.
-Mean minimum temperature 0 degrees.
+Mean minimum temperature -1 degrees.
 Total precipitation 10-20 millimeters.

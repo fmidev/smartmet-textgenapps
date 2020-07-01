@@ -8,8 +8,8 @@ Today and tomorrow partly cloudy.
 Probability of precipitation is today 20 percent, tomorrow greater.
 Today north-westerly wind 4 meters per second, tomorrow 7 meters per second.
 The maximum day temperature is today about 7 degrees, tomorrow about the same.
-The minimum night temperature is about 3 degrees.
-Probability of frost is on Friday night 40 percent.
+The minimum night temperature is about 4 degrees.
+Probability of frost is on Friday night 30 percent.
 The lowest relative humidity is tomorrow 80 percent.
 
 Expected weather from Friday evening until Tuesday morning:
@@ -21,5 +21,5 @@ From Friday morning for the next five days:
 
 Mean temperature 2 degrees.
 Mean maximum temperature 4 degrees.
-Mean minimum temperature 1 degrees.
+Mean minimum temperature 0 degrees.
 Total precipitation 10-20 millimeters.

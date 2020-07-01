@@ -19,7 +19,7 @@ Daily maximum temperature is about 4 degrees, nightly minimum temperature about 
 
 From Friday morning for the next five days:
 
-Mean temperature 2 degrees.
+Mean temperature 1 degrees.
 Mean maximum temperature 4 degrees.
-Mean minimum temperature 0 degrees.
-Total precipitation 5-10 millimeters.
+Mean minimum temperature -1 degrees.
+Total precipitation 2-5 millimeters.

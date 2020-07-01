@@ -3,7 +3,7 @@ Sääennuste Uudellemaalle torstaina kello 7
 Odotettavissa perjantai-iltaan asti:
 
 Tänään ja huomenna pilvistä tai puolipilvistä.
-Sateen todennäköisyys on tänään 30 prosenttia, huomenna suurempi.
+Sateen todennäköisyys on tänään 30 prosenttia, huomenna hieman suurempi.
 Tänään luoteistuulta 2-5 metriä sekunnissa, huomenna 5-9 metriä sekunnissa.
 Päivän ylin lämpötila on tänään 6...8 astetta, huomenna suunnilleen sama.
 Yön alin lämpötila on 0...+6 astetta.
@@ -13,11 +13,11 @@ Alin suhteellinen kosteus on huomenna 80 prosenttia.
 Odotettavissa perjantai-illasta tiistaiaamuun:
 
 Sää on epävakaista.
-Päivien ylin lämpötila on 3...6 astetta, öiden alin lämpötila -1...+4 astetta.
+Päivien ylin lämpötila on 3...6 astetta, öiden alin lämpötila -2...+4 astetta.
 
 Perjantaiaamusta alkavan viiden vuorokauden sää:
 
-Keskilämpötila 3 astetta.
-Keskimääräinen ylin lämpötila 5 astetta.
+Keskilämpötila 2 astetta.
+Keskimääräinen ylin lämpötila 4 astetta.
 Keskimääräinen alin lämpötila 1 astetta.
 Sadesumma 5-10 millimetriä.

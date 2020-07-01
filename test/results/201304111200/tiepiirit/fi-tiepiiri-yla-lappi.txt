@@ -4,10 +4,10 @@ Odotettavissa lauantai-iltaan asti:
 
 Tänään selkeää, huomenna ja lauantaina vaihtelevaa pilvisyyttä.
 Tänään etelätuulta 3-6 metriä sekunnissa, perjantaista alkaen 2-4 metriä sekunnissa.
-Päivän ylin lämpötila on huomenna 1...4 astetta, seuraavana päivänä hieman alempi.
-Yön alin lämpötila on -7...-10 astetta, lauantain vastaisena yönä korkeampi.
+Päivän ylin lämpötila on huomenna 0...+4 astetta, seuraavana päivänä hieman alempi.
+Yön alin lämpötila on -7...-11 astetta, lauantain vastaisena yönä korkeampi.
 Seuraavan 24 tunnin sademäärä on 0 millimetriä.
-Tienpintalämpötila on tänään 3...12 astetta, yöllä -16...+6 astetta, huomenna päivällä -13...+13 astetta.
+Tienpintalämpötila on tänään 2...12 astetta, yöllä -16...+6 astetta, huomenna päivällä -13...+13 astetta.
 Illalla tiet ovat kuivia, yöllä teillä on paikoin kuuraa.
 Huomisaamusta alkaen tiet ovat kuivia.
 

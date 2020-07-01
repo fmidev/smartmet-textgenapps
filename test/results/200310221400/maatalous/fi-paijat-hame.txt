@@ -18,5 +18,5 @@ Torstaiaamusta alkavan viiden vuorokauden sää:
 
 Keskilämpötila -4 astetta.
 Keskimääräinen ylin lämpötila -2 astetta.
-Keskimääräinen alin lämpötila -7 astetta.
+Keskimääräinen alin lämpötila -6 astetta.
 Sadesumma 10-20 millimetriä.

@@ -9,9 +9,9 @@ Probability of precipitation is today 90 percent, tomorrow somewhat smaller.
 North-easterly wind 4-5 meters per second.
 The maximum day temperature is today about -1 degree, tomorrow about the same.
 The minimum night temperature is about -4 degrees.
-Probability of severe frost is on Sunday night 60 percent.
+Probability of severe frost is on Sunday night 70 percent.
 The lowest relative humidity is tomorrow 80 percent.
-Total precipitation is today from forenoon about 5 millimeters, tomorrow about 2 millimeters.
+Total precipitation is today from forenoon about 4 millimeters, tomorrow about 2 millimeters.
 
 Expected weather from Sunday evening until Thursday morning:
 
@@ -22,5 +22,5 @@ From Sunday morning for the next five days:
 
 Mean temperature 0 degrees.
 Mean maximum temperature 1 degrees.
-Mean minimum temperature -3 degrees.
+Mean minimum temperature -2 degrees.
 Total precipitation 10-20 millimeters.

@@ -9,7 +9,8 @@ Dagens högsta temperatur är i dag -3...-6 grader, i morgon något lägre.
 Nattens lägsta temperatur är -9...-13 grader.
 Nederbördssumman för de första 12 timmar är 0-2 millimeter, för de följande 12 timmar 0 millimeter.
 Vägtemperaturen är i dag -5...-11 grader, på natten -7...-15 grader, i morgon på dagen -6...-15 grader.
-Från och med förmiddagen är vägarna på flera ställen täckta av snö, lokalt isiga, från och med natten är vägarna på flera ställen delvis isiga.
+Från och med förmiddagen är vägarna på flera ställen täckta av snö, lokalt isiga, på natten är vägarna på flera ställen delvis isiga, lokalt isiga.
+I morgon bitti är vägarna på flera ställen delvis isiga.
 
 Utsikter från och med söndag kväll till torsdag morgon:
 

@@ -22,5 +22,5 @@ Perjantaiaamusta alkavan viiden vuorokauden sää:
 
 Keskilämpötila -1 astetta.
 Keskimääräinen ylin lämpötila 2 astetta.
-Keskimääräinen alin lämpötila -2 astetta.
+Keskimääräinen alin lämpötila -3 astetta.
 Sadesumma 2-5 millimetriä.

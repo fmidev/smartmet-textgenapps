@@ -2,24 +2,24 @@ Sääennuste Uudenmaan tiepiiriin lauantaina kello 9
 
 Odotettavissa sunnuntai-iltaan asti:
 
-Tänään aamupäivästä alkaen lumi- tai räntäsadetta, huomenna keskipäivästä alkaen poutaa, puolipilvistä.
-Tänään pohjoistuulta 6-14 metriä sekunnissa, huomenna 6-10 metriä sekunnissa.
-Päivän ylin lämpötila on tänään 0...+3 astetta, huomenna hieman alempi.
-Yön alin lämpötila on 0...-4 astetta.
-Ankaran hallan todennäköisyys on sunnuntain vastaisena yönä 40 prosenttia.
+Tänään aamupäivästä alkaen sunnuntaiaamuun asti lumi- tai räntäsadetta, sunnuntaina pilvistä tai puolipilvistä.
+Tänään pohjoistuulta 5-14 metriä sekunnissa, huomenna 5-10 metriä sekunnissa.
+Päivän ylin lämpötila on tänään -1...+3 astetta, huomenna alempi.
+Yön alin lämpötila on 0...-5 astetta.
+Ankaran hallan todennäköisyys on sunnuntain vastaisena yönä 50 prosenttia.
 Ensimmäisen 12 tunnin sademäärä on 2-9 millimetriä, seuraavan 12 tunnin 0-2 millimetriä.
-Tienpintalämpötila on tänään -3...+2 astetta, yöllä -5...+1 astetta, huomenna päivällä 0...-6 astetta.
+Tienpintalämpötila on tänään -3...+2 astetta, yöllä -6...+1 astetta, huomenna päivällä 0...-6 astetta.
 Päivällä teillä on monin paikoin lunta, paikoin tiet ovat jäisiä, illasta alkaen tiet ovat monin paikoin jäisiä.
 Huomisaamuna tiet ovat paikoin jäisiä tai osittain jäisiä.
 
 Odotettavissa sunnuntai-illasta torstaiaamuun:
 
 Sää on epävakaista.
-Päivien ylin lämpötila on 0...+4 astetta, öiden alin lämpötila -3...+3 astetta.
+Päivien ylin lämpötila on 0...+4 astetta, öiden alin lämpötila -5...+3 astetta.
 
 Sunnuntaiaamusta alkavan viiden vuorokauden sää:
 
-Keskilämpötila 3 astetta.
-Keskimääräinen ylin lämpötila 3 astetta.
+Keskilämpötila 2 astetta.
+Keskimääräinen ylin lämpötila 2 astetta.
 Keskimääräinen alin lämpötila 1 astetta.
 Sadesumma 10-20 millimetriä.

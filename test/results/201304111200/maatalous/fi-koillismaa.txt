@@ -9,7 +9,7 @@ Sateen todennäköisyys on huomenna 30 prosenttia, seuraavana päivänä hieman 
 Tänään etelätuulta 2-5 metriä sekunnissa, perjantaista alkaen 2-3 metriä sekunnissa.
 Päivän ylin lämpötila on huomenna 1...4 astetta, seuraavana päivänä suunnilleen sama.
 Yön alin lämpötila on -8...-12 astetta, lauantain vastaisena yönä huomattavasti korkeampi.
-Ankaran hallan todennäköisyys on perjantain vastaisena yönä 100 prosenttia, seuraavana yönä 60 prosenttia.
+Ankaran hallan todennäköisyys on perjantain vastaisena yönä 100 prosenttia, seuraavana yönä 70 prosenttia.
 Alin suhteellinen kosteus on huomenna 50 prosenttia, lauantaina korkeampi.
 Sadesumma on huomenna 0-1 millimetriä.
 

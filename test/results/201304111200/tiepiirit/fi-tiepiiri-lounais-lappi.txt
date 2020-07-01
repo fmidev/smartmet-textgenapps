@@ -3,10 +3,10 @@ Sääennuste Lounais-Lappiin torstaina kello 12
 Odotettavissa lauantai-iltaan asti:
 
 Tänään ja huomenna vaihtelevaa pilvisyyttä.
-Lauantaina enimmäkseen pilvistä, illasta alkaen räntä- tai lumisadetta.
+Lauantaina enimmäkseen pilvistä, iltayöllä monin paikoin lumi- tai räntäsadetta.
 Kaakkoistuulta 1-4 metriä sekunnissa.
-Päivän ylin lämpötila on huomenna 2...5 astetta, seuraavana päivänä suunnilleen sama.
-Yön alin lämpötila on -6...-11 astetta, lauantain vastaisena yönä korkeampi.
+Päivän ylin lämpötila on huomenna 3...5 astetta, seuraavana päivänä suunnilleen sama.
+Yön alin lämpötila on -7...-11 astetta, lauantain vastaisena yönä huomattavasti korkeampi.
 Ankaran hallan todennäköisyys on perjantain vastaisena yönä 100 prosenttia, seuraavana yönä 70 prosenttia.
 Seuraavan 24 tunnin sademäärä on 0 millimetriä.
 Tienpintalämpötila on tänään 6...25 astetta, yöllä -14...+11 astetta, huomenna päivällä -14...+15 astetta.
@@ -22,5 +22,5 @@ Perjantaiaamusta alkavan viiden vuorokauden sää:
 
 Keskilämpötila 0 astetta.
 Keskimääräinen ylin lämpötila 4 astetta.
-Keskimääräinen alin lämpötila -1 astetta.
+Keskimääräinen alin lämpötila -2 astetta.
 Sadesumma 10-20 millimetriä.

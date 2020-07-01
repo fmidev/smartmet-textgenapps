@@ -4,11 +4,11 @@ Expected weather until Tuesday evening:
 
 From Monday onwards intermittent rain.
 Today south-westerly wind 4-7 meters per second, tomorrow 3-5 meters per second.
-The maximum day temperature is today 5...8 degrees, tomorrow somewhat lower.
-The minimum night temperature is -1...+1 degrees.
+The maximum day temperature is today 5...9 degrees, tomorrow somewhat lower.
+The minimum night temperature is -2...+1 degrees.
 Probability of severe frost is on Tuesday night 20 percent.
 Total precipitation for the first 12 hours is 0-2 millimeters, for the following 12 hours 0-5 millimeters.
-The road temperature is today 0...+27 degrees, at night -1...+18 degrees, tomorrow during the day 0...+18 degrees.
+The road temperature is today 0...+26 degrees, at night -2...+18 degrees, tomorrow during the day 0...+16 degrees.
 During the day the roads are in some places moist, in the evening the roads are dry, at night the roads are in some places covered by slush or covered by snow.
 Tomorrow morning the roads are dry.
 

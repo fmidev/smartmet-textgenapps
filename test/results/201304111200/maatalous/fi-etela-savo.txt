@@ -2,14 +2,15 @@ Sääennuste Etelä-Savoon torstaina kello 12
 
 Odotettavissa lauantai-iltaan asti:
 
-Torstaista alkaen ajoittain sadetta.
+Tänään pilvistä tai puolipilvistä.
+Perjantaista alkaen ajoittain sadetta.
 Sateen todennäköisyys on huomenna 60 prosenttia, seuraavana päivänä hieman suurempi.
-Kaakkoistuulta 2-6 metriä sekunnissa, lauantaina 3-8 metriä sekunnissa.
+Kaakkoistuulta 2-5 metriä sekunnissa, lauantaina 3-7 metriä sekunnissa.
 Päivän ylin lämpötila on huomenna 1...4 astetta, seuraavana päivänä suunnilleen sama.
-Yön alin lämpötila on 0...-4 astetta, lauantain vastaisena yönä hieman korkeampi.
-Ankaran hallan todennäköisyys on perjantain vastaisena yönä 50 prosenttia, seuraavana yönä 20 prosenttia.
+Yön alin lämpötila on 0...-5 astetta, lauantain vastaisena yönä hieman korkeampi.
+Ankaran hallan todennäköisyys on perjantain vastaisena yönä 60 prosenttia, seuraavana yönä 20 prosenttia.
 Alin suhteellinen kosteus on huomenna 80 prosenttia, lauantaina sama.
-Sadesumma on tänään keskipäivästä alkaen 0-1 millimetriä, huomenna 1-3 millimetriä, lauantaina 4-9 millimetriä.
+Sadesumma on tänään keskipäivästä alkaen 0-1 millimetriä, huomenna 1-3 millimetriä, lauantaina 4-8 millimetriä.
 
 Odotettavissa lauantai-illasta keskiviikkoaamuun:
 
@@ -20,5 +21,5 @@ Perjantaiaamusta alkavan viiden vuorokauden sää:
 
 Keskilämpötila 2 astetta.
 Keskimääräinen ylin lämpötila 3 astetta.
-Keskimääräinen alin lämpötila 1 astetta.
+Keskimääräinen alin lämpötila 0 astetta.
 Sadesumma 10-20 millimetriä.

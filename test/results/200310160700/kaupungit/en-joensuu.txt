@@ -4,10 +4,9 @@ Weather report on Thursday 7 o'clock
 
 Expected weather until Friday evening:
 
-Today cloudy or partly cloudy.
-Tomorrow cloudy, in the evening in some places light showers.
+Today and tomorrow cloudy or partly cloudy.
 Probability of precipitation is today 50 percent, tomorrow greater.
-Today north-westerly wind 3 meters per second, tomorrow 6 meters per second.
+Today westerly wind 3 meters per second, tomorrow 5 meters per second.
 The maximum day temperature is today about 4 degrees, tomorrow somewhat higher.
 The minimum night temperature is about 2 degrees.
 Probability of severe frost is on Friday night 10 percent.

@@ -4,10 +4,10 @@ Expected weather until Saturday evening:
 
 Today sunny, tomorrow and on Saturday variable cloudiness.
 Today southerly wind 3-6 meters per second, from Friday onwards 2-4 meters per second.
-The maximum day temperature is tomorrow 1...4 degrees, the following day somewhat lower.
-The minimum night temperature is -7...-10 degrees, on Saturday night higher.
+The maximum day temperature is tomorrow 0...+4 degrees, the following day somewhat lower.
+The minimum night temperature is -7...-11 degrees, on Saturday night higher.
 Total precipitation for the next 24 hours is 0 millimeters.
-The road temperature is today 3...12 degrees, at night -16...+6 degrees, tomorrow during the day -13...+13 degrees.
+The road temperature is today 2...12 degrees, at night -16...+6 degrees, tomorrow during the day -13...+13 degrees.
 In the evening the roads are dry, at night the roads are in some places covered by frost.
 From tomorrow morning the roads are dry.
 
