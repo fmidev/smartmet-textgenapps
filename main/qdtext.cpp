@@ -13,8 +13,8 @@
 #include <calculator/Config.h>
 #include <calculator/Settings.h>
 #include <calculator/WeatherArea.h>
+#include <fmt/chrono.h>
 #include <fmt/format.h>
-#include <fmt/time.h>
 #include <newbase/NFmiCmdLine.h>
 #include <newbase/NFmiFileSystem.h>
 #include <newbase/NFmiSettings.h>
