@@ -38,7 +38,7 @@ CC = g++
 
 DEFINES = -DUNIX
 
-CFLAGS = $(DEFINES) -O2 -DNDEBUG $(MAINFLAGS)
+CFLAGS = $(DEFINES) -O2 -DNDEBUG $(MAINFLAGS) -g
 LDFLAGS = 
 
 # Special modes
@@ -56,18 +56,21 @@ ifneq "$(wildcard /usr/include/boost169)" ""
   LIBS += -L/usr/lib64/boost169
 endif
 
+ifneq "$(wildcard /usr/gdal30/include)" ""
+  INCLUDES += -I/usr/gdal30/include
+  LIBS += -L$(PREFIX)/gdal30/lib
+else
+  INCLUDES += -I/usr/include/gdal
+endif
 
 INCLUDES += -I$(includedir) \
-	-I$(includedir)/smartmet \
-	-I/usr/include/gdal
-
+	-I$(includedir)/smartmet
 
 LIBS += -L$(libdir) \
 	-lsmartmet-calculator \
 	-lsmartmet-textgen \
 	-lsmartmet-newbase \
 	-L$(libdir)/mysql -lmysqlpp \
-	-lgdal \
 	-lfmt \
 	-lboost_iostreams \
 	-lboost_locale \

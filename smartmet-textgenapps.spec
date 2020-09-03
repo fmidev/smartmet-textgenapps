@@ -17,9 +17,7 @@ BuildRequires: smartmet-library-calculator-devel >= 20.8.21
 BuildRequires: smartmet-library-newbase-devel >= 20.8.21
 BuildRequires: smartmet-library-textgen-devel >= 20.8.21
 BuildRequires: mysql++-devel
-BuildRequires: mysql-devel
 BuildRequires: zlib-devel
-BuildRequires: gdal-devel
 BuildRequires: fmt-devel
 Requires: smartmet-library-calculator >= 20.8.21
 Requires: smartmet-library-newbase >= 20.8.21
@@ -28,16 +26,24 @@ Requires: smartmet-library-macgyver >= 20.8.21
 Requires: boost169-iostreams
 Requires: boost169-locale
 Requires: boost169-system
-Requires: gdal-libs
 Requires: glibc
 Requires: libgcc
 Requires: libjpeg
 Requires: libpng
 Requires: libstdc++
-Requires: mysql
 Requires: mysql++
 Requires: zlib
 Requires: fmt
+%if 0%{rhel} >= 8
+BuildRequires: gdal30-devel
+BuildRequires: mariadb-devel
+Requires: gdal30-libs
+%else
+BuildRequires: gdal-devel
+BuildRequires: mysql-devel
+Requires: mysql
+Requires: gdal-libs
+%endif
 Provides: qdtext
 
 
