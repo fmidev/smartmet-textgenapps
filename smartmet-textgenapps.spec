@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 20.8.21
+Version: 20.10.28
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -13,16 +13,16 @@ BuildRequires: rpm-build
 BuildRequires: gcc-c++
 BuildRequires: make
 BuildRequires: boost169-devel
-BuildRequires: smartmet-library-calculator-devel >= 20.8.21
-BuildRequires: smartmet-library-newbase-devel >= 20.8.21
-BuildRequires: smartmet-library-textgen-devel >= 20.8.21
+BuildRequires: smartmet-library-calculator-devel >= 20.10.7
+BuildRequires: smartmet-library-newbase-devel >= 20.10.28
+BuildRequires: smartmet-library-textgen-devel >= 20.10.7
 BuildRequires: mysql++-devel
 BuildRequires: zlib-devel
 BuildRequires: fmt-devel
-Requires: smartmet-library-calculator >= 20.8.21
-Requires: smartmet-library-newbase >= 20.8.21
-Requires: smartmet-library-textgen >= 20.8.21
-Requires: smartmet-library-macgyver >= 20.8.21
+Requires: smartmet-library-calculator >= 20.10.7
+Requires: smartmet-library-newbase >= 20.10.28
+Requires: smartmet-library-textgen >= 20.10.7
+Requires: smartmet-library-macgyver >= 20.10.28
 Requires: boost169-iostreams
 Requires: boost169-locale
 Requires: boost169-system
@@ -69,6 +69,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Wed Oct 28 2020 Mika Heiskanen <mika.heiskanen@fmi.fi> - 20.10.28-1.fmi
+- Upgrade to fmt 7.1
+
 * Fri Aug 21 2020 Mika Heiskanen <mika.heiskanen@fmi.fi> - 20.8.21-1.fmi
 - Upgrade to fmt 6.2
 
@@ -78,7 +81,6 @@ rm -rf $RPM_BUILD_ROOT
 * Wed Dec  4 2019 Mika Heiskanen <mika.heiskanen@fmi.fi> - 19.12.4-1.fmi
 - Fixed dependency to be on gdal-libs instead of gdal
 - Use -fno-omit-frame-pointer for a better profiling and debugging experience                                                                                              
-
 * Tue Dec 3 2019 Anssi Reponen <anssi.reponen> - 19.12.3-1.fmi
 - Test cases updated (BRAINSTORM-1727)
 
