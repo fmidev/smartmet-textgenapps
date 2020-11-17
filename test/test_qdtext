@@ -188,6 +188,8 @@ foreach $cnffile(@cnffiles)
 }
 
 print "\nTotal results: Failed $failed/$total tests\n\n\n";
+exit($failed);
+
 
 # ----------------------------------------------------------------------
 # Print a title with underlining
