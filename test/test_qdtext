@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+$program = (-x "../qdtext" ? "../qdtext" : "qdtext");
+
 # Regression tests for qdtext program
 #
 # Adding new regression tests:
@@ -117,9 +119,7 @@ foreach $cnffile(@cnffiles)
 
 	# Run qdtext for the created cnf file
 
-	`../qdtext $tmpcnf`;
-
-
+	`$program $tmpcnf`;
 
 	# Delete the cnf file
 

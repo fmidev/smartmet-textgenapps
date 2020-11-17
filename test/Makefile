@@ -3,7 +3,7 @@ test: test_qdtext
 
 .PHONY: test_qdtext
 
-test_qdtext: ../qdtext
+test_qdtext:
 	./test_qdtext
 
 clean:
