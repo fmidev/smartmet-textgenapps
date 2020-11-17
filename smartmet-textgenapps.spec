@@ -45,6 +45,7 @@ Requires: mysql
 Requires: gdal-libs
 %endif
 Provides: qdtext
+#TestRequires: smartmet-timezones
 
 
 %description
