@@ -1,0 +1,364 @@
+1-aamusta|200
+1-aamuun|201
+1-alkaen|202
+1-illasta|203
+1-iltaan|204
+1-na|205
+1-puoleiseksi tuuleksi|206
+1-puoleista tuulta|207
+1-suunnasta|208
+1-suuntaan|209
+1-tuuleksi|210
+1-tuulta|211
+1-vastaisena yona|212
+2-aamusta|213
+2-aamuun|214
+2-alkaen|215
+2-illasta|216
+2-iltaan|217
+2-na|218
+2-puoleiseksi tuuleksi|219
+2-puoleista tuulta|220
+2-suunnasta|221
+2-suuntaan|222
+2-tuuleksi|223
+2-tuulta|224
+2-vastaisena yona|225
+3-aamusta|226
+3-aamuun|227
+3-alkaen|228
+3-illasta|229
+3-iltaan|230
+3-na|231
+3-puoleiseksi tuuleksi|232
+3-puoleista tuulta|233
+3-suunnasta|234
+3-suuntaan|235
+3-tuuleksi|236
+3-tuulta|237
+3-vastaisena yona|238
+4-aamusta|239
+4-aamuun|240
+4-alkaen|241
+4-illasta|242
+4-iltaan|243
+4-na|244
+4-puoleiseksi tuuleksi|245
+4-puoleista tuulta|246
+4-suunnasta|247
+4-suuntaan|248
+4-tuuleksi|249
+4-tuulta|250
+4-vastaisena yona|251
+5-aamusta|252
+5-aamuun|253
+5-alkaen|254
+5-illasta|255
+5-iltaan|256
+5-na|257
+5-puoleiseksi tuuleksi|258
+5-puoleista tuulta|259
+5-suunnasta|260
+5-suuntaan|261
+5-tuuleksi|262
+5-tuulta|263
+5-vastaisena yona|264
+5-vuorokauden saa|265
+6-aamusta|266
+6-aamuun|267
+6-alkaen|268
+6-illasta|269
+6-iltaan|270
+6-na|271
+6-puoleiseksi tuuleksi|272
+6-puoleista tuulta|273
+6-suunnasta|274
+6-suuntaan|275
+6-tuuleksi|276
+6-tuulta|277
+6-vastaisena yona|278
+7-aamusta|279
+7-aamuun|280
+7-alkaen|281
+7-illasta|282
+7-iltaan|283
+7-na|284
+7-puoleiseksi tuuleksi|285
+7-puoleista tuulta|286
+7-suunnasta|287
+7-suuntaan|288
+7-tuuleksi|289
+7-tuulta|290
+7-vastaisena yona|291
+8-puoleiseksi tuuleksi|292
+8-puoleista tuulta|293
+8-suunnasta|294
+8-suuntaan|295
+8-tuuleksi|296
+8-tuulta|297
+aamulla|298
+aamupaivalla|299
+aamupaivasta alkaen|300
+aamusta alkaen|301
+aamuyolla|302
+aamuyosta alkaen|303
+ajoittain lumisadetta|304
+ajoittain sadetta|305
+ajoittain sateista|306
+ajoittain ukkosta|307
+aland:lle|308
+alempi|309
+alin suhteellinen kosteus|310
+alkavan|311
+alueen yli|312
+aluksi|313
+ankaran hallan todennakoisyys|314
+astetta|315
+asti|316
+edelleen|317
+enimmakseen|318
+ensi yona|319
+etela-karjala:lle|320
+etela-pohjanmaa:lle|321
+etela-savo:lle|322
+hallan todennakoisyys|323
+hame:lle|324
+heikkenevaa|325
+heikkoa sadetta|326
+heikkoa|327
+heikoksi|328
+hieman alempi|329
+hieman korkeampi|330
+hieman pienempi|331
+hieman suurempi|332
+hirmumyrskyksi|333
+hirmumyrskya|334
+huomattavasti alempi|335
+huomattavasti korkeampi|336
+huomattavasti lampimampi|337
+huomattavasti pienempi|338
+huomattavasti suurempi|339
+huomenna|340
+huomisaamuna|341
+illalla|342
+illasta alkaen|343
+iltapaivalla|344
+iltapaivasta alkaen|345
+iltayolla|346
+iltayosta alkaen|347
+kainuu:lle|348
+kello|349
+keski-pohjanmaa:lle|350
+keski-suomi:lle|351
+keskilampotila|352
+keskimaarainen alin lampotila|353
+keskimaarainen ylin lampotila|354
+keskipaivalla|355
+keskipaivasta alkaen|356
+keskiyolla|357
+keskiyosta alkaen|358
+kohtalaiseksi|359
+kohtalaista|360
+koillismaa:lle|361
+korkeampi|362
+korkeapaine|363
+korkeapaineen alue|364
+kosteammaksi|365
+kovaa|366
+kovaksi|367
+kuivemmaksi|368
+kymenlaakso:lle|369
+laaja|370
+lansi-lappi:lle|371
+leviaa|372
+liikkuu|373
+loittonee|374
+lopuksi|375
+lumi-|376
+lumikuuroja|377
+lumisadetta|378
+lahestyy|379
+lampenee|380
+lampimampi|381
+lampotila|382
+m/s|383
+mahdollisesti ukkosta|384
+matalapaine|385
+matalapaineen alue|386
+melko selkeaa|387
+metria sekunnissa|388
+miinus|389
+millimetria|991,390
+monin paikoin enemman|391
+monin paikoin|392
+muuttuu|393
+myrskyksi|394
+myrskya|395
+navakaksi|396
+navakkaa|397
+noin|398,991
+nyland:lle|399
+odotettavissa|400
+on|401,992
+osterbotten:lle|402
+paijat-hame:lle|403
+paikoin enemman|404
+paikoin|405
+pienempi|406
+pilvistyvaa|407
+pilvista|408
+pirkanmaa:lle|409
+pohjois-karjala:lle|410
+pohjois-lappi:lle|411
+pohjois-pohjanmaa:lle|412
+pohjois-savo:lle|413
+poutaa|414
+puolipilvista|415
+paivien ylin lampotila|416
+paivalla|417
+paivalampotila|418
+paivan ylin lampotila|419
+rannikolla|420
+runsasta sadetta|421
+ranta-|422
+rantasadetta|423
+sadealue|424
+sadesumma|425
+sadetta|426
+sakeaa lumisadetta|427
+sakeita lumikuuroja|428
+sama|429
+satakunta:lle|430
+selkenevaa|431
+selkeaa|432
+seuraava yo|433
+seuraavana paivana|434
+seuraavana yona|435
+suunnaltaan vaihtelevaa|436
+suunnilleen sama|437
+suurempi|438
+syvenee|439
+saa on epavakaista|440
+saa|441
+saaennuste|442
+tai|443
+tuuli heikkenee|444
+tuuli tyyntyy|445
+tuuli voimistuu|446
+tuuli|447
+tuulta|448
+tyyneksi|449
+tyynta|450
+tanaan|451
+uusimaa:lle|452
+vahvistuu|453
+vaihtelevaa pilvisyytta|454
+varsinais-suomi:lle|455
+vesi-|456
+vesisadetta|457
+viilenee|458
+viiva|459,991
+voimakkaita kuuroja|460
+voimistuvaa|461
+vahaisia kuuroja|462
+vahaista lumisadetta|463
+yli|464
+ylihuomenna|465
+yolla|466
+yolampotila|467
+yon alin lampotila|468
+yosta alkaen|469
+oiden alin lampotila|470
+prosenttia|471
+ajoittain|472
+1-na kello|473,991
+2-na kello|474,991
+3-na kello|475,991
+4-na kello|476,991
+5-na kello|477,991
+6-na kello|478,991
+7-na kello|479,991
+ei suuria muutoksia saassa|480
+saa selkenee|481
+saa muuttuu epavakaisemmaksi|482
+sateinen saa jatkuu|483
+saa muuttuu sateisemmaksi|484
+epavakainen saa jatkuu|485
+saa lauhtuu|486
+saa on enimmakseen poutaista|487
+saa poutaantuu|488
+saa muuttuu helteiseksi|489
+saa lampenee|490
+saa viilenee|491
+saa muuttuu koleaksi|492
+saa kylmenee|493
+helteinen saa jatkuu|494
+lammin saa jatkuu|495
+viilea saa jatkuu|496
+kolea saa jatkuu|497
+kylma saa jatkuu|498
+virtaa|499
+tilapaisesti|500
+lamminta|501
+kylmaa|502
+viileaa|503
+viileampaa|504
+lampimampaa|505
+kylmempaa|506
+hyvin|507
+vahan|508
+ilmaa|509
+Suomeen|510
+maan|511
+etelaosiin|512
+keskiosiin|513
+pohjoisosiin|514
+itaosiin|515
+lansiosiin|516
+etela-|517
+keski-|518
+pohjois-|519
+ita-|520
+lansi-|521
+kuivempaa|522
+kosteampaa|523
+sadealueita|524
+Suomen yli|525
+Etela-Suomen yli|526
+Keski-Suomen yli|527
+Pohjois-Suomen yli|528
+Ita-Suomen yli|529
+Lansi-Suomen yli|530
+Lounais-Suomen yli|531
+Kaakkois-Suomen yli|532
+uusi|533
+saapuu|534
+alue|535
+sateineen|536
+sadealueineen|537
+hajanaisine sadealueineen|538
+sateen todennakoisyys|539
+kuurosateen todennakoisyys|540
+ukkosen todennakoisyys|541
+kuuluu|542
+pakkanen jatkuu|543
+pakkanen kiristyy|544
+pakkanen heikkenee|545
+o'clock|
+pohjanmaa:lle|402
+ahvenanmaa:lle|308
+ja|546
+astetta (2)|315
+astetta (1)|315
+astetta (0)|315
+astetta (n...4)|315
+astetta (n...3)|315
+astetta (n...2)|315
+astetta (n...1)|315
+astetta (n...0)|315
+astetta (m...n)|315
+astetta (n)|315
+astetta (4)|315
+astetta (3)|315
+astetta (mod 10=1)|315
+astetta (n...(mod 10=1))|315

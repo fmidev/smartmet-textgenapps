@@ -56,7 +56,7 @@ qdtext::areas
 	tiepiiri-yla-lappi	= $(dir)/tiepiiri-yla-lappi.svg:$(radius)
 }
 
-qdtext::dictionary = multimysql
+qdtext::dictionary = file
 qdtext::timezone = Europe/Helsinki
 
 qdtext::products = fi_txt,fi_html,sv_txt,en_txt
