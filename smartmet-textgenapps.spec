@@ -35,9 +35,9 @@ Requires: mysql++
 Requires: zlib
 Requires: fmt
 %if 0%{rhel} >= 8
-BuildRequires: gdal30-devel
+BuildRequires: gdal32-devel
 BuildRequires: mariadb-devel
-Requires: gdal30-libs
+Requires: gdal32-libs
 %else
 BuildRequires: gdal-devel
 BuildRequires: mysql-devel
