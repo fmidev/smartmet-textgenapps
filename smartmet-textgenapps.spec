@@ -2,47 +2,45 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 20.10.28
+Version: 20.12.15
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
 URL: https://github.com/fmidev/smartmet-textgenapps
 Source0: %{name}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot-%(%{__id_u} -n)
-BuildRequires: rpm-build
-BuildRequires: gcc-c++
-BuildRequires: make
 BuildRequires: boost169-devel
-BuildRequires: smartmet-library-calculator-devel >= 20.10.7
-BuildRequires: smartmet-library-newbase-devel >= 20.10.28
-BuildRequires: smartmet-library-textgen-devel >= 20.10.7
-BuildRequires: mysql++-devel
-BuildRequires: zlib-devel
 BuildRequires: fmt-devel
-Requires: smartmet-library-calculator >= 20.10.7
-Requires: smartmet-library-newbase >= 20.10.28
-Requires: smartmet-library-textgen >= 20.10.7
-Requires: smartmet-library-macgyver >= 20.10.28
+BuildRequires: gcc-c++
+BuildRequires: gdal32-devel
+BuildRequires: make
+BuildRequires: mysql++-devel
+BuildRequires: rpm-build
+BuildRequires: smartmet-library-calculator-devel >= 20.10.7
+BuildRequires: smartmet-library-newbase-devel >= 20.12.15
+BuildRequires: smartmet-library-textgen-devel >= 20.12.15
+BuildRequires: zlib-devel
 Requires: boost169-iostreams
 Requires: boost169-locale
 Requires: boost169-system
+Requires: fmt
+Requires: gdal32-libs
 Requires: glibc
 Requires: libgcc
 Requires: libjpeg
 Requires: libpng
 Requires: libstdc++
 Requires: mysql++
+Requires: smartmet-library-calculator >= 20.10.7
+Requires: smartmet-library-macgyver >= 20.12.15
+Requires: smartmet-library-newbase >= 20.12.15
+Requires: smartmet-library-textgen >= 20.12.15
 Requires: zlib
-Requires: fmt
 %if 0%{rhel} >= 8
-BuildRequires: gdal30-devel
 BuildRequires: mariadb-devel
-Requires: gdal30-libs
 %else
-BuildRequires: gdal-devel
 BuildRequires: mysql-devel
 Requires: mysql
-Requires: gdal-libs
 %endif
 Provides: qdtext
 #TestRequires: smartmet-timezones
@@ -70,6 +68,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Tue Dec 15 2020 Mika Heiskanen <mika.heiskanen@fmi.fi> - 20.12.15-1.fmi
+- Upgrade to pgdg12
+
 * Wed Oct 28 2020 Mika Heiskanen <mika.heiskanen@fmi.fi> - 20.10.28-1.fmi
 - Upgrade to fmt 7.1
 
