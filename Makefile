@@ -168,7 +168,7 @@ clean:
 	rm -rf obj/
 
 format:
-	clang-format -i -style=file include/*.h source/*.cpp main/*.cpp
+	clang-format -i -style=file main/*.cpp
 
 install:
 	mkdir -p $(bindir)
