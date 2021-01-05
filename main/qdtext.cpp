@@ -48,7 +48,10 @@ using std::vector;
 using TextList = std::list<std::string>;
 using TextMap = std::map<std::string, TextList>;
 
-static TextMap textMap;
+namespace
+{
+TextMap textMap;
+}
 
 // ----------------------------------------------------------------------
 /*!
@@ -172,7 +175,7 @@ void save_forecasts(const TextGen::Document& theDocument,
  */
 // ----------------------------------------------------------------------
 
-const TextGen::WeatherArea make_area(const string& theName)
+TextGen::WeatherArea make_area(const string& theName)
 {
   const string var = "qdtext::areas::" + theName;
 
