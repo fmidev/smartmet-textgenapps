@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 20.12.15
+Version: 21.1.14
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -16,9 +16,9 @@ BuildRequires: gdal32-devel
 BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
-BuildRequires: smartmet-library-calculator-devel >= 20.10.7
-BuildRequires: smartmet-library-newbase-devel >= 20.12.15
-BuildRequires: smartmet-library-textgen-devel >= 20.12.15
+BuildRequires: smartmet-library-calculator-devel >= 21.1.14
+BuildRequires: smartmet-library-newbase-devel >= 21.1.14
+BuildRequires: smartmet-library-textgen-devel >= 21.1.14
 BuildRequires: zlib-devel
 Requires: boost169-iostreams
 Requires: boost169-locale
@@ -31,10 +31,10 @@ Requires: libjpeg
 Requires: libpng
 Requires: libstdc++
 Requires: mysql++
-Requires: smartmet-library-calculator >= 20.10.7
-Requires: smartmet-library-macgyver >= 20.12.15
-Requires: smartmet-library-newbase >= 20.12.15
-Requires: smartmet-library-textgen >= 20.12.15
+Requires: smartmet-library-calculator >= 21.1.14
+Requires: smartmet-library-macgyver >= 21.1.14
+Requires: smartmet-library-newbase >= 21.1.14
+Requires: smartmet-library-textgen >= 21.1.14
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -68,6 +68,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Thu Jan 14 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.1.14-1.fmi
+- Repackaged smartmet to resolve debuginfo issues
+
 * Tue Dec 15 2020 Mika Heiskanen <mika.heiskanen@fmi.fi> - 20.12.15-1.fmi
 - Upgrade to pgdg12
 
