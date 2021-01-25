@@ -19,6 +19,7 @@ BuildRequires: rpm-build
 BuildRequires: smartmet-library-calculator-devel >= 21.1.14
 BuildRequires: smartmet-library-newbase-devel >= 21.1.14
 BuildRequires: smartmet-library-textgen-devel >= 21.1.14
+BuildRequires: smartmet-library-macgyver-devel >= 21.1.14
 BuildRequires: zlib-devel
 Requires: boost169-iostreams
 Requires: boost169-locale
