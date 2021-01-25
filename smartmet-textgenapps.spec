@@ -45,7 +45,8 @@ Requires: mysql
 %endif
 Provides: qdtext
 #TestRequires: smartmet-timezones
-
+#TestRequires: smartmet-library-macgyver-devel >= 21.1.14
+#TestRequires: gcc-c++
 
 %description
 Weather Text Generator
