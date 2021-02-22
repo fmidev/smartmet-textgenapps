@@ -16,9 +16,10 @@ BuildRequires: gdal32-devel
 BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
-BuildRequires: smartmet-library-calculator-devel >= 21.2.18
-BuildRequires: smartmet-library-newbase-devel >= 21.2.20
-BuildRequires: smartmet-library-textgen-devel >= 21.2.18
+BuildRequires: smartmet-library-calculator-devel >= 21.1.14
+BuildRequires: smartmet-library-newbase-devel >= 21.1.14
+BuildRequires: smartmet-library-textgen-devel >= 21.1.14
+BuildRequires: smartmet-library-macgyver-devel >= 21.1.14
 BuildRequires: zlib-devel
 Requires: boost169-iostreams
 Requires: boost169-locale
@@ -44,7 +45,8 @@ Requires: mysql
 %endif
 Provides: qdtext
 #TestRequires: smartmet-timezones
-
+#TestRequires: smartmet-library-macgyver-devel >= 21.1.14
+#TestRequires: gcc-c++
 
 %description
 Weather Text Generator
@@ -70,6 +72,9 @@ rm -rf $RPM_BUILD_ROOT
 %changelog
 * Mon Feb 22 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.2.22-1.fmi
 - Repackaged due to newbase ABI changes
+
+* Mon Jan 25 2021 Andris Pavenis <andris.pavenis@fmi.fi> - 21.1.25-1.fmi
+- Build update:use makefile.inc
 
 * Thu Jan 14 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.1.14-1.fmi
 - Repackaged smartmet to resolve debuginfo issues

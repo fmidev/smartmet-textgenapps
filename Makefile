@@ -1,70 +1,13 @@
 MODULE = textgenapps
 SPEC = smartmet-textgenapps
 
-MAINFLAGS = -MD -Wall -W -Wno-unused-parameter -fno-omit-frame-pointer
+REQUIRES = gdal fmt
 
-ifeq (6, $(RHEL_VERSION))
-  MAINFLAGS += -std=c++0x
-else
-  MAINFLAGS += -std=c++11 -fdiagnostics-color=always
-endif
-
-EXTRAFLAGS = \
-	-Werror \
-	-Winline \
-	-Wpointer-arith \
-	-Wcast-qual \
-	-Wcast-align \
-	-Wwrite-strings \
-	-Wno-pmf-conversions \
-	-Wsign-promo \
-	-Wchar-subscripts \
-	-Woverloaded-virtual
-
-DIFFICULTFLAGS = \
-	-Wunreachable-code \
-	-Wconversion \
-	-Wnon-virtual-dtor \
-	-Wctor-dtor-privacy \
-	-Wredundant-decls \
-	-Weffc++ \
-	-Wold-style-cast \
-	-pedantic \
-	-Wshadow
+include $(shell echo $${PREFIX-/usr})/share/smartmet/devel/makefile.inc
 
 # Default compiler flags
 
 DEFINES = -DUNIX
-
-CFLAGS = $(DEFINES) -O2 -DNDEBUG $(MAINFLAGS) -g
-LDFLAGS = 
-
-# Special modes
-
-CFLAGS_DEBUG = $(DEFINES) -O0 -g $(MAINFLAGS) $(EXTRAFLAGS) -Werror
-CFLAGS_PROFILE = $(DEFINES) -O2 -g -pg -DNDEBUG $(MAINFLAGS)
-
-LDFLAGS_DEBUG =
-LDFLAGS_PROFILE =
-
-# Boost 1.69
-
-ifneq "$(wildcard /usr/include/boost169)" ""
-  INCLUDES += -isystem /usr/include/boost169
-  LIBS += -L/usr/lib64/boost169
-endif
-
-ifneq "$(wildcard /usr/gdal32/include)" ""
-  INCLUDES += -isystem /usr/gdal32/include
-  LIBS += -L$(PREFIX)/gdal32/lib
-else
-  ifneq "$(wildcard /usr/gdal30/include)" ""
-    INCLUDES += -isystem /usr/gdal30/include
-    LIBS += -L$(PREFIX)/gdal30/lib
-  else
-    INCLUDES += -isystem /usr/include/gdal
-  endif
-endif
 
 INCLUDES += \
 	-I$(includedir)/smartmet
@@ -74,50 +17,11 @@ LIBS += -L$(libdir) \
 	-lsmartmet-textgen \
 	-lsmartmet-newbase \
 	-L$(libdir)/mysql -lmysqlpp \
-	-lfmt \
+	$(REQUIRED_LIBS) \
 	-lboost_iostreams \
 	-lboost_locale \
 	-lboost_system \
 	-lstdc++ -lm
-
-# Common library compiling template
-
-# Installation directories
-
-processor := $(shell uname -p)
-
-ifeq ($(origin PREFIX), undefined)
-  PREFIX = /usr
-else
-  PREFIX = $(PREFIX)
-endif
-
-ifeq ($(processor), x86_64)
-  libdir = $(PREFIX)/lib64
-else
-  libdir = $(PREFIX)/lib
-endif
-
-objdir = obj
-includedir = $(PREFIX)/include
-
-ifeq ($(origin BINDIR), undefined)
-  bindir = $(PREFIX)/bin
-else
-  bindir = $(BINDIR)
-endif
-
-# Special modes
-
-ifneq (,$(findstring debug,$(MAKECMDGOALS)))
-  CFLAGS = $(CFLAGS_DEBUG)
-  LDFLAGS = $(LDFLAGS_DEBUG)
-endif
-
-ifneq (,$(findstring profile,$(MAKECMDGOALS)))
-  CFLAGS = $(CFLAGS_PROFILE)
-  LDFLAGS = $(LDFLAGS_PROFILE)
-endif
 
 # Compilation directories
 
@@ -125,11 +29,6 @@ vpath %.cpp source main
 vpath %.h include
 vpath %.o $(objdir)
 vpath %.d $(objdir)
-
-# How to install
-
-INSTALL_PROG = install -m 775
-INSTALL_DATA = install -m 664
 
 # The files to be compiled
 
