@@ -2061,3 +2061,5 @@ B5W_B7:lle|för Västra Finska viken och Norra Östersjön
 B5_B7:lle|för Finska Viken och Norra Östersjön
 ranta- tai tihkusadetta|snöblandat regn eller duggregn
 vesi- tai tihkusadetta|regn eller duggregn
+jotka muuttuvat rantakuuroiksi|som övergår till skurar av snöblandat regn
+jotka muuttuvat lumikuuroiksi|som övergår till skurar av snö
