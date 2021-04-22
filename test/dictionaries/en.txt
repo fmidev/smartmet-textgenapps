@@ -2061,3 +2061,5 @@ vesi- tai tihkusadetta|rain or drizzle
 lumi- tai tihkusadetta|snowfall or drizzle
 ranta- tai tihkusadetta|sleet or drizzle
 jaatavaa tihkusadetta|freezing drizzle
+jotka muuttuvat lumikuuroiksi|that turn into snow showers
+jotka muuttuvat rantakuuroiksi|that turn into sleet showers

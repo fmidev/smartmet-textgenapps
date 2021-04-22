@@ -2061,3 +2061,5 @@ jaatavaa tihkusadetta|jäätävää tihkusadetta
 lumi- tai tihkusadetta|lumi- tai tihkusadetta
 vesi- tai tihkusadetta|vesi- tai tihkusadetta
 ranta- tai tihkusadetta|räntä- tai tihkusadetta
+jotka muuttuvat rantakuuroiksi|jotka muuttuvat räntäkuuroiksi
+jotka muuttuvat lumikuuroiksi|jotka muuttuvat lumikuuroiksi
