@@ -51,7 +51,7 @@ qdtext::areas
 	}
 }
 
-qdtext::dictionary = multimysql
+qdtext::dictionary = file
 qdtext::timezone = Europe/Helsinki
 
 qdtext::products = fi_txt,sv_txt,en_txt

@@ -70,7 +70,7 @@ qdtext::areas
 	varsinais-suomi		= $(dir)/varsinais-suomi.svg:$(radius)
 }
 
-qdtext::dictionary = multimysql
+qdtext::dictionary = file
 qdtext::timezone = Europe/Helsinki
 
 qdtext::products = fi_txt,sv_txt,en_txt,fi_html
@@ -193,7 +193,7 @@ textgen::main_forecast = <DATADIR>/pinta
 textgen::ground_forecast = <DATADIR>/maanpinta
 textgen::krigingfinlandsnow_forecast = <DATADIR>/kriging
 textgen::temperaturesum_forecast = <DATADIR>/kasvukausi
-textgen::tmax_climatology = /smartmet/data/climate/suomi/daily/querydata/fractiles_textgen.sqd
+textgen::tmax_climatology = fractiles_textgen.sqd
 
 textgen::frostseason = true
 

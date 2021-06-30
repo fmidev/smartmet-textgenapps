@@ -2,44 +2,51 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 20.8.21
+Version: 21.5.6
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
 URL: https://github.com/fmidev/smartmet-textgenapps
 Source0: %{name}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot-%(%{__id_u} -n)
-BuildRequires: rpm-build
-BuildRequires: gcc-c++
-BuildRequires: make
 BuildRequires: boost169-devel
-BuildRequires: smartmet-library-calculator-devel >= 20.8.21
-BuildRequires: smartmet-library-newbase-devel >= 20.8.21
-BuildRequires: smartmet-library-textgen-devel >= 20.8.21
-BuildRequires: mysql++-devel
-BuildRequires: mysql-devel
-BuildRequires: zlib-devel
-BuildRequires: gdal30-devel
 BuildRequires: fmt-devel
-Requires: smartmet-library-calculator >= 20.8.21
-Requires: smartmet-library-newbase >= 20.8.21
-Requires: smartmet-library-textgen >= 20.8.21
-Requires: smartmet-library-macgyver >= 20.8.21
+BuildRequires: gcc-c++
+BuildRequires: gdal32-devel
+BuildRequires: make
+BuildRequires: mysql++-devel
+BuildRequires: rpm-build
+BuildRequires: smartmet-library-calculator-devel >= 21.2.18
+BuildRequires: smartmet-library-newbase-devel >= 21.5.6
+BuildRequires: smartmet-library-textgen-devel >= 21.5.6
+BuildRequires: smartmet-library-macgyver-devel >= 21.2.25
+BuildRequires: zlib-devel
 Requires: boost169-iostreams
 Requires: boost169-locale
 Requires: boost169-system
-Requires: gdal30-libs
+Requires: fmt
+Requires: gdal32-libs
 Requires: glibc
 Requires: libgcc
 Requires: libjpeg
 Requires: libpng
 Requires: libstdc++
-Requires: mysql
 Requires: mysql++
+Requires: smartmet-library-calculator >= 21.2.18
+Requires: smartmet-library-macgyver >= 21.2.25
+Requires: smartmet-library-newbase >= 21.5.6
+Requires: smartmet-library-textgen >= 21.5.6
 Requires: zlib
-Requires: fmt
+%if 0%{rhel} >= 8
+BuildRequires: mariadb-devel
+%else
+BuildRequires: mysql-devel
+Requires: mysql
+%endif
 Provides: qdtext
-
+#TestRequires: smartmet-timezones
+#TestRequires: smartmet-library-macgyver-devel >= 21.2.25
+#TestRequires: gcc-c++
 
 %description
 Weather Text Generator
@@ -63,6 +70,24 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Thu May  6 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.5.6-1.fmi
+- Repackaged due to ABI changes in NFmiAzimuthalArea
+
+* Mon Feb 22 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.2.22-1.fmi
+- Repackaged due to newbase ABI changes
+
+* Mon Jan 25 2021 Andris Pavenis <andris.pavenis@fmi.fi> - 21.1.25-1.fmi
+- Build update:use makefile.inc
+
+* Thu Jan 14 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.1.14-1.fmi
+- Repackaged smartmet to resolve debuginfo issues
+
+* Tue Dec 15 2020 Mika Heiskanen <mika.heiskanen@fmi.fi> - 20.12.15-1.fmi
+- Upgrade to pgdg12
+
+* Wed Oct 28 2020 Mika Heiskanen <mika.heiskanen@fmi.fi> - 20.10.28-1.fmi
+- Upgrade to fmt 7.1
+
 * Fri Aug 21 2020 Mika Heiskanen <mika.heiskanen@fmi.fi> - 20.8.21-1.fmi
 - Upgrade to fmt 6.2
 
@@ -81,7 +106,6 @@ rm -rf $RPM_BUILD_ROOT
 * Wed Dec  4 2019 Mika Heiskanen <mika.heiskanen@fmi.fi> - 19.12.4-1.fmi
 - Fixed dependency to be on gdal-libs instead of gdal
 - Use -fno-omit-frame-pointer for a better profiling and debugging experience                                                                                              
-
 * Tue Dec 3 2019 Anssi Reponen <anssi.reponen> - 19.12.3-1.fmi
 - Test cases updated (BRAINSTORM-1727)
 

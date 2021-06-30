@@ -1,0 +1,15 @@
+Helsinki	HKI	hesa	HEL	Suomi		60.17	24.95	
+Imatra	IMA					61.18	28.85	
+Ivalo						68.66	27.55	
+Joensuu	JOE					62.59	29.78	
+Kuopio	KUO					62.87	27.74	
+Viipuri	VIIP	VYBORG				60.72	28.66	Venäjä
+Lahti	LAH					60.97	25.69	
+Lappeenranta	LAP	LPR	LAPPEENR			61.0667	28.1833	
+Oulu	OUL					65.00	25.71	
+Pori						61.57	21.70	
+Rauma	RAU					61.11	21.54	
+Rovaniemi	ROI	ROVAN	ROV			66.49	25.72	
+Tampere		MANSE	Tpe			61.4991	23.7871	
+Turku		TKU				60.57	22.35	
+Vaasa		Vaas				63.05	21.7667	

@@ -48,7 +48,10 @@ using std::vector;
 using TextList = std::list<std::string>;
 using TextMap = std::map<std::string, TextList>;
 
-static TextMap textMap;
+namespace
+{
+TextMap textMap;
+}
 
 // ----------------------------------------------------------------------
 /*!
@@ -78,7 +81,8 @@ void write_forecasts(const string& theOutDir,
     log << "writing " << filename << endl;
 
     ofstream out(filename.c_str());
-    if (!out) throw runtime_error("Could not open " + filename + " for writing");
+    if (!out)
+      throw runtime_error("Could not open " + filename + " for writing");
 
     string encoding = Settings::optional_string("qdtext::encoding", "Latin1");
     if (encoding != "UTF-8")
@@ -87,7 +91,8 @@ void write_forecasts(const string& theOutDir,
       out << theText;
 
     out.close();
-    if (out.bad()) throw runtime_error("Error while writing " + filename);
+    if (out.bad())
+      throw runtime_error("Error while writing " + filename);
   }
 }
 
@@ -120,7 +125,8 @@ void save_forecasts(const TextGen::Document& theDocument,
     const string lang = Settings::require_string(product + "::language");
     const string form = Settings::require_string(product + "::formatter");
 
-    if (lang != theDictionary->language()) theDictionary->init(lang);
+    if (lang != theDictionary->language())
+      theDictionary->init(lang);
 
     boost::shared_ptr<TextGen::TextFormatter> formatter(
         TextGen::TextFormatterFactory::create(form));
@@ -129,7 +135,8 @@ void save_forecasts(const TextGen::Document& theDocument,
 
     std::string forecast = formatter->format(theDocument);
 
-    if (form == "html") forecast += Settings::optional_string("html__append", "");
+    if (form == "html")
+      forecast += Settings::optional_string("html__append", "");
 
     // save texts first to map
     if (textMap.find(filenames) == textMap.end())
@@ -168,7 +175,7 @@ void save_forecasts(const TextGen::Document& theDocument,
  */
 // ----------------------------------------------------------------------
 
-const TextGen::WeatherArea make_area(const string& theName)
+TextGen::WeatherArea make_area(const string& theName)
 {
   const string var = "qdtext::areas::" + theName;
 
@@ -199,7 +206,8 @@ const TextGen::WeatherArea make_area(const string& theName)
     else
       spec << theName;
 
-    if (Settings::isset(radiusvar)) spec << ':' << Settings::require_double(radiusvar);
+    if (Settings::isset(radiusvar))
+      spec << ':' << Settings::require_double(radiusvar);
   }
 
   string name = Settings::optional_string(namevar, theName);
@@ -251,7 +259,8 @@ void make_forecasts()
 
     pgis.readData(host, port, dbname, user, password, schema, table, field, encoding, log_message);
 
-    if (!log_message.empty()) log << log_message << endl;
+    if (!log_message.empty())
+      log << log_message << endl;
   }
 
   auto now = boost::posix_time::second_clock::universal_time();
@@ -347,7 +356,8 @@ bool read_cmdline(int argc, const char* argv[])
 
   NFmiCmdLine cmdline(argc, argv, "hc!d!a!");
 
-  if (cmdline.Status().IsError()) throw runtime_error(cmdline.Status().ErrorLog().CharPtr());
+  if (cmdline.Status().IsError())
+    throw runtime_error(cmdline.Status().ErrorLog().CharPtr());
 
   if (cmdline.isOption('h') != 0)
   {
@@ -368,7 +378,8 @@ bool read_cmdline(int argc, const char* argv[])
   // override the settings in the file
 
   const string filename = cmdline.Parameter(1);
-  if (filename.empty()) throw runtime_error("Empty argument for option -c");
+  if (filename.empty())
+    throw runtime_error("Empty argument for option -c");
   if (!NFmiFileSystem::FileExists(filename))
     throw runtime_error("File " + filename + " does not exist");
   NFmiSettings::Read(filename);
@@ -378,7 +389,8 @@ bool read_cmdline(int argc, const char* argv[])
   if (cmdline.isOption('d') != 0)
   {
     const string outdir = cmdline.OptionValue('d');
-    if (outdir.empty()) throw runtime_error("Empty argument for option -d");
+    if (outdir.empty())
+      throw runtime_error("Empty argument for option -d");
     if (!NFmiFileSystem::DirectoryExists(outdir))
       throw runtime_error("-d argument " + outdir + " does not exist");
     Settings::set("qdtext::outputdir", outdir);
@@ -387,14 +399,16 @@ bool read_cmdline(int argc, const char* argv[])
   if (cmdline.isOption('a') != 0)
   {
     const string areas = cmdline.OptionValue('a');
-    if (areas.empty()) throw runtime_error("Empty argument for option -a");
+    if (areas.empty())
+      throw runtime_error("Empty argument for option -a");
     Settings::set("qdtext::areas", areas);
   }
 
   if (cmdline.isOption('l') != 0)
   {
     const string languages = cmdline.OptionValue('l');
-    if (languages.empty()) throw runtime_error("Empty argument for option -l");
+    if (languages.empty())
+      throw runtime_error("Empty argument for option -l");
     Settings::set("qdtext::languages", languages);
   }
 
@@ -419,12 +433,14 @@ int run(int argc, const char* argv[])
 
   // Read the command line arguments
 
-  if (!read_cmdline(argc, argv)) return 0;
+  if (!read_cmdline(argc, argv))
+    return 0;
 
   // Settings are now fine
 
   const string logfile = Settings::optional_string("qdtext::logfile", "");
-  if (!logfile.empty()) MessageLogger::open(logfile);
+  if (!logfile.empty())
+    MessageLogger::open(logfile);
   MessageLogger::indent(' ');
   MessageLogger::indentstep(2);
   MessageLogger::timestamp(true);
@@ -448,7 +464,8 @@ int run(int argc, const char* argv[])
  */
 // ----------------------------------------------------------------------
 
-int main(int argc, const char* argv[]) try
+int main(int argc, const char* argv[])
+try
 {
   return run(argc, argv);
 }

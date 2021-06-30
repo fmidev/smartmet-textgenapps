@@ -1,116 +1,27 @@
 MODULE = textgenapps
 SPEC = smartmet-textgenapps
 
-MAINFLAGS = -MD -Wall -W -Wno-unused-parameter -fno-omit-frame-pointer
+REQUIRES = gdal fmt
 
-ifeq (6, $(RHEL_VERSION))
-  MAINFLAGS += -std=c++0x
-else
-  MAINFLAGS += -std=c++11 -fdiagnostics-color=always
-endif
-
-EXTRAFLAGS = \
-	-Werror \
-	-Winline \
-	-Wpointer-arith \
-	-Wcast-qual \
-	-Wcast-align \
-	-Wwrite-strings \
-	-Wno-pmf-conversions \
-	-Wsign-promo \
-	-Wchar-subscripts \
-	-Woverloaded-virtual
-
-DIFFICULTFLAGS = \
-	-Wunreachable-code \
-	-Wconversion \
-	-Wnon-virtual-dtor \
-	-Wctor-dtor-privacy \
-	-Wredundant-decls \
-	-Weffc++ \
-	-Wold-style-cast \
-	-pedantic \
-	-Wshadow
-
-CC = g++
+include $(shell echo $${PREFIX-/usr})/share/smartmet/devel/makefile.inc
 
 # Default compiler flags
 
 DEFINES = -DUNIX
 
-CFLAGS = $(DEFINES) -O2 -DNDEBUG $(MAINFLAGS)
-LDFLAGS = 
-
-# Special modes
-
-CFLAGS_DEBUG = $(DEFINES) -O0 -g $(MAINFLAGS) $(EXTRAFLAGS) -Werror
-CFLAGS_PROFILE = $(DEFINES) -O2 -g -pg -DNDEBUG $(MAINFLAGS)
-
-LDFLAGS_DEBUG =
-LDFLAGS_PROFILE =
-
-# Boost 1.69
-
-ifneq "$(wildcard /usr/include/boost169)" ""
-  INCLUDES += -I/usr/include/boost169
-  LIBS += -L/usr/lib64/boost169
-endif
-
-
-INCLUDES += -I$(includedir) \
-	-I$(includedir)/smartmet \
-	-I$(PREFIX)/gdal30/include
-
+INCLUDES += \
+	-I$(includedir)/smartmet
 
 LIBS += -L$(libdir) \
 	-lsmartmet-calculator \
 	-lsmartmet-textgen \
 	-lsmartmet-newbase \
 	-L$(libdir)/mysql -lmysqlpp \
-	-L$(PREFIX)/gdal30/lib `pkg-config --libs gdal30` \
-	-lfmt \
+	$(REQUIRED_LIBS) \
 	-lboost_iostreams \
 	-lboost_locale \
-	-lboost_system
-
-# Common library compiling template
-
-# Installation directories
-
-processor := $(shell uname -p)
-
-ifeq ($(origin PREFIX), undefined)
-  PREFIX = /usr
-else
-  PREFIX = $(PREFIX)
-endif
-
-ifeq ($(processor), x86_64)
-  libdir = $(PREFIX)/lib64
-else
-  libdir = $(PREFIX)/lib
-endif
-
-objdir = obj
-includedir = $(PREFIX)/include
-
-ifeq ($(origin BINDIR), undefined)
-  bindir = $(PREFIX)/bin
-else
-  bindir = $(BINDIR)
-endif
-
-# Special modes
-
-ifneq (,$(findstring debug,$(MAKECMDGOALS)))
-  CFLAGS = $(CFLAGS_DEBUG)
-  LDFLAGS = $(LDFLAGS_DEBUG)
-endif
-
-ifneq (,$(findstring profile,$(MAKECMDGOALS)))
-  CFLAGS = $(CFLAGS_PROFILE)
-  LDFLAGS = $(LDFLAGS_PROFILE)
-endif
+	-lboost_system \
+	-lstdc++ -lm
 
 # Compilation directories
 
@@ -118,11 +29,6 @@ vpath %.cpp source main
 vpath %.h include
 vpath %.o $(objdir)
 vpath %.d $(objdir)
-
-# How to install
-
-INSTALL_PROG = install -m 775
-INSTALL_DATA = install -m 664
 
 # The files to be compiled
 
@@ -161,7 +67,7 @@ clean:
 	rm -rf obj/
 
 format:
-	clang-format -i -style=file include/*.h source/*.cpp main/*.cpp
+	clang-format -i -style=file main/*.cpp
 
 install:
 	mkdir -p $(bindir)
@@ -180,12 +86,12 @@ objdir:
 rpm: clean $(SPEC).spec
 	rm -f $(SPEC).tar.gz # Clean a possible leftover from previous attempt
 	tar -czvf $(SPEC).tar.gz --exclude test --exclude-vcs --transform "s,^,$(SPEC)/," *
-	rpmbuild -ta $(SPEC).tar.gz
+	rpmbuild -tb $(SPEC).tar.gz
 	rm -f $(SPEC).tar.gz
 
 .SUFFIXES: $(SUFFIXES) .cpp
 
 obj/%.o : %.cpp
-	$(CC) $(CFLAGS) $(INCLUDES) -c -o $@ $<
+	$(CXX) $(CFLAGS) $(INCLUDES) -c -o $@ $<
 
 -include obj/*.d
