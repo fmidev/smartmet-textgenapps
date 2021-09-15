@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 21.5.6
+Version: 21.9.15
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -18,7 +18,7 @@ BuildRequires: mysql++-devel
 BuildRequires: rpm-build
 BuildRequires: smartmet-library-calculator-devel >= 21.2.18
 BuildRequires: smartmet-library-newbase-devel >= 21.5.6
-BuildRequires: smartmet-library-textgen-devel >= 21.5.6
+BuildRequires: smartmet-library-textgen-devel >= 21.9.15
 BuildRequires: smartmet-library-macgyver-devel >= 21.2.25
 BuildRequires: zlib-devel
 Requires: boost169-iostreams
@@ -35,7 +35,7 @@ Requires: mysql++
 Requires: smartmet-library-calculator >= 21.2.18
 Requires: smartmet-library-macgyver >= 21.2.25
 Requires: smartmet-library-newbase >= 21.5.6
-Requires: smartmet-library-textgen >= 21.5.6
+Requires: smartmet-library-textgen >= 21.9.15
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -70,6 +70,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Wed Sep 15 2021 Anssi Reponen <anssi.reponen@fmi.fi> - 21.9.15-1.fmi
+- Support for PostgreSQL dictionary database added (BRAINSTORM-1707)
+
 * Thu May  6 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.5.6-1.fmi
 - Repackaged due to ABI changes in NFmiAzimuthalArea
 
