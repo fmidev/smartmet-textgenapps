@@ -16,10 +16,10 @@ BuildRequires: gdal32-devel
 BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
-BuildRequires: smartmet-library-calculator-devel >= 21.2.18
-BuildRequires: smartmet-library-newbase-devel >= 21.5.6
+BuildRequires: smartmet-library-calculator-devel >= 21.5.6
+BuildRequires: smartmet-library-newbase-devel >= 21.9.14
 BuildRequires: smartmet-library-textgen-devel >= 21.9.15
-BuildRequires: smartmet-library-macgyver-devel >= 21.2.25
+BuildRequires: smartmet-library-macgyver-devel >= 21.9.13
 BuildRequires: zlib-devel
 Requires: boost169-iostreams
 Requires: boost169-locale
@@ -32,9 +32,9 @@ Requires: libjpeg
 Requires: libpng
 Requires: libstdc++
 Requires: mysql++
-Requires: smartmet-library-calculator >= 21.2.18
-Requires: smartmet-library-macgyver >= 21.2.25
-Requires: smartmet-library-newbase >= 21.5.6
+Requires: smartmet-library-calculator >= 21.5.6
+Requires: smartmet-library-macgyver >= 21.9.13
+Requires: smartmet-library-newbase >= 21.9.14
 Requires: smartmet-library-textgen >= 21.9.15
 Requires: zlib
 %if 0%{rhel} >= 8
@@ -45,7 +45,7 @@ Requires: mysql
 %endif
 Provides: qdtext
 #TestRequires: smartmet-timezones
-#TestRequires: smartmet-library-macgyver-devel >= 21.2.25
+#TestRequires: smartmet-library-macgyver-devel >= 21.9.13
 #TestRequires: gcc-c++
 
 %description
