@@ -233,46 +233,47 @@ void make_forecasts()
   const vector<string> areas = NFmiStringTools::Split(Settings::require_string("qdtext::areas"));
   const string dictionaryname = Settings::require_string("qdtext::dictionary");
   const string default_timezone = Settings::require_string("qdtext::timezone");
-  const string s_languages = Settings::optional_string("qdtext::supported_languages", "fi,sv,en,sonera");
+  const string s_languages =
+      Settings::optional_string("qdtext::supported_languages", "fi,sv,en,sonera");
   std::vector<std::string> supported_languages;
   boost::algorithm::split(supported_languages, s_languages, boost::algorithm::is_any_of(","));
   boost::shared_ptr<TextGen::Dictionary> dict(TextGen::DictionaryFactory::create(dictionaryname));
   const std::string dictionaryId = dict->getDictionaryId();
 
-  if(dictionaryId == "mysql" || dictionaryId == "postgresql")
-	{
-	  std::vector<std::string> missing_params;
-	  if(!Settings::isset("textgen::host"))
-		missing_params.push_back("textgen::host");
-	  if(!Settings::isset("textgen::user"))
-		missing_params.push_back("textgen::user");
-	  if(!Settings::isset("textgen::passwd"))
-		missing_params.push_back("textgen::passwd");
-	  if(!Settings::isset("textgen::database"))
-		missing_params.push_back("textgen::database");
+  if (dictionaryId == "mysql" || dictionaryId == "postgresql")
+  {
+    std::vector<std::string> missing_params;
+    if (!Settings::isset("textgen::host"))
+      missing_params.push_back("textgen::host");
+    if (!Settings::isset("textgen::user"))
+      missing_params.push_back("textgen::user");
+    if (!Settings::isset("textgen::passwd"))
+      missing_params.push_back("textgen::passwd");
+    if (!Settings::isset("textgen::database"))
+      missing_params.push_back("textgen::database");
 
-	  if(dictionaryId == "postgresql")
-		{
-		  if(!Settings::isset("textgen::port"))
-			  Settings::set("textgen::port", "5432");
-		  if(!Settings::isset("textgen::encoding"))
-			  Settings::set("textgen::encoding", "UTF8");
-		  if(!Settings::isset("textgen::connect_timeout"))
-			Settings::set("textgen::connect_timeout", "30");
-		}
+    if (dictionaryId == "postgresql")
+    {
+      if (!Settings::isset("textgen::port"))
+        Settings::set("textgen::port", "5432");
+      if (!Settings::isset("textgen::encoding"))
+        Settings::set("textgen::encoding", "UTF8");
+      if (!Settings::isset("textgen::connect_timeout"))
+        Settings::set("textgen::connect_timeout", "30");
+    }
 
-	  if(missing_params.size() > 0)
-		{
-		  std::string msg = ("Settings missing for " + dictionaryId + ": ");
-		  for(const auto& mp : missing_params)
-			msg += (mp + ",");
-		  msg.resize(msg.size()-1);
-		  throw runtime_error(msg);
-		}
-	}
+    if (missing_params.size() > 0)
+    {
+      std::string msg = ("Settings missing for " + dictionaryId + ": ");
+      for (const auto& mp : missing_params)
+        msg += (mp + ",");
+      msg.resize(msg.size() - 1);
+      throw runtime_error(msg);
+    }
+  }
 
-  for(const auto& lang : supported_languages)
-	dict->init(lang);
+  for (const auto& lang : supported_languages)
+    dict->init(lang);
 
   TextGen::TextGenerator generator;
   if (Settings::isset("qdtext::forecasttime"))
