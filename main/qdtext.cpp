@@ -244,13 +244,13 @@ void make_forecasts()
   {
     std::vector<std::string> missing_params;
     if (!Settings::isset("textgen::host"))
-      missing_params.push_back("textgen::host");
+      missing_params.emplace_back("textgen::host");
     if (!Settings::isset("textgen::user"))
-      missing_params.push_back("textgen::user");
+      missing_params.emplace_back("textgen::user");
     if (!Settings::isset("textgen::passwd"))
-      missing_params.push_back("textgen::passwd");
+      missing_params.emplace_back("textgen::passwd");
     if (!Settings::isset("textgen::database"))
-      missing_params.push_back("textgen::database");
+      missing_params.emplace_back("textgen::database");
 
     if (dictionaryId == "postgresql")
     {
