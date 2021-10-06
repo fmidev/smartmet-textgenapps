@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 21.9.15
+Version: 21.10.6
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -16,10 +16,10 @@ BuildRequires: gdal32-devel
 BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
-BuildRequires: smartmet-library-calculator-devel >= 21.5.6
-BuildRequires: smartmet-library-newbase-devel >= 21.9.14
-BuildRequires: smartmet-library-textgen-devel >= 21.9.15
-BuildRequires: smartmet-library-macgyver-devel >= 21.9.13
+BuildRequires: smartmet-library-calculator-devel >= 21.10.6
+BuildRequires: smartmet-library-newbase-devel >= 21.9.22
+BuildRequires: smartmet-library-textgen-devel >= 21.10.6
+BuildRequires: smartmet-library-macgyver-devel >= 21.10.4
 BuildRequires: zlib-devel
 Requires: boost169-iostreams
 Requires: boost169-locale
@@ -32,10 +32,10 @@ Requires: libjpeg
 Requires: libpng
 Requires: libstdc++
 Requires: mysql++
-Requires: smartmet-library-calculator >= 21.5.6
-Requires: smartmet-library-macgyver >= 21.9.13
-Requires: smartmet-library-newbase >= 21.9.14
-Requires: smartmet-library-textgen >= 21.9.15
+Requires: smartmet-library-calculator >= 21.10.6
+Requires: smartmet-library-macgyver >= 21.10.4
+Requires: smartmet-library-newbase >= 21.9.22
+Requires: smartmet-library-textgen >= 21.10.6
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -45,7 +45,7 @@ Requires: mysql
 %endif
 Provides: qdtext
 #TestRequires: smartmet-timezones
-#TestRequires: smartmet-library-macgyver-devel >= 21.9.13
+#TestRequires: smartmet-library-macgyver-devel >= 21.10.4
 #TestRequires: gcc-c++
 
 %description
@@ -70,6 +70,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Wed Oct  6 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.10.6-1.fmi
+- Repackaged due to API changes in calculator & textgen libraries
+
 * Wed Sep 15 2021 Anssi Reponen <anssi.reponen@fmi.fi> - 21.9.15-1.fmi
 - Support for PostgreSQL dictionary database added (BRAINSTORM-1707)
 
