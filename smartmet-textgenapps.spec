@@ -46,6 +46,7 @@ Requires: mysql
 Provides: qdtext
 #TestRequires: smartmet-timezones
 #TestRequires: smartmet-library-macgyver-devel >= 21.10.4
+#TestRequires: smartmet-library-newbase-devel >= 21.9.22
 #TestRequires: gcc-c++
 
 %description
@@ -70,6 +71,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Thu Oct 28 2021 Pertti Kinnia <pertti.kinnia@fmi.fi> - upcoming
+- Added test dependency for smartmet-library-newbase-devel
+
 * Wed Oct  6 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.10.6-1.fmi
 - Repackaged due to API changes in calculator & textgen libraries
 
