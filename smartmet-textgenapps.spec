@@ -12,7 +12,7 @@ BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot-%(%{__id_u} -n)
 BuildRequires: boost169-devel
 BuildRequires: fmt-devel
 BuildRequires: gcc-c++
-BuildRequires: gdal32-devel
+BuildRequires: gdal33-devel
 BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
@@ -25,7 +25,7 @@ Requires: boost169-iostreams
 Requires: boost169-locale
 Requires: boost169-system
 Requires: fmt
-Requires: gdal32-libs
+Requires: gdal33-libs
 Requires: glibc
 Requires: libgcc
 Requires: libjpeg
