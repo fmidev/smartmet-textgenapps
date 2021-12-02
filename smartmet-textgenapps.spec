@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 21.10.6
+Version: 21.12.2
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -17,9 +17,9 @@ BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
 BuildRequires: smartmet-library-calculator-devel >= 21.10.6
-BuildRequires: smartmet-library-newbase-devel >= 21.9.22
-BuildRequires: smartmet-library-textgen-devel >= 21.10.6
-BuildRequires: smartmet-library-macgyver-devel >= 21.10.4
+BuildRequires: smartmet-library-newbase-devel >= 21.12.1
+BuildRequires: smartmet-library-textgen-devel >= 21.12.2
+BuildRequires: smartmet-library-macgyver-devel >= 21.12.1
 BuildRequires: zlib-devel
 Requires: boost169-iostreams
 Requires: boost169-locale
@@ -33,9 +33,9 @@ Requires: libpng
 Requires: libstdc++
 Requires: mysql++
 Requires: smartmet-library-calculator >= 21.10.6
-Requires: smartmet-library-macgyver >= 21.10.4
-Requires: smartmet-library-newbase >= 21.9.22
-Requires: smartmet-library-textgen >= 21.10.6
+Requires: smartmet-library-macgyver >= 21.12.1
+Requires: smartmet-library-newbase >= 21.12.1
+Requires: smartmet-library-textgen >= 21.12.2
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -45,8 +45,8 @@ Requires: mysql
 %endif
 Provides: qdtext
 #TestRequires: smartmet-timezones
-#TestRequires: smartmet-library-macgyver-devel >= 21.10.4
-#TestRequires: smartmet-library-newbase-devel >= 21.9.22
+#TestRequires: smartmet-library-macgyver-devel >= 21.12.1
+#TestRequires: smartmet-library-newbase-devel >= 21.12.1
 #TestRequires: gcc-c++
 
 %description
@@ -56,9 +56,9 @@ Weather Text Generator
 rm -rf $RPM_BUILD_ROOT
 
 %setup -q -n %{RPMNAME}
- 
+
 %build
-make %{_smp_mflags} 
+make %{_smp_mflags}
 
 %install
 %makeinstall
@@ -106,7 +106,8 @@ rm -rf $RPM_BUILD_ROOT
 
 * Wed Dec  4 2019 Mika Heiskanen <mika.heiskanen@fmi.fi> - 19.12.4-1.fmi
 - Fixed dependency to be on gdal-libs instead of gdal
-- Use -fno-omit-frame-pointer for a better profiling and debugging experience                                                                                              
+- Use -fno-omit-frame-pointer for a better profiling and debugging experience
+
 * Tue Dec 3 2019 Anssi Reponen <anssi.reponen> - 19.12.3-1.fmi
 - Test cases updated (BRAINSTORM-1727)
 
@@ -338,4 +339,3 @@ rm -rf $RPM_BUILD_ROOT
 
 * Thu Jun  7 2007 tervo <tervo@xodin.weatherproof.fi> - 1.0.1-1.el5.fmi
 - Initial build.
-
