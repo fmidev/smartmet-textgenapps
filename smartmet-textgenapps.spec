@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 21.12.2
+Version: 21.12.7
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -71,6 +71,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Tue Dec  7 2021 Andris Pavēnis <andris.pavenis@fmi.fi> 21.12.7-1.fmi
+- Update to postgresql 13 and gdal 3.3
+
 * Thu Oct 28 2021 Pertti Kinnia <pertti.kinnia@fmi.fi> - upcoming
 - Added test dependency for smartmet-library-newbase-devel
 
