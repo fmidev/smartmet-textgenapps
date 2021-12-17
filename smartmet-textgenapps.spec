@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 21.12.7
+Version: 21.12.17
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -17,9 +17,9 @@ BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
 BuildRequires: smartmet-library-calculator-devel >= 21.10.6
-BuildRequires: smartmet-library-newbase-devel >= 21.12.1
-BuildRequires: smartmet-library-textgen-devel >= 21.12.2
-BuildRequires: smartmet-library-macgyver-devel >= 21.12.1
+BuildRequires: smartmet-library-newbase-devel >= 21.12.7
+BuildRequires: smartmet-library-textgen-devel >= 21.12.17
+BuildRequires: smartmet-library-macgyver-devel >= 21.12.7
 BuildRequires: zlib-devel
 Requires: boost169-iostreams
 Requires: boost169-locale
@@ -33,9 +33,9 @@ Requires: libpng
 Requires: libstdc++
 Requires: mysql++
 Requires: smartmet-library-calculator >= 21.10.6
-Requires: smartmet-library-macgyver >= 21.12.1
-Requires: smartmet-library-newbase >= 21.12.1
-Requires: smartmet-library-textgen >= 21.12.2
+Requires: smartmet-library-macgyver >= 21.12.7
+Requires: smartmet-library-newbase >= 21.12.7
+Requires: smartmet-library-textgen >= 21.12.17
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -45,8 +45,8 @@ Requires: mysql
 %endif
 Provides: qdtext
 #TestRequires: smartmet-timezones
-#TestRequires: smartmet-library-macgyver-devel >= 21.12.1
-#TestRequires: smartmet-library-newbase-devel >= 21.12.1
+#TestRequires: smartmet-library-macgyver-devel >= 21.12.7
+#TestRequires: smartmet-library-newbase-devel >= 21.12.7
 #TestRequires: gcc-c++
 
 %description
@@ -71,6 +71,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Fri Dec 17 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.12.17-1.fmi
+- Repackaged since textgen library ABI changed
+
 * Tue Dec  7 2021 Andris Pavēnis <andris.pavenis@fmi.fi> 21.12.7-1.fmi
 - Update to postgresql 13 and gdal 3.3
 
