@@ -12,20 +12,20 @@ BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot-%(%{__id_u} -n)
 BuildRequires: boost169-devel
 BuildRequires: fmt-devel
 BuildRequires: gcc-c++
-BuildRequires: gdal33-devel
+BuildRequires: gdal34-devel
 BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
 BuildRequires: smartmet-library-calculator-devel >= 21.10.6
-BuildRequires: smartmet-library-newbase-devel >= 21.12.7
-BuildRequires: smartmet-library-textgen-devel >= 21.12.17
-BuildRequires: smartmet-library-macgyver-devel >= 21.12.7
+BuildRequires: smartmet-library-newbase-devel >= 21.1.21
+BuildRequires: smartmet-library-textgen-devel >= 21.1.21
+BuildRequires: smartmet-library-macgyver-devel >= 21.1.21
 BuildRequires: zlib-devel
 Requires: boost169-iostreams
 Requires: boost169-locale
 Requires: boost169-system
 Requires: fmt
-Requires: gdal33-libs
+Requires: gdal34-libs
 Requires: glibc
 Requires: libgcc
 Requires: libjpeg
@@ -33,9 +33,9 @@ Requires: libpng
 Requires: libstdc++
 Requires: mysql++
 Requires: smartmet-library-calculator >= 21.10.6
-Requires: smartmet-library-macgyver >= 21.12.7
-Requires: smartmet-library-newbase >= 21.12.7
-Requires: smartmet-library-textgen >= 21.12.17
+Requires: smartmet-library-macgyver >= 21.1.21
+Requires: smartmet-library-newbase >= 21.1.21
+Requires: smartmet-library-textgen >= 21.1.21
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -45,8 +45,8 @@ Requires: mysql
 %endif
 Provides: qdtext
 #TestRequires: smartmet-timezones
-#TestRequires: smartmet-library-macgyver-devel >= 21.12.7
-#TestRequires: smartmet-library-newbase-devel >= 21.12.7
+#TestRequires: smartmet-library-macgyver-devel >= 21.1.21
+#TestRequires: smartmet-library-newbase-devel >= 21.1.21
 #TestRequires: gcc-c++
 
 %description
