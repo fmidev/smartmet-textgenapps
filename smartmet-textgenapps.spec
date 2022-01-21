@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 21.12.17
+Version: 22.1.21
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -71,6 +71,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Fri Jan 21 2022 Andris Pavēnis <andris.pavenis@fmi.fi> 22.1.21-1.fmi
+- Repackage due to upgrade of packages from PGDG repo: gdal-3.4, geos-3.10, proj-8.2
+
 * Fri Dec 17 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.12.17-1.fmi
 - Repackaged since textgen library ABI changed
 
