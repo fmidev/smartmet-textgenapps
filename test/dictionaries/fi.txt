@@ -2063,3 +2063,4 @@ vesi- tai tihkusadetta|vesi- tai tihkusadetta
 ranta- tai tihkusadetta|räntä- tai tihkusadetta
 jotka muuttuvat rantakuuroiksi|jotka muuttuvat räntäkuuroiksi
 jotka muuttuvat lumikuuroiksi|jotka muuttuvat lumikuuroiksi
+meri-lappi:lle|Meri-Lappiin
