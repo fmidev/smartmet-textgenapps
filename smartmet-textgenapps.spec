@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 22.5.20
+Version: 22.5.24
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -16,9 +16,9 @@ BuildRequires: gdal34-devel
 BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
-BuildRequires: smartmet-library-calculator-devel >= 22.5.20
-BuildRequires: smartmet-library-newbase-devel >= 22.5.20
-BuildRequires: smartmet-library-textgen-devel >= 22.5.20
+BuildRequires: smartmet-library-calculator-devel >= 22.5.24
+BuildRequires: smartmet-library-newbase-devel >= 22.5.24
+BuildRequires: smartmet-library-textgen-devel >= 22.5.24
 BuildRequires: smartmet-library-macgyver-devel >= 22.3.28
 BuildRequires: zlib-devel
 Requires: boost169-iostreams
@@ -32,10 +32,10 @@ Requires: libjpeg
 Requires: libpng
 Requires: libstdc++
 Requires: mysql++
-Requires: smartmet-library-calculator >= 22.5.20
+Requires: smartmet-library-calculator >= 22.5.24
 Requires: smartmet-library-macgyver >= 22.3.28
-Requires: smartmet-library-newbase >= 22.5.20
-Requires: smartmet-library-textgen >= 22.5.20
+Requires: smartmet-library-newbase >= 22.5.24
+Requires: smartmet-library-textgen >= 22.5.24
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -46,7 +46,7 @@ Requires: mysql
 Provides: qdtext
 #TestRequires: smartmet-timezones
 #TestRequires: smartmet-library-macgyver-devel >= 22.3.28
-#TestRequires: smartmet-library-newbase-devel >= 22.5.20
+#TestRequires: smartmet-library-newbase-devel >= 22.5.24
 #TestRequires: gcc-c++
 
 %description
@@ -71,6 +71,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Tue May 24 2022 Mika Heiskanen <mika.heiskanen@fmi.fi> - 22.5.24-1.fmi
+- Repackaged due to NFmiArea ABI changes
+
 * Fri May 20 2022 Mika Heiskanen <mika.heiskanen@fmi.fi> - 22.5.20-1.fmi
 - Repackaged due to ABI changes to newbase LatLon methods
 
