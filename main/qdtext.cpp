@@ -76,7 +76,7 @@ void write_forecasts(const string& theOutDir,
   for (const auto& file : filenames)
   {
     string filename = std::string(theOutDir).append("/").append(file);
-    filename = fmt::format(filename, timeinfo);
+    filename = fmt::format(fmt::runtime(filename), timeinfo);
 
     log << "writing " << filename << endl;
 
