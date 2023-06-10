@@ -2,6 +2,11 @@
 
 $program = (-x "../qdtext" ? "../qdtext" : "qdtext");
 
+# Determine WGS84 mode
+
+system('grep --quiet "#define WGS84 1" /usr/include/smartmet/newbase/NFmiGlobals.h');
+$wgs84 = 1-($? >> 8);
+
 # Regression tests for qdtext program
 #
 # Adding new regression tests:
@@ -150,33 +155,62 @@ foreach $cnffile(@cnffiles)
 
 	foreach $file(@allcnf)
 	{
-	    if(-e "$resultdir/$file")
-	    {
-		$subtotal++;
-	    }
+	    # If the suffix is wgs84, use the test only in WGS84 mode
+	    # If the suffix is not wgs84, test if there is a WGS84 version in WGS84 mode
 
-	    print padname($file);
+	    $resultfile = $file;
+	    $skiptest = 0;
 
-	    if(! -e "$resultdir/$file")
+	    $haswgs84suffix = (substr($file,-6) eq ".wgs84");
+
+	    if($wgs84)
 	    {
-		print "failed, not an original result!";
-		$subfailed++;
-	    }
-	    elsif(! -e "$outdir/$file")
-	    {
-		print "failed, qdtext dir not create it!";
-		$subfailed++;
-	    }
-	    elsif(readfile("$resultdir/$file") eq readfile("$outdir/$file"))
-	    {
-		print "ok";
+		if($haswgs84suffix)
+		{
+		    $resultfile = substr($file,0,-6);
+		}
+		else
+		{
+		    $skiptest = (-e "$resultdir/$file.wgs84");
+		}
 	    }
 	    else
 	    {
-		print "failed, results differ!";
-		$subfailed++;
+		$skiptest = $haswgs84suffix;
 	    }
-	    print "\n";
+
+	    # print "$skiptest\t$file\t$resultfile\t$wgs84\t$haswgs84suffix\n";
+
+	    if(!$skiptest)
+	    {
+		if(-e "$resultdir/$file")
+		{
+		    $subtotal++;
+		}
+
+		print padname($file);
+		
+		if(! -e "$resultdir/$file")
+		{
+		    print "failed, $resultdir/$file is missing!";
+		    $subfailed++;
+		}
+		elsif(! -e "$outdir/$resultfile")
+		{
+		    print "failed, qdtext dir not create it!";
+		    $subfailed++;
+		}
+		elsif(readfile("$resultdir/$file") eq readfile("$outdir/$readfile"))
+		{
+		    print "ok";
+		}
+		else
+		{
+		    print "failed, results differ!";
+		    $subfailed++;
+		}
+		print "\n";
+	    }
 	}
 
 	print "\nFailed $subfailed/$subtotal tests\n\n";

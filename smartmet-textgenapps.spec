@@ -2,51 +2,62 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 20.10.28
+Version: 22.6.20
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
 URL: https://github.com/fmidev/smartmet-textgenapps
 Source0: %{name}.tar.gz
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot-%(%{__id_u} -n)
-BuildRequires: rpm-build
+
+%if 0%{?rhel} && 0%{rhel} < 9
+%define smartmet_boost boost169
+%else
+%define smartmet_boost boost
+%endif
+
+%define smartmet_fmt_min 8.1.1
+%define smartmet_fmt_max 8.2.0
+
+BuildRequires: %{smartmet_boost}-devel
+BuildRequires: fmt-devel >= %{smartmet_fmt_min}, fmt-devel < %{smartmet_fmt_max}
 BuildRequires: gcc-c++
+BuildRequires: gdal34-devel
 BuildRequires: make
-BuildRequires: boost169-devel
-BuildRequires: smartmet-library-calculator-devel >= 20.10.7
-BuildRequires: smartmet-library-newbase-devel >= 20.10.28
-BuildRequires: smartmet-library-textgen-devel >= 20.10.7
 BuildRequires: mysql++-devel
+BuildRequires: rpm-build
+BuildRequires: smartmet-library-calculator-devel >= 22.6.16
+BuildRequires: smartmet-library-newbase-devel >= 22.6.16
+BuildRequires: smartmet-library-textgen-devel >= 22.6.17
+BuildRequires: smartmet-library-macgyver-devel >= 22.6.16
 BuildRequires: zlib-devel
-BuildRequires: fmt-devel
-Requires: smartmet-library-calculator >= 20.10.7
-Requires: smartmet-library-newbase >= 20.10.28
-Requires: smartmet-library-textgen >= 20.10.7
-Requires: smartmet-library-macgyver >= 20.10.28
-Requires: boost169-iostreams
-Requires: boost169-locale
-Requires: boost169-system
+Requires: %{smartmet_boost}-iostreams
+Requires: %{smartmet_boost}-locale
+Requires: %{smartmet_boost}-system
+Requires: fmt >= %{smartmet_fmt_min}, fmt < %{smartmet_fmt_max}
+Requires: gdal34-libs
 Requires: glibc
 Requires: libgcc
 Requires: libjpeg
 Requires: libpng
 Requires: libstdc++
 Requires: mysql++
+Requires: smartmet-library-calculator >= 22.6.16
+Requires: smartmet-library-macgyver >= 22.6.16
+Requires: smartmet-library-newbase >= 22.6.16
+Requires: smartmet-library-textgen >= 22.6.17
 Requires: zlib
-Requires: fmt
 %if 0%{rhel} >= 8
-BuildRequires: gdal32-devel
 BuildRequires: mariadb-devel
-Requires: gdal32-libs
 %else
-BuildRequires: gdal-devel
 BuildRequires: mysql-devel
 Requires: mysql
-Requires: gdal-libs
 %endif
 Provides: qdtext
 #TestRequires: smartmet-timezones
-
+#TestRequires: smartmet-library-macgyver-devel >= 22.6.16
+#TestRequires: smartmet-library-newbase-devel >= 22.6.16
+#TestRequires: gcc-c++
 
 %description
 Weather Text Generator
@@ -55,9 +66,9 @@ Weather Text Generator
 rm -rf $RPM_BUILD_ROOT
 
 %setup -q -n %{RPMNAME}
- 
+
 %build
-make %{_smp_mflags} 
+make %{_smp_mflags}
 
 %install
 %makeinstall
@@ -70,6 +81,48 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Mon Jun 20 2022 Andris Pavēnis <andris.pavenis@fmi.fi> 22.6.20-1.fmi
+- Add support for RHEL9, upgrade libpqxx to 7.7.0 (rhel8+) and fmt to 8.1.1
+
+* Tue May 24 2022 Mika Heiskanen <mika.heiskanen@fmi.fi> - 22.5.24-1.fmi
+- Repackaged due to NFmiArea ABI changes
+
+* Fri May 20 2022 Mika Heiskanen <mika.heiskanen@fmi.fi> - 22.5.20-1.fmi
+- Repackaged due to ABI changes to newbase LatLon methods
+
+* Fri Jan 21 2022 Andris Pavēnis <andris.pavenis@fmi.fi> 22.1.21-1.fmi
+- Repackage due to upgrade of packages from PGDG repo: gdal-3.4, geos-3.10, proj-8.2
+
+* Fri Dec 17 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.12.17-1.fmi
+- Repackaged since textgen library ABI changed
+
+* Tue Dec  7 2021 Andris Pavēnis <andris.pavenis@fmi.fi> 21.12.7-1.fmi
+- Update to postgresql 13 and gdal 3.3
+
+* Thu Oct 28 2021 Pertti Kinnia <pertti.kinnia@fmi.fi> - upcoming
+- Added test dependency for smartmet-library-newbase-devel
+
+* Wed Oct  6 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.10.6-1.fmi
+- Repackaged due to API changes in calculator & textgen libraries
+
+* Wed Sep 15 2021 Anssi Reponen <anssi.reponen@fmi.fi> - 21.9.15-1.fmi
+- Support for PostgreSQL dictionary database added (BRAINSTORM-1707)
+
+* Thu May  6 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.5.6-1.fmi
+- Repackaged due to ABI changes in NFmiAzimuthalArea
+
+* Mon Feb 22 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.2.22-1.fmi
+- Repackaged due to newbase ABI changes
+
+* Mon Jan 25 2021 Andris Pavenis <andris.pavenis@fmi.fi> - 21.1.25-1.fmi
+- Build update:use makefile.inc
+
+* Thu Jan 14 2021 Mika Heiskanen <mika.heiskanen@fmi.fi> - 21.1.14-1.fmi
+- Repackaged smartmet to resolve debuginfo issues
+
+* Tue Dec 15 2020 Mika Heiskanen <mika.heiskanen@fmi.fi> - 20.12.15-1.fmi
+- Upgrade to pgdg12
+
 * Wed Oct 28 2020 Mika Heiskanen <mika.heiskanen@fmi.fi> - 20.10.28-1.fmi
 - Upgrade to fmt 7.1
 
@@ -81,7 +134,8 @@ rm -rf $RPM_BUILD_ROOT
 
 * Wed Dec  4 2019 Mika Heiskanen <mika.heiskanen@fmi.fi> - 19.12.4-1.fmi
 - Fixed dependency to be on gdal-libs instead of gdal
-- Use -fno-omit-frame-pointer for a better profiling and debugging experience                                                                                              
+- Use -fno-omit-frame-pointer for a better profiling and debugging experience
+
 * Tue Dec 3 2019 Anssi Reponen <anssi.reponen> - 19.12.3-1.fmi
 - Test cases updated (BRAINSTORM-1727)
 
@@ -313,4 +367,3 @@ rm -rf $RPM_BUILD_ROOT
 
 * Thu Jun  7 2007 tervo <tervo@xodin.weatherproof.fi> - 1.0.1-1.el5.fmi
 - Initial build.
-
