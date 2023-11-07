@@ -6,7 +6,7 @@
 // ======================================================================
 
 #include <boost/algorithm/string.hpp>
-#include <boost/date_time/posix_time/posix_time.hpp>
+#include <macgyver/DateTime.h>
 #include <boost/foreach.hpp>
 #include <boost/locale.hpp>
 #include <boost/tokenizer.hpp>
@@ -66,7 +66,7 @@ TextMap textMap;
 void write_forecasts(const string& theOutDir,
                      const string& theFilenames,
                      const string& theText,
-                     const boost::posix_time::ptime& theTime)
+                     const Fmi::DateTime& theTime)
 {
   MessageLogger log("write_forecasts");
   const vector<string> filenames = NFmiStringTools::Split(theFilenames);
@@ -302,7 +302,7 @@ void make_forecasts()
       log << log_message << endl;
   }
 
-  auto now = boost::posix_time::second_clock::universal_time();
+  auto now = Fmi::SecondClock::universal_time();
 
   for (const auto& areaname : areas)
   {
