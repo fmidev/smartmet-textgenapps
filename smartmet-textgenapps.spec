@@ -28,7 +28,7 @@ BuildRequires: mysql++-devel
 BuildRequires: rpm-build
 BuildRequires: smartmet-library-calculator-devel >= 24.1.30
 BuildRequires: smartmet-library-newbase-devel >= 24.1.30
-BuildRequires: smartmet-library-textgen-devel >= 24.1.30
+BuildRequires: smartmet-library-textgen-devel >= 24.2.16
 BuildRequires: smartmet-library-macgyver-devel >= 24.1.17
 BuildRequires: zlib-devel
 Requires: %{smartmet_boost}-iostreams
@@ -45,7 +45,7 @@ Requires: mysql++
 Requires: smartmet-library-calculator >= 24.1.30
 Requires: smartmet-library-macgyver >= 24.1.17
 Requires: smartmet-library-newbase >= 24.1.30
-Requires: smartmet-library-textgen >= 24.1.30
+Requires: smartmet-library-textgen >= 24.2.16
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
