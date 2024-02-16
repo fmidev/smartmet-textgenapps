@@ -6,7 +6,6 @@
 // ======================================================================
 
 #include <boost/algorithm/string.hpp>
-#include <macgyver/DateTime.h>
 #include <boost/foreach.hpp>
 #include <boost/locale.hpp>
 #include <boost/tokenizer.hpp>
@@ -15,6 +14,7 @@
 #include <calculator/WeatherArea.h>
 #include <fmt/chrono.h>
 #include <fmt/format.h>
+#include <macgyver/DateTime.h>
 #include <newbase/NFmiCmdLine.h>
 #include <newbase/NFmiFileSystem.h>
 #include <newbase/NFmiSettings.h>
@@ -479,6 +479,7 @@ int run(int argc, const char* argv[])
   // Settings are now fine
 
   const string logfile = Settings::optional_string("qdtext::logfile", "");
+  MessageLogger logger("qdtext");
   if (!logfile.empty())
     MessageLogger::open(logfile);
   MessageLogger::indent(' ');
@@ -492,6 +493,9 @@ int run(int argc, const char* argv[])
   // Make the forecasts
 
   make_forecasts();
+
+  if (logfile == "-")
+    std::cout << logger.str() << "\n";
 
   return 0;
 }
