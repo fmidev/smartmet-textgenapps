@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 24.1.30
+Version: 24.2.23
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -81,6 +81,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Fri Feb 23 2024 Mika Heiskanen <mika.heiskanen@fmi.fi> 24.2.23-1.fmi
+- Full repackaging
+
 * Tue Jan 30 2024 Mika Heiskanen <mika.heiskanen@fmi.fi> 24.1.30-1.fmi
 - Repackaged due to newbase ABI changes
 
