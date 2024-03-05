@@ -1049,7 +1049,6 @@ sadekuuroja|sadekuuroja
 vesikuuroja|vesikuuroja
 rantakuuroja|räntäkuuroja
 pieni ukkosen todennakoisyys|pieni ukkosen todennäköisyys
-voimakkaita sadekuuroja|voimakkaita sadekuuroja
 tuulista|tuulista
 heikkoja sadekuuroja|heikkoja sadekuuroja
 pakkanen on erittain purevaa|pakkanen on erittäin purevaa
@@ -2074,5 +2073,6 @@ finnmarkin lansiosa:lle|Finnmarkin länsiosaan
 finnmarkin itaosa:lle|Finnmarkin itäosaan
 murmanskin alueen lansiosa:lle|Murmanskin alueen länsiosaan
 pohjois-ruotsi:lle|Pohjois-Ruotsiin
+voimakkaita sadekuuroja|rankkoja sadekuuroja
 [iltapaivalla] lumikuurot voivat olla sakeita|[1] lumikuurot voivat olla sakeita
 [iltapaivalla] lumisade voi olla sakeaa|[1] lumisade voi olla sakeaa

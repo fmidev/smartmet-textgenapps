@@ -54,7 +54,7 @@ qdtext::areas
 qdtext::dictionary = file
 qdtext::timezone = Europe/Helsinki
 
-qdtext::products = fi_txt,sv_txt,en_txt
+qdtext::products = fi_txt,sv_txt,en_txt,en_marine_txt
 
 qdtext::product::fi_txt
 {
@@ -119,6 +119,28 @@ qdtext::product::en_txt
 		B4W			= en-B4W_varo.txt
 		B5E			= en-B5E_varo.txt
 		B5W			= en-B5W_varo.txt
+	}	
+}
+
+qdtext::product::en_marine_txt
+{
+	language = en-marine
+	formatter = plainlines
+
+	filename
+	{
+		B1			= en-marine-B1_varo.txt
+		B2			= en-marine-B2_varo.txt
+		B3			= en-marine-B3_varo.txt
+		B5			= en-marine-B5_varo.txt
+		B1N			= en-marine-B1N_varo.txt
+		B1S			= en-marine-B1S_varo.txt
+		B3N			= en-marine-B3N_varo.txt
+		B3S			= en-marine-B3S_varo.txt
+		B4E			= en-marine-B4E_varo.txt
+		B4W			= en-marine-B4W_varo.txt
+		B5E			= en-marine-B5E_varo.txt
+		B5W			= en-marine-B5W_varo.txt
 	}	
 }
 
