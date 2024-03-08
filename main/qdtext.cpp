@@ -6,6 +6,7 @@
 // ======================================================================
 
 #include <boost/algorithm/string.hpp>
+#include <boost/algorithm/string/replace.hpp>
 #include <boost/foreach.hpp>
 #include <boost/locale.hpp>
 #include <boost/tokenizer.hpp>
@@ -120,8 +121,22 @@ void save_forecasts(const TextGen::Document& theDocument,
     const string product = "qdtext::product::" + prodname;
     const string var = std::string(product).append("::filename::").append(theArea);
 
-    // if no filename is given, print to stdout (indicated by '-')
-    const string filenames = Settings::optional_string(var, "-");
+    // if no filename is given, print to stdout (indicated by '-') ...
+    string filenames = Settings::optional_string(var, "-");
+
+    // ... unless a filenamepattern has been specified
+
+    if (filenames == "-")
+    {
+      const string var2 = std::string(product).append("::filenamepattern");
+      string filenames2 = Settings::optional_string(var2, "");
+      if (!filenames2.empty())
+      {
+        boost::algorithm::replace_all(filenames2, "${AREA}", theArea);
+        filenames = filenames2;
+      }
+    }
+
     const string lang = Settings::require_string(product + "::language");
     const string form = Settings::require_string(product + "::formatter");
 
