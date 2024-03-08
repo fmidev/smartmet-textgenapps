@@ -1267,7 +1267,6 @@ saa on poutainen|uppehållsväder
 4-keskiyosta alkaen|från och med torsdag midnatt
 3-keskiyosta alkaen|från och med onsdag midnatt
 2-keskiyosta alkaen|från och med tisdag midnatt
-1-keskiyosta alkaen|från och med mondag midnatt
 1 hehtopascal|en hektopascal
 0 hehtopascalia|noll hektopascal
 1 prosentti|en procent
@@ -1810,7 +1809,6 @@ huomiseen asti|till morgonen
 5-aamuun asti|till fredag morgon
 6-aamuun asti|till lördag morgon
 7-aamuun asti|till söndag morgon
-1-iltaan asti|till mondag kväll
 2-iltaan asti|till tisdag kväll
 3-iltaan asti|till onsdag kväll
 4-iltaan asti|till torsdag kväll
@@ -2076,3 +2074,14 @@ murmanskin alueen lansiosa:lle|för västra delen av Murmansk oblast
 pohjois-ruotsi:lle|för Norra Sverige
 [iltapaivalla] lumikuurot voivat olla sakeita|[1] kan snöbyarna vara ymniga
 [iltapaivalla] lumisade voi olla sakeaa|[1] kan snöfallet vara ymnigt
+1-iltaan asti|till måndag kväll
+1-keskiyosta alkaen|från och med måndag midnatt
+huomiseen iltapaivaan asti|till imorgon eftermiddag
+huomisen keskipaivaan asti|till imorgon middagen
+1-keskipaivaan asti|till måndag middagen
+2-keskipaivaan asti|till tisdag middagen
+3-keskipaivaan asti|till onsdag middagen
+4-keskipaivaan asti|till torsdag middagen
+5-keskipaivaan asti|till fredag middagen
+6-keskipaivaan asti|till lördag middagen
+7-keskipaivaan asti|till söndag middagen

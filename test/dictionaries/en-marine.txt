@@ -2076,3 +2076,12 @@ ranta- tai tihkusadetta|sleet or drizzle
 jaatavaa tihkusadetta|freezing drizzle
 jotka muuttuvat lumikuuroiksi|that turn into snow showers
 jotka muuttuvat rantakuuroiksi|that turn into sleet showers
+huomiseen iltapaivaan asti|until tomorrow afternoon
+huomisen keskipaivaan asti|until tomorrow forenoon
+1-keskipaivaan asti|until Monday forenoon
+2-keskipaivaan asti|until Tuesday forenoon
+3-keskipaivaan asti|until Wednesday forenoon
+4-keskipaivaan asti|until Thursday forenoon
+5-keskipaivaan asti|until Friday forenoon
+6-keskipaivaan asti|until Saturday forenoon
+7-keskipaivaan asti|until Sunday forenoon
