@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 24.2.23
+Version: 24.3.8
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -27,8 +27,8 @@ BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
 BuildRequires: smartmet-library-calculator-devel >= 24.2.23
-BuildRequires: smartmet-library-newbase-devel >= 24.2.23
-BuildRequires: smartmet-library-textgen-devel >= 24.2.23
+BuildRequires: smartmet-library-newbase-devel >= 24.3.7
+BuildRequires: smartmet-library-textgen-devel >= 24.3.8
 BuildRequires: smartmet-library-macgyver-devel >= 24.1.17
 BuildRequires: zlib-devel
 Requires: %{smartmet_boost}-iostreams
@@ -44,8 +44,8 @@ Requires: libstdc++
 Requires: mysql++
 Requires: smartmet-library-calculator >= 24.2.23
 Requires: smartmet-library-macgyver >= 24.1.17
-Requires: smartmet-library-newbase >= 24.2.23
-Requires: smartmet-library-textgen >= 24.2.23
+Requires: smartmet-library-newbase >= 24.3.7
+Requires: smartmet-library-textgen >= 24.3.8
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -56,7 +56,7 @@ Requires: mysql
 Provides: qdtext
 #TestRequires: smartmet-timezones
 #TestRequires: smartmet-library-macgyver-devel >= 24.1.17
-#TestRequires: smartmet-library-newbase-devel >= 24.2.23
+#TestRequires: smartmet-library-newbase-devel >= 24.3.7
 #TestRequires: gcc-c++
 
 %description
@@ -81,6 +81,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Fri Mar  8 2024 Mika Heiskanen <mika.heiskanen@fmi.fi> - 24.3.8-1.fmi
+- Added filenamepattern command for substituting ${AREA} in the filename with the actual area name
+
 * Fri Feb 23 2024 Mika Heiskanen <mika.heiskanen@fmi.fi> 24.2.23-1.fmi
 - Full repackaging
 
