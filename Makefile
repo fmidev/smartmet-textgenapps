@@ -16,6 +16,7 @@ LIBS += -L$(libdir) \
 	-lsmartmet-calculator \
 	-lsmartmet-textgen \
 	-lsmartmet-newbase \
+	-lsmartmet-macgyver \
 	-L$(libdir)/mysql -lmysqlpp \
 	$(REQUIRED_LIBS) \
 	-lboost_iostreams \
