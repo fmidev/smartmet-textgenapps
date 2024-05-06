@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 24.3.8
+Version: 24.5.6
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -81,6 +81,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Mon May  6 2024 Andris Pavēnis <andris.pavenis@fmi.fi> 24.5.6-1.fmi
+- Use Date library (https://github.com/HowardHinnant/date) instead of boost date_time
+
 * Fri Mar  8 2024 Mika Heiskanen <mika.heiskanen@fmi.fi> - 24.3.8-1.fmi
 - Added filenamepattern command for substituting ${AREA} in the filename with the actual area name
 
