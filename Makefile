@@ -12,7 +12,7 @@ DEFINES = -DUNIX
 INCLUDES += \
 	-I$(includedir)/smartmet
 
-LIBS += -L$(libdir) \
+LIBS += $(PREFIX_LDFLAGS) \
 	-lsmartmet-calculator \
 	-lsmartmet-textgen \
 	-lsmartmet-newbase \
@@ -66,6 +66,7 @@ $(MAINPROGS): % : obj/%.o $(OBJFILES)
 clean:
 	rm -f $(MAINPROGS) $(OBJFILES) $(MAINOBJFILES)*~ source/*~ include/*~
 	rm -rf obj/
+	$(MAKE) -C test $@
 
 format:
 	clang-format -i -style=file main/*.cpp
