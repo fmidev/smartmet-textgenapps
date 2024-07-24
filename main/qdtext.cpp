@@ -7,7 +7,6 @@
 
 #include <boost/algorithm/string.hpp>
 #include <boost/algorithm/string/replace.hpp>
-#include <boost/foreach.hpp>
 #include <boost/locale.hpp>
 #include <boost/tokenizer.hpp>
 #include <calculator/Config.h>
