@@ -7,7 +7,6 @@
 
 #include <boost/algorithm/string.hpp>
 #include <boost/algorithm/string/replace.hpp>
-#include <boost/foreach.hpp>
 #include <boost/locale.hpp>
 #include <boost/tokenizer.hpp>
 #include <calculator/Config.h>
@@ -108,7 +107,7 @@ void write_forecasts(const string& theOutDir,
 // ----------------------------------------------------------------------
 
 void save_forecasts(const TextGen::Document& theDocument,
-                    boost::shared_ptr<TextGen::Dictionary>& theDictionary,
+                    std::shared_ptr<TextGen::Dictionary>& theDictionary,
                     const string& theArea)
 {
   MessageLogger log("save_forecasts");
@@ -143,7 +142,7 @@ void save_forecasts(const TextGen::Document& theDocument,
     if (lang != theDictionary->language())
       theDictionary->changeLanguage(lang);
 
-    boost::shared_ptr<TextGen::TextFormatter> formatter(
+    std::shared_ptr<TextGen::TextFormatter> formatter(
         TextGen::TextFormatterFactory::create(form));
     formatter->dictionary(theDictionary);
     formatter->setProductName(prodname);
@@ -252,7 +251,7 @@ void make_forecasts()
       Settings::optional_string("qdtext::supported_languages", "fi,sv,en,sonera");
   std::vector<std::string> supported_languages;
   boost::algorithm::split(supported_languages, s_languages, boost::algorithm::is_any_of(","));
-  boost::shared_ptr<TextGen::Dictionary> dict(TextGen::DictionaryFactory::create(dictionaryname));
+  std::shared_ptr<TextGen::Dictionary> dict(TextGen::DictionaryFactory::create(dictionaryname));
   const std::string dictionaryId = dict->getDictionaryId();
 
   if (dictionaryId == "mysql" || dictionaryId == "postgresql")
