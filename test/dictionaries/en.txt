@@ -555,9 +555,9 @@ Suomen yli|over Finland
 [alueella] saa viilenee|the weather becomes cooler [1]
 [alueella] viilea saa jatkuu|the cool weather continues [1]
 [etelatuuli] alkaa heiketa [nopeasti]|[1] starts to weaken [2]
-[etelatuuli] alkaa voimistua [nopeasti]|[1] starts to strengthen [2]
+[etelatuuli] alkaa voimistua [nopeasti]|[1] starts to strenghten [2]
 [etelatuuli] heikkenee [nopeasti]|[1] weakens [2]
-[etelatuuli] voimistuu [nopeasti]|[1] strengthen [2]
+[etelatuuli] voimistuu [nopeasti]|[1] strenghten [2]
 [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2], which may be freezing
 [heikkoa] [sadetta]|[1] [2]
 [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2], which may be freezing
@@ -693,9 +693,9 @@ Suomen yli|over Finland
 [iltap] [nop] [heikken] [tuulta] [m...n] [m sek], joka kaantyy [illalla] [pohj]|[1] [2] [3] [4] [5] [6], that turns [8] [7]
 [iltapaivalla] [etelaan] kaantyvaa tuulta|the wind turns [2] [1]
 [iltapaivalla] [etelatuuli] alkaa heiketa [nopeasti]|[1] [2] starts to weaken [3]
-[iltapaivalla] [etelatuuli] alkaa voimistua [nopeasti]|[1] [2] starts to strengthen [3]
+[iltapaivalla] [etelatuuli] alkaa voimistua [nopeasti]|[1] [2] starts to strenghten [3]
 [iltapaivalla] [etelatuuli] heikkenee [nopeasti]|[2] weakens [3] [1]
-[iltapaivalla] [etelatuuli] voimistuu [nopeasti]|[2] strengthens [3] [1]
+[iltapaivalla] [etelatuuli] voimistuu [nopeasti]|[2] strenghtens [3] [1]
 [iltapaivalla] [etelatuulta]|[2] [1]
 [iltapaivalla] [heikkenevaa tuulta]|[1] [2]
 [iltapaivalla] [heikkenevaa] [etelatuulta]|[1] [2] [3]
@@ -708,20 +708,20 @@ Suomen yli|over Finland
 [iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[1] [2] starts to weaken and turns [3]
 [iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] starts to weaken and becomes temporarily variable
 [iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] starts to weaken and becomes variable
-[iltapaivalla] [pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] starts to strengthen [3] and turns [5] [4]
-[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantya [etelaan]|[1] [2] starts to strengthen and turn [3]
-[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantyy [etelaan]|[1] [2] starts to strengthen and turns [3]
-[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] starts to strengthen and becomes temporarily variable
-[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] starts to strengthen and becomes variable
+[iltapaivalla] [pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] starts to strenghten [3] and turns [5] [4]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantya [etelaan]|[1] [2] starts to strenghten and turn [3]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantyy [etelaan]|[1] [2] starts to strenghten and turns [3]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] starts to strenghten and becomes temporarily variable
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] starts to strenghten and becomes variable
 [iltapaivalla] [pohjoistuuli] heikkenee edelleen|[2] continues to weaken [1]
 [iltapaivalla] [pohjoistuuli] heikkenee ja kaantyy [etelaan]|[1] [2] weakens and turns [3]
 [iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1]  [2] weakens and becomes temporarily variable
 [iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] [2] weakens and becomes variable
-[iltapaivalla] [pohjoistuuli] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] starts to strengthen and becomes temporarily variable
-[iltapaivalla] [pohjoistuuli] voimistuu edelleen|[2] continues to strengthen [1]
-[iltapaivalla] [pohjoistuuli] voimistuu ja kaantyy [etelaan]|[1] [2] strengthens and turns [3]
-[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] strengthens and becomes temporarily variable
-[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi|[1] [2] strengthens and becomes variable
+[iltapaivalla] [pohjoistuuli] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] starts to strenghten and becomes temporarily variable
+[iltapaivalla] [pohjoistuuli] voimistuu edelleen|[2] continues to strenghten [1]
+[iltapaivalla] [pohjoistuuli] voimistuu ja kaantyy [etelaan]|[1] [2] strenghtens and turns [3]
+[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] strenghtens and becomes temporarily variable
+[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi|[1] [2] strenghtens and becomes variable
 [iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1] [2] [1]
 [iltapaivalla] [rannikolla] on [tuulista]|[1] it is [3] [2]
 [iltapaivalla] [rannikolla] pakkanen on erittain purevaa|the frost is very biting [2] [1]
@@ -781,29 +781,29 @@ Suomen yli|over Finland
 [iltapaivalla] sade voi olla runsasta|rain can be heavy [1]
 [iltapaivalla] tuuli alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] starts to weaken and becomes temporarily variable
 [iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] starts to weaken and becomes variable
-[iltapaivalla] tuuli alkaa voimistua ja kaantyy [etelaan]|wind starts to strengthen and turns [2] [1]
-[iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] wind starts to strengthen and becomes temporarily variable
-[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] starts to strengthen and becomes variable
+[iltapaivalla] tuuli alkaa voimistua ja kaantyy [etelaan]|wind starts to strenghten and turns [2] [1]
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] wind starts to strenghten and becomes temporarily variable
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] starts to strenghten and becomes variable
 [iltapaivalla] tuuli heikkenee ja kaantyy [etelaan]|[1] wind weakens and turns [2]
 [iltapaivalla] tuuli heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] the wind weakens and becomes temporarily variable
 [iltapaivalla] tuuli heikkenee ja muuttuu vaihtelevaksi|[1] the wind weakens and becomes variable
-[iltapaivalla] tuuli kaantyy [etelaan] ja heikkenee edelleen|[1] the wind turns [2] and contines to strengthen
+[iltapaivalla] tuuli kaantyy [etelaan] ja heikkenee edelleen|[1] the wind turns [2] and contines to strenghten
 [iltapaivalla] tuuli kaantyy [etelaan] ja voimistuu edelleen|[1] the wind turns [2] and contines to weaken
 [iltapaivalla] tuuli kaantyy [etelaan]|the wind turns [2] [1]
 [iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja heikkenee edelleen|[1] the wind becomes temporarily variable and continues to weaken
-[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja voimistuu edelleen|[1] the wind becomes temporarily variable and continues to  strengthen
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja voimistuu edelleen|[1] the wind becomes temporarily variable and continues to  strenghten
 [iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi|the wind becomes temporarily variable [1]
 [iltapaivalla] tuuli muuttuu vaihtelevaksi ja heikkenee edelleen|[1] the wind becomes variable and continues to weaken
-[iltapaivalla] tuuli muuttuu vaihtelevaksi ja voimistuu edelleen|the wind becomes variable and continues to  strengthen [1]
+[iltapaivalla] tuuli muuttuu vaihtelevaksi ja voimistuu edelleen|the wind becomes variable and continues to  strenghten [1]
 [iltapaivalla] tuuli muuttuu vaihtelevaksi|the wind becomes variable [1]
 [iltapaivalla] tuuli saa saan tuntumaan kylmemmalta|the wind makes the weather feel colder [1]
 [iltapaivalla] tuuli saa saan tuntumaan viileammalta|the wind makes the weather feel cooler [1]
-[iltapaivalla] tuuli voimistuu ja kaantyy [etelaan]|[1] the wind strengthens and turns [2]
-[iltapaivalla] tuuli voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] the wind continues to strengthen and becomes temporarily variable
-[iltapaivalla] tuuli voimistuu ja muuttuu vaihtelevaksi|the wind strengthens and becomes varying [1]
+[iltapaivalla] tuuli voimistuu ja kaantyy [etelaan]|[1] the wind strenghtens and turns [2]
+[iltapaivalla] tuuli voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] the wind continues to strenghten and becomes temporarily variable
+[iltapaivalla] tuuli voimistuu ja muuttuu vaihtelevaksi|the wind strenghtens and becomes varying [1]
 [iltapaivasta alkaen] [pilvistyvaa]|[2] [1]
 [ip] [p-tuulta] [m...n] [m/s], joka alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] [3] [4], which starts to weaken [5] and turns [7] [6]
-[ip] [p-tuulta] [m...n] [m/s], joka alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] [3] [4], which starts to strengthen [5] and turns [7] [6]
+[ip] [p-tuulta] [m...n] [m/s], joka alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] [3] [4], which starts to strenghten [5] and turns [7] [6]
 [lampotila] [M...N] [astetta]|[1] [2] [3]
 [lampotila] [N] [asteen] tienoilla|[1] round about [2] [3]
 [lampotila] [N] [asteen] tuntumassa|[1] close to [2] [3]
@@ -836,19 +836,19 @@ Suomen yli|over Finland
 [pohjoistuuli] alkaa heiketa ja kaantya [etelaan]|[1] starts to weaken and turning [2]
 [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] starts to weaken and becomes temporarily varaible
 [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] starts to weaken and becomes variable
-[pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] starts to strengthen [2] and turns [4] [3]
-[pohjoistuuli] alkaa voimistua ja kaantya [etelaan]|[1] starts to strengthen and turning [2]
-[pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] starts to strengthen and becomes temporarily variable
+[pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] starts to strenghten [2] and turns [4] [3]
+[pohjoistuuli] alkaa voimistua ja kaantya [etelaan]|[1] starts to strenghten and turning [2]
+[pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] starts to strenghten and becomes temporarily variable
 [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] starts to weaken and becomes variable
 [pohjoistuuli] heikkenee [nopeasti]|[1] weakens [2]
 [pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] weakens and becomes temporarily variable
 [pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] weakens and  and  becomes variable
-[pohjoistuuli] voimistuu [nopeasti]|[1] strengthens [2]
-[pohjoistuuli] voimistuu ja kaantyy [etelaan]|[1] strengthens and turns [2]
-[pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] strengthens and becomes temporarily variable
-[pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi|[1] strengthens and  becomes variable
+[pohjoistuuli] voimistuu [nopeasti]|[1] strenghtens [2]
+[pohjoistuuli] voimistuu ja kaantyy [etelaan]|[1] strenghtens and turns [2]
+[pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] strenghtens and becomes temporarily variable
+[pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi|[1] strenghtens and  becomes variable
 [pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa heiketa|[1] [2] [3], which starts to weaken
-[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa voimistua|[1] [2] [3], which starts to strengthen
+[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa voimistua|[1] [2] [3], which starts to strenghten
 [pohjoistuulta] [m...n] [metria sekunnissa], joka kaantyy [iltapaivalla] [etelaan]|[1] [2] [3], that turns [5] [4]
 [pohjoistuulta] [m...n] [metria sekunnissa], joka muuttuu [iltapaivalla] vaihtelevaksi|[1] [2] [3], that becomes variable [4]
 [rannikolla] [paikoin] hallaa, joka voi olla ankaraa|possibly severe frost [2] [1]
@@ -1938,7 +1938,7 @@ tuuli muuttuu vaihtelevaksi|the wind becomes variable
 tuuli saa saan tuntumaan kylmemmalta|the wind makes the weather feel colder
 tuuli saa saan tuntumaan viileammalta|the wind makes the weather feel cooler
 tuuli tyyntyy|the wind becomes calm
-tuuli voimistuu|the wind strengthens to
+tuuli voimistuu|the wind strenghtens to
 tuulinen|windy
 tuulista|windy
 tuuli|wind
@@ -1973,7 +1973,7 @@ vahan plussan puolella|a bit on the plus side
 vahan|a little
 vahitellen|gradually
 vahto:lle|for Vahto
-vahvistuu|strengthens
+vahvistuu|strenghtens
 vaihtelee puolipilvisesta pilviseen|varies from half cloudy to cloudy
 vaihtelevaa pilvisyytta|variable cloudiness
 vaikeuttaa liikennetta|hampers traffic
@@ -2051,8 +2051,8 @@ voimakas|very strong
 voimakkaita kuuroja|heavy showers
 voimakkaita sadekuuroja|strong rain showers
 voimakkaita vesikuuroja|intense rain showers
-voimistuvaa tuulta|strengthening wind
-voimistuvaa|strengthening
+voimistuvaa tuulta|strenghtening wind
+voimistuvaa|strenghtening
 voyri:lle|for Vöyri
 vuolijoki:lle|for Vuolijoki
 yksi millimetri|one millimeter
