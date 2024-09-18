@@ -407,15 +407,15 @@
 7-na kello|on Sunday
 7-na|on Sunday
 7-paivalla|on Sunday during the day
-7-puoleinen tuuli|mainly westerly
-7-puoleiseksi tuuleksi|mainly westerly
-7-puoleista tuulta|mainly westerly
+7-puoleinen tuuli|mainly west
+7-puoleiseksi tuuleksi|mainly west
+7-puoleista tuulta|mainly west
 7-puolelle|mainly west
 7-suunnasta|from west
 7-suuntaan|to west
-7-tuuleksi|westerly
-7-tuuli|westerly
-7-tuulta|westerly
+7-tuuleksi|west
+7-tuuli|west
+7-tuulta|west
 7-vastaiseen yohon asti|until Sunday night
 7-vastaisena yona|on Sunday night
 7-vastaisesta yosta alkaen|from Sunday night
@@ -2023,8 +2023,8 @@ virrat:lle|for Virrat
 virtaa|streams
 voimakas 1- ja 2-valinen tuuli|strong north to northeast
 voimakas 1- ja 8-valinen tuuli|strong north to northwest
-voimakas 1-puoleinen tuuli|strong mainly northerly
-voimakas 1-tuuli|strong northerly
+voimakas 1-puoleinen tuuli|strong mainly north
+voimakas 1-tuuli|strong north
 voimakas 2-puoleinen tuuli|strong mainly northeast
 voimakas 2-tuuli|strong northeast
 voimakas 3- ja 2-valinen tuuli|strong east to northeast
@@ -2041,8 +2041,8 @@ voimakas 6-puoleinen tuuli|strong mainly southwest
 voimakas 6-tuuli|strong southwest
 voimakas 7- ja 6-valinen tuuli|strong west to southwest
 voimakas 7- ja 8-valinen tuuli|strong west to northwest
-voimakas 7-puoleinen tuuli|strong mainly westerly
-voimakas 7-tuuli|strong westerly
+voimakas 7-puoleinen tuuli|strong mainly west
+voimakas 7-tuuli|strong west
 voimakas 8-puoleinen tuuli|strong mainly northwest
 voimakas 8-tuuli|strong northwest
 voimakas puuskainen tuuli|strong gusty
