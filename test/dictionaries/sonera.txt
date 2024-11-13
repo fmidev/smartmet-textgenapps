@@ -1,3 +1,5 @@
+1-iltaan asti|204,316
+2-iltaan asti|217,316
 1-aamusta|200
 1-aamuun|201
 1-alkaen|202
@@ -362,3 +364,15 @@ astetta (4)|315
 astetta (3)|315
 astetta (mod 10=1)|315
 astetta (n...(mod 10=1))|315
+3-iltaan asti|230,316
+4-iltaan asti|243,316
+5-iltaan asti|256,316
+6-iltaan asti|270,316
+7-iltaan asti|283,316
+1-aamuun asti|201,316
+2-aamuun asti|214,316
+3-aamuun asti|227,316
+4-aamuun asti|240,316
+5-aamuun asti|253,316
+6-aamuun asti|267,316
+7-aamuun asti|280,316
