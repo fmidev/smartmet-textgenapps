@@ -1565,7 +1565,6 @@ latgale:lle|for Latgale region
 latvia:lle|for Latvia
 lounaaseen|to the south-west
 luoteeseen|to the north-west
-nopeasti|fast
 pieksamaki:lle|for Pieksämäki
 pohjoiseen|to the north
 suunnaltaan vaihtelevaa tuulta|variable
@@ -1631,6 +1630,7 @@ itaan|to the east
 ivalo:lle|for Ivalo
 kaakkoon|to the south-east
 koilliseen|to the north-east
+nopeasti|rapidly
 1- ja 8-valista tuulta|north to northwest
 1-puoleinen tuuli|mainly north
 1-tuuli|north
