@@ -22,7 +22,7 @@ BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot-%(%{__id_u} -n)
 BuildRequires: %{smartmet_boost}-devel
 BuildRequires: fmt-devel >= %{smartmet_fmt_min}, fmt-devel < %{smartmet_fmt_max}
 BuildRequires: gcc-c++
-BuildRequires: gdal38-devel
+BuildRequires: gdal310-devel
 BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
@@ -35,7 +35,7 @@ Requires: %{smartmet_boost}-iostreams
 Requires: %{smartmet_boost}-locale
 Requires: %{smartmet_boost}-system
 Requires: fmt-libs >= %{smartmet_fmt_min}, fmt-libs < %{smartmet_fmt_max}
-Requires: gdal38-libs
+Requires: gdal310-libs
 Requires: glibc
 Requires: libgcc
 Requires: libjpeg
