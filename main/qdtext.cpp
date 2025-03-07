@@ -15,6 +15,7 @@
 #include <fmt/chrono.h>
 #include <fmt/format.h>
 #include <macgyver/DateTime.h>
+#include <macgyver/Exception.h>
 #include <newbase/NFmiCmdLine.h>
 #include <newbase/NFmiFileSystem.h>
 #include <newbase/NFmiSettings.h>
@@ -527,14 +528,9 @@ try
 {
   return run(argc, argv);
 }
-catch (const std::exception& e)
-{
-  cerr << "Error: Caught an exception:" << endl << "--> " << e.what() << endl;
-  return 1;
-}
 catch (...)
 {
-  cerr << "Error: Caught an unknown exception" << endl;
+  cerr << Fmi::Exception::Trace(BCP, "Error: Caught an exception:") << endl;
   return 1;
 }
 
