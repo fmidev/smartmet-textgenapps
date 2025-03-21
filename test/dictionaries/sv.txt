@@ -241,7 +241,6 @@ pohjois-lappi:lle|för Norra Lappland
 pohjois-pohjanmaa:lle|för Norra Österbotten
 pohjois-savo:lle|för Norra Savolax
 satakunta:lle|för Satakunta
-uusimaa:lle|för Nyland
 varsinais-suomi:lle|för Egentliga Finland
 osterbotten:lle|för Österbotten
 huomattavasti pienempi|betydligt mindre
@@ -285,6 +284,7 @@ lampotila|temperaturen
 7-na kello|söndag klockan
 o'clock|
 aamuyolla|senare på natten
+uusimaa:lle|för Nyland
 ei suuria muutoksia saassa|inga stora förändringar in vädret
 saa selkenee|vädret klarnar upp
 saa muuttuu epavakaisemmaksi|vädret blir ostadigare
@@ -949,6 +949,7 @@ kruunupyy:lle|för Kronoby
 4-aamupaivalla|på torsdag förmiddag
 5-aamupaivalla|på fredag förmiddag
 6-aamupaivalla|på lördag förmiddag
+B1|Bottenviken
 7-aamupaivalla|på söndag förmiddag
 1-iltapaivalla|på måndag eftermiddag
 2-iltapaivalla|på tisdag eftermiddag
@@ -1403,6 +1404,15 @@ asteen(tienoilla)|grader
 [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] som kan vara underkylda
 [sisamaassa] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] som kan vara underkylda
 [huomenna] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] som kan vara underkylda
+B2|Kvarken
+B3|Bottenhavet
+B4|Skärgårdshavet och Ålands hav
+B5|Finska viken
+B6|Rigabukten
+B7|Norra Östersjön
+B8|Mellersta Östersjön
+B9|Sydöstra Östersjön
+B10|Södra Östersjön
 [iltapaivalla] saa poutaantuu vesisateen jalkeen ja on verrattain pilvinen|[1] upphör regnet men fortfarande riklig molnighet
 [iltapaivalla] saa poutaantuu lumisateen jalkeen ja on verrattain pilvinen|[1] upphör snöfallet men fortfarande riklig molnighet
 [iltapaivalla] saa poutaantuu rantasateen jalkeen ja on verrattain pilvinen|[1] upphör snöfallet men fortfarande riklig molnighet
@@ -1540,6 +1550,7 @@ saa on [selkea] ja poutainen|vädret är [1] med uppehåll
 [1-na] [alueella] saa muuttuu helteiseksi|[1] blir vädret mycket varmt [2]
 [alueella] helteinen saa jatkuu|[1] fortsätter det mycket varma vädret
 [1-na] helteinen saa jatkuu|[1] fortsätter det mycket varma vädret
+uusimaa|Nyland
 [1-na] [alueella] helteinen saa jatkuu|[1] fortsätter det mycket varma vädret [2]
 [alueella] saa viilenee huomattavasti|[1] blir vädret mycket svalare
 [1-na] saa viilenee huomattavasti|[1] blir vädret mycket svalare
@@ -2085,3 +2096,40 @@ huomisen keskipaivaan asti|till imorgon middagen
 [iltap] [nop] [heikken] [tuulta] [m...n] [m sek], joka kaantyy [illalla] [pohj]|[1] [2] [3] [4] [5] [6] som vrider [8] [7]
 iltayolla|senare under kvällen
 [iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [pohjoiseen]|[1] [4] [3] [2] och vrider [5]
+B11|Arkona havet
+B12|Öresund och Bälten
+B13|Kattegat
+B1N|Norra Bottenviken
+B1S|Södra Bottenviken
+B3N|Norra Bottenhavet
+B3S|Södra Bottenhavet
+B4E|Skärgårdshavet
+B4W|Ålands hav
+B5E|Östra Finska viken
+B5W|Västra Finska viken
+B7E|Östra delen av Norra Östersjön
+B7W|Västra delen av Norra Östersjön
+B8E|Mellersta Östersjön
+B8W|Gotlands farvatten
+B10N|Ölands farvatten
+B10S|Bornholmshavet
+B2_B1|Kvarken och Bottenviken
+B2_B1S|Kvarken och Södra Bottenviken
+B3N_B2|Norra Bottenhavet och Kvarken
+B3_B2|Bottenhavet och Kvarken
+B3_B2_B1|Bottenhavet, Kvarken och Bottenviken
+B4_B3|Skärgårdshavet och Ålands hav och Bottenhavet
+B4_B3S|Skärgårdshavet och Ålands hav och Södra Bottenhavet
+B4E_B3|Skärgårdshavet och Bottenhavet
+B7E_B4E_B3S|Östra delen av Norra Östersjön, Skärgårdshavet och Södra Bottenhavet
+B7W_B4W|Västra delen av Norra Östersjön och Ålands hav
+B7W_B4W_B3S|Västra delen av Norra Östersjön, Ålands hav och Södra Bottenhavet
+B7E_B4E|Östra delen av Norra Östersjön och Skärgårdshavet
+B7W_B4|Västra delen av Norra Östersjön, Skärgårdshavet och Ålands hav
+B7_B4_B3S|Norra Östersjön, Skärgårdshavet och Ålands hav och Södra Bottenhavet
+B7_B4_B3|Norra Östersjön, Skärgårdshavet och Ålands hav och Bottenhavet
+B7_B4|Norra Östersjön och Skärgårdshavet och Ålands hav
+B5W_B7E_B4E|Västra Finska viken, Östra delen av Norra Östersjön och Skärgårdshavet
+B5W_B7E|Västra Finska viken och Östra delen av Norra Östersjön
+B5W_B7|Västra Finska viken och Norra Östersjön
+B5_B7|Finska Viken och Norra Östersjön
