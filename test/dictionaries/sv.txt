@@ -87,8 +87,8 @@ paivan ylin lampotila|dagens högsta temperatur
 yon alin lampotila|nattens lägsta temperatur
 noin|cirka
 seuraavana paivana|följande dag
-keskimaarainen alin lampotila|lägsta temperaturen in medeltal
 paivien ylin lampotila|dagens högsta temperatur
+keskimaarainen alin lampotila|lägsta temperaturen i medeltal
 lopuksi|i slutet
 paivalampotila|dagstemperaturen
 yolampotila|nattemperaturen
@@ -2132,4 +2132,4 @@ B5W_B7|Västra Finska viken och Norra Östersjön
 B5_B7|Finska Viken och Norra Östersjön
 huomisaamupaivaan asti|fram till i morgon förmiddag
 oiden alin lampotila|natternas lägsta temperatur
-keskimaarainen ylin lampotila|högsta temperaturen in medeltal
+keskimaarainen ylin lampotila|högsta temperaturen i medeltal
