@@ -187,7 +187,6 @@ sakeita lumikuuroja|täta snöbyar
 4-tuuleksi|sydostlig vind
 5-tuuleksi|sydlig vind
 heikkenevaa|som avtar
-voimistuvaa|som tilltar
 yolla|i natt
 6-tuuleksi|sydvästlig vind
 7-tuuleksi|västlig vind
@@ -2133,3 +2132,4 @@ B5_B7|Finska Viken och Norra Östersjön
 huomisaamupaivaan asti|fram till i morgon förmiddag
 oiden alin lampotila|natternas lägsta temperatur
 keskimaarainen ylin lampotila|högsta temperaturen i medeltal
+voimistuvaa|som tilltar och blir

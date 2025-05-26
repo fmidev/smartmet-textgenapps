@@ -115,7 +115,6 @@ paivien ylin lampotila|daily maximum temperature
 oiden alin lampotila|nightly minimum temperature
 paivalampotila|daily temperature
 yolampotila|nightly temperature
-aluksi|in the beginning
 lopuksi|in the end
 8-suunnasta|from north west
 7-suunnasta|from west
@@ -376,6 +375,7 @@ saa muuttuu sateisemmaksi|the weather is becoming rainier
 alue|the area
 pohjanmaa:lle|for Ostrobothnia
 suomi:lle|for Finland
+aluksi|at first
 ahvenanmaa:lle|for Åland
 huomisesta alkaen|starting tomorrow
 ja|and
