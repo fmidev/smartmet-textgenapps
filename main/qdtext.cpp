@@ -74,9 +74,24 @@ void write_forecasts(const string& theOutDir,
 
   auto timeinfo = to_tm(theTime);
 
+  bool mkdir = Settings::optional_bool("qdtext::mkdir", false);
+
   for (const auto& file : filenames)
   {
     string filename = std::string(theOutDir).append("/").append(file);
+
+    if (mkdir)
+    {
+      std::string dir = NFmiFileSystem::DirName(filename);
+      if (!NFmiFileSystem::DirectoryExists(dir))
+      {
+        if (NFmiFileSystem::CreateDirectory(dir))
+          log << "created directory '" << dir << "\n";
+        else
+          throw runtime_error("Failed to create directory '" + dir);
+      }
+    }
+
     filename = fmt::format(fmt::runtime(filename), timeinfo);
 
     log << "writing " << filename << endl;
@@ -406,7 +421,7 @@ bool read_cmdline(int argc, const char* argv[])
 {
   // Now read command line options
 
-  NFmiCmdLine cmdline(argc, argv, "hd!a!l!");
+  NFmiCmdLine cmdline(argc, argv, "hfd!a!l!");
 
   if (cmdline.Status().IsError())
     throw runtime_error(cmdline.Status().ErrorLog().CharPtr());
@@ -417,6 +432,7 @@ bool read_cmdline(int argc, const char* argv[])
          << "       qdtext -h\n\n"
          << "Options:\n"
          << "\t-h\tprint this usage information\n"
+         << "\t-f\tenable creation of output directies (qdtext::mkdir)\n"
          << "\t-d [outdir] set the output directory (qdtext::outputdir)\n"
          << "\t-a [name1,name2,...] areas to process (qdtext::areas)\n"
          << "\t-l [lang1,lang2,...] languages to process (qdtext::languages)\n";
@@ -439,6 +455,9 @@ bool read_cmdline(int argc, const char* argv[])
   NFmiSettings::Read(filename);
 
   Settings::set(NFmiSettings::ToString());
+
+  if (cmdline.isOption('f'))
+    Settings::set("qdtext::mkdir", "true");
 
   if (cmdline.isOption('d') != 0)
   {
