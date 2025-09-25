@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 25.2.18
+Version: 25.9.25
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -36,10 +36,10 @@ BuildRequires: gdal310-devel
 BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
-BuildRequires: smartmet-library-calculator-devel >= 25.2.18
-BuildRequires: smartmet-library-newbase-devel >= 25.2.18
-BuildRequires: smartmet-library-textgen-devel >= 25.2.18
-BuildRequires: smartmet-library-macgyver-devel >= 25.2.18
+BuildRequires: smartmet-library-calculator-devel >= 25.3.19
+BuildRequires: smartmet-library-newbase-devel >= 25.3.20
+BuildRequires: smartmet-library-textgen-devel >= 25.5.27
+BuildRequires: smartmet-library-macgyver-devel >= 25.9.19
 BuildRequires: zlib-devel
 Requires: %{smartmet_boost}-iostreams
 Requires: %{smartmet_boost}-locale
@@ -52,10 +52,10 @@ Requires: libjpeg
 Requires: libpng
 Requires: libstdc++
 Requires: mysql++
-Requires: smartmet-library-calculator >= 25.2.18
-Requires: smartmet-library-macgyver >= 25.2.18
-Requires: smartmet-library-newbase >= 25.2.18
-Requires: smartmet-library-textgen >= 25.2.18
+Requires: smartmet-library-calculator >= 25.3.19
+Requires: smartmet-library-macgyver >= 25.9.19
+Requires: smartmet-library-newbase >= 25.3.20
+Requires: smartmet-library-textgen >= 25.5.27
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -65,8 +65,8 @@ Requires: mysql
 %endif
 Provides: qdtext
 #TestRequires: smartmet-timezones
-#TestRequires: smartmet-library-macgyver-devel >= 25.2.18
-#TestRequires: smartmet-library-newbase-devel >= 25.2.18
+#TestRequires: smartmet-library-macgyver-devel >= 25.9.19
+#TestRequires: smartmet-library-newbase-devel >= 25.3.20
 #TestRequires: gcc-c++
 
 %description
@@ -91,6 +91,10 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Thu Sep 25 2025 Mika Heiskanen <mika.heiskanen@fmi.fi> - 25.9.25-1.fmi
+- Documented existing command line options (mostly for developers)
+- Added option -f to force creation of missing output directories
+
 * Tue Feb 18 2025 Andris Pavēnis <andris.pavenis@fmi.fi> 25.2.18-1.fmi
 - Update to gdal-3.10, geos-3.13 and proj-9.5
 
