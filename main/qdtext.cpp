@@ -143,8 +143,7 @@ void save_forecasts(const TextGen::Document& theDocument,
     if (lang != theDictionary->language())
       theDictionary->changeLanguage(lang);
 
-    std::shared_ptr<TextGen::TextFormatter> formatter(
-        TextGen::TextFormatterFactory::create(form));
+    std::shared_ptr<TextGen::TextFormatter> formatter(TextGen::TextFormatterFactory::create(form));
     formatter->dictionary(theDictionary);
     formatter->setProductName(prodname);
 
@@ -397,7 +396,6 @@ void make_forecasts()
 /*!
  * \brief Read the command line arguments
  *
- * Option -c [conffile] sets the configuration file.
  * Option -d [path] sets the output directory
  * Option -a [areas] sets the areas to be processed
  * Option -l [language] sets the output languages
@@ -408,20 +406,21 @@ bool read_cmdline(int argc, const char* argv[])
 {
   // Now read command line options
 
-  NFmiCmdLine cmdline(argc, argv, "hc!d!a!");
+  NFmiCmdLine cmdline(argc, argv, "hd!a!l!");
 
   if (cmdline.Status().IsError())
     throw runtime_error(cmdline.Status().ErrorLog().CharPtr());
 
   if (cmdline.isOption('h') != 0)
   {
-    cout << "Usage: qdtext configfile | -h" << endl
-         << endl
-         << "\tconfigfile: fully specified name of the configuration file" << endl
-         << endl
-         << "Options: " << endl
-         << endl
-         << "\t-h\tprints this usage information" << endl;
+    cout << "Usage: qdtext [options] configfile\n"
+         << "       qdtext -h\n\n"
+         << "Options:\n"
+         << "\t-h\tprint this usage information\n"
+         << "\t-d [outdir] set the output directory (qdtext::outputdir)\n"
+         << "\t-a [name1,name2,...] areas to process (qdtext::areas)\n"
+         << "\t-l [lang1,lang2,...] languages to process (qdtext::languages)\n";
+
     return false;
   }
 
@@ -433,7 +432,7 @@ bool read_cmdline(int argc, const char* argv[])
 
   const string filename = cmdline.Parameter(1);
   if (filename.empty())
-    throw runtime_error("Empty argument for option -c");
+    throw runtime_error("Empty configuration file parameter");
   if (!NFmiFileSystem::FileExists(filename))
     throw runtime_error("File " + filename + " does not exist");
 
