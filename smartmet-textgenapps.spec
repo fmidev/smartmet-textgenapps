@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 25.9.25
+Version: 25.9.29
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -91,6 +91,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Mon Sep 29 2025 Mika Heiskanen <mika.heiskanen@fmi.fi> - 25.9.29-1.fmi
+- Fixed compiler warnings
+
 * Thu Sep 25 2025 Mika Heiskanen <mika.heiskanen@fmi.fi> - 25.9.25-1.fmi
 - Documented existing command line options (mostly for developers)
 - Added option -f to force creation of missing output directories
