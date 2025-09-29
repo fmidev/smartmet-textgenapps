@@ -38,7 +38,6 @@
 
 using std::cerr;
 using std::cout;
-using std::endl;
 using std::ofstream;
 using std::ostringstream;
 using std::runtime_error;
@@ -52,7 +51,6 @@ using TextMap = std::map<std::string, TextList>;
 namespace
 {
 TextMap textMap;
-}
 
 // ----------------------------------------------------------------------
 /*!
@@ -94,7 +92,7 @@ void write_forecasts(const string& theOutDir,
 
     filename = fmt::format(fmt::runtime(filename), timeinfo);
 
-    log << "writing " << filename << endl;
+    log << "writing " << filename << '\n';
 
     ofstream out(filename.c_str());
     if (!out)
@@ -241,7 +239,7 @@ TextGen::WeatherArea make_area(const string& theName)
 
   string name = Settings::optional_string(namevar, theName);
 
-  return TextGen::WeatherArea(spec.str(), name);
+  return {spec.str(), name};
 }
 
 // ----------------------------------------------------------------------
@@ -254,8 +252,8 @@ void make_forecasts()
 {
   MessageLogger log("make_forecasts");
 
-  log << "qdtext version " << TextGen::TextGenerator::version() << endl;
-  log << "The configuration file:" << endl << NFmiSettings::ToString() << endl << endl;
+  log << "qdtext version " << TextGen::TextGenerator::version() << '\n';
+  log << "The configuration file:\n" << NFmiSettings::ToString() << "\n\n";
 
   // Check required variables
 
@@ -291,7 +289,7 @@ void make_forecasts()
         Settings::set("textgen::connect_timeout", "30");
     }
 
-    if (missing_params.size() > 0)
+    if (!missing_params.empty())
     {
       std::string msg = ("Settings missing for " + dictionaryId + ": ");
       for (const auto& mp : missing_params)
@@ -328,14 +326,14 @@ void make_forecasts()
     pgis.readData(host, port, dbname, user, password, schema, table, field, encoding, log_message);
 
     if (!log_message.empty())
-      log << log_message << endl;
+      log << log_message << '\n';
   }
 
   auto now = Fmi::SecondClock::universal_time();
 
   for (const auto& areaname : areas)
   {
-    log << "Area " + areaname << endl;
+    log << "Area " + areaname << '\n';
     Settings::set("html__append", "");
 
     // timezone can be defined for area
@@ -343,7 +341,7 @@ void make_forecasts()
     string timezone = Settings::optional_string(variable, default_timezone);
     TextGenPosixTime::SetThreadTimeZone(timezone);
 
-    log << areaname << " timezone is " << timezone << endl;
+    log << areaname << " timezone is " << timezone << '\n';
 
     if (usePostGISData)
     {
@@ -370,8 +368,7 @@ void make_forecasts()
       }
       else
       {
-        log << "NOTE!! " + areaname << " (" << area_name << ") not found in PostGIS database!"
-            << endl;
+        log << "NOTE!! " + areaname << " (" << area_name << ") not found in PostGIS database!\n";
       }
     }
     else
@@ -533,6 +530,8 @@ int run(int argc, const char* argv[])
   return 0;
 }
 
+}  // namespace
+
 // ----------------------------------------------------------------------
 /*!
  * \brief The main program
@@ -548,7 +547,7 @@ try
 }
 catch (...)
 {
-  cerr << Fmi::Exception::Trace(BCP, "Error: Caught an exception:") << endl;
+  cerr << Fmi::Exception::Trace(BCP, "Error: Caught an exception:") << '\n';
   return 1;
 }
 
