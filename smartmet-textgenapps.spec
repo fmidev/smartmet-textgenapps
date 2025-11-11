@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 25.9.29
+Version: 25.11.11
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -36,10 +36,10 @@ BuildRequires: gdal310-devel
 BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
-BuildRequires: smartmet-library-calculator-devel >= 25.3.19
+BuildRequires: smartmet-library-calculator-devel >= 25.11.7
 BuildRequires: smartmet-library-newbase-devel >= 25.3.20
-BuildRequires: smartmet-library-textgen-devel >= 25.5.27
-BuildRequires: smartmet-library-macgyver-devel >= 25.9.19
+BuildRequires: smartmet-library-textgen-devel >= 25.11.11
+BuildRequires: smartmet-library-macgyver-devel >= 25.11.5
 BuildRequires: zlib-devel
 Requires: %{smartmet_boost}-iostreams
 Requires: %{smartmet_boost}-locale
@@ -52,10 +52,10 @@ Requires: libjpeg
 Requires: libpng
 Requires: libstdc++
 Requires: mysql++
-Requires: smartmet-library-calculator >= 25.3.19
-Requires: smartmet-library-macgyver >= 25.9.19
+Requires: smartmet-library-calculator >= 25.11.7
+Requires: smartmet-library-macgyver >= 25.11.5
 Requires: smartmet-library-newbase >= 25.3.20
-Requires: smartmet-library-textgen >= 25.5.27
+Requires: smartmet-library-textgen >= 25.11.11
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -65,7 +65,7 @@ Requires: mysql
 %endif
 Provides: qdtext
 #TestRequires: smartmet-timezones
-#TestRequires: smartmet-library-macgyver-devel >= 25.9.19
+#TestRequires: smartmet-library-macgyver-devel >= 25.11.5
 #TestRequires: smartmet-library-newbase-devel >= 25.3.20
 #TestRequires: gcc-c++
 
@@ -91,6 +91,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Tue Nov 11 2025 Mika Heiskanen <mika.heiskanen@fmi.fi> - 25.11.11-1.fmi
+- Pass area and forecast time information to TextFormatter to enable more customizations
+
 * Mon Sep 29 2025 Mika Heiskanen <mika.heiskanen@fmi.fi> - 25.9.29-1.fmi
 - Fixed compiler warnings
 
