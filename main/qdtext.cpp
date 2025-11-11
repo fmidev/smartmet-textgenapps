@@ -122,7 +122,8 @@ void write_forecasts(const string& theOutDir,
 
 void save_forecasts(const TextGen::Document& theDocument,
                     std::shared_ptr<TextGen::Dictionary>& theDictionary,
-                    const string& theArea)
+                    const string& theArea,
+                    const TextGenPosixTime& theTime)
 {
   MessageLogger log("save_forecasts");
 
@@ -159,6 +160,8 @@ void save_forecasts(const TextGen::Document& theDocument,
     std::shared_ptr<TextGen::TextFormatter> formatter(TextGen::TextFormatterFactory::create(form));
     formatter->dictionary(theDictionary);
     formatter->setProductName(prodname);
+    formatter->setAreaName(theArea);
+    formatter->setForecastTime(theTime);
 
     std::string forecast = formatter->format(theDocument);
 
@@ -355,7 +358,7 @@ void make_forecasts()
           svgPath.Read(svg_string_stream);
           const TextGen::WeatherArea area(svgPath, areaname);
           const TextGen::Document document = generator.generate(area);
-          save_forecasts(document, dict, areaname);
+          save_forecasts(document, dict, areaname, generator.time());
         }
         else  // if not polygon, it must be a point
         {
@@ -363,7 +366,7 @@ void make_forecasts()
           NFmiPoint point(std_point.first, std_point.second);
           const TextGen::WeatherArea area(point, areaname);
           const TextGen::Document document = generator.generate(area);
-          save_forecasts(document, dict, areaname);
+          save_forecasts(document, dict, areaname, generator.time());
         }
       }
       else
@@ -375,7 +378,7 @@ void make_forecasts()
     {
       const TextGen::WeatherArea area = make_area(areaname);
       const TextGen::Document document = generator.generate(area);
-      save_forecasts(document, dict, areaname);
+      save_forecasts(document, dict, areaname, generator.time());
     }
   }
 
