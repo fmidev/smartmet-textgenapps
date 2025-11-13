@@ -1,4 +1,6 @@
 o'clock|o'clock
+B9|Southeastern Baltic
+tiepiiri-t1:lle|for Finland coastal region
 1-iltaan|until Monday evening
 1-na|on Monday
 1-vastaisena yona|on Monday night
@@ -181,6 +183,7 @@ huomattavasti alempi|significantly lower
 huomattavasti korkeampi|significantly higher
 kohtalaista|moderate
 korkeampi|higher
+varsinais-suomi:lle|for Finland
 3-alkaen|from Wednesday onwards
 3-puoleiseksi tuuleksi|mainly east
 3-tuuleksi|east
@@ -229,7 +232,6 @@ uusimaa:lle|for Uusimaa
 vahaisia kuuroja|light showers
 vahaista lumisadetta|light snowfall
 vaihtelevaa pilvisyytta|variable cloudiness
-varsinais-suomi:lle|for Finland Proper
 vesi-|rain
 vesisadetta|rain
 viiva|to
@@ -274,6 +276,7 @@ iltayolla|before midnight
 kainuu:lle|for Kainuu
 kello|
 keski-pohjanmaa:lle|for Central Ostrobothnia
+B7E_B4E_B3S:lle|for Northeastern Baltic, Sea of Archipelago and Southern Bothnian Sea
 6-na kello|on Saturday
 Etela-Suomen yli|over Southern Finland
 keskiyosta alkaen|from midnight
@@ -362,6 +365,9 @@ itaosiin|eastern parts
 ja|and
 keski-|central
 keskipaivasta alkaen|from the noon
+kanta-hame:lle|for Tavastia
+aamuyosta|from the early morning
+aamusta|from the morning
 1-iltana|on Monday evening
 1-paivalla|on Monday during the day
 2-aamuna|on Tuesday morning
@@ -442,9 +448,13 @@ huomisiltana|tomorrow evening
 ita-suomen-laani:lle|for the province of Eastern Finland
 ita-uusimaa:lle|for Eastern Uusimaa
 jaisia|icy
-kanta-hame:lle|for Tavastia Proper
 kosteita|moist
 kuivia|dry
+B10:lle|for Southern Baltic
+B7:lle|for Northern Baltic
+B7E:lle|for Northeastern Baltic
+B7W:lle|for Northwestern Baltic
+B8:lle|for Middle Baltic
 B10N:lle|for Öland Sea
 normaali|normal
 osittain jaisiksi|partly icy
@@ -454,8 +464,9 @@ sateesta ja liukkaista|weakened by slippery road surfaces and rainfall
 sateesta ja osittain liukkaista|weakened by partly slippery road surfaces and rainfall
 tienpinnat muuttuvat|roads will be
 tieto puuttuu|data missing
+B8E:lle|for Middle Baltic
 7-aamupaivasta alkaen|from Sunday forenoon
-B10:lle|for Southern Baltic Proper
+B9:lle|for Southeastern Baltic
 B10S:lle|for Bornholm Sea
 B11:lle|for Arkona Sea
 B12:lle|for Öresund and the Belts
@@ -474,13 +485,9 @@ B5:lle|for Gulf of Finland
 B5E:lle|for Eastern Gulf of Finland
 B5W:lle|for Western Gulf of Finland
 B6:lle|for Gulf of Riga
-B7:lle|for Northern Baltic Proper
-B7E:lle|for Northeastern Baltic Proper
-B7W:lle|for Northwestern Baltic Proper
-B8:lle|for Middle Baltic Proper
-B8E:lle|for Middle Baltic Proper
+aamupaivasta|from forenoon
+keskipaivasta|from the noon
 B8W:lle|for Gotland Sea
-B9:lle|for Southeastern Baltic Proper
 aanekoski:lle|for Äänekoski
 aetsa:lle|for Äetsä
 ahtari:lle|for Ähtäri
@@ -535,6 +542,7 @@ jaisiksi|icy
 keli on|road condition
 kuuraisiksi|be covered by frost
 liukkaiksi jaatavasta sateesta|be slippery of icy rain
+iltapaivasta|from the afternoon
 kemio:lle|for Kemiö
 kempele:lle|for Kempele
 kerava:lle|for Kerava
@@ -630,6 +638,7 @@ kaustinen:lle|for Kaustinen
 keitele:lle|for Keitele
 kemijarvi:lle|for Kemijärvi
 keminmaa:lle|for Keminmaa
+illasta|from the evening
 kuhmalahti:lle|for Kuhmalahti
 kuhmo:lle|for Kuhmo
 kuhmoinen:lle|for Kuhmoinen
@@ -725,6 +734,7 @@ oulainen:lle|for Oulainen
 oulunsalo:lle|for Oulunsalo
 kristiinankaupunki:lle|for Kristiinankaupunki
 kronoby:lle|for Kronoby
+iltayosta|from the late evening
 paimio:lle|for Paimio
 palkane:lle|for Pälkäne
 paltamo:lle|for Paltamo
@@ -819,7 +829,11 @@ sund:lle|for Sund
 suodenniemi:lle|for Suodenniemi
 outokumpu:lle|for Outokumpu
 padasjoki:lle|for Padasjoki
-2-aamupaivalla|on Tuesday forenoon
+B7|Northern Baltic
+B8|Middle Baltic
+keskiyosta|from the midnight
+yosta|from tonight
+3-aamupaivalla|on Wednesday before noon
 4-aamulla|on Thursday morning
 5-aamulla|on Friday morning
 7-aamulla|on Sunday morning
@@ -900,10 +914,9 @@ ylitornio:lle|for Ylitornio
 ylojarvi:lle|for Ylöjärvi
 ypaja:lle|for Ypäjä
 B6|Gulf of Riga
-1-aamupaivalla|on Monday forenoon
+2-aamupaivalla|on Tuesday before noon
 2-aamulla|on Tuesday morning
 3-aamulla|on Wednesday morning
-3-aamupaivalla|on Wednesday forenoon
 6-aamulla|on Saturday morning
 haihdunta on erinomainen|evaporation very good
 haihdunta on huono|evaporation weak
@@ -911,8 +924,6 @@ haihdunta on hyva|evaporation good
 haihdunta on tyydyttava|evaporation satisfactory
 kruunupyy:lle|for Kruunupyy
 luoto:lle|for Luoto
-B7|Northern Baltic Proper
-B8|Middle Baltic Proper
 kello [1]|[1] 'clock
 1-na kello [1]|on Monday [1] 'clock
 2-na kello [1]|on Tuesday[1] 'clock
@@ -921,10 +932,10 @@ kello [1]|[1] 'clock
 5-na kello [1]|on Friday [1] 'clock
 6-na kello [1]|on Saturday [1] 'clock
 7-na kello [1]|on Sunday [1] 'clock
-4-aamupaivalla|on Thursday forenoon
+5-aamupaivalla|on Friday before noon
 4-illalla|on Thursday evening
 5-iltapaivalla|on Friday afternoon
-6-aamupaivalla|on Saturday forenoon
+7-aamupaivalla|on Sunday before noon
 6-illalla|on Saturday evening
 7-iltapaivalla|on Sunday afternoon
 [1] asteen tienoilla|round about [1] degrees
@@ -965,15 +976,15 @@ yksittaiset sadekuurot mahdollisia|possibly scattered rain showers
 yksittaiset vesi- tai lumikuurot mahdollisia|possibly scattered rain or snow showers
 yksittaiset vesi- tai rantakuurot mahdollisia|possibly scattered rain or sleet showers
 yksittaiset vesikuurot mahdollisia|possibly scattered rain showers
+4-aamupaivalla|on Thursday before noon
 2-illalla|on Tuesday evening
 2-iltapaivalla|on Tuesday afternoon
 3-illalla|on Wednesday evening
 3-iltapaivalla|on Wednesday afternoon
 4-iltapaivalla|on Thursday afternoon
-5-aamupaivalla|on Friday forenoon
+6-aamupaivalla|on Saturday before noon
 5-illalla|on Friday evening
 6-iltapaivalla|on Saturday afternoon
-7-aamupaivalla|on Sunday forenoon
 7-illalla|on Sunday evening
 alijaahtynyt sade|supercooled rain
 alle|below
@@ -1084,19 +1095,18 @@ kirea|intense
 koillisesta|from northeast
 1-iltapaivalla ja illalla|on Monday afternoon and evening
 1-iltayolla|on Monday before midnight
-2-aamulla ja aamupaivalla|on Tuesday morning and forenoon
 2-aamuyolla|on Tuesday early hours
 4-aamuyolla ja aamulla|on Thursday early hours and morning
 3-illalla ja iltayolla|on Wednesday evening and before midnight
 3-iltapaivalla ja illalla|on Wednesday afternoon and evening
 3-iltayolla|on Wednesday before midnight
-4-aamulla ja aamupaivalla|on Thursday morning and forenoon
+2-aamulla ja aamupaivalla|on Tuesday morning
 5-aamuyolla|on Friday early hours
 6-aamuyolla ja aamulla|on Saturday early hours and morning
 5-illalla ja iltayolla|on Friday evening and before midnight
 5-iltapaivalla ja illalla|on Friday afternoon and evening
 5-iltayolla|on Friday before midnight
-6-aamulla ja aamupaivalla|on Saturday morning and forenoon
+5-aamulla ja aamupaivalla|on Friday morning
 7-aamuyolla|on Sunday early hours
 1-aamuyolla ja aamulla|on Monday early hours and morning
 7-illalla ja iltayolla|on Sunday evening and before midnight
@@ -1124,13 +1134,14 @@ saa viilenee vahan|weather cools down a bit
 4-illalla ja iltayolla|on Thursday evening and before midnight
 4-iltapaivalla ja illalla|on Thursday afternoon and evening
 4-iltayolla|on Thursday before midnight
-5-aamulla ja aamupaivalla|on Friday morning and forenoon
+4-aamulla ja aamupaivalla|on Thursday morning
 6-aamuyolla|on Saturday early hours
 7-aamuyolla ja aamulla|on Sunday early hours and morning
 6-illalla ja iltayolla|on Saturday evening and before midnight
 6-iltapaivalla ja illalla|on Saturday afternoon and evening
 6-iltayolla|on Saturday before midnight
-7-aamulla ja aamupaivalla|on Sunday morning and forenoon
+6-aamulla ja aamupaivalla|on Saturday morning
+aamulla ja aamupaivalla|in the morning
 [huomenna] [sisamaassa] [lampotila] on [N] asteen tuntumassa|[1] [3] close to [4] degrees [2]
 [huomenna] [sisamaassa] [lampotila] on lahella [N] [astetta]|[1] [3] near [4] [5] [2]
 [huomenna] [sisamaassa] [lampotila] on vahan yli [N] [astetta]|[1] [3] a little over [4] [5] [2]
@@ -1145,7 +1156,7 @@ saa viilenee vahan|weather cools down a bit
 [rannikolla] [paikoin] hallaa|frost [2] [1]
 [rannikolla] mahdollisesti hallaa|possibly frost [1]
 [sisamaassa] hallan vaara|risk of frost [1]
-aamulla ja aamupaivalla|in the morning and forenoon
+7-aamulla ja aamupaivalla|on Sunday morning
 aamuyolla ja aamulla|after midnight and in the morning
 alavilla mailla|in low-lying lands
 alueen etelaosassa|in the south
@@ -1552,6 +1563,7 @@ rannikolla [N] [asteen] tienoilla|round about [1] [2] on the coastal area
 [sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia|possibly scattered rain or sleet showers [1]
 [sisamaassa] yksittaiset vesikuurot mahdollisia|possibly scattered rain showers [1]
 paivan ylin|the maximum day
+B10|Southern Baltic
 2-puolelle|mainly northeast
 3- ja 4-valille|to the east to southeast
 3-puolelle|mainly east
@@ -1568,7 +1580,6 @@ latgale:lle|for Latgale region
 latvia:lle|for Latvia
 lounaaseen|to the south-west
 luoteeseen|to the north-west
-B9|Southeastern Baltic Proper
 pieksamaki:lle|for Pieksämäki
 pohjoiseen|to the north
 suunnaltaan vaihtelevaa tuulta|variable
@@ -1635,7 +1646,6 @@ ivalo:lle|for Ivalo
 kaakkoon|to the south-east
 koilliseen|to the north-east
 nopeasti|rapidly
-B10|Southern Baltic Proper
 B11|Arkona Sea
 1- ja 8-valista tuulta|north to northwest
 1-puoleinen tuuli|mainly north
@@ -1793,7 +1803,6 @@ keskipaivaan asti|until noon
 keskiyohon asti|until midnight
 [iltapaivalla] [pohjoistuuli] heikkenee edelleen|[2] decreasing further [1]
 [iltapaivalla] kuurot voivat olla voimakkaita|showers can be heavy [1]
-aamupaivaan asti|until forenoon
 B13|Kattegat
 B1N|Northern Bay of Bothnia
 B1S|Southern Bay of Bothnia
@@ -1862,6 +1871,9 @@ pohjois_ruotsi:lle|for Northern Sweden
 [iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[2] decreasing [3] [1] becoming [4]
 [iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[2] decreasing becoming variable [1]
 [iltapaivalla] [voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen|[2] becoming [3] [1] decreasing further
+tiepiiri-t2:lle|for Finland inland region
+tiepiiri-t3:lle|for Finland eastern region
+elyalue-var:lle|for Finland ELY-area
 2-keskipaivasta|from Tuesday noon
 4-keskipaivaan|until Thursday noon
 4-keskipaivasta|from Thursday noon
@@ -1894,9 +1906,6 @@ tiepiiri-s2:lle|for Northern Savo southern region
 tiepiiri-s3:lle|for Northern Karelia central region
 tiepiiri-s4:lle|for Northern Savo northern region
 tiepiiri-s5:lle|for Northern Karelia northern region
-tiepiiri-t1:lle|for Finland Proper coastal region
-tiepiiri-t2:lle|for Finland Proper inland region
-tiepiiri-t3:lle|for Finland Proper eastern region
 tiepiiri-t4:lle|for Satakunta coastal region
 tiepiiri-t5:lle|for Satakunta inland region
 tiepiiri-u1:lle|for Western Uusimaa coastal region
@@ -1931,12 +1940,15 @@ elyalue-pir:lle|for Pirkanmaa ELY-area
 elyalue-pkp:lle|for Northern Ostrobothnia ELY-area
 elyalue-pos:lle|for Northern Savo ELY-area
 elyalue-uud:lle|for Uusimaa ELY-area
-elyalue-var:lle|for Finland Proper ELY-area
 kemi-tornio:lle|for Kemi-Tornio
 rovaniemen seutu:lle|for Rovaniemi area
 [iltapaivalla] tuuli alkaa voimistua ja kaantyy [etelaan]|starts increasing becoming [2] [1]
 B4E|Sea of Archipelago
 B4W|Sea of Åland
+B5W_B7:lle|for Western Gulf of Finland and Northern Baltic
+B5W_B7E:lle|for Western Gulf of Finland and Northeastern Baltic
+B5W_B7E_B4E:lle|for Western Gulf of Finland, Northeastern Baltic and Sea of Archipelago
+B5_B7:lle|for Gulf of Finland and Northern Baltic
 2-keskipaivalla|at Tuesday noon
 5-keskipaivaan asti|until Friday noon
 4-keskipaivalla|at Thursday noon
@@ -1958,7 +1970,7 @@ vesi- tai tihkusadetta|rain or drizzle
 yolla ja aamulla|at night and in the morning
 huomisen keskipaivaan asti|until tomorrow noon
 1- ja 2-valinen tuuli|north to northeast
-1-aamulla ja aamupaivalla|on Monday morning and forenoon
+B7E_B4E:lle|for Northeastern Baltic and Sea of Archipelago
 1-aamulla|on Monday morning
 1-aamuna|on Monday morning
 1-aamupaivaan asti|until Monday forenoon
@@ -1979,17 +1991,12 @@ B3_B2_B1:lle|for Sea of Bothnia, the Quark and Bay of Bothnia
 B4E_B3:lle|for Sea of Archipelago and Sea of Bothnia
 B4_B3:lle|for Sea of Archipelago and Sea of Åland and Sea of Bothnia
 B4_B3S:lle|for Sea of Archipelago and Sea of Åland and Southern Bothnian Sea
-B5W_B7:lle|for Western Gulf of Finland and Northern Baltic Proper
-B5W_B7E:lle|for Western Gulf of Finland and Northeastern Baltic Proper
-B5W_B7E_B4E:lle|for Western Gulf of Finland, Northeastern Baltic Proper and Sea of Archipelago
-B5_B7:lle|for Gulf of Finland and Northern Baltic Proper
-B7E_B4E:lle|for Northeastern Baltic Proper and Sea of Archipelago
+B7_B4:lle|for Northern Baltic, Sea of Archipelago and Sea of Åland
+B7_B4_B3:lle|for Northern Baltic, Sea of Archipelago and Sea of Åland and Sea of Bothnia
+B7_B4_B3S:lle|for Northern Baltic, Sea of Archipelago and Sea of Åland and Southern Bothnian Sea
 B7W_B4:lle|for Western Gulf of Finland, Sea of Archipelago and Sea of Åland
 B7W_B4W:lle|for Western Gulf of Finland and Sea of Åland
 B7W_B4W_B3S:lle|for Western Gulf of Finland, Sea of Åland and Southern Bothnian Sea
-B7_B4:lle|for Northern Baltic Proper, Sea of Archipelago and Sea of Åland
-B7_B4_B3:lle|for Northern Baltic Proper, Sea of Archipelago and Sea of Åland and Sea of Bothnia
-B7_B4_B3S:lle|for Northern Baltic Proper, Sea of Archipelago and Sea of Åland and Southern Bothnian Sea
 [huomenna] [lampotila] on vahan nollan alapuolella|[1] [2] just below freezing
 [huomenna] [sisamaassa] [lampotila] on vahan nollan alapuolella|[1] [3] just below freezing [2]
 [huomenna] [sisamaassa] vahan nollan alapuolella|[1] just below freezing [2]
@@ -2003,6 +2010,7 @@ aamulla ja paivalla|in the morning and during the day
 enimmakseen hyva nakyvyys|mostly good vis
 huomiseen iltapaivaan asti|until tomorrow afternoon
 2-keskipaivaan asti|until Tuesday noon
+1-aamulla ja aamupaivalla|on Monday morning
 hyva nakyvyys|good vis
 illalla ja yolla|in the evening and at night
 ja huono nakyvyys|and poor vis
@@ -2017,12 +2025,10 @@ muuten hyva nakyvyys|otherwise good vis
 1-puoleiseksi tuuleksi|mainly north
 2-paivalla|on Tuesday during the day
 2-puoleista tuulta|mainly northeast
-3-aamulla ja aamupaivalla|on Wednesday morning and forenoon
 3-iltapaivasta alkaen|from Wednesday afternoon
 4-vuorokauden saa|for the next four days
 5-iltapaivaan asti|until Friday afternoon
 5-keskipaivaan|until Friday noon
-B7E_B4E_B3S:lle|for Northeastern Baltic Proper, Sea of Archipelago and Southern Bothnian Sea
 keskiosiin|central parts
 kirea pakkanen jatkuu|intense cold continues
 koillisesta alkaen|beginning from northeast
@@ -2106,9 +2112,6 @@ pohjanmaa-etela-pohjanmaa:lle|for Ostrobothnia and Southern Ostrobothnia
 yksittaiset lumi- tai rantakuurot mahdollisia|possibly scattered snow or sleet showers
 B5E|Eastern Gulf of Finland
 B5W|Western Gulf of Finland
-B7E|Northeastern Baltic Proper
-B7W|Northwestern Baltic Proper
-B8E|Middle Baltic Proper
 B8W|Gotland Sea
 B10N|Öland Sea
 B10S|Bornholm Sea
@@ -2120,16 +2123,22 @@ B3_B2|Sea of Bothnia and the Quark
 B4E_B3|Sea of Archipelago and Sea of Bothnia
 B4_B3|Sea of Archipelago and Sea of Åland and Sea of Bothnia
 B4_B3S|Sea of Archipelago and Sea of Åland and Southern Bothnian Sea
-B7E_B4E_B3S|Northeastern Baltic Proper, Sea of Archipelago and Southern Bothnian Sea
 B7W_B4W_B3S|Western Gulf of Finland, Sea of Åland and Southern Bothnian Sea
-B7E_B4E|Northeastern Baltic Proper and Sea of Archipelago
 B7W_B4W|Western Gulf of Finland and Sea of Åland
 B7W_B4|Western Gulf of Finland, Sea of Archipelago and Sea of Åland
-B7_B4_B3S|Northern Baltic Proper, Sea of Archipelago and Sea of Åland and Southern Bothnian Sea
-B7_B4|Northern Baltic Proper, Sea of Archipelago and Sea of Åland
-B7_B4_B3|Northern Baltic Proper, Sea of Archipelago and Sea of Åland and Sea of Bothnia
-B5W_B7E_B4E|Western Gulf of Finland, Northeastern Baltic Proper and Sea of Archipelago
-B5W_B7E|Western Gulf of Finland and Northeastern Baltic Proper
-B5W_B7|Western Gulf of Finland and Northern Baltic Proper
-B5_B7|Gulf of Finland and Northern Baltic Proper
 uusimaa|Uusimaa
+3-aamulla ja aamupaivalla|on Wednesday morning
+1-aamupaivalla|on Monday before noon
+aamupaivaan asti|until before noon
+B7E|Northeastern Baltic
+B7W|Northwestern Baltic
+B8E|Middle Baltic
+B7E_B4E_B3S|Northeastern Baltic, Sea of Archipelago and Southern Bothnian Sea
+B7E_B4E|Northeastern Baltic and Sea of Archipelago
+B7_B4_B3S|Northern Baltic, Sea of Archipelago and Sea of Åland and Southern Bothnian Sea
+B7_B4|Northern Baltic, Sea of Archipelago and Sea of Åland
+B7_B4_B3|Northern Baltic, Sea of Archipelago and Sea of Åland and Sea of Bothnia
+B5W_B7E_B4E|Western Gulf of Finland, Northeastern Baltic and Sea of Archipelago
+B5W_B7E|Western Gulf of Finland and Northeastern Baltic
+B5W_B7|Western Gulf of Finland and Northern Baltic
+B5_B7|Gulf of Finland and Northern Baltic
