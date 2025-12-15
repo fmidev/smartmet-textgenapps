@@ -21,7 +21,6 @@ LIBS += $(PREFIX_LDFLAGS) \
 	$(REQUIRED_LIBS) \
 	-lboost_iostreams \
 	-lboost_locale \
-	-lboost_system \
 	-lstdc++ -lm
 
 # Compilation directories
