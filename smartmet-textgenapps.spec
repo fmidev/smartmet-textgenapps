@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 25.11.11
+Version: 26.2.4
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -86,6 +86,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Wed Feb  4 2026 Andris Pavēnis <andris.pavenis@fmi.fi> 26.2.4-1.fmi
+- Update to proj-9.7, gdal-3.12, fmt-12
+
 * Tue Nov 11 2025 Mika Heiskanen <mika.heiskanen@fmi.fi> - 25.11.11-1.fmi
 - Pass area and forecast time information to TextFormatter to enable more customizations
 
