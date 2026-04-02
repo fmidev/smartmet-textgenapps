@@ -1,26 +1,23 @@
-# Weather text generator
+# smartmet-textgenapps
 
-The SmartMet TextGen binary produced weather forecasts given querydata and a configuration file specifying how to generate the text.
+Part of [SmartMet Server](https://github.com/fmidev/smartmet-library-spine). See the [SmartMet Server documentation](https://github.com/fmidev/smartmet-library-spine) for an overview of the ecosystem.
 
-## Licence
-The library is not currently public.
+## Overview
 
-## How to contribute
-Found a bug? Want to implement a new feature? Your contribution is very welcome!
+Weather forecast text generation applications for SmartMet. The main binary (`textgen`) reads QueryData and a configuration file, and produces natural-language weather forecast text.
 
-Small changes and bug fixes can be submitted via pull request. In larger contributions, premilinary plan is recommended (in GitHub wiki). 
+## Usage
 
-CLA is required in order to contribute. Please contact us for more information!
+```
+textgen [options] <configuration>
+```
 
-## Documentation
-Each module is documented in module [module wiki](../../wiki). 
+Reads QueryData forecast files and generates weather forecast text according to the configuration, using the [smartmet-library-textgen](https://github.com/fmidev/smartmet-library-textgen) algorithms.
 
-## Communication and Resources
-You may contact us from following channels:
-* Email: beta@fmi.fi
-* Facebook: https://www.facebook.com/fmibeta/
-* GitHub: [issues](../../issues)
+## License
 
-Other resources which may be useful:
-* Presentation about the server: http://www.slideshare.net/tervo/smartmet-server-providing-metocean-data
-* Our public web pages (in Finnish):  http://ilmatieteenlaitos.fi/avoin-lahdekoodi
+This application is not currently public.
+
+## Contributing
+
+Contact us at beta@fmi.fi for more information.
