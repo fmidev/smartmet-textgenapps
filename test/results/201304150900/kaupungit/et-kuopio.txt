@@ -1,0 +1,27 @@
+Kuopio
+
+Ilmateade esmaspäeval 9
+
+Ilmavaade homme õhtuni:
+
+Täna pilves, ennelõunal kohati vihm.
+Homme pilves või muutliku pilvisusega.
+Sademete tõenäosus on täna 60 protsenti, homme märgatavalt väiksem.
+Täna edelatuul 6 meetrit sekundis, homme 4 meetrit sekundis.
+Päeva maksimaalne temperatuur on täna umbes 7 kraadi, homme ligikaudu sama.
+Öö minimaalne temperatuur on umbes 2 kraadi.
+Öökülma tõenäosus on teisipäeva ööl 40 protsenti.
+Madalaim suhteline niiskus on homme 70 protsenti.
+Sademete kogus on täna ennelõunast alates umbes 1 millimeetrit.
+
+Ilmavaade teisipäeva õhtust laupäeva hommikuni:
+
+Ilm on ebastabiilne.
+Päevane maksimaalne temperatuur on umbes 6 kraadi, öine minimaalne temperatuur umbes 1 kraad.
+
+Teisipäeva hommikust järgmise viie päeva ilm:
+
+Kesktemperatuur 2 kraadi.
+Keskmine maksimaalne temperatuur 6 kraadi.
+Keskmine minimaalne temperatuur 0 kraadi.
+Sademete kogus 5-10 millimeetrit.

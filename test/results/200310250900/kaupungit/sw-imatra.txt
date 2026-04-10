@@ -1,0 +1,26 @@
+Imatra
+
+Ripoti ya hali ya hewa Jumamosi 9 saa
+
+Hali ya hewa inayotarajiwa hadi kesho jioni:
+
+Kuanzia Jumamosi mvua mara kwa mara.
+Uwezekano wa mvua ni leo 90 asilimia, kesho kidogo ndogo zaidi.
+Upepo wa kaskazini 4-5 mita kwa sekunde.
+Joto la juu la mchana ni leo takriban -1 nyuzi, kesho takriban sawa.
+Joto la chini la usiku ni takriban -4 nyuzi.
+Uwezekano wa baridi kali sana ni usiku wa Jumapili 70 asilimia.
+Unyevu wa chini kabisa ni kesho 80 asilimia.
+Mvua jumla ni leo kuanzia kabla ya adhuhuri takriban 4 milimita, kesho takriban 2 milimita.
+
+Hali ya hewa inayotarajiwa kuanzia Jumapili jioni hadi Alhamisi asubuhi:
+
+Hali ya hewa si ya kawaida.
+Joto la juu la kila siku ni takriban 0 nyuzi, joto la chini la kila usiku takriban -5 nyuzi.
+
+Kuanzia Jumapili asubuhi kwa siku tano zijazo:
+
+Joto la wastani 0 nyuzi.
+Joto la juu la wastani 1 nyuzi.
+Joto la chini la wastani -2 nyuzi.
+Mvua jumla 10-20 milimita.

@@ -36,7 +36,7 @@ qdtext
 qdtext::dictionary = file
 qdtext::timezone = Europe/Helsinki
 
-qdtext::products = fi_txt,sv_txt,en_txt,fi_html
+qdtext::products = fi_txt,sv_txt,en_txt,fi_html,no_txt,da_txt,de_txt,fr_txt,it_txt,es_txt,et_txt,nl_txt,ru_txt,sw_txt,id_txt,ar_txt,vi_txt,zh_txt,ja_txt,ko_txt,th_txt
 
 qdtext::product::fi_txt
 {
@@ -121,6 +121,431 @@ qdtext::product::en_txt
 		turku		= en-turku.txt
 		vaasa		= en-vaasa.txt
 		viipuri		= en-viipuri.txt
+	}
+}
+
+qdtext::product::no_txt
+{
+	language = no
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= no-helsinki.txt
+		imatra		= no-imatra.txt
+		ivalo		= no-ivalo.txt
+		joensuu		= no-joensuu.txt
+		kuopio		= no-kuopio.txt
+		lahti		= no-lahti.txt
+		lappeenranta	= no-lappeenranta.txt
+		oulu		= no-oulu.txt
+		pori		= no-pori.txt
+		rauma		= no-rauma.txt
+		rovaniemi	= no-rovaniemi.txt
+		tampere		= no-tampere.txt
+		turku		= no-turku.txt
+		vaasa		= no-vaasa.txt
+		viipuri		= no-viipuri.txt
+	}
+}
+
+qdtext::product::da_txt
+{
+	language = da
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= da-helsinki.txt
+		imatra		= da-imatra.txt
+		ivalo		= da-ivalo.txt
+		joensuu		= da-joensuu.txt
+		kuopio		= da-kuopio.txt
+		lahti		= da-lahti.txt
+		lappeenranta	= da-lappeenranta.txt
+		oulu		= da-oulu.txt
+		pori		= da-pori.txt
+		rauma		= da-rauma.txt
+		rovaniemi	= da-rovaniemi.txt
+		tampere		= da-tampere.txt
+		turku		= da-turku.txt
+		vaasa		= da-vaasa.txt
+		viipuri		= da-viipuri.txt
+	}
+}
+
+qdtext::product::de_txt
+{
+	language = de
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= de-helsinki.txt
+		imatra		= de-imatra.txt
+		ivalo		= de-ivalo.txt
+		joensuu		= de-joensuu.txt
+		kuopio		= de-kuopio.txt
+		lahti		= de-lahti.txt
+		lappeenranta	= de-lappeenranta.txt
+		oulu		= de-oulu.txt
+		pori		= de-pori.txt
+		rauma		= de-rauma.txt
+		rovaniemi	= de-rovaniemi.txt
+		tampere		= de-tampere.txt
+		turku		= de-turku.txt
+		vaasa		= de-vaasa.txt
+		viipuri		= de-viipuri.txt
+	}
+}
+
+qdtext::product::fr_txt
+{
+	language = fr
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= fr-helsinki.txt
+		imatra		= fr-imatra.txt
+		ivalo		= fr-ivalo.txt
+		joensuu		= fr-joensuu.txt
+		kuopio		= fr-kuopio.txt
+		lahti		= fr-lahti.txt
+		lappeenranta	= fr-lappeenranta.txt
+		oulu		= fr-oulu.txt
+		pori		= fr-pori.txt
+		rauma		= fr-rauma.txt
+		rovaniemi	= fr-rovaniemi.txt
+		tampere		= fr-tampere.txt
+		turku		= fr-turku.txt
+		vaasa		= fr-vaasa.txt
+		viipuri		= fr-viipuri.txt
+	}
+}
+
+qdtext::product::it_txt
+{
+	language = it
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= it-helsinki.txt
+		imatra		= it-imatra.txt
+		ivalo		= it-ivalo.txt
+		joensuu		= it-joensuu.txt
+		kuopio		= it-kuopio.txt
+		lahti		= it-lahti.txt
+		lappeenranta	= it-lappeenranta.txt
+		oulu		= it-oulu.txt
+		pori		= it-pori.txt
+		rauma		= it-rauma.txt
+		rovaniemi	= it-rovaniemi.txt
+		tampere		= it-tampere.txt
+		turku		= it-turku.txt
+		vaasa		= it-vaasa.txt
+		viipuri		= it-viipuri.txt
+	}
+}
+
+qdtext::product::es_txt
+{
+	language = es
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= es-helsinki.txt
+		imatra		= es-imatra.txt
+		ivalo		= es-ivalo.txt
+		joensuu		= es-joensuu.txt
+		kuopio		= es-kuopio.txt
+		lahti		= es-lahti.txt
+		lappeenranta	= es-lappeenranta.txt
+		oulu		= es-oulu.txt
+		pori		= es-pori.txt
+		rauma		= es-rauma.txt
+		rovaniemi	= es-rovaniemi.txt
+		tampere		= es-tampere.txt
+		turku		= es-turku.txt
+		vaasa		= es-vaasa.txt
+		viipuri		= es-viipuri.txt
+	}
+}
+
+qdtext::product::et_txt
+{
+	language = et
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= et-helsinki.txt
+		imatra		= et-imatra.txt
+		ivalo		= et-ivalo.txt
+		joensuu		= et-joensuu.txt
+		kuopio		= et-kuopio.txt
+		lahti		= et-lahti.txt
+		lappeenranta	= et-lappeenranta.txt
+		oulu		= et-oulu.txt
+		pori		= et-pori.txt
+		rauma		= et-rauma.txt
+		rovaniemi	= et-rovaniemi.txt
+		tampere		= et-tampere.txt
+		turku		= et-turku.txt
+		vaasa		= et-vaasa.txt
+		viipuri		= et-viipuri.txt
+	}
+}
+
+qdtext::product::nl_txt
+{
+	language = nl
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= nl-helsinki.txt
+		imatra		= nl-imatra.txt
+		ivalo		= nl-ivalo.txt
+		joensuu		= nl-joensuu.txt
+		kuopio		= nl-kuopio.txt
+		lahti		= nl-lahti.txt
+		lappeenranta	= nl-lappeenranta.txt
+		oulu		= nl-oulu.txt
+		pori		= nl-pori.txt
+		rauma		= nl-rauma.txt
+		rovaniemi	= nl-rovaniemi.txt
+		tampere		= nl-tampere.txt
+		turku		= nl-turku.txt
+		vaasa		= nl-vaasa.txt
+		viipuri		= nl-viipuri.txt
+	}
+}
+
+qdtext::product::ru_txt
+{
+	language = ru
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= ru-helsinki.txt
+		imatra		= ru-imatra.txt
+		ivalo		= ru-ivalo.txt
+		joensuu		= ru-joensuu.txt
+		kuopio		= ru-kuopio.txt
+		lahti		= ru-lahti.txt
+		lappeenranta	= ru-lappeenranta.txt
+		oulu		= ru-oulu.txt
+		pori		= ru-pori.txt
+		rauma		= ru-rauma.txt
+		rovaniemi	= ru-rovaniemi.txt
+		tampere		= ru-tampere.txt
+		turku		= ru-turku.txt
+		vaasa		= ru-vaasa.txt
+		viipuri		= ru-viipuri.txt
+	}
+}
+
+qdtext::product::sw_txt
+{
+	language = sw
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= sw-helsinki.txt
+		imatra		= sw-imatra.txt
+		ivalo		= sw-ivalo.txt
+		joensuu		= sw-joensuu.txt
+		kuopio		= sw-kuopio.txt
+		lahti		= sw-lahti.txt
+		lappeenranta	= sw-lappeenranta.txt
+		oulu		= sw-oulu.txt
+		pori		= sw-pori.txt
+		rauma		= sw-rauma.txt
+		rovaniemi	= sw-rovaniemi.txt
+		tampere		= sw-tampere.txt
+		turku		= sw-turku.txt
+		vaasa		= sw-vaasa.txt
+		viipuri		= sw-viipuri.txt
+	}
+}
+
+qdtext::product::id_txt
+{
+	language = id
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= id-helsinki.txt
+		imatra		= id-imatra.txt
+		ivalo		= id-ivalo.txt
+		joensuu		= id-joensuu.txt
+		kuopio		= id-kuopio.txt
+		lahti		= id-lahti.txt
+		lappeenranta	= id-lappeenranta.txt
+		oulu		= id-oulu.txt
+		pori		= id-pori.txt
+		rauma		= id-rauma.txt
+		rovaniemi	= id-rovaniemi.txt
+		tampere		= id-tampere.txt
+		turku		= id-turku.txt
+		vaasa		= id-vaasa.txt
+		viipuri		= id-viipuri.txt
+	}
+}
+
+qdtext::product::ar_txt
+{
+	language = ar
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= ar-helsinki.txt
+		imatra		= ar-imatra.txt
+		ivalo		= ar-ivalo.txt
+		joensuu		= ar-joensuu.txt
+		kuopio		= ar-kuopio.txt
+		lahti		= ar-lahti.txt
+		lappeenranta	= ar-lappeenranta.txt
+		oulu		= ar-oulu.txt
+		pori		= ar-pori.txt
+		rauma		= ar-rauma.txt
+		rovaniemi	= ar-rovaniemi.txt
+		tampere		= ar-tampere.txt
+		turku		= ar-turku.txt
+		vaasa		= ar-vaasa.txt
+		viipuri		= ar-viipuri.txt
+	}
+}
+
+qdtext::product::vi_txt
+{
+	language = vi
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= vi-helsinki.txt
+		imatra		= vi-imatra.txt
+		ivalo		= vi-ivalo.txt
+		joensuu		= vi-joensuu.txt
+		kuopio		= vi-kuopio.txt
+		lahti		= vi-lahti.txt
+		lappeenranta	= vi-lappeenranta.txt
+		oulu		= vi-oulu.txt
+		pori		= vi-pori.txt
+		rauma		= vi-rauma.txt
+		rovaniemi	= vi-rovaniemi.txt
+		tampere		= vi-tampere.txt
+		turku		= vi-turku.txt
+		vaasa		= vi-vaasa.txt
+		viipuri		= vi-viipuri.txt
+	}
+}
+
+qdtext::product::zh_txt
+{
+	language = zh
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= zh-helsinki.txt
+		imatra		= zh-imatra.txt
+		ivalo		= zh-ivalo.txt
+		joensuu		= zh-joensuu.txt
+		kuopio		= zh-kuopio.txt
+		lahti		= zh-lahti.txt
+		lappeenranta	= zh-lappeenranta.txt
+		oulu		= zh-oulu.txt
+		pori		= zh-pori.txt
+		rauma		= zh-rauma.txt
+		rovaniemi	= zh-rovaniemi.txt
+		tampere		= zh-tampere.txt
+		turku		= zh-turku.txt
+		vaasa		= zh-vaasa.txt
+		viipuri		= zh-viipuri.txt
+	}
+}
+
+qdtext::product::ja_txt
+{
+	language = ja
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= ja-helsinki.txt
+		imatra		= ja-imatra.txt
+		ivalo		= ja-ivalo.txt
+		joensuu		= ja-joensuu.txt
+		kuopio		= ja-kuopio.txt
+		lahti		= ja-lahti.txt
+		lappeenranta	= ja-lappeenranta.txt
+		oulu		= ja-oulu.txt
+		pori		= ja-pori.txt
+		rauma		= ja-rauma.txt
+		rovaniemi	= ja-rovaniemi.txt
+		tampere		= ja-tampere.txt
+		turku		= ja-turku.txt
+		vaasa		= ja-vaasa.txt
+		viipuri		= ja-viipuri.txt
+	}
+}
+
+qdtext::product::ko_txt
+{
+	language = ko
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= ko-helsinki.txt
+		imatra		= ko-imatra.txt
+		ivalo		= ko-ivalo.txt
+		joensuu		= ko-joensuu.txt
+		kuopio		= ko-kuopio.txt
+		lahti		= ko-lahti.txt
+		lappeenranta	= ko-lappeenranta.txt
+		oulu		= ko-oulu.txt
+		pori		= ko-pori.txt
+		rauma		= ko-rauma.txt
+		rovaniemi	= ko-rovaniemi.txt
+		tampere		= ko-tampere.txt
+		turku		= ko-turku.txt
+		vaasa		= ko-vaasa.txt
+		viipuri		= ko-viipuri.txt
+	}
+}
+
+qdtext::product::th_txt
+{
+	language = th
+	formatter = plainlines
+
+	filename
+	{
+		helsinki	= th-helsinki.txt
+		imatra		= th-imatra.txt
+		ivalo		= th-ivalo.txt
+		joensuu		= th-joensuu.txt
+		kuopio		= th-kuopio.txt
+		lahti		= th-lahti.txt
+		lappeenranta	= th-lappeenranta.txt
+		oulu		= th-oulu.txt
+		pori		= th-pori.txt
+		rauma		= th-rauma.txt
+		rovaniemi	= th-rovaniemi.txt
+		tampere		= th-tampere.txt
+		turku		= th-turku.txt
+		vaasa		= th-vaasa.txt
+		viipuri		= th-viipuri.txt
 	}
 }
 
@@ -212,7 +637,7 @@ textgen::part3
 	header::html::level = 4
 }
 
-# Huomiseen iltaan, klo 12 jälkeen ylihuomisiltaan
+# Huomiseen iltaan, klo 12 jï¿½lkeen ylihuomisiltaan
 
 textgen::part1::period
 {
@@ -221,7 +646,7 @@ textgen::part1::period
 	switchhour = 12
 }
 
-# Edellisen alusta +4 päivää aamuun
+# Edellisen alusta +4 pï¿½ivï¿½ï¿½ aamuun
 
 textgen::part2::period
 {
@@ -232,7 +657,7 @@ textgen::part2::period
 	endhour = 6
 }
 
-# Seuraavasta aamusta +5 päivän aamuun
+# Seuraavasta aamusta +5 pï¿½ivï¿½n aamuun
 
 textgen::part3::period
 {

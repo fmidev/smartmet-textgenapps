@@ -1,0 +1,2148 @@
+o'clock|
+meri-lappi:lle|لـ Meri-Lappi
+pohjois-pohjanmaan itaosa:lle|للجزء الشرقي من شمال أوستروبوثنيا
+pohjois-pohjanmaan lansiosa:lle|للجزء الغربي من شمال أوستروبوثنيا
+pohjanmaa ja etela-pohjanmaa:lle|لأوستروبوثنيا وجنوب أوستروبوثنيا
+etela-lappi:lle|للابلاند الجنوبية
+keski-lappi:lle|للابلاند الوسطى
+utsjoki ja inari:lle|لـ Utsjoki و Inari
+finnmarkin lansiosa:lle|للجزء الغربي من Finnmark
+finnmarkin itaosa:lle|للجزء الشرقي من Finnmar
+murmanskin alueen lansiosa:lle|للجزء الغربي من منطقة مورمانسك
+pohjois-ruotsi:lle|لشمال السويد
+[iltapaivalla] lumikuurot voivat olla sakeita|زخات ثلجية يمكن أن تكون غزيرة [1]
+[iltapaivalla] lumisade voi olla sakeaa|تساقط الثلوج يمكن أن يكون غزيراً [1]
+huomiseen iltapaivaan asti|حتى بعد ظهر الغد
+aamuyosta|من الساعات الأولى للصباح
+astetta(noin n)|درجات
+huomattavasti lampimampi|أكثر دفئاً بشكل ملحوظ
+lampimampi|أكثر دفئاً
+seuraava yo|الليلة التالية
+seuraavana yona|الليلة التالية
+on|هو
+ankaran hallan todennakoisyys|احتمال صقيع شديد
+hallan todennakoisyys|احتمال صقيع
+7-vastaisena yona|ليلة الأحد
+6-vastaisena yona|ليلة السبت
+5-vastaisena yona|ليلة الجمعة
+4-vastaisena yona|ليلة الخميس
+3-vastaisena yona|ليلة الأربعاء
+2-vastaisena yona|ليلة الثلاثاء
+1-vastaisena yona|ليلة الاثنين
+sama|نفسه
+hieman pienempi|أصغر قليلاً
+hieman suurempi|أكبر قليلاً
+pienempi|أصغر
+suurempi|أكبر
+alin suhteellinen kosteus|أدنى رطوبة نسبية
+7-na|يوم الأحد
+6-na|يوم السبت
+5-na|يوم الجمعة
+4-na|يوم الخميس
+3-na|يوم الأربعاء
+2-na|يوم الثلاثاء
+1-na|يوم الاثنين
+odotettavissa|التوقعات الجوية
+7-illasta|من مساء الأحد
+1-illasta|من مساء الاثنين
+2-illasta|من مساء الثلاثاء
+3-illasta|من مساء الأربعاء
+4-illasta|من مساء الخميس
+5-illasta|من مساء الجمعة
+6-illasta|من مساء السبت
+7-aamuun|حتى صباح الأحد
+1-aamuun|حتى صباح الاثنين
+2-aamuun|حتى صباح الثلاثاء
+3-aamuun|حتى صباح الأربعاء
+4-aamuun|حتى صباح الخميس
+5-aamuun|حتى صباح الجمعة
+6-aamuun|حتى صباح السبت
+saa|الطقس
+keskilampotila|متوسط درجة الحرارة
+keskimaarainen ylin lampotila|متوسط درجة الحرارة القصوى
+keskimaarainen alin lampotila|متوسط درجة الحرارة الدنيا
+sadesumma|إجمالي هطول الأمطار
+astetta|درجات
+millimetria|ملليمتر
+1-aamusta|من صباح الاثنين
+2-aamusta|من صباح الثلاثاء
+3-aamusta|من صباح الأربعاء
+4-aamusta|من صباح الخميس
+5-aamusta|من صباح الجمعة
+6-aamusta|من صباح السبت
+7-aamusta|من صباح الأحد
+alkavan|
+1-iltaan|حتى مساء الاثنين
+2-vuorokauden saa|لليومين القادمين
+3-vuorokauden saa|للأيام الثلاثة القادمة
+4-vuorokauden saa|للأيام الأربعة القادمة
+5-vuorokauden saa|للأيام الخمسة القادمة
+6-vuorokauden saa|للأيام الستة القادمة
+7-vuorokauden saa|للأيام السبعة القادمة
+8-vuorokauden saa|للأيام الثمانية القادمة
+9-vuorokauden saa|للأيام التسعة القادمة
+10-vuorokauden saa|للـ 10 أيام القادمة
+1-keskipaivaan asti|حتى ظهر الاثنين
+2-keskipaivaan asti|حتى ظهر الثلاثاء
+3-keskipaivaan asti|حتى ظهر الأربعاء
+4-keskipaivaan asti|حتى ظهر الخميس
+5-keskipaivaan asti|حتى ظهر الجمعة
+6-keskipaivaan asti|حتى ظهر السبت
+7-keskipaivaan asti|حتى ظهر الأحد
+yli|فوق
+2-iltaan|حتى مساء الثلاثاء
+3-iltaan|حتى مساء الأربعاء
+4-iltaan|حتى مساء الخميس
+5-iltaan|حتى مساء الجمعة
+6-iltaan|حتى مساء السبت
+7-iltaan|حتى مساء الأحد
+monin paikoin enemman|أكثر في مناطق كثيرة
+paikoin enemman|أكثر في بعض المناطق
+monin paikoin|في مناطق كثيرة
+paikoin|في بعض المناطق
+asti|
+huomattavasti korkeampi|أعلى بشكل ملحوظ
+korkeampi|أعلى
+hieman korkeampi|أعلى قليلاً
+suunnilleen sama|تقريباً نفسه
+hieman alempi|أقل قليلاً
+alempi|أقل
+huomattavasti alempi|أقل بشكل ملحوظ
+noin|حوالي
+seuraavana paivana|اليوم التالي
+paivan ylin lampotila|درجة الحرارة القصوى اليومية
+yon alin lampotila|درجة الحرارة الدنيا الليلية
+paivien ylin lampotila|درجة الحرارة القصوى اليومية
+oiden alin lampotila|درجة الحرارة الدنيا الليلية
+paivalampotila|درجة الحرارة اليومية
+yolampotila|درجة الحرارة الليلية
+lopuksi|في النهاية
+8-suunnasta|من الشمال الغربي
+7-suunnasta|من الغرب
+6-suunnasta|من الجنوب الغربي
+5-suunnasta|من الجنوب
+4-suunnasta|من الجنوب الشرقي
+3-suunnasta|من الشرق
+2-suunnasta|من الشمال الشرقي
+1-suunnasta|من الشمال
+8-suuntaan|نحو الشمال الغربي
+7-suuntaan|نحو الغرب
+6-suuntaan|نحو الجنوب الغربي
+5-suuntaan|نحو الجنوب
+4-suuntaan|نحو الجنوب الشرقي
+3-suuntaan|نحو الشرق
+2-suuntaan|نحو الشمال الشرقي
+1-suuntaan|نحو الشمال
+alueen yli|فوق المنطقة
+liikkuu|يتحرك
+kosteammaksi|أكثر رطوبة
+kuivemmaksi|أجف
+muuttuu|يتغير
+viilenee|يبرد
+lampenee|يدفأ
+sadealue|منطقة هطول أمطار
+leviaa|ينتشر
+loittonee|يبتعد
+lahestyy|يقترب
+laaja|واسع
+korkeapaineen alue|منطقة ضغط مرتفع
+matalapaineen alue|منطقة ضغط منخفض
+syvenee|يعمق
+korkeapaine|الضغط المرتفع
+matalapaine|الضغط المنخفض
+lampotila|درجة الحرارة
+m/s|م/ث
+heikkoa|خفيف
+kohtalaista|معتدل
+navakkaa|منعش
+kovaa|قوي
+myrskya|عاصف
+tuulta|الرياح
+suunnaltaan vaihtelevaa|متقلب
+1-tuulta|رياح شمالية
+2-tuulta|رياح شمالية شرقية
+3-tuulta|رياح شرقية
+4-tuulta|رياح جنوبية شرقية
+5-tuulta|رياح جنوبية
+6-tuulta|رياح جنوبية غربية
+7-tuulta|رياح غربية
+8-tuulta|رياح شمالية غربية
+yolla|ليلاً
+heikkenevaa|آخذة في الضعف
+tuuli|الرياح
+1-puoleista tuulta|رياح شمالية في الغالب
+2-puoleista tuulta|رياح شمالية شرقية في الغالب
+3-puoleista tuulta|رياح شرقية في الغالب
+4-puoleista tuulta|رياح جنوبية شرقية في الغالب
+5-puoleista tuulta|رياح جنوبية في الغالب
+6-puoleista tuulta|رياح جنوبية غربية في الغالب
+7-puoleista tuulta|رياح غربية في الغالب
+8-puoleista tuulta|رياح شمالية غربية في الغالب
+ajoittain lumisadetta|تساقط ثلوج متقطع
+ajoittain sadetta|مطر متقطع
+ajoittain ukkosta|رعد
+heikkoa sadetta|مطر خفيف
+lumikuuroja|زخات ثلجية
+lumisadetta|تساقط الثلوج
+voimistuvaa|آخذة في الاشتداد
+vahvistuu|يشتد
+uusimaa|Uusimaa
+mahdollisesti ukkosta|احتمال رعد
+paikoin ukkosta|رعد محلي
+ukkosta|رعد
+melko selkeaa|صافٍ جزئياً
+miinus|ناقص
+pilvistyvaa|غيوم متزايدة
+pilvista|غائم
+poutaa|طقس جميل
+puolipilvista|غائم جزئياً
+runsasta sadetta|مطر غزير
+sadetta|مطر
+sakeaa lumisadetta|تساقط ثلوج كثيف
+sakeita lumikuuroja|زخات ثلجية كثيفة
+selkenevaa|غيوم متناقصة
+selkeaa|مشمس
+tai|أو
+tuuli heikkenee|الرياح تضعف إلى
+vaihtelevaa pilvisyytta|غيوم متقلبة
+vesisadetta|مطر
+voimakkaita kuuroja|زخات غزيرة
+vahaisia kuuroja|زخات خفيفة
+vahaista lumisadetta|تساقط ثلوج خفيف
+heikoksi|خفيف
+kohtalaiseksi|معتدل
+navakaksi|منعش
+kovaksi|قوي
+myrskyksi|عاصف
+1-tuuleksi|رياح شمالية
+2-tuuleksi|رياح شمالية شرقية
+3-tuuleksi|رياح شرقية
+4-tuuleksi|رياح جنوبية شرقية
+5-tuuleksi|رياح جنوبية
+6-tuuleksi|رياح جنوبية غربية
+7-tuuleksi|رياح غربية
+8-tuuleksi|رياح شمالية غربية
+1-puoleiseksi tuuleksi|رياح شمالية في الغالب
+2-puoleiseksi tuuleksi|رياح شمالية شرقية في الغالب
+3-puoleiseksi tuuleksi|رياح شرقية في الغالب
+4-puoleiseksi tuuleksi|رياح جنوبية شرقية في الغالب
+5-puoleiseksi tuuleksi|رياح جنوبية في الغالب
+6-puoleiseksi tuuleksi|رياح جنوبية غربية في الغالب
+7-puoleiseksi tuuleksi|رياح غربية في الغالب
+8-puoleiseksi tuuleksi|رياح شمالية غربية في الغالب
+tuuli tyyntyy|الرياح تهدأ
+tyyneksi|هادئ
+tyynta|رياح هادئة
+viiva|إلى
+rantasadetta|مطر مثلج
+saa on epavakaista|الطقس غير مستقر
+lumi-|ثلج
+ranta-|مطر مثلج
+vesi-|مطر
+edelleen|مستمر
+enimmakseen|في الغالب
+ajoittain sateista|مطر متقطع
+paivalla|خلال النهار
+hirmumyrskya|عاصفة شديدة
+hirmumyrskyksi|عاصفة شديدة
+saaennuste|نشرة الطقس
+kello|
+aland:lle|لجزر أولاند
+etela-karjala:lle|لكاريليا الجنوبية
+etela-pohjanmaa:lle|لأوستروبوثنيا الجنوبية
+etela-savo:lle|لسافونيا الجنوبية
+hame:lle|لتافاستيا
+kainuu:lle|لـ Kainuu
+keski-pohjanmaa:lle|لأوستروبوثنيا الوسطى
+keski-suomi:lle|لفنلندا الوسطى
+koillismaa:lle|لـ Koillismaa
+kymenlaakso:lle|لـ Kymenlaakso
+lansi-lappi:lle|للابلاند الغربية
+nyland:lle|لـ Uusimaa
+osterbotten:lle|لأوستروبوثنيا
+paijat-hame:lle|لـ Päijänne Tavastia
+pirkanmaa:lle|لـ Pirkanmaa
+pohjois-karjala:lle|لكاريليا الشمالية
+pohjois-lappi:lle|للابلاند الشمالية
+pohjois-pohjanmaa:lle|لشمال أوستروبوثنيا
+pohjois-savo:lle|لسافونيا الشمالية
+satakunta:lle|لـ Satakunta
+uusimaa:lle|لـ Uusimaa
+varsinais-suomi:lle|لفنلندا الجنوبية الغربية
+huomattavasti suurempi|أكبر بشكل ملحوظ
+huomattavasti pienempi|أصغر بشكل ملحوظ
+rannikolla|على الساحل
+metria sekunnissa|متر في الثانية
+1-alkaen|ابتداءً من الاثنين
+2-alkaen|ابتداءً من الثلاثاء
+3-alkaen|ابتداءً من الأربعاء
+4-alkaen|ابتداءً من الخميس
+5-alkaen|ابتداءً من الجمعة
+6-alkaen|ابتداءً من السبت
+7-alkaen|ابتداءً من الأحد
+tanaan|اليوم
+huomenna|غداً
+ylihuomenna|بعد غد
+ensi yona|ليلاً
+huomisaamuna|صباح الغد
+aamulla|صباحاً
+illalla|مساءً
+iltapaivalla|بعد الظهر
+aamuyolla|بعد منتصف الليل
+keskipaivalla|عند الظهر
+iltayolla|قبل منتصف الليل
+keskiyolla|عند منتصف الليل
+yosta alkaen|من الليلة
+aamuyosta alkaen|من الساعات الأولى للصباح
+aamusta alkaen|من الصباح
+aamupaivasta alkaen|من قبل الظهر
+keskipaivasta alkaen|من الظهر
+iltapaivasta alkaen|من بعد الظهر
+illasta alkaen|من المساء
+iltayosta alkaen|من وقت متأخر من الليل
+keskiyosta alkaen|من منتصف الليل
+prosenttia|بالمئة
+ajoittain|أحياناً
+1-na kello|يوم الاثنين
+2-na kello|يوم الثلاثاء
+3-na kello|يوم الأربعاء
+4-na kello|يوم الخميس
+5-na kello|يوم الجمعة
+6-na kello|يوم السبت
+7-na kello|يوم الأحد
+ei suuria muutoksia saassa|لا تغييرات كبيرة في الطقس
+saa selkenee|يصحو الطقس
+saa muuttuu epavakaisemmaksi|الطقس يصبح أكثر عدم استقرار
+sateinen saa jatkuu|الطقس الماطر يستمر
+epavakainen saa jatkuu|الطقس غير المستقر يستمر
+saa lauhtuu|الطقس يصبح أكثر اعتدالاً
+saa on enimmakseen poutaista|الطقس جميل في الغالب
+saa poutaantuu|يتحسن الطقس
+saa muuttuu helteiseksi|الطقس يصبح حاراً جداً
+saa lampenee|يدفأ الطقس
+saa viilenee|يبرد الطقس
+saa muuttuu koleaksi|الطقس يصبح قارساً
+saa kylmenee|الطقس يصبح بارداً
+helteinen saa jatkuu|الطقس الحار يستمر
+lammin saa jatkuu|الطقس الدافئ يستمر
+viilea saa jatkuu|الطقس المعتدل يستمر
+kolea saa jatkuu|الطقس القارس يستمر
+kylma saa jatkuu|الطقس البارد يستمر
+virtaa|يتدفق
+tilapaisesti|مؤقتاً
+lamminta|دافئ
+kylmaa|بارد
+viileaa|معتدل البرودة
+viileampaa|أكثر برودة
+lampimampaa|أكثر دفئاً
+kylmempaa|أكثر برودة
+hyvin|كثيراً
+vahan|قليلاً
+ilmaa|هواء
+Suomeen|إلى فنلندا
+maan|البلاد
+etelaosiin|المناطق الجنوبية
+keskiosiin|المناطق الوسطى
+pohjoisosiin|المناطق الشمالية
+itaosiin|المناطق الشرقية
+lansiosiin|المناطق الغربية
+etela-|جنوبي
+keski-|وسطى
+pohjois-|شمالي
+ita-|شرقي
+lansi-|غربي
+kuivempaa|أجف
+kosteampaa|أكثر رطوبة
+sadealueita|مناطق الأمطار
+Suomen yli|فوق فنلندا
+Etela-Suomen yli|فوق جنوب فنلندا
+Keski-Suomen yli|فوق وسط فنلندا
+Pohjois-Suomen yli|فوق شمال فنلندا
+Ita-Suomen yli|فوق شرق فنلندا
+Lansi-Suomen yli|فوق غرب فنلندا
+Kaakkois-Suomen yli|فوق جنوب شرق فنلندا
+uusi|جديد
+sateen todennakoisyys|احتمال هطول أمطار
+kuurosateen todennakoisyys|احتمال زخات أمطار
+ukkosen todennakoisyys|احتمال رعد
+pakkanen jatkuu|الصقيع مستمر
+pakkanen kiristyy|الصقيع يشتد
+pakkanen heikkenee|الصقيع يخف
+kuuluu|ينتمي إلى
+sateineen|مع مطر
+sadealueineen|مع مناطق أمطار
+hajanaisine sadealueineen|مع مناطق أمطار متفرقة
+Lounais-Suomen yli|فوق جنوب غرب فنلندا
+saapuu|يقترب
+saa muuttuu sateisemmaksi|الطقس يصبح أكثر مطراً
+alue|المنطقة
+pohjanmaa:lle|لأوستروبوثنيا
+suomi:lle|لفنلندا
+aluksi|في البداية
+ahvenanmaa:lle|لأولاند
+huomisesta alkaen|ابتداءً من الغد
+ja|و
+tiepiiri-hame:lle|لمنطقة تافاستيا للطرق
+tiepiiri-kaakkois-lappi:lle|لجنوب شرق لابلاند
+tiepiiri-kaakkois-suomi:lle|لمنطقة جنوب شرق فنلندا للطرق
+tiepiiri-kasivarsi:lle|لشمال غرب لابلاند
+tiepiiri-keski-lappi:lle|للابلاند الوسطى
+tiepiiri-keski-suomi:lle|لمنطقة فنلندا الوسطى للطرق
+tiepiiri-lounais-lappi:lle|لجنوب غرب لابلاند
+tiepiiri-oulu-ita:lle|للجزء الشرقي من منطقة أولو للطرق
+tiepiiri-oulu-lansi:lle|للجزء الغربي من منطقة أولو للطرق
+tiepiiri-savo-karjala:lle|لمنطقة سافونيا-كاريليا للطرق
+tiepiiri-turku:lle|لمنطقة توركو للطرق
+tiepiiri-uusimaa:lle|لمنطقة Uusimaa للطرق
+tiepiiri-vaasa:lle|لمنطقة فاسا للطرق
+tiepiiri-yla-lappi:lle|للابلاند العليا
+tienpintalampotila|درجة حرارة سطح الطريق
+ensimmaisen 12 tunnin sademaara|إجمالي الأمطار للـ 12 ساعة الأولى
+ensimmaisen 12 tunnin sademaara|إجمالي الأمطار للـ 12 ساعة الأولى
+seuraavan 12 tunnin|للـ 12 ساعة التالية
+seuraavan 24 tunnin sademaara|إجمالي الأمطار للـ 24 ساعة القادمة
+tiet ovat|الطرق هي
+teilla on|الطرق هي
+jaisia|جليدية
+osittain jaisia|جليدية جزئياً
+kuuraa|مغطاة بالصقيع
+sohjoa|مغطاة بالثلج الرطب
+lunta|مغطاة بالثلج
+markia|مبللة
+kosteita|رطبة
+kuivia|جافة
+kuuraisia|مغطاة بالصقيع
+sohjoisia|مغطاة بالثلج الرطب
+lumisia|مغطاة بالثلج
+tiet ovat (sivulause)|
+yleisesti|بشكل عام
+kanta-hame:lle|لتافاستيا الأصلية
+ita-uusimaa:lle|لـ Uusimaa الشرقية
+lappi:lle|للابلاند
+lapin-laani:lle|لمقاطعة لابلاند
+oulun-laani:lle|لمقاطعة أولو
+ita-suomen-laani:lle|لمقاطعة شرق فنلندا
+lansi-suomen-laani:lle|لمقاطعة غرب فنلندا
+etela-suomen-laani:lle|لمقاطعة جنوب فنلندا
+ahvenanmaan-laani:lle|لمقاطعة أولاند
+7-paivalla|يوم الأحد خلال النهار
+2-aamuna|صباح الثلاثاء
+3-aamuna|صباح الأربعاء
+4-aamuna|صباح الخميس
+5-aamuna|صباح الجمعة
+6-aamuna|صباح السبت
+7-aamuna|صباح الأحد
+1-aamupaivasta alkaen|من قبل ظهر الاثنين
+2-aamupaivasta alkaen|من قبل ظهر الثلاثاء
+3-aamupaivasta alkaen|من قبل ظهر الأربعاء
+4-aamupaivasta alkaen|من قبل ظهر الخميس
+5-aamupaivasta alkaen|من قبل ظهر الجمعة
+6-aamupaivasta alkaen|من قبل ظهر السبت
+1-aamusta alkaen|من صباح الاثنين
+2-aamusta alkaen|من صباح الثلاثاء
+3-aamusta alkaen|من صباح الأربعاء
+4-aamusta alkaen|من صباح الخميس
+5-aamusta alkaen|من صباح الجمعة
+6-aamusta alkaen|من صباح السبت
+7-aamusta alkaen|من صباح الأحد
+1-iltana|مساء الاثنين
+2-iltana|مساء الثلاثاء
+3-iltana|مساء الأربعاء
+4-iltana|مساء الخميس
+5-iltana|مساء الجمعة
+6-iltana|مساء السبت
+7-iltana|مساء الأحد
+1-illasta alkaen|من مساء الاثنين
+2-illasta alkaen|من مساء الثلاثاء
+3-illasta alkaen|من مساء الأربعاء
+4-illasta alkaen|من مساء الخميس
+5-illasta alkaen|من مساء الجمعة
+6-illasta alkaen|من مساء السبت
+7-illasta alkaen|من مساء الأحد
+1-paivalla|يوم الاثنين خلال النهار
+2-paivalla|يوم الثلاثاء خلال النهار
+3-paivalla|يوم الأربعاء خلال النهار
+4-paivalla|يوم الخميس خلال النهار
+5-paivalla|يوم الجمعة خلال النهار
+6-paivalla|يوم السبت خلال النهار
+1-vastaisesta yosta alkaen|من ليلة الاثنين
+2-vastaisesta yosta alkaen|من ليلة الثلاثاء
+3-vastaisesta yosta alkaen|من ليلة الأربعاء
+4-vastaisesta yosta alkaen|من ليلة الخميس
+5-vastaisesta yosta alkaen|من ليلة الجمعة
+6-vastaisesta yosta alkaen|من ليلة السبت
+7-vastaisesta yosta alkaen|من ليلة الأحد
+huomisaamusta alkaen|من صباح الغد
+huomisaamupaivasta alkaen|من قبل ظهر الغد
+huomisillasta alkaen|من مساء الغد
+huomenna paivalla|الغد خلال النهار
+huomisiltana|مساء الغد
+1-aamuna|صباح الاثنين
+7-aamupaivasta alkaen|من قبل ظهر الأحد
+B1:lle|لخليج بوثنيا
+B2:lle|لكفاركين
+B3:lle|لبحر بوثنيا
+B4:lle|لبحر الأرخبيل وبحر أولاند
+B5:lle|لخليج فنلندا
+B6:lle|لخليج ريغا
+B7:lle|لبحر البلطيق الشمالي
+B8:lle|لبحر البلطيق الأوسط
+B9:lle|لجنوب شرق بحر البلطيق
+B10:lle|لبحر البلطيق الجنوبي
+B11:lle|لحوض أركونا
+B12:lle|لأوريسوند والمضائق
+B13:lle|لكاتيغات
+B1N:lle|لشمال خليج بوثنيا
+B1S:lle|لجنوب خليج بوثنيا
+B4E:lle|لبحر الأرخبيل
+B4W:lle|لبحر أولاند
+B5E:lle|للجزء الشرقي من خليج فنلندا
+B5W:lle|للجزء الغربي من خليج فنلندا
+B8E:lle|لبحر البلطيق الأوسط
+B8W:lle|لبحر غوتلاند
+B10N:lle|لبحر أولاند
+B10S:lle|لبحر بورنهولم
+osittain jaisiksi|جليدية جزئياً
+kuuraisiksi|مغطاة بالصقيع
+keli on|حالة الطريق هي
+tienpinnat muuttuvat|أسطح الطرق ستصبح
+jaisiksi|جليدية
+pakkasliukkautta|انزلاق بسبب الصقيع
+rannasta ja liukkaista|متأثرة بأسطح طرق زلقة وتساقط مطر مثلج
+tieto puuttuu|البيانات غير متوفرة
+liukkaiksi jaatavasta sateesta|زلقة بسبب المطر المتجمد
+rannasta ja osittain liukkaista|متأثرة جزئياً بأسطح طرق زلقة وتساقط مطر مثلج
+sateesta ja osittain liukkaista|متأثرة جزئياً بأسطح طرق زلقة وهطول أمطار
+sateesta ja liukkaista|متأثرة بأسطح طرق زلقة وهطول أمطار
+normaali|طبيعي
+aanekoski:lle|لـ Äänekoski
+aetsa:lle|لـ Äetsä
+ahtari:lle|لـ Ähtäri
+alaharma:lle|لـ Alahärmä
+alajarvi:lle|لـ Alajärvi
+alastaro:lle|لـ Alastaro
+alavieska:lle|لـ Alavieska
+alavus:lle|لـ Alavus
+anjalankoski:lle|لـ Anjalankoski
+artjarvi:lle|لـ Artjärvi
+asikkala:lle|لـ Asikkala
+askainen:lle|لـ Askainen
+askola:lle|لـ Askola
+aura:lle|لـ Aura
+brando:lle|لـ Brändö
+dragsfjard:lle|لـ Dragsfjärd
+eckero:lle|لـ Eckerö
+elimaki:lle|لـ Elimäki
+enonkoski:lle|لـ Enonkoski
+enontekio:lle|لـ Enontekiö
+eno:lle|لـ Eno
+espoo:lle|لـ Espoo
+eurajoki:lle|لـ Eurajoki
+eura:lle|لـ Eura
+evijarvi:lle|لـ Evijärvi
+finstrom:lle|لـ Finström
+foglo:lle|لـ Föglö
+forssa:lle|لـ Forssa
+geta:lle|لـ Geta
+haapajarvi:lle|لـ Haapajärvi
+haapavesi:lle|لـ Haapavesi
+hailuoto:lle|لـ Hailuoto
+halikko:lle|لـ Halikko
+halsua:lle|لـ Halsua
+hameenkoski:lle|لـ Hämeenkoski
+hameenkyro:lle|لـ Hämeenkyrö
+hameenlinna:lle|لـ Hämeenlinna
+hamina:lle|لـ Hamina
+hammarland:lle|لـ Hammarland
+hankasalmi:lle|لـ Hankasalmi
+hanko:lle|لـ Hanko
+harjavalta:lle|لـ Harjavalta
+B3S:lle|لجنوب بحر بوثنيا
+B7E:lle|للجزء الشرقي من بحر البلطيق الشمالي
+B7W:lle|للجزء الغربي من بحر البلطيق الشمالي
+hartola:lle|لـ Hartola
+hattula:lle|لـ Hattula
+hauho:lle|لـ Hauho
+haukipudas:lle|لـ Haukipudas
+haukivuori:lle|لـ Haukivuori
+hausjarvi:lle|لـ Hausjärvi
+heinavesi:lle|لـ Heinävesi
+heinola:lle|لـ Heinola
+helsinki:lle|لهلسنكي
+himanka:lle|لـ Himanka
+hirvensalmi:lle|لـ Hirvensalmi
+hollola:lle|لـ Hollola
+honkajoki:lle|لـ Honkajoki
+houtskari:lle|لـ Houtskari
+huittinen:lle|لـ Huittinen
+humppila:lle|لـ Humppila
+hyrynsalmi:lle|لـ Hyrynsalmi
+hyvinkaa:lle|لـ Hyvinkää
+iisalmi:lle|لـ Iisalmi
+ii:lle|لـ Ii
+iitti:lle|لـ Iitti
+ikaalinen:lle|لـ Ikaalinen
+ilmajoki:lle|لـ Ilmajoki
+ilomantsi:lle|لـ Ilomantsi
+imatra:lle|لـ Imatra
+inari:lle|لـ Inari
+inio:lle|لـ Iniö
+inkoo:lle|لـ Inkoo
+isojoki:lle|لـ Isojoki
+isokyro:lle|لـ Isokyrö
+jaala:lle|لـ Jaala
+jalasjarvi:lle|لـ Jalasjärvi
+jamijarvi:lle|لـ Jämijärvi
+jamsankoski:lle|لـ Jämsänkoski
+jamsa:lle|لـ Jämsä
+janakkala:lle|لـ Janakkala
+jarvenpaa:lle|لـ Järvenpää
+joensuu:lle|لـ Joensuu
+jokioinen:lle|لـ Jokioinen
+jomala:lle|لـ Jomala
+joroinen:lle|لـ Joroinen
+joutsa:lle|لـ Joutsa
+joutseno:lle|لـ Joutseno
+juankoski:lle|لـ Juankoski
+jurva:lle|لـ Jurva
+juuka:lle|لـ Juuka
+juupajoki:lle|لـ Juupajoki
+juva:lle|لـ Juva
+jyvaskylan_mlk:lle|لـ Jyväskylän_mlk
+jyvaskyla:lle|لـ Jyväskylä
+kaarina:lle|لـ Kaarina
+kaavi:lle|لـ Kaavi
+kajaani:lle|لـ Kajaani
+kalajoki:lle|لـ Kalajoki
+kalvia:lle|لـ Kälviä
+kalvola:lle|لـ Kalvola
+kangasala:lle|لـ Kangasala
+kangasniemi:lle|لـ Kangasniemi
+kankaanpaa:lle|لـ Kankaanpää
+kannonkoski:lle|لـ Kannonkoski
+kannus:lle|لـ Kannus
+karijoki:lle|لـ Karijoki
+karjaa:lle|لـ Karjaa
+karjalohja:lle|لـ Karjalohja
+karkkila:lle|لـ Karkkila
+karkola:lle|لـ Kärkölä
+karsamaki:lle|لـ Kärsämäki
+karstula:lle|لـ Karstula
+karttula:lle|لـ Karttula
+karvia:lle|لـ Karvia
+kaskinen:lle|لـ Kaskinen
+kauhajoki:lle|لـ Kauhajoki
+kauhava:lle|لـ Kauhava
+kauniainen:lle|لـ Kauniainen
+kaustinen:lle|لـ Kaustinen
+keitele:lle|لـ Keitele
+kemijarvi:lle|لـ Kemijärvi
+keminmaa:lle|لـ Keminmaa
+kemio:lle|لـ Kemiö
+kemi:lle|لـ Kemi
+kempele:lle|لـ Kempele
+kerava:lle|لـ Kerava
+kerimaki:lle|لـ Kerimäki
+kesalahti:lle|لـ Kesälahti
+kestila:lle|لـ Kestilä
+keuruu:lle|لـ Keuruu
+kihnio:lle|لـ Kihniö
+kiikala:lle|لـ Kiikala
+kiikoinen:lle|لـ Kiikoinen
+kiiminki:lle|لـ Kiiminki
+kinnula:lle|لـ Kinnula
+kirkkonummi:lle|لـ Kirkkonummi
+kisko:lle|لـ Kisko
+kitee:lle|لـ Kitee
+kittila:lle|لـ Kittilä
+kiukainen:lle|لـ Kiukainen
+kiuruvesi:lle|لـ Kiuruvesi
+kivijarvi:lle|لـ Kivijärvi
+kodisjoki:lle|لـ Kodisjoki
+kokar:lle|لـ Kökar
+kokemaki:lle|لـ Kokemäki
+kokkola:lle|لـ Kokkola
+kolari:lle|لـ Kolari
+konnevesi:lle|لـ Konnevesi
+kontiolahti:lle|لـ Kontiolahti
+korpilahti:lle|لـ Korpilahti
+korppoo:lle|لـ Korppoo
+korsnas:lle|لـ Korsnäs
+kortesjarvi:lle|لـ Kortesjärvi
+koski_tl:lle|لـ Koski
+kotka:lle|لـ Kotka
+kouvola:lle|لـ Kouvola
+koylio:lle|لـ Köyliö
+kristiinankaupunki:lle|لـ Kristiinankaupunki
+kronoby:lle|لـ Kronoby
+kuhmalahti:lle|لـ Kuhmalahti
+kuhmoinen:lle|لـ Kuhmoinen
+kuhmo:lle|لـ Kuhmo
+kuivaniemi:lle|لـ Kuivaniemi
+kumlinge:lle|لـ Kumlinge
+kuopio:lle|لـ Kuopio
+kuortane:lle|لـ Kuortane
+kurikka:lle|لـ Kurikka
+kuru:lle|لـ Kuru
+kustavi:lle|لـ Kustavi
+kuusamo:lle|لـ Kuusamo
+kuusankoski:lle|لـ Kuusankoski
+kuusjoki:lle|لـ Kuusjoki
+kylmakoski:lle|لـ Kylmäkoski
+kyyjarvi:lle|لـ Kyyjärvi
+lahti:lle|لـ Lahti
+laihia:lle|لـ Laihia
+laitila:lle|لـ Laitila
+lammi:lle|لـ Lammi
+langelmaki:lle|لـ Längelmäki
+lapinjarvi:lle|لـ Lapinjärvi
+lapinlahti:lle|لـ Lapinlahti
+lappajarvi:lle|لـ Lappajärvi
+lappeenranta:lle|لـ Lappeenranta
+lapin kuntaan:lle|لـ Lappi
+lapua:lle|لـ Lapua
+larsmo:lle|لـ Larsmo
+laukaa:lle|لـ Laukaa
+lavia:lle|لـ Lavia
+lehtimaki:lle|لـ Lehtimäki
+leivonmaki:lle|لـ Leivonmäki
+lemi:lle|لـ Lemi
+lemland:lle|لـ Lemland
+lempaala:lle|لـ Lempäälä
+lemu:lle|لـ Lemu
+leppavirta:lle|لـ Leppävirta
+lestijarvi:lle|لـ Lestijärvi
+lieksa:lle|لـ Lieksa
+lieto:lle|لـ Lieto
+liljendal:lle|لـ Liljendal
+liminka:lle|لـ Liminka
+liperi:lle|لـ Liperi
+lohja:lle|لـ Lohja
+lohtaja:lle|لـ Lohtaja
+loimaa:lle|لـ Loimaa
+loppi:lle|لـ Loppi
+loviisa:lle|لـ Loviisa
+luhanka:lle|لـ Luhanka
+lumijoki:lle|لـ Lumijoki
+lumparland:lle|لـ Lumparland
+luopioinen:lle|لـ Luopioinen
+luumaki:lle|لـ Luumäki
+luvia:lle|لـ Luvia
+maalahti:lle|لـ Maalahti
+maaninka:lle|لـ Maaninka
+maarianhamina:lle|لـ Maarianhamina
+maksamaa:lle|لـ Maksamaa
+mantsala:lle|لـ Mäntsälä
+mantta:lle|لـ Mänttä
+mantyharju:lle|لـ Mäntyharju
+marttila:lle|لـ Marttila
+masku:lle|لـ Masku
+mellila:lle|لـ Mellilä
+merijarvi:lle|لـ Merijärvi
+merikarvia:lle|لـ Merikarvia
+merimasku:lle|لـ Merimasku
+miehikkala:lle|لـ Miehikkälä
+mietoinen:lle|لـ Mietoinen
+mikkeli:lle|لـ Mikkeli
+mouhijarvi:lle|لـ Mouhijärvi
+muhos:lle|لـ Muhos
+multia:lle|لـ Multia
+muonio:lle|لـ Muonio
+mustasaari:lle|لـ Mustasaari
+muurame:lle|لـ Muurame
+muurla:lle|لـ Muurla
+mynamaki:lle|لـ Mynämäki
+myrskyla:lle|لـ Myrskylä
+naantali:lle|لـ Naantali
+nakkila:lle|لـ Nakkila
+narpio:lle|لـ Närpiö
+nastola:lle|لـ Nastola
+nauvo:lle|لـ Nauvo
+nilsia:lle|لـ Nilsiä
+nivala:lle|لـ Nivala
+nokia:lle|لـ Nokia
+noormarkku:lle|لـ Noormarkku
+nousiainen:lle|لـ Nousiainen
+nummipusula:lle|لـ Nummi-Pusula
+nurmes:lle|لـ Nurmes
+nurmijarvi:lle|لـ Nurmijärvi
+nurmo:lle|لـ Nurmo
+oravainen:lle|لـ Oravainen
+orimattila:lle|لـ Orimattila
+oripaa:lle|لـ Oripää
+orivesi:lle|لـ Orivesi
+oulainen:lle|لـ Oulainen
+oulunsalo:lle|لـ Oulunsalo
+oulu:lle|لـ Oulu
+outokumpu:lle|لـ Outokumpu
+padasjoki:lle|لـ Padasjoki
+paimio:lle|لـ Paimio
+palkane:lle|لـ Pälkäne
+paltamo:lle|لـ Paltamo
+parainen:lle|لـ Parainen
+parikkala:lle|لـ Parikkala
+parkano:lle|لـ Parkano
+pedersoren_kunta:lle|لـ Pedersöre
+pelkosenniemi:lle|لـ Pelkosenniemi
+pello:lle|لـ Pello
+perho:lle|لـ Perho
+pernaja:lle|لـ Pernaja
+pernio:lle|لـ Perniö
+pertteli:lle|لـ Pertteli
+pertunmaa:lle|لـ Pertunmaa
+petajavesi:lle|لـ Petäjävesi
+pieksanmaa:lle|لـ Pieksänmaa
+pielavesi:lle|لـ Pielavesi
+pietarsaari:lle|لـ Pietarsaari
+pihtipudas:lle|لـ Pihtipudas
+piikkio:lle|لـ Piikkiö
+piippola:lle|لـ Piippola
+pirkkala:lle|لـ Pirkkala
+pohja:lle|لـ Pohja
+polvijarvi:lle|لـ Polvijärvi
+pomarkku:lle|لـ Pomarkku
+pori:lle|لـ Pori
+pornainen:lle|لـ Pornainen
+porvoo:lle|لـ Porvoo
+posio:lle|لـ Posio
+poytya:lle|لـ Pöytyä
+pudasjarvi:lle|لـ Pudasjärvi
+pukkila:lle|لـ Pukkila
+pulkkila:lle|لـ Pulkkila
+punkaharju:lle|لـ Punkaharju
+punkalaidun:lle|لـ Punkalaidun
+puolanka:lle|لـ Puolanka
+puumala:lle|لـ Puumala
+pyhajarvi:lle|لـ Pyhäjärvi
+pyhajoki:lle|لـ Pyhäjoki
+pyhanta:lle|لـ Pyhäntä
+pyharanta:lle|لـ Pyhäranta
+pyhaselka:lle|لـ Pyhäselkä
+pyhtaa:lle|لـ Pyhtää
+pylkonmaki:lle|لـ Pylkönmäki
+raahe:lle|لـ Raahe
+raakkyla:lle|لـ Rääkkylä
+raisio:lle|لـ Raisio
+rantasalmi:lle|لـ Rantasalmi
+rantsila:lle|لـ Rantsila
+ranua:lle|لـ Ranua
+rauma:lle|لـ Rauma
+rautalampi:lle|لـ Rautalampi
+rautavaara:lle|لـ Rautavaara
+rautjarvi:lle|لـ Rautjärvi
+reisjarvi:lle|لـ Reisjärvi
+renko:lle|لـ Renko
+riihimaki:lle|لـ Riihimäki
+ristiina:lle|لـ Ristiina
+ristijarvi:lle|لـ Ristijärvi
+rovaniemen_mlk:lle|لـ Rovaniemen_mlk
+rovaniemi:lle|لـ Rovaniemi
+ruokolahti:lle|لـ Ruokolahti
+ruotsinpyhtaa:lle|لـ Ruotsinpyhtää
+ruovesi:lle|لـ Ruovesi
+rusko:lle|لـ Rusko
+ruukki:lle|لـ Ruukki
+rymattyla:lle|لـ Rymättylä
+saarijarvi:lle|لـ Saarijärvi
+sakyla:lle|لـ Säkylä
+salla:lle|لـ Salla
+salo:lle|لـ Salo
+saltvik:lle|لـ Saltvik
+sammatti:lle|لـ Sammatti
+sarkisalo:lle|لـ Särkisalo
+sauvo:lle|لـ Sauvo
+savitaipale:lle|لـ Savitaipale
+savonlinna:lle|لـ Savonlinna
+savonranta:lle|لـ Savonranta
+savukoski:lle|لـ Savukoski
+seinajoki:lle|لـ Seinäjoki
+sievi:lle|لـ Sievi
+siikainen:lle|لـ Siikainen
+siikajoki:lle|لـ Siikajoki
+siilinjarvi:lle|لـ Siilinjärvi
+simo:lle|لـ Simo
+sipoo:lle|لـ Sipoo
+siuntio:lle|لـ Siuntio
+sodankyla:lle|لـ Sodankylä
+soini:lle|لـ Soini
+somero:lle|لـ Somero
+sonkajarvi:lle|لـ Sonkajärvi
+sotkamo:lle|لـ Sotkamo
+sottunga:lle|لـ Sottunga
+sulkava:lle|لـ Sulkava
+sumiainen:lle|لـ Sumiainen
+sund:lle|لـ Sund
+suodenniemi:lle|لـ Suodenniemi
+suolahti:lle|لـ Suolahti
+suomenniemi:lle|لـ Suomenniemi
+suomusjarvi:lle|لـ Suomusjärvi
+suomussalmi:lle|لـ Suomussalmi
+suonenjoki:lle|لـ Suonenjoki
+sysma:lle|لـ Sysmä
+taipalsaari:lle|لـ Taipalsaari
+taivalkoski:lle|لـ Taivalkoski
+taivassalo:lle|لـ Taivassalo
+tammela:lle|لـ Tammela
+tammisaari:lle|لـ Tammisaari
+tampere:lle|لـ Tampere
+tarvasjoki:lle|لـ Tarvasjoki
+tervola:lle|لـ Tervola
+tervo:lle|لـ Tervo
+teuva:lle|لـ Teuva
+tohmajarvi:lle|لـ Tohmajärvi
+toholampi:lle|لـ Toholampi
+toijala:lle|لـ Toijala
+toivakka:lle|لـ Toivakka
+tornio:lle|لـ Tornio
+toysa:lle|لـ Töysä
+turku:lle|لـ Turku
+tuulos:lle|لـ Tuulos
+tuusniemi:lle|لـ Tuusniemi
+tuusula:lle|لـ Tuusula
+tyrnava:lle|لـ Tyrnävä
+ullava:lle|لـ Ullava
+ulvila:lle|لـ Ulvila
+urjala:lle|لـ Urjala
+utajarvi:lle|لـ Utajärvi
+utsjoki:lle|لـ Utsjoki
+uurainen:lle|لـ Uurainen
+uusikaarlepyy:lle|لـ Uusikaarlepyy
+uusikaupunki:lle|لـ Uusikaupunki
+vaala:lle|لـ Vaala
+vaasa:lle|لـ Vaasa
+vahakyro:lle|لـ Vähäkyrö
+vahto:lle|لـ Vahto
+valkeakoski:lle|لـ Valkeakoski
+valkeala:lle|لـ Valkeala
+valtimo:lle|لـ Valtimo
+vammala:lle|لـ Vammala
+vampula:lle|لـ Vampula
+vantaa:lle|لـ Vantaa
+vardo:lle|لـ Vårdö
+varkaus:lle|لـ Varkaus
+varpaisjarvi:lle|لـ Varpaisjärvi
+vastanfjard:lle|لـ Västanfjärd
+vehmaa:lle|لـ Vehmaa
+velkua:lle|لـ Velkua
+vesanto:lle|لـ Vesanto
+vesilahti:lle|لـ Vesilahti
+veteli:lle|لـ Veteli
+vierema:lle|لـ Vieremä
+vihanti:lle|لـ Vihanti
+vihti:lle|لـ Vihti
+viiala:lle|لـ Viiala
+viitasaari:lle|لـ Viitasaari
+viljakkala:lle|لـ Viljakkala
+vilppula:lle|لـ Vilppula
+vimpeli:lle|لـ Vimpeli
+virolahti:lle|لـ Virolahti
+virrat:lle|لـ Virrat
+voyri:lle|لـ Vöyri
+vuolijoki:lle|لـ Vuolijoki
+ylamaa:lle|لـ Ylämaa
+ylane:lle|لـ Yläne
+yliharma:lle|لـ Ylihärmä
+yliii:lle|لـ Yli-Ii
+ylikiiminki:lle|لـ Ylikiiminki
+ylistaro:lle|لـ Ylistaro
+ylitornio:lle|لـ Ylitornio
+ylivieska:lle|لـ Ylivieska
+ylojarvi:lle|لـ Ylöjärvi
+ypaja:lle|لـ Ypäjä
+poudan todennakoisyys|احتمال عدم هطول أمطار
+metsapaloindeksi|مؤشر تحذير الحريق الغابي
+haihdunta on erittain huono|التبخر ضعيف جداً
+haihdunta on huono|التبخر ضعيف
+haihdunta on tyydyttava|التبخر مقبول
+haihdunta on hyva|التبخر جيد
+haihdunta on erinomainen|التبخر ممتاز
+metsapalovaroitus on voimassa|تحذير حريق الغابة ساري المفعول
+metsapalovaroitus ei ole voimassa|تحذير حريق الغابة غير ساري المفعول
+luoto:lle|لـ Luoto
+kruunupyy:lle|لـ Kruunupyy
+1-aamulla|يوم الاثنين صباحاً
+2-aamulla|يوم الثلاثاء صباحاً
+3-aamulla|يوم الأربعاء صباحاً
+4-aamulla|يوم الخميس صباحاً
+5-aamulla|يوم الجمعة صباحاً
+6-aamulla|يوم السبت صباحاً
+7-aamulla|يوم الأحد صباحاً
+1-aamupaivalla|يوم الاثنين قبل الظهر
+2-aamupaivalla|يوم الثلاثاء قبل الظهر
+3-aamupaivalla|يوم الأربعاء قبل الظهر
+4-aamupaivalla|يوم الخميس قبل الظهر
+5-aamupaivalla|يوم الجمعة قبل الظهر
+6-aamupaivalla|يوم السبت قبل الظهر
+7-aamupaivalla|يوم الأحد قبل الظهر
+1-iltapaivalla|يوم الاثنين بعد الظهر
+2-iltapaivalla|يوم الثلاثاء بعد الظهر
+3-iltapaivalla|يوم الأربعاء بعد الظهر
+4-iltapaivalla|يوم الخميس بعد الظهر
+5-iltapaivalla|يوم الجمعة بعد الظهر
+6-iltapaivalla|يوم السبت بعد الظهر
+7-iltapaivalla|يوم الأحد بعد الظهر
+1-illalla|يوم الاثنين مساءً
+2-illalla|يوم الثلاثاء مساءً
+3-illalla|يوم الأربعاء مساءً
+4-illalla|يوم الخميس مساءً
+5-illalla|يوم الجمعة مساءً
+6-illalla|يوم السبت مساءً
+7-illalla|يوم الأحد مساءً
+kastepiste|نقطة الندى
+suhteellinen kosteus|الرطوبة النسبية
+hehtopascalia|هكتوباسكال
+paine|الضغط
+keli muuttuu|حالة الطريق تصبح
+lumisateesta|أسوأ بسبب تساقط الثلوج
+haukivesi:lle|لـ Haukivesi
+kallavesi:lle|لـ Kallavesi
+malaren:lle|لـ Mälaren
+pihlajavesi:lle|لـ Pihlajavesi
+suur-saimaa:lle|لـ Saimaa
+vanern:lle|لـ Vänern
+tie on muuttumassa|سطح الطريق يتحول إلى
+keli huononee|حالة الطريق تزداد سوءاً
+vaikeuttaa liikennetta|تعيق حركة المرور
+kuuraiseksi|مغطاة بالصقيع
+marka|مبلل
+lumisateen takia|بسبب تساقط الثلوج
+pakkasliukkaus|انزلاق بسبب الصقيع
+voimakas puuskainen tuuli|رياح عاصفة قوية
+lumipyry|عاصفة ثلجية
+kelin nopea huononeminen|تدهور سريع لحالة الطريق
+rantasade jaiselle|مطر مثلج على سطح طريق جليدي
+jaiseksi vesisateesta johtuen|جليدية بسبب المطر
+alijaahtynyt sade|مطر فائق التبريد
+jaiseksi tai osittain jaiseksi|جليدية أو جليدية جزئياً
+runsas lumisade|تساقط ثلوج غزير
+tienpinta muuttuu|سطح الطريق يصبح
+ukkoskuurot todennakoisia|زخات رعدية محتملة
+ukkoskuurot paikoin mahdollisia|زخات رعدية محلية محتملة
+pohjoispohjanmeri:lle|لبحر الشمال الشمالي
+etelapohjanmeri:lle|لبحر الشمال الجنوبي
+biskaja:lle|لخليج بيسكاي
+uusimaa_ita-uusim:lle|لـ Uusimaa
+paakaupunkiseutu:lle|لمنطقة هلسنكي العاصمة
+kaakkois-suomi:lle|لجنوب شرق فنلندا
+ita-lappi:lle|للابلاند الشرقية
+pohjois-pohjanmaa-itaosa:lle|للجزء الشرقي من شمال أوستروبوثنيا
+pohjois-pohjanmaa-lansiosa:lle|للجزء الغربي من شمال أوستروبوثنيا
+merilappi:lle|لـ Merilappi
+pohjanmaa-etela-pohjanmaa:lle|لأوستروبوثنيا وجنوب أوستروبوثنيا
+marka tienpinta muuttuu|سطح الطريق المبلل يتحول إلى
+alle|تحت
+yksi millimetri|ملليمتر واحد
+lahella [1] astetta|حوالي [1] درجات
+[1] asteen tienoilla|حوالي [1] درجات
+kello [1]|[1]
+1-na kello [1]|يوم الاثنين [1]
+2-na kello [1]|يوم الثلاثاء[1]
+3-na kello [1]|يوم الأربعاء [1]
+4-na kello [1]|يوم الخميس [1]
+5-na kello [1]|يوم الجمعة [1]
+6-na kello [1]|يوم السبت [1]
+7-na kello [1]|يوم الأحد [1]
+[1] asteen tuntumassa|قريب من [1] درجات
+ita-suomi:lle|لشرق فنلندا
+itainen-uusimaa:lle|لـ Uusimaa الشرقية
+koleaa|بارد قارس
+lantinen-uusimaa:lle|لـ Uusimaa الغربية
+lounais-suomi:lle|لجنوب غرب فنلندا
+pohjois-suomi:lle|لشمال فنلندا
+pikkupakkasta|درجة الحرارة تحت الصفر قليلاً
+yksittaiset vesikuurot mahdollisia|زخات مطر متفرقة محتملة
+yksittaiset vesi- tai rantakuurot mahdollisia|زخات مطر أو مطر مثلج متفرقة محتملة
+yksittaiset vesi- tai lumikuurot mahdollisia|زخات مطر أو ثلج متفرقة محتملة
+yksittaiset sadekuurot mahdollisia|زخات أمطار متفرقة محتملة
+yksittaiset rantakuurot mahdollisia|زخات مطر مثلج متفرقة محتملة
+yksittaiset ranta- tai vesikuurot mahdollisia|زخات مطر مثلج أو مطر متفرقة محتملة
+yksittaiset lumikuurot mahdollisia|زخات ثلجية متفرقة محتملة
+yksittaiset lumi- tai rantakuurot mahdollisia|زخات ثلج أو مطر مثلج متفرقة محتملة
+vahan plussan puolella|درجة الحرارة فوق الصفر قليلاً
+voimakkaita vesikuuroja|زخات مطر شديدة
+voimakkaita sadekuuroja|زخات أمطار قوية
+vesikuuroja|زخات مطر
+vajaat|تقريباً
+verrattain pilvinen|غائم نسبياً
+vaihtelee puolipilvisesta pilviseen|يتراوح بين غائم جزئياً وغائم
+tuulinen|عاصف
+tuulista|عاصف
+tuuli saa saan tuntumaan viileammalta|الرياح تجعل الطقس يبدو أكثر برودة
+tuuli saa saan tuntumaan kylmemmalta|الرياح تجعل الطقس يبدو أشد برودة
+tuntumassa|قريب من
+tihkusadetta|رذاذ
+tienoilla|حوالي
+saa on helteista|الطقس حار جداً
+saa on edelleen lauhaa|الطقس لا يزال معتدلاً
+sumua|ضباب
+sisamaassa|في الداخل
+selkea|صافٍ
+sakeita|كثيف
+sakeaa|كثيف
+sadekuuroja|زخات أمطار
+sade alkaa|هطول الأمطار يبدأ
+saadaan|يُحصل على
+rantakuuroja|زخات مطر مثلج
+runsasta vesisadetta|مطر غزير
+runsaita|غزير
+puolipilvinen|غائم جزئياً
+poutainen|جميل
+poikkeuksellisen|بشكل استثنائي
+pohjoisesta|من الشمال
+pohjoisesta alkaen|بدءاً من الشمال
+pilvinen|غائم
+pieni ukkosen todennakoisyys|احتمال ضئيل للرعد
+pakkasta|صقيع
+pakkanen|الصقيع
+pakkanen on purevaa|الصقيع لاذع
+pakkanen on erittain purevaa|الصقيع لاذع جداً
+pakkanen hellittaa|البرد يبدأ بالانحسار
+paikkeilla|حوالي
+nollan tienoilla|حول الصفر
+melko selkea|صافٍ إلى حد ما
+mahdollisesti|ربما
+lannesta|من الغرب
+lannesta alkaen|بدءاً من الغرب
+lampotila nousee|درجة الحرارة ترتفع
+lahella|قرب
+luoteesta|من الشمال الغربي
+luoteesta alkaen|بدءاً من الشمال الغربي
+lounaasta|من الجنوب الغربي
+lounaasta alkaen|بدءاً من الجنوب الغربي
+leutoa|معتدل
+koillisesta|من الشمال الشرقي
+koillisesta alkaen|بدءاً من الشمال الشرقي
+kirea|شديد
+kirea pakkanen jatkuu|برد شديد مستمر
+kaakosta|من الجنوب الشرقي
+kaakosta alkaen|بدءاً من الجنوب الشرقي
+jaatavaa vesisadetta|مطر متجمد
+jotka voivat olla jaatavia|التي قد تكون متجمدة
+joka voi olla sakeaa|الذي قد يكون كثيفاً
+joka voi olla jaatavaa|الذي قد يكون متجمداً
+joka voi olla ankaraa|الذي قد يكون شديداً
+joka muuttuu vesisateeksi|الذي يتحول إلى مطر
+joka muuttuu tihkusateeksi|الذي يتحول إلى رذاذ
+joka muuttuu rantasateeksi|الذي يتحول إلى مطر مثلج
+joka muuttuu lumisateeksi|الذي يتحول إلى ثلج
+idasta|من الشرق
+idasta alkaen|بدءاً من الشرق
+huomattavasti|بشكل ملحوظ
+hieman lauhempaa|معتدل قليلاً
+hieman kylmempaa|أكثر برودة قليلاً
+hieman kireampaa|أشد قليلاً
+hieman heikompaa|أضعف قليلاً
+heikkoja|خفيفة
+heikkoja vesikuuroja|زخات مطر خفيفة
+heikkoja sadekuuroja|زخات أمطار خفيفة
+heikkoa vesisadetta|مطر خفيف
+harvinaisen|بشكل نادر
+hallan vaara|خطر صقيع
+hallaa|صقيع
+etelasta|من الجنوب
+etelasta alkaen|بدءاً من الجنوب
+asteen|درجات
+alueen pohjoisosassa|في الشمال
+alueen lansiosassa|في الغرب
+alueen luoteisosassa|في الشمال الغربي
+alueen lounaisosassa|في الجنوب الغربي
+alueen koillisosassa|في الشمال الشرقي
+alueen kaakkoisosassa|في الجنوب الشرقي
+alueen itaosassa|في الشرق
+alueen etelaosassa|في الجنوب
+alavilla mailla|في المناطق المنخفضة
+myohemmin|لاحقاً
+[1-na] saa on [poikkeuksellisen] [kylmaa]|الطقس [2] [3] [1]
+[1-na] [saa lampenee]|[2] [1]
+kirea pakkanen heikkenee|البرد الشديد يخف
+saa lampenee huomattavasti|الطقس يدفأ بشكل ملحوظ
+saa lampenee vahan|الطقس يدفأ قليلاً
+saa viilenee huomattavasti|الطقس يبرد بشكل ملحوظ
+saa viilenee vahan|الطقس يبرد قليلاً
+[iltapaivalla] saa poutaantuu ja vaihtelee puolipilvisesta pilviseen|الطقس يتحسن ويتراوح بين غائم جزئياً وغائم [1]
+empty_string|
+[rannikolla] [paikoin] hallaa, joka voi olla ankaraa|صقيع شديد محتمل [2] [1]
+[rannikolla] mahdollisesti hallaa|صقيع محتمل [1]
+[sisamaassa] hallan vaara|خطر صقيع [1]
+[rannikolla] [paikoin] hallaa|صقيع [2] [1]
+aamusta|من الصباح
+[huomenna] [sisamaassa] [paikoin] sumua, joka voi olla sakeaa|[1] ضباب كثيف محتمل [3] [2]
+[huomenna] [sisamaassa] [paikoin] sumua|[1] ضباب [3] [2]
+keskiyolla ja aamuyolla|عند منتصف الليل وبعده
+iltayolla ja keskiyolla|قبل منتصف الليل وعنده
+aamuyolla ja aamulla|بعد منتصف الليل وصباحاً
+illalla ja iltayolla|مساءً وقبل منتصف الليل
+iltapaivalla ja illalla|بعد الظهر ومساءً
+aamulla ja aamupaivalla|صباحاً وقبل الظهر
+7-iltapaivalla ja illalla|يوم الأحد بعد الظهر ومساءً
+6-iltapaivalla ja illalla|يوم السبت بعد الظهر ومساءً
+5-iltapaivalla ja illalla|يوم الجمعة بعد الظهر ومساءً
+4-iltapaivalla ja illalla|يوم الخميس بعد الظهر ومساءً
+3-iltapaivalla ja illalla|يوم الأربعاء بعد الظهر ومساءً
+2-iltapaivalla ja illalla|يوم الثلاثاء بعد الظهر ومساءً
+1-iltapaivalla ja illalla|يوم الاثنين بعد الظهر ومساءً
+7-aamulla ja aamupaivalla|يوم الأحد صباحاً وقبل الظهر
+6-aamulla ja aamupaivalla|يوم السبت صباحاً وقبل الظهر
+5-aamulla ja aamupaivalla|يوم الجمعة صباحاً وقبل الظهر
+4-aamulla ja aamupaivalla|يوم الخميس صباحاً وقبل الظهر
+3-aamulla ja aamupaivalla|يوم الأربعاء صباحاً وقبل الظهر
+2-aamulla ja aamupaivalla|يوم الثلاثاء صباحاً وقبل الظهر
+1-aamulla ja aamupaivalla|يوم الاثنين صباحاً وقبل الظهر
+7-illalla ja iltayolla|يوم الأحد مساءً وقبل منتصف الليل
+6-illalla ja iltayolla|يوم السبت مساءً وقبل منتصف الليل
+5-illalla ja iltayolla|يوم الجمعة مساءً وقبل منتصف الليل
+4-illalla ja iltayolla|يوم الخميس مساءً وقبل منتصف الليل
+3-illalla ja iltayolla|يوم الأربعاء مساءً وقبل منتصف الليل
+2-illalla ja iltayolla|يوم الثلاثاء مساءً وقبل منتصف الليل
+1-illalla ja iltayolla|يوم الاثنين مساءً وقبل منتصف الليل
+aamupaivasta|من قبل الظهر
+7-iltayolla|يوم الأحد قبل منتصف الليل
+6-iltayolla|يوم السبت قبل منتصف الليل
+5-iltayolla|يوم الجمعة قبل منتصف الليل
+4-iltayolla|يوم الخميس قبل منتصف الليل
+3-iltayolla|يوم الأربعاء قبل منتصف الليل
+2-iltayolla|يوم الثلاثاء قبل منتصف الليل
+1-iltayolla|يوم الاثنين قبل منتصف الليل
+[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen|[1] الطقس غائم جزئياً أو غائم [2]
+[huomenna] [sisamaassa] saa on [selkea]|[1] الطقس [3] [2]
+hyvin tuulinen|عاصف جداً
+hyvin tuulista|عاصف جداً
+[iltapaivalla] [rannikolla] pakkanen on purevaa|الصقيع لاذع [2] [1]
+7-aamuyolla|يوم الأحد في الساعات الأولى
+6-aamuyolla|يوم السبت في الساعات الأولى
+5-aamuyolla|يوم الجمعة في الساعات الأولى
+4-aamuyolla|يوم الخميس في الساعات الأولى
+3-aamuyolla|يوم الأربعاء في الساعات الأولى
+2-aamuyolla|يوم الثلاثاء في الساعات الأولى
+2-aamuyolla ja aamulla|يوم الثلاثاء في الساعات الأولى وصباحاً
+3-aamuyolla ja aamulla|يوم الأربعاء في الساعات الأولى وصباحاً
+5-aamuyolla ja aamulla|يوم الجمعة في الساعات الأولى وصباحاً
+6-aamuyolla ja aamulla|يوم السبت في الساعات الأولى وصباحاً
+7-aamuyolla ja aamulla|يوم الأحد في الساعات الأولى وصباحاً
+1-aamuyolla ja aamulla|يوم الاثنين في الساعات الأولى وصباحاً
+saa on tuulinen|الطقس عاصف
+[iltapaivalla] [rannikolla] on [tuulista]|[1] الجو [3] [2]
+rannikolla lahella [N] [astetta]|قرب [1] [2] على الساحل
+[huomenna] [sisamaassa] [lampotila] on vahan yli [N] [astetta]|[1] [3] أعلى قليلاً من [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on vajaat [N] [astetta]|[1] [3] تقريباً [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on lahella [N] [astetta]|[1] [3] قرب [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] asteen tuntumassa|[1] [3] قريب من [4] درجات [2]
+[huomenna] [sisamaassa] [lampotila] on [N] asteen tienoilla|[1] [3] حوالي [4] درجات [2]
+[huomenna] [sisamaassa] [lampotila] on noin [N] [astetta]|[1] [3] حوالي [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on [M...N] [astetta]|[1] [3] [4] [5] [2]
+[yolla] on [hieman kylmempaa]|الجو [2] [1]
+[huomenna] [sisamaassa] [lampotila] on [suunnilleen sama]|[1] [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on [M...N] [astetta]|[1] درجة الحرارة [3] [4] [2]
+[yolla] lampotila nousee|درجة الحرارة ترتفع [1]
+[huomenna] [sisamaassa] pakkanen on [hieman kireampaa]|[1] البرد [3] [2]
+[huomenna] [rannikolla] on pikkupakkasta|[1] [2] درجة الحرارة تحت الصفر قليلاً
+rannikolla noin [N] [astetta]|حوالي [1] [2] على الساحل
+rannikolla vajaat [N] [astetta]|تقريباً [1] [2] على الساحل
+rannikolla vahan yli [N] [astetta]|أعلى قليلاً من [1] [2] على الساحل
+rannikolla [M...N] [astetta]|[1] [2] على الساحل
+rannikolla [N] asteen tienoilla|حوالي [1] درجات على الساحل
+rannikolla [N] asteen tuntumassa|قريب من [1] درجات على الساحل
+rannikolla [suunnilleen sama]|[1] على الساحل
+[huomenna] [sisamaassa] [M...N] [astetta]|[1] [3] [4] [2]
+[huomenna] [sisamaassa] noin [N] [astetta]|[1] حوالي [3] [4] [2]
+[huomenna] [sisamaassa] [N] asteen tienoilla|[1] حوالي [3] درجات [2]
+[huomenna] [sisamaassa] [N] asteen tuntumassa|[1] قريب من [3] درجات [2]
+[huomenna] [sisamaassa] lahella [N] [astetta]|[1] قرب [3] [4] [2]
+[huomenna] [sisamaassa] vajaat [N] [astetta]|[1] تقريباً [3] [4] [2]
+[huomenna] [sisamaassa] vahan yli [N] [astetta]|[1] أعلى قليلاً من [3] [4] [2]
+[huomenna] [sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|الطقس جميل في الغالب [2] [1]، [3]
+[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta]|[1] [4] [5] [3] [2]
+[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4] [5]، قد يكون متجمداً
+[huomenna] [sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4] [5]، قد تكون متجمدة
+saa on poutainen|الطقس جميل
+6-keskiyolla|يوم السبت عند منتصف الليل
+5-keskiyolla|يوم الجمعة عند منتصف الليل
+4-keskiyolla|يوم الخميس عند منتصف الليل
+3-keskiyolla|يوم الأربعاء عند منتصف الليل
+2-keskiyolla|يوم الثلاثاء عند منتصف الليل
+1-keskiyolla|يوم الاثنين عند منتصف الليل
+[sisamaassa] alavilla mailla hallan vaara|خطر صقيع في المناطق المنخفضة [1]
+7-keskiyolla|يوم الأحد عند منتصف الليل
+[huomenna] [sisamaassa] [suunnilleen sama]|[1] [3] [2]
+7-iltapaivasta alkaen|من بعد ظهر الأحد
+6-iltapaivasta alkaen|من بعد ظهر السبت
+5-iltapaivasta alkaen|من بعد ظهر الجمعة
+4-iltapaivasta alkaen|من بعد ظهر الخميس
+3-iltapaivasta alkaen|من بعد ظهر الأربعاء
+2-iltapaivasta alkaen|من بعد ظهر الثلاثاء
+1-iltapaivasta alkaen|من بعد ظهر الاثنين
+7-iltayosta alkaen|من وقت متأخر من ليلة الأحد
+6-iltayosta alkaen|من وقت متأخر من ليلة السبت
+5-iltayosta alkaen|من وقت متأخر من ليلة الجمعة
+4-iltayosta alkaen|من وقت متأخر من ليلة الخميس
+3-iltayosta alkaen|من وقت متأخر من ليلة الأربعاء
+2-iltayosta alkaen|من وقت متأخر من ليلة الثلاثاء
+1-iltayosta alkaen|من وقت متأخر من ليلة الاثنين
+7-aamuyosta alkaen|من الساعات الأولى لصباح الأحد
+6-aamuyosta alkaen|من الساعات الأولى لصباح السبت
+5-aamuyosta alkaen|من الساعات الأولى لصباح الجمعة
+4-aamuyosta alkaen|من الساعات الأولى لصباح الخميس
+3-aamuyosta alkaen|من الساعات الأولى لصباح الأربعاء
+2-aamuyosta alkaen|من الساعات الأولى لصباح الثلاثاء
+1-aamuyosta alkaen|من الساعات الأولى لصباح الاثنين
+7-keskiyosta alkaen|من منتصف ليلة الأحد
+6-keskiyosta alkaen|من منتصف ليلة السبت
+5-keskiyosta alkaen|من منتصف ليلة الجمعة
+4-keskiyosta alkaen|من منتصف ليلة الخميس
+3-keskiyosta alkaen|من منتصف ليلة الأربعاء
+2-keskiyosta alkaen|من منتصف ليلة الثلاثاء
+1-keskiyosta alkaen|من منتصف ليلة الاثنين
+1 hehtopascal|هكتوباسكال واحد
+0 hehtopascalia|صفر هكتوباسكال
+1 prosentti|واحد بالمئة
+0 prosenttia|صفر بالمئة
+1 millimetri|ملليمتر واحد
+0 millimetria|صفر ملليمتر
+1 metri sekunnissa|متر واحد في الثانية
+0 metria sekunnissa|صفر متر في الثانية
+1 aste|درجة واحدة
+0 astetta|صفر درجات
+ranta- tai lumisadetta|مطر مثلج أو ثلج
+lumi- tai rantasadetta|ثلج أو مطر مثلج
+lumi- tai vesisadetta|ثلج أو مطر
+vesi- tai lumisadetta|مطر أو ثلج
+ranta- tai vesisadetta|مطر مثلج أو مطر
+vesi- tai rantasadetta|مطر أو مطر مثلج
+ranta- tai vesikuuroja|زخات مطر مثلج أو مطر
+vesi- tai rantakuuroja|زخات مطر أو مطر مثلج
+vesi- tai lumikuuroja|زخات مطر أو ثلج
+lumi- tai vesikuuroja|زخات ثلج أو مطر
+[huomenna] [sisamaassa] pakkanen on [N] asteen tuntumassa|[1] درجة الحرارة قريبة من [3] درجات [2]
+[huomenna] [sisamaassa] saa on poutainen|الطقس جميل [2] [1]
+[huomenna] [sisamaassa] pakkanen on [N] asteen tienoilla|درجة الحرارة حوالي [3] درجات [2] [1]
+[huomenna] [sisamaassa] pakkanen on lahella [N] [astetta]|[1] درجة الحرارة قرب [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on vahan yli [N] [astetta]|[1] درجة الحرارة أعلى قليلاً من [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on vajaat [N] [astetta]|[1] درجة الحرارة تقريباً [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on noin [N] [astetta]|[1] درجة الحرارة حوالي [3] [4] [2]
+[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|[1] الطقس غائم جزئياً أو غائم وجميل [2]
+[huomenna] [sisamaassa] saa on [selkea] ja poutainen|[1] الطقس [3] وجميل [2]
+[iltapaivalla] saa poutaantuu|الطقس يتحسن [1]
+todennakoisesti myos ukkostaa|رعد أيضاً محتمل
+mahdollisesti myos ukkostaa|رعد أيضاً محتمل
+paikoin myos ukkostaa|في بعض المناطق يحدث رعد أيضاً
+paikoin voi myos ukkostaa|في بعض المناطق قد يحدث رعد أيضاً
+myos ukkosta esiintyy|يحدث رعد أيضاً
+[iltapaivasta alkaen] [pilvistyvaa]|[2] [1]
+[iltapaivalla] saa poutaantuu ja on [selkea]|الطقس يتحسن ويصبح [2] [1]
+[lampotila] on [suunnilleen sama]|[1] [2]
+[lampotila] on [M...N] [astetta]|[1] [2] [3]
+[lampotila] on noin [N] [astetta]|[1] حوالي [2] [3]
+[lampotila] on [N] asteen tienoilla|[1] حوالي [2] درجات
+[lampotila] on [N] asteen tuntumassa|[1] قريب من [2] درجات
+[lampotila] on lahella [N] [astetta]|[1] قرب [2] [3]
+[lampotila] on vajaat [N] [astetta]|[1] تقريباً [2] [3]
+[lampotila] on vahan yli [N] [astetta]|[1] أعلى قليلاً من [2] [3]
+saa on [poikkeuksellisen] [kylmaa]|الطقس [1] [2]
+[sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|الطقس جميل في الغالب [1]، [2]
+[sisamaassa] saa on poutainen|الطقس جميل [1]
+[sisamaassa] [paikoin] [heikkoa] [sadetta]|[3] [4] [2] [1]
+[sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4]، قد يكون متجمداً
+[sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4]، قد تكون متجمدة
+[paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3]، قد تكون متجمدة
+[paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3]، قد يكون متجمداً
+[paikoin] [heikkoa] [sadetta]|[1] [2] [3]
+[paikoin] sumua|ضباب [1]
+[sisamaassa] [paikoin] sumua|ضباب [2] [1]
+[huomenna] sumua|[1] ضباب
+[sisamaassa] sumua|ضباب [1]
+[huomenna] [paikoin] sumua|[1] [2] ضباب
+[huomenna] [sisamaassa] sumua|[1] [2] ضباب
+[huomenna] [sisamaassa] sumua, joka voi olla sakeaa|[1] ضباب كثيف محتمل [2]
+[paikoin] sumua, joka voi olla sakeaa|[1] ضباب كثيف محتمل
+[sisamaassa] sumua, joka voi olla sakeaa|ضباب كثيف محتمل [1]
+[sisamaassa] [paikoin] sumua, joka voi olla sakeaa|ضباب كثيف محتمل [2] [1]
+[huomenna] [paikoin] sumua, joka voi olla sakeaa|[1] ضباب كثيف محتمل [2]
+[huomenna] sumua, joka voi olla sakeaa|[1] ضباب كثيف محتمل
+[huomenna] [paikoin] [heikkoa] [sadetta]|[1] [3] [4] [2]
+[paikoin] [sadetta]|[2] [1]
+[huomenna] [sisamaassa] [heikkoa] [sadetta]|[1] [3] [4] [2]
+[sisamaassa] [heikkoa] [sadetta]|[2] [3] [1]
+[huomenna] [heikkoa] [sadetta]|[1] [2] [3]
+[sisamaassa] [sadetta]|[2] [1]
+[sisamaassa] [paikoin] [sadetta]|[3] [2] [1]
+[huomenna] [sadetta]|[1] [2]
+[huomenna] [paikoin] [sadetta]|[1] [3] [2]
+[huomenna] [sisamaassa] [sadetta]|[1] [3] [2]
+[huomenna] [sisamaassa] [paikoin] [sadetta]|[1] [4] [3] [2]
+[huomenna] saa on poutainen|الطقس جميل [1]
+[huomenna] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|الطقس جميل في الغالب [1]، [2]
+[sisamaassa] saa vaihtelee puolipilvisesta pilviseen|الطقس غائم جزئياً أو غائم [1]
+[huomenna] saa vaihtelee puolipilvisesta pilviseen|[1] الطقس غائم جزئياً أو غائم
+[sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|الطقس غائم جزئياً أو غائم وجميل [1]
+[huomenna] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|[1] الطقس غائم جزئياً أو غائم وجميل
+[sisamaassa] saa on [selkea]|الطقس [2] [1]
+[huomenna] saa on [selkea]|[1] الطقس [2]
+[sisamaassa] saa on [selkea] ja poutainen|الطقس [2] وجميل [1]
+[huomenna] saa on [selkea] ja poutainen|[1] الطقس [2] وجميل
+[huomenna] [sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4]، قد يكون متجمداً
+[huomenna] [sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4]، قد تكون متجمدة
+[huomenna] [sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4]، قد تكون متجمدة
+[huomenna] [sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4]، قد يكون متجمداً
+[huomenna] [sisamaassa] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3]، قد تكون متجمدة
+[huomenna] [sisamaassa] [sadetta], joka voi olla jaatavaa|[1] [2] [3]، قد يكون متجمداً
+[heikkoa] [sadetta]|[1] [2]
+[sadetta], joka voi olla jaatavaa|[1]، قد يكون متجمداً
+[heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2]، قد يكون متجمداً
+[paikoin] [sadetta], joka voi olla jaatavaa|[1] [2]، قد يكون متجمداً
+[sisamaassa] [sadetta], joka voi olla jaatavaa|[1] [2]، قد يكون متجمداً
+[sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3]، قد يكون متجمداً
+[sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3]، قد يكون متجمداً
+[huomenna] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4]، قد يكون متجمداً
+[huomenna] [sadetta], joka voi olla jaatavaa|[1] [2]، قد يكون متجمداً
+[huomenna] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3]، قد يكون متجمداً
+[huomenna] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3]، قد يكون متجمداً
+[sadekuuroja], jotka voivat olla jaatavia|[1]، قد تكون متجمدة
+[heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2]، قد تكون متجمدة
+[paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2]، قد تكون متجمدة
+[sisamaassa] [sadekuuroja], jotka voivat olla jaatavia|[1] [2]، قد تكون متجمدة
+[sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3]، قد تكون متجمدة
+[sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3]، قد تكون متجمدة
+[huomenna] [sadekuuroja], jotka voivat olla jaatavia|[1] [2]، قد تكون متجمدة
+[huomenna] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3]، قد تكون متجمدة
+[huomenna] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3]، قد تكون متجمدة
+[huomenna] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4]، قد تكون متجمدة
+[iltapaivalla] [rannikolla] pakkanen on erittain purevaa|الصقيع لاذع جداً [2] [1]
+[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan kylmemmalta|الرياح تجعل الطقس يبدو أشد برودة [2] [1]
+[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta|الرياح تجعل الطقس يبدو أكثر برودة [2] [1]
+saa on hyvin tuulinen|الطقس عاصف جداً
+saa on [iltapaivalla] [rannikolla] [tuulinen]|الجو [3] [2] [1]
+[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1] [2] [1]
+pakkasta on vahan yli [N] [astetta]|درجة الحرارة أعلى قليلاً من [1] [2] تحت الصفر
+pakkasta on vajaat [N] [astetta]|درجة الحرارة تقريباً [1] [2] تحت الصفر
+pakkanen on lahella [N] [astetta]|درجة الحرارة قرب [1] [2]
+pakkanen on [N] asteen tienoilla|درجة الحرارة حوالي [1] درجات
+pakkanen on [N] asteen tuntumassa|درجة الحرارة قريبة من [1] درجات
+pakkasta on noin [N] [astetta]|درجة الحرارة حوالي [1] [2] تحت الصفر
+pakkasta on [M...N] [astetta]|درجة الحرارة [1] 2]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen|الطقس يتحسن [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on selkea|الطقس يتحسن ويصبح صافياً [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on selkea|الطقس يتحسن ويصبح صافياً [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on selkea|الطقس يتحسن ويصبح صافياً [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on selkea|الطقس يتحسن ويصبح صافياً [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja vaihtelee puolipilvisesta pilviseen|الطقس يتحسن ويتراوح بين غائم جزئياً وغائم [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja vaihtelee puolipilvisesta pilviseen|الطقس يتحسن ويتراوح بين غائم جزئياً وغائم [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja vaihtelee puolipilvisesta pilviseen|الطقس يتحسن ويتراوح بين غائم جزئياً وغائم [1]
+6-keskiyohon asti|حتى منتصف ليلة السبت
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja vaihtelee puolipilvisesta pilviseen|الطقس يتحسن ويتراوح بين غائم جزئياً وغائم [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen|الطقس يتحسن [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen|الطقس يتحسن [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen|الطقس يتحسن [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on pilvinen|الطقس يتحسن ويصبح غائماً [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on pilvinen|الطقس يتحسن ويصبح غائماً [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on pilvinen|الطقس يتحسن ويصبح غائماً [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on pilvinen|الطقس يتحسن ويصبح غائماً [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on verrattain pilvinen|الطقس يتحسن ويصبح غائماً نسبياً [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on verrattain pilvinen|الطقس يتحسن ويصبح غائماً نسبياً [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on verrattain pilvinen|الطقس يتحسن ويصبح غائماً نسبياً [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on verrattain pilvinen|الطقس يتحسن ويصبح غائماً نسبياً [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on puolipilvinen|الطقس يتحسن ويصبح غائماً جزئياً [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on puolipilvinen|الطقس يتحسن ويصبح غائماً جزئياً [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on puolipilvinen|الطقس يتحسن ويصبح غائماً جزئياً [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on puolipilvinen|الطقس يتحسن ويصبح غائماً جزئياً [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on melko selkea|الطقس يتحسن ويصبح صافياً إلى حد ما [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on melko selkea|الطقس يتحسن ويصبح صافياً إلى حد ما [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on melko selkea|الطقس يتحسن ويصبح صافياً إلى حد ما [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on melko selkea|الطقس يتحسن ويصبح صافياً إلى حد ما [1]
+[rannikolla] on [tuulista]|الجو [2] [1]
+[iltapaivalla] on [tuulista]|الجو [2] [1]
+[rannikolla] tuuli saa saan tuntumaan kylmemmalta|الرياح تجعل الطقس يبدو أشد برودة [1]
+[iltapaivalla] tuuli saa saan tuntumaan kylmemmalta|الرياح تجعل الطقس يبدو أشد برودة [1]
+[rannikolla] tuuli saa saan tuntumaan viileammalta|الرياح تجعل الطقس يبدو أكثر برودة [1]
+[iltapaivalla] tuuli saa saan tuntumaan viileammalta|الرياح تجعل الطقس يبدو أكثر برودة [1]
+[rannikolla] pakkanen on erittain purevaa|الصقيع لاذع جداً [1]
+[iltapaivalla] pakkanen on erittain purevaa|الصقيع لاذع جداً [1]
+[rannikolla] pakkanen on purevaa|الصقيع لاذع [1]
+[iltapaivalla] pakkanen on purevaa|الصقيع لاذع [1]
+saa on ajankohtaan nahden tavanomaista lampimampaa|الطقس أكثر دفئاً من المعتاد لهذا الوقت
+[huomenna] pakkasta on [M...N] [astetta]|[1] درجة الحرارة [2] [3] تحت الصفر
+[huomenna] pakkasta on noin [N] [astetta]|[1] درجة الحرارة حوالي [2] [3] تحت الصفر
+[huomenna] pakkanen on [hieman kireampaa]|[1] البرد [2]
+[huomenna] pakkasta on vahan yli [N] [astetta]|[1] درجة الحرارة أعلى قليلاً من [2] [3] تحت الصفر
+[huomenna] pakkasta on vajaat [N] [astetta]|[1] درجة الحرارة تقريباً [2] [3] تحت الصفر
+[huomenna] pakkanen on lahella [N] [astetta]|[1] درجة الحرارة قرب [2] [3]
+[huomenna] pakkanen on [N] asteen tuntumassa|[1] درجة الحرارة قريبة من [2] درجات
+[huomenna] pakkanen on [N] asteen tienoilla|[1] درجة الحرارة حوالي [2] درجات
+[sisamaassa] pakkasta on [M...N] [astetta]|درجة الحرارة [2] [3] [1] تحت الصفر
+[sisamaassa] pakkasta on noin [N] [astetta]|درجة الحرارة حوالي [2] [3] [1] تحت الصفر
+[sisamaassa] pakkanen on [hieman kireampaa]|البرد [2] [1]
+[sisamaassa] pakkasta on vahan yli [N] [astetta]|درجة الحرارة أعلى قليلاً من [2] [3] [1] تحت الصفر
+[sisamaassa] pakkanen on lahella [N] [astetta]|درجة الحرارة قرب [2] [3] [1]
+[sisamaassa] pakkasta on vajaat [N] [astetta]|درجة الحرارة تقريباً [2] [3] [1] تحت الصفر
+[sisamaassa] pakkanen on [N] asteen tuntumassa|درجة الحرارة قريبة من [2] درجات [1]
+[sisamaassa] pakkanen on [N] asteen tienoilla|درجة الحرارة حوالي [2] درجات [1]
+[sisamaassa] [lampotila] on [suunnilleen sama]|[2] [3] [1]
+[sisamaassa] [lampotila] on [M...N] [astetta]|[2] [3] [4] [1]
+[sisamaassa] [lampotila] on noin [N] [astetta]|[2] حوالي [3] [4] [1]
+[sisamaassa] [lampotila] on [N] asteen tienoilla|[2] حوالي [3] درجات [1]
+[sisamaassa] [lampotila] on [N] asteen tuntumassa|[2] قريب من [3] درجات [1]
+[sisamaassa] [lampotila] on lahella [N] [astetta]|[2] قرب [3] [1]
+[sisamaassa] [lampotila] on vajaat [N] [astetta]|[2] تقريباً [3] [4] [1]
+[sisamaassa] [lampotila] on vahan yli [N] [astetta]|[2] أعلى قليلاً من [3] [4] [1]
+[huomenna] [lampotila] on [suunnilleen sama]|[1] [2] [3]
+[huomenna] [lampotila] on [M...N] [astetta]|[1] [2] [3] [4]
+[huomenna] [lampotila] on noin [N] [astetta]|[1] [2] حوالي [3] [4]
+[huomenna] [lampotila] on [N] asteen tienoilla|[1] [2] حوالي [3] درجات
+[huomenna] [lampotila] on [N] asteen tuntumassa|[1] [2] قريب من [3] درجات
+[huomenna] [lampotila] on lahella [N] [astetta]|[1] [2] قرب [3]
+[huomenna] [lampotila] on vajaat [N] [astetta]|[1] [2] تقريباً [3] [4]
+2-keskiyohon asti|حتى منتصف ليلة الثلاثاء
+[huomenna] [lampotila] on vahan yli [N] [astetta]|[1] [2] أعلى قليلاً من [3] [4]
+[rannikolla] on pikkupakkasta|درجة الحرارة تحت الصفر قليلاً [1]
+[huomenna] on pikkupakkasta|[1] درجة الحرارة تحت الصفر قليلاً
+[sisamaassa] [M...N] [astetta]|[2] [3] [1]
+[huomenna] [M...N] [astetta]|[1] [2] [3]
+[sisamaassa] [suunnilleen sama]|[2] [1]
+[huomenna] [suunnilleen sama]|[1] [2]
+[sisamaassa] noin [N] [astetta]|حوالي [2] [3] [1]
+[huomenna] noin [N] [astetta]|[1] حوالي [2] [3]
+[sisamaassa] [N] asteen tienoilla|حوالي [2] درجات [1]
+[huomenna] [N] asteen tienoilla|[1] قريب من [2] درجات
+[sisamaassa] [N] asteen tuntumassa|قريب من [2] درجات [1]
+[huomenna] [N] asteen tuntumassa|[1] قريب من [2] درجات
+[sisamaassa] lahella [N] [astetta]|قرب [2] [3] [1]
+[huomenna] lahella [N] [astetta]|[1] قرب [2] [3]
+[sisamaassa] vahan yli [N] [astetta]|أعلى قليلاً من [2] [3] [1]
+[huomenna] vahan yli [N] [astetta]|[1] أعلى قليلاً من [2] [3]
+[sisamaassa] vajaat [N] [astetta]|تقريباً [2] [3] [1]
+[huomenna] vajaat [N] [astetta]|[1] تقريباً [2] [3]
+[1-na] saa on ajankohtaan nahden tavanomaista lampimampaa|[1] الطقس أكثر دفئاً من المعتاد لهذا الوقت
+asteen(tienoilla)|درجات
+asteen(tuntumassa)|درجات
+[N] [asteen] tienoilla|حوالي [1] [2]
+[N] [asteen] tuntumassa|قريب من [1] [2]
+[sisamaassa] [N] [asteen] tuntumassa|قريب من [2] [3] [1]
+[sisamaassa] [lampotila] on [N] [asteen] tuntumassa|[2] قريب من [3] [4] [1]
+[sisamaassa] pakkanen on [N] [asteen] tuntumassa|درجة الحرارة قريبة من [2] [3] [1]
+[lampotila] on [N] [asteen] tuntumassa|[1] قريب من [2] [3]
+[huomenna] [sisamaassa] [N] [asteen] tuntumassa|[1] قريب من [3] [4] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tuntumassa|[1] [3] قريب من [4] [5] [2]
+[huomenna] [sisamaassa] pakkanen on [N] [asteen] tuntumassa|[1] درجة الحرارة قريبة من [3] [4] [2]
+[huomenna] [N] [asteen] tuntumassa|[1] قريب من [2] [3]
+[huomenna] [lampotila] on [N] [asteen] tuntumassa|[1] [2] قريب من [3] [4]
+[huomenna] pakkanen on [N] [asteen] tuntumassa|[1] درجة الحرارة قريبة من [2] [3]
+rannikolla [N] [asteen] tuntumassa|قريب من [1] [2] على الساحل
+pakkanen on [N] [asteen] tuntumassa|درجة الحرارة قريبة من [1] [2]
+[sisamaassa] [N] [asteen] tienoilla|حوالي [2] [3] [1]
+[sisamaassa] [lampotila] on [N] [asteen] tienoilla|[2] حوالي [3] [4] [1]
+[sisamaassa] pakkanen on [N] [asteen] tienoilla|درجة الحرارة حوالي [2] [3] [1]
+[lampotila] on [N] [asteen] tienoilla|[1] حوالي [2] [3]
+[huomenna] [sisamaassa] [N] [asteen] tienoilla|[1] حوالي [3] [4] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tienoilla|[1] [3] حوالي [4] [5] [2]
+[huomenna] [sisamaassa] pakkanen on [N] [asteen] tienoilla|درجة الحرارة حوالي [3] [4] [2] [1]
+[huomenna] [N] [asteen] tienoilla|[1] قريب من [2] [3]
+[huomenna] [lampotila] on [N] [asteen] tienoilla|[1] [2] حوالي [3] [4]
+[huomenna] pakkanen on [N] [asteen] tienoilla|[1] درجة الحرارة حوالي [2] [3]
+rannikolla [N] [asteen] tienoilla|حوالي [1] [2] على الساحل
+pakkanen on [N] [asteen] tienoilla|درجة الحرارة حوالي [1] [2]
+saa vaihtelee puolipilvisesta pilviseen ja on poutainen|الطقس غائم جزئياً أو غائم وجميل
+saa on [selkea] ja poutainen|الطقس [1] وجميل
+[alueella] saa on ajankohtaan nahden tavanomaista lampimampaa|الطقس أكثر دفئاً من المعتاد لهذا الوقت [1]
+[1-na] [alueella] saa on ajankohtaan nahden tavanomaista lampimampaa|[1] الطقس أكثر دفئاً من المعتاد لهذا الوقت [2]
+[alueella] [saa lampenee]|[2] [1]
+[1-na] [alueella] [saa lampenee]|[3] [1] [2]
+[alueella] saa on [poikkeuksellisen] [kylmaa]|الطقس [2] [3] [1]
+[1-na] [alueella] saa on [poikkeuksellisen] [kylmaa]|الطقس [3] [4] [2] [1]
+yon alin|الحد الأدنى الليلي
+[1-na] [alueella] saa lauhtuu|[1] الطقس يصبح أكثر اعتدالاً [2]
+[alueella] saa lauhtuu|الطقس يصبح أكثر اعتدالاً [1]
+[1-na] saa lauhtuu|[1] الطقس يصبح أكثر اعتدالاً
+[1-na] [alueella] saa on edelleen lauhaa|[1] الطقس لا يزال معتدلاً [2]
+[alueella] saa on edelleen lauhaa|الطقس لا يزال معتدلاً [1]
+[1-na] saa on edelleen lauhaa|[1] الطقس لا يزال معتدلاً
+[alueella] pakkanen kiristyy|الصقيع يشتد [1]
+[1-na] pakkanen kiristyy|[1] الصقيع يشتد
+[1-na] [alueella] pakkanen kiristyy|[1] الصقيع يشتد [2]
+[alueella] kirea pakkanen jatkuu|برد شديد مستمر [1]
+[1-na] kirea pakkanen jatkuu|[1] برد شديد مستمر
+[1-na] [alueella] kirea pakkanen jatkuu|[1] برد شديد مستمر [2]
+[alueella] pakkanen hellittaa|البرد يبدأ بالانحسار [1]
+[1-na] pakkanen hellittaa|[1] البرد يبدأ بالانحسار
+[1-na] [alueella] pakkanen hellittaa|[1] البرد يبدأ بالانحسار [2]
+[alueella] kirea pakkanen heikkenee|البرد الشديد يخف [1]
+[1-na] kirea pakkanen heikkenee|[1] البرد الشديد يخف
+[1-na] [alueella] kirea pakkanen heikkenee|[1] البرد الشديد يخف [2]
+[alueella] pakkanen heikkenee|الصقيع يخف [1]
+[1-na] pakkanen heikkenee|[1] الصقيع يخف
+[1-na] [alueella] pakkanen heikkenee|[1] الصقيع يخف [2]
+[alueella] saa on helteista|الطقس حار جداً [1]
+[1-na] saa on helteista|[1] الطقس حار جداً
+[1-na] [alueella] saa on helteista|[1] الطقس حار جداً [2]
+[alueella] saa muuttuu helteiseksi|الطقس يصبح حاراً جداً [1]
+[1-na] saa muuttuu helteiseksi|[1] الطقس يصبح حاراً جداً
+[1-na] [alueella] saa muuttuu helteiseksi|[1] الطقس يصبح حاراً جداً [2]
+[alueella] helteinen saa jatkuu|الطقس الحار يستمر [1]
+[1-na] helteinen saa jatkuu|[1] الطقس الحار يستمر
+[1-na] [alueella] helteinen saa jatkuu|[1] الطقس الحار يستمر [2]
+[alueella] saa viilenee huomattavasti|الطقس يبرد بشكل ملحوظ [1]
+[1-na] saa viilenee huomattavasti|[1] الطقس يبرد بشكل ملحوظ
+[1-na] [alueella] saa viilenee huomattavasti|[1] الطقس يبرد بشكل ملحوظ [2]
+[alueella] saa viilenee vahan|الطقس يبرد قليلاً [1]
+[1-na] saa viilenee vahan|[1] الطقس يبرد قليلاً
+[1-na] [alueella] saa viilenee vahan|[1] الطقس يبرد قليلاً [2]
+[alueella] saa viilenee|الطقس يبرد [1]
+[1-na] saa viilenee|[1] الطقس يبرد
+[1-na] [alueella] saa viilenee|[1] الطقس يبرد [2]
+[alueella] viilea saa jatkuu|الطقس المعتدل يستمر [1]
+[1-na] viilea saa jatkuu|[1] الطقس المعتدل يستمر
+[1-na] [alueella] viilea saa jatkuu|[1] الطقس المعتدل يستمر [2]
+[alueella] kolea saa jatkuu|الطقس القارس يستمر [1]
+[1-na] kolea saa jatkuu|[1] الطقس القارس يستمر
+[1-na] [alueella] kolea saa jatkuu|[1] الطقس القارس يستمر [2]
+[alueella] saa lampenee huomattavasti|الطقس يدفأ بشكل ملحوظ [1]
+[1-na] saa lampenee huomattavasti|[1] الطقس يدفأ بشكل ملحوظ
+[1-na] [alueella] saa lampenee huomattavasti|[1] الطقس يدفأ بشكل ملحوظ [2]
+[alueella] saa lampenee vahan|الطقس يدفأ قليلاً [1]
+[1-na] saa lampenee vahan|[1] الطقس يدفأ قليلاً
+[1-na] [alueella] saa lampenee vahan|[1] الطقس يدفأ قليلاً [2]
+[alueella] saa lampenee|الطقس يدفأ [1]
+[1-na] saa lampenee|[1] الطقس يدفأ
+[1-na] [alueella] saa lampenee|[1] الطقس يدفأ [2]
+7-keskiyolla ja aamuyolla|يوم الأحد عند منتصف الليل وبعده
+6-keskiyolla ja aamuyolla|يوم السبت عند منتصف الليل وبعده
+5-keskiyolla ja aamuyolla|يوم الجمعة عند منتصف الليل وبعده
+4-keskiyolla ja aamuyolla|يوم الخميس عند منتصف الليل وبعده
+3-keskiyolla ja aamuyolla|يوم الأربعاء عند منتصف الليل وبعده
+2-keskiyolla ja aamuyolla|يوم الثلاثاء عند منتصف الليل وبعده
+1-keskiyolla ja aamuyolla|يوم الاثنين عند منتصف الليل وبعده
+[huomenna] yksittaiset vesikuurot mahdollisia|[1] زخات مطر متفرقة محتملة
+[huomenna] yksittaiset vesi- tai rantakuurot mahdollisia|[1] زخات مطر أو مطر مثلج متفرقة محتملة
+[huomenna] yksittaiset vesi- tai lumikuurot mahdollisia|[1] زخات مطر أو ثلج متفرقة محتملة
+[huomenna] yksittaiset sadekuurot mahdollisia|[1] زخات أمطار متفرقة محتملة
+[huomenna] yksittaiset rantakuurot mahdollisia|[1] زخات مطر مثلج متفرقة محتملة
+[huomenna] yksittaiset ranta- tai vesikuurot mahdollisia|[1] زخات مطر مثلج أو مطر متفرقة محتملة
+[huomenna] yksittaiset lumikuurot mahdollisia|[1] زخات ثلجية متفرقة محتملة
+[huomenna] yksittaiset lumi- tai rantakuurot mahdollisia|[1] زخات ثلج أو مطر مثلج متفرقة محتملة
+[huomenna] [sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia|زخات ثلج أو مطر مثلج متفرقة محتملة [2] [1]
+[huomenna] [sisamaassa] yksittaiset lumikuurot mahdollisia|زخات ثلجية متفرقة محتملة [2] [1]
+[huomenna] [sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia|زخات مطر مثلج أو مطر متفرقة محتملة [2] [1]
+[huomenna] [sisamaassa] yksittaiset rantakuurot mahdollisia|زخات مطر مثلج متفرقة محتملة [2] [1]
+[huomenna] [sisamaassa] yksittaiset sadekuurot mahdollisia|زخات أمطار متفرقة محتملة [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia|زخات مطر أو ثلج متفرقة محتملة [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia|زخات مطر أو مطر مثلج متفرقة محتملة [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesikuurot mahdollisia|زخات مطر متفرقة محتملة [2] [1]
+[sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia|زخات مطر مثلج أو مطر متفرقة محتملة [1]
+[sisamaassa] yksittaiset rantakuurot mahdollisia|زخات مطر مثلج متفرقة محتملة [1]
+[sisamaassa] yksittaiset sadekuurot mahdollisia|زخات أمطار متفرقة محتملة [1]
+1-keskiyohon asti|حتى منتصف ليلة الاثنين
+[sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia|زخات مطر أو ثلج متفرقة محتملة [1]
+[sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia|زخات مطر أو مطر مثلج متفرقة محتملة [1]
+[sisamaassa] yksittaiset vesikuurot mahdollisia|زخات مطر متفرقة محتملة [1]
+[sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia|[1] زخات ثلج أو مطر مثلج متفرقة محتملة
+[sisamaassa] yksittaiset lumikuurot mahdollisia|زخات ثلجية متفرقة محتملة [1]
+[sisamaassa] on [hieman lauhempaa]|الجو [2] [1]
+[huomenna] on [hieman lauhempaa]|[1] الجو [2]
+[huomenna] [sisamaassa] on [hieman lauhempaa]|[1] الجو [3] [2]
+[lampotila] [M...N] [astetta]|[1] [2] [3]
+paivan ylin|الحد الأقصى اليومي
+[lampotila] [suunnilleen sama]|[1] [2]
+[lampotila] vahan yli [N] [astetta]|[1] أعلى قليلاً من [2] [3]
+[lampotila] vajaat [N] [astetta]|[1] تقريباً [2] [3]
+[lampotila] lahella [N] [astetta]|[1] قرب [2] [3]
+[lampotila] [N] [asteen] tuntumassa|[1] قريب من [2] [3]
+[lampotila] [N] [asteen] tienoilla|[1] حوالي [2] [3]
+[lampotila] noin [N] [astetta]|[1] حوالي [2] [3]
+luoteeseen|نحو الشمال الغربي
+lounaaseen|نحو الجنوب الغربي
+kaakkoon|نحو الجنوب الشرقي
+koilliseen|نحو الشمال الشرقي
+lanteen|نحو الغرب
+itaan|نحو الشرق
+etelaan|نحو الجنوب
+pohjoiseen|نحو الشمال
+[iltapaivalla] tuuli kaantyy [etelaan] ja voimistuu edelleen|[1] الرياح تتجه [2] وتستمر في الاشتداد
+[pohjoistuulta] [m...n] [metria sekunnissa], joka muuttuu [iltapaivalla] vaihtelevaksi|[1] [2] [3]، تصبح متقلبة [4]
+vahitellen|تدريجياً
+[pohjoistuulta] [m...n] [metria sekunnissa], joka kaantyy [iltapaivalla] [etelaan]|[1] [2] [3]، تتجه [5] [4]
+[iltapaivalla] tuuli kaantyy [etelaan]|الرياح تتجه [2] [1]
+suunnaltaan vaihtelevaa tuulta|رياح متقلبة الاتجاه
+latvia:lle|للاتفيا
+astetta (n...0)|درجات
+1- ja 2-valille|نحو الشمال إلى الشمال الشرقي
+3- ja 2-valille|نحو الشرق إلى الشمال الشرقي
+3- ja 4-valille|نحو الشرق إلى الجنوب الشرقي
+5- ja 4-valille|نحو الجنوب إلى الجنوب الشرقي
+5- ja 6-valille|نحو الجنوب إلى الجنوب الغربي
+7- ja 6-valille|نحو الغرب إلى الجنوب الغربي
+7- ja 8-valille|نحو الغرب إلى الشمال الغربي
+1- ja 8-valille|نحو الشمال إلى الشمال الغربي
+[huomenna] [etelatuulta]|[1] [2]
+ivalo:lle|لـ Ivalo
+pieksamaki:lle|لـ Pieksämäki
+[iltapaivalla] [etelaan] kaantyvaa tuulta|الرياح تتجه [2] [1]
+heikkenevaa tuulta|رياح آخذة في الضعف
+8-puolelle|شمال غربي في الغالب
+7-puolelle|غربي في الغالب
+6-puolelle|جنوبي غربي في الغالب
+5-puolelle|جنوبي في الغالب
+4-puolelle|جنوبي شرقي في الغالب
+3-puolelle|شرقي في الغالب
+2-puolelle|شمالي شرقي في الغالب
+1-puolelle|شمالي في الغالب
+tuuli muuttuu vaihtelevaksi|الرياح تصبح متقلبة
+[iltapaivalla] tuuli muuttuu vaihtelevaksi|الرياح تصبح متقلبة [1]
+[iltapaivalla] [etelatuulta]|[2] [1]
+astetta (1)|درجة
+astetta (0)|درجات
+astetta (4)|درجات
+astetta (3)|درجات
+astetta (n...(mod 10=1))|درجات
+astetta (n...4)|درجات
+astetta (n...3)|درجات
+astetta (n...2)|درجات
+astetta (n...1)|درجات
+astetta (2)|درجات
+aallonkorkeus on enimmillaan [N] [metria]|ارتفاع الأمواج لا يتجاوز [1] [2]
+latgale:lle|لمنطقة لاتغالي
+vidzeme:lle|لمنطقة فيدزيمي
+zemgale:lle|لمنطقة زيمغالي
+kurzeme:lle|لمنطقة كورزيمي
+rigaregion:lle|لمنطقة ريغا الكبرى
+tuuli kaantyy|الرياح تتجه
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta]|[2] [3] [4] [1]
+[iltapaivalla] [nopeasti] [heikkenevaa tuulta]|[2] [3] [1]
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi|الرياح تصبح متقلبة مؤقتاً [1]
+[iltapaivalla] tuuli heikkenee ja muuttuu vaihtelevaksi|[1] الرياح تضعف وتصبح متقلبة
+astetta (m...n)|درجات
+astetta (n)|درجات
+[iltapaivalla] tuuli heikkenee ja kaantyy [etelaan]|[1] الرياح تضعف وتتجه [2]
+keskipaivasta|من الظهر
+[iltapaivalla] tuuli voimistuu ja kaantyy [etelaan]|[1] الرياح تشتد وتتجه [2]
+[iltapaivalla] tuuli voimistuu ja muuttuu vaihtelevaksi|الرياح تشتد وتصبح متقلبة [1]
+voimistuvaa tuulta|رياح آخذة في الاشتداد
+kovimmillaan|يصل إلى
+nopeasti|بسرعة
+[iltapaivalla] tuuli muuttuu vaihtelevaksi ja heikkenee edelleen|[1] الرياح تصبح متقلبة وتستمر في الضعف
+[iltapaivalla] [heikkenevaa tuulta]|[1] [2]
+[iltapaivalla] [heikkenevaa] [etelatuulta]|[1] [2] [3]
+[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] [2] تضعف وتصبح متقلبة
+[iltapaivalla] [pohjoistuuli] heikkenee ja kaantyy [etelaan]|[1] [2] تضعف وتتجه [3]
+1- ja 8-valista tuulta|رياح من الشمال إلى الشمال الغربي
+7- ja 8-valista tuulta|رياح من الغرب إلى الشمال الغربي
+7- ja 6-valista tuulta|رياح من الغرب إلى الجنوب الغربي
+5- ja 6-valista tuulta|رياح من الجنوب إلى الجنوب الغربي
+5- ja 4-valista tuulta|رياح من الجنوب إلى الجنوب الشرقي
+3- ja 4-valista tuulta|رياح من الشرق إلى الجنوب الشرقي
+3- ja 2-valista tuulta|رياح من الشرق إلى الشمال الشرقي
+1- ja 2-valista tuulta|رياح من الشمال إلى الشمال الشرقي
+1- ja 8-valinen tuuli|رياح من الشمال إلى الشمال الغربي
+7- ja 8-valinen tuuli|رياح من الغرب إلى الشمال الغربي
+7- ja 6-valinen tuuli|رياح من الغرب إلى الجنوب الغربي
+5- ja 6-valinen tuuli|رياح من الجنوب إلى الجنوب الغربي
+5- ja 4-valinen tuuli|رياح من الجنوب إلى الجنوب الشرقي
+3- ja 4-valinen tuuli|رياح من الشرق إلى الجنوب الشرقي
+3- ja 2-valinen tuuli|رياح من الشرق إلى الشمال الشرقي
+1- ja 2-valinen tuuli|رياح من الشمال إلى الشمال الشرقي
+8-puoleinen tuuli|رياح شمالية غربية في الغالب
+7-puoleinen tuuli|رياح غربية في الغالب
+6-puoleinen tuuli|رياح جنوبية غربية في الغالب
+5-puoleinen tuuli|رياح جنوبية في الغالب
+4-puoleinen tuuli|رياح جنوبية شرقية في الغالب
+3-puoleinen tuuli|رياح شرقية في الغالب
+2-puoleinen tuuli|رياح شمالية شرقية في الغالب
+1-puoleinen tuuli|رياح شمالية في الغالب
+8-tuuli|رياح شمالية غربية
+7-tuuli|رياح غربية
+6-tuuli|رياح جنوبية غربية
+5-tuuli|رياح جنوبية
+4-tuuli|رياح جنوبية شرقية
+3-tuuli|رياح شرقية
+2-tuuli|رياح شمالية شرقية
+1-tuuli|رياح شمالية
+suunnaltaan vaihteleva tuuli|رياح متقلبة الاتجاه
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja heikkenee edelleen|[1] الرياح تصبح متقلبة مؤقتاً وتستمر في الضعف
+[iltapaivalla] tuuli heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] الرياح تضعف وتصبح متقلبة مؤقتاً
+[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1]  [2] تضعف وتصبح متقلبة مؤقتاً
+iltapaivasta|من بعد الظهر
+[iltapaivalla] [etelatuuli] alkaa heiketa [nopeasti]|[1] [2] تبدأ في الضعف [3]
+illasta|من المساء
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantya [etelaan]|[1] [2] تبدأ في الضعف والتجه نحو [3]
+astetta (mod 10=1)|درجات
+aste|درجة
+nolla|صفر
+asteen(tienoilla (mod 10=1))|درجات
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [pohjoiseen]|[1] [2] [3] [4]، تتجه [5]
+[iltapaivalla] edelleen [heikkenevaa] [pohjoistuulta]|[1] [3] تستمر في [2]
+hehtopascalia (mod 10=1)|هكتوباسكال
+prosenttia (mod 10=1)|بالمئة
+millimetria (mod 10=1)|ملليمتر
+metria sekunnissa (mod 10=1)|متر في الثانية
+4 astetta|4 درجات
+3 astetta|3 درجات
+2 astetta|2 درجتان
+puuskittaista [etelatuulta]|رياح [1] عاصفة
+aallonkorkeus on alle [N] [metria]|ارتفاع الأمواج أقل من [1] [2]
+aallonkorkeus on [N...M] [metria]|ارتفاع الأمواج [1] [2]
+aallonkorkeus on noin [N] [metria]|ارتفاع الأمواج حوالي [1] [2]
+asteen(tienoilla (mod 10=1))|درجات
+astetta(noin 0)|درجات
+astetta(noin 4)|درجات
+astetta(noin 3)|درجات
+astetta(noin 2)|درجات
+astetta(noin 1)|درجة
+astetta(noin (mod 10=1))|درجات
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[1] [2] تبدأ في الضعف وتتجه [3]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantya [etelaan]|[1] [2] تبدأ في الاشتداد والتجه نحو [3]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantyy [etelaan]|[1] [2] تبدأ في الاشتداد وتتجه [3]
+[iltapaivalla] [pohjoistuuli] voimistuu ja kaantyy [etelaan]|[1] [2] تشتد وتتجه [3]
+[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi|[1] [2] تشتد وتصبح متقلبة
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja voimistuu edelleen|[1] الرياح تصبح متقلبة مؤقتاً وتستمر في الاشتداد
+[iltapaivalla] tuuli muuttuu vaihtelevaksi ja voimistuu edelleen|الرياح تصبح متقلبة وتستمر في الاشتداد [1]
+[iltapaivalla] tuuli voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] الرياح تستمر في الاشتداد وتصبح متقلبة مؤقتاً
+iltayosta|من وقت متأخر من الليل
+keskiyosta|من منتصف الليل
+[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa heiketa|[1] [2] [3]، تبدأ في الضعف
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [illalla] [pohjoiseen]|[1] [2] [3] [4]، تتجه [6] [5]
+yosta|من الليلة
+[iltapaivalla] [pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] تبدأ في الضعف [3] وتتجه [5] [4]
+[ip] [p-tuulta] [m...n] [m/s], joka alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] [3] [4]، تبدأ في الضعف [5] وتتجه [7] [6]
+[iltapaivalla] [etelatuuli] heikkenee [nopeasti]|[2] تضعف [3] [1]
+[iltapaivalla] [pohjoistuuli] heikkenee edelleen|[2] تستمر في الضعف [1]
+[iltapaivalla] sade voi olla runsasta|المطر يمكن أن يكون غزيراً [1]
+1-asti|حتى الاثنين
+2-asti|حتى الثلاثاء
+3-asti|حتى الأربعاء
+4-asti|حتى الخميس
+6-asti|حتى الجمعة
+5-asti|حتى السبت
+7-asti|حتى الأحد
+yohon asti|حتى الليل
+aamuun asti|حتى الصباح
+aamupaivaan asti|حتى قبل الظهر
+keskipaivaan asti|حتى الظهر
+iltapaivaan asti|حتى بعد الظهر
+iltaan asti|حتى المساء
+iltayohon asti|حتى وقت متأخر من الليل
+keskiyohon asti|حتى منتصف الليل
+huomiseen asti|حتى الغد
+1-aamupaivaan asti|حتى قبل ظهر الاثنين
+2-aamupaivaan asti|حتى قبل ظهر الثلاثاء
+3-aamupaivaan asti|حتى قبل ظهر الأربعاء
+4-aamupaivaan asti|حتى قبل ظهر الخميس
+5-aamupaivaan asti|حتى قبل ظهر الجمعة
+6-aamupaivaan asti|حتى قبل ظهر السبت
+7-aamupaivaan asti|حتى قبل ظهر الأحد
+1-aamuun asti|حتى صباح الاثنين
+2-aamuun asti|حتى صباح الثلاثاء
+3-aamuun asti|حتى صباح الأربعاء
+4-aamuun asti|حتى صباح الخميس
+5-aamuun asti|حتى صباح الجمعة
+6-aamuun asti|حتى صباح السبت
+7-aamuun asti|حتى صباح الأحد
+1-iltaan asti|حتى مساء الاثنين
+2-iltaan asti|حتى مساء الثلاثاء
+3-iltaan asti|حتى مساء الأربعاء
+4-iltaan asti|حتى مساء الخميس
+5-iltaan asti|حتى مساء الجمعة
+6-iltaan asti|حتى مساء السبت
+7-iltaan asti|حتى مساء الأحد
+1-vastaiseen yohon asti|حتى ليلة الاثنين
+2-vastaiseen yohon asti|حتى ليلة الثلاثاء
+3-vastaiseen yohon asti|حتى ليلة الأربعاء
+4-vastaiseen yohon asti|حتى ليلة الخميس
+5-vastaiseen yohon asti|حتى ليلة الجمعة
+6-vastaiseen yohon asti|حتى ليلة السبت
+7-vastaiseen yohon asti|حتى ليلة الأحد
+huomisaamuun asti|حتى صباح الغد
+huomisaamupaivaan asti|حتى قبل ظهر الغد
+huomisiltaan asti|حتى مساء الغد
+7-iltapaivaan asti|حتى بعد ظهر الجمعة
+6-iltapaivaan asti|حتى بعد ظهر السبت
+5-iltapaivaan asti|حتى بعد ظهر الجمعة
+4-iltapaivaan asti|حتى بعد ظهر الخميس
+3-iltapaivaan asti|حتى بعد ظهر الأربعاء
+2-iltapaivaan asti|حتى بعد ظهر الثلاثاء
+1-iltapaivaan asti|حتى بعد ظهر الاثنين
+7-iltayohon asti|حتى وقت متأخر من ليلة الأحد
+6-iltayohon asti|حتى وقت متأخر من ليلة السبت
+5-iltayohon asti|حتى وقت متأخر من ليلة الجمعة
+4-iltayohon asti|حتى وقت متأخر من ليلة الخميس
+3-iltayohon asti|حتى وقت متأخر من ليلة الأربعاء
+2-iltayohon asti|حتى وقت متأخر من ليلة الثلاثاء
+1-iltayohon asti|حتى وقت متأخر من ليلة الاثنين
+7-keskiyohon asti|حتى منتصف ليلة الأحد
+5-keskiyohon asti|حتى منتصف ليلة الجمعة
+4-keskiyohon asti|حتى منتصف ليلة الخميس
+3-keskiyohon asti|حتى منتصف ليلة الأربعاء
+[iltapaivalla] [pohjoistuuli] voimistuu edelleen|[2] تستمر في الاشتداد [1]
+[ip] [p-tuulta] [m...n] [m/s], joka alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] [3] [4]، تبدأ في الاشتداد [5] وتتجه [7] [6]
+[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa voimistua|[1] [2] [3]، تبدأ في الاشتداد
+aamuyohon asti|حتى الساعات الأولى
+7-aamuyohon asti|حتى الساعات الأولى من الأحد
+6-aamuyohon asti|حتى الساعات الأولى من السبت
+5-aamuyohon asti|حتى الساعات الأولى من الجمعة
+4-aamuyohon asti|حتى الساعات الأولى من الخميس
+3-aamuyohon asti|حتى الساعات الأولى من الأربعاء
+2-aamuyohon asti|حتى الساعات الأولى من الثلاثاء
+1-aamuyohon asti|حتى الساعات الأولى من الاثنين
+[iltapaivalla] kuurot voivat olla voimakkaita|الزخات يمكن أن تكون غزيرة [1]
+B3N:lle|لشمال بحر بوثنيا
+[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] الرياح تبدأ في الضعف وتصبح متقلبة
+[iltapaivalla] tuuli alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] الرياح تبدأ في الضعف وتصبح متقلبة مؤقتاً
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] تبدأ في الضعف وتصبح متقلبة
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] تبدأ في الضعف وتصبح متقلبة مؤقتاً
+inari_utsjoki:lle|لـ Inari و Utsjoki
+ita_finnmark:lle|لشرق فينمارك
+lansi_finnmark:lle|لغرب فينمارك
+pohjois_ruotsi:lle|لشمال السويد
+kasivarsi:lle|لـ Käsivarsi
+kova|قوي
+voimakas|قوي جداً
+heikkenee|يضعف
+kuola:lle|لشبه جزيرة كولا
+[voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen|[1] تتجه [2] وتستمر في الضعف
+[voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]|[1] تضعف وتتجه [2]
+[voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[1] تبدأ في الضعف وتتجه [2]
+[voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] تضعف وتصبح متقلبة
+[voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] تبدأ في الضعف وتصبح متقلبة
+[voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] تبدأ في الضعف وتصبح متقلبة مؤقتاً
+[voimakas pohjoistuuli] heikkenee edelleen|[1] تستمر في الضعف
+[voimakas pohjoistuuli] alkaa heiketa [nopeasti]|[1] تبدأ في الضعف [2]
+[voimakas pohjoistuuli] heikkenee [nopeasti]|[1] تضعف [2]
+[voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] تضعف وتصبح متقلبة مؤقتاً
+voimakas 3- ja 4-valinen tuuli|رياح قوية من الشرق إلى الجنوب الشرقي
+voimakas 4-tuuli|رياح جنوبية شرقية قوية
+voimakas 4-puoleinen tuuli|رياح جنوبية شرقية قوية في الغالب
+voimakas 5- ja 4-valinen tuuli|رياح قوية من الجنوب إلى الجنوب الشرقي
+voimakas 5-tuuli|رياح جنوبية قوية
+voimakas 5-puoleinen tuuli|رياح جنوبية قوية في الغالب
+voimakas 5- ja 6-valinen tuuli|رياح قوية من الجنوب إلى الجنوب الغربي
+voimakas 6-tuuli|رياح جنوبية غربية قوية
+voimakas 6-puoleinen tuuli|رياح جنوبية غربية قوية في الغالب
+voimakas 7- ja 6-valinen tuuli|رياح قوية من الغرب إلى الجنوب الغربي
+voimakas 7-tuuli|رياح غربية قوية
+voimakas 7-puoleinen tuuli|رياح غربية قوية في الغالب
+voimakas 7- ja 8-valinen tuuli|رياح قوية من الغرب إلى الشمال الغربي
+voimakas 8-tuuli|رياح شمالية غربية قوية
+voimakas 8-puoleinen tuuli|رياح شمالية غربية قوية في الغالب
+voimakas 1- ja 8-valinen tuuli|رياح قوية من الشمال إلى الشمال الغربي
+voimakas tuuli|رياح عاصفة
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti]|[2] تضعف [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee edelleen|[2] تستمر في الضعف [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa [nopeasti]|[2] تبدأ في الضعف [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[2] تبدأ في الضعف وتصبح متقلبة مؤقتاً [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[2] تضعف وتصبح متقلبة مؤقتاً [1]
+voimakas 2-puoleinen tuuli|رياح شمالية شرقية قوية في الغالب
+voimakas 3-puoleinen tuuli|رياح شرقية قوية في الغالب
+voimakas 3-tuuli|رياح شرقية قوية
+voimakas 1-tuuli|رياح شمالية قوية
+voimakas 1-puoleinen tuuli|رياح شمالية قوية في الغالب
+voimakas 3- ja 2-valinen tuuli|رياح قوية من الشرق إلى الشمال الشرقي
+voimakas 2-tuuli|رياح شمالية شرقية قوية
+voimakas 1- ja 2-valinen tuuli|رياح قوية من الشمال إلى الشمال الشرقي
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[2] تبدأ في الضعف وتصبح متقلبة [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[2] تضعف وتصبح متقلبة [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[2] تبدأ في الضعف وتتجه [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]|[2] تضعف وتتجه [3] [1]
+tiepiiri-o4:lle|للمنطقة الداخلية الشمالية من أولو للطرق
+[iltapaivalla] [voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen|[2] تتجه [3] وتستمر في الضعف [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]|[2] تضعف [3] [1] وتتجه [5] [4]
+[etelatuuli] alkaa voimistua [nopeasti]|[1] تبدأ في الاشتداد [2]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] تبدأ في الاشتداد وتصبح متقلبة
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] الرياح تبدأ في الاشتداد وتصبح متقلبة مؤقتاً
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] الرياح تبدأ في الاشتداد وتصبح متقلبة
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[2] تضعف [3]  [1] وتتجه [4]
+[pohjoistuuli] heikkenee [nopeasti]|[1] تضعف [2]
+[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]|[1] تضعف [2] وتتجه [4] [3]
+[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[1] تضعف [2] وتتجه [3]
+[pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] تضعف وتصبح متقلبة
+[etelatuuli] alkaa heiketa [nopeasti]|[1] تبدأ في الضعف [2]
+[pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] تضعف وتصبح متقلبة مؤقتاً
+[pohjoistuuli] alkaa heiketa ja kaantya [etelaan]|[1] تبدأ في الضعف والتجه نحو [2]
+[pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] تبدأ في الضعف [2] وتتجه [4] [3]
+[etelatuuli] heikkenee [nopeasti]|[1] تضعف [2]
+[pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] تبدأ في الاشتداد وتصبح متقلبة
+[pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] تبدأ في الضعف وتصبح متقلبة مؤقتاً
+[pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] تبدأ في الضعف وتصبح متقلبة
+1-keskipaivaan|حتى ظهر الاثنين
+2-keskipaivaan|حتى ظهر الثلاثاء
+3-keskipaivaan|حتى ظهر الأربعاء
+4-keskipaivaan|حتى ظهر الخميس
+5-keskipaivaan|حتى ظهر الجمعة
+6-keskipaivaan|حتى ظهر السبت
+7-keskipaivaan|حتى ظهر الأحد
+1-keskipaivasta|من ظهر الاثنين
+2-keskipaivasta|من ظهر الثلاثاء
+3-keskipaivasta|من ظهر الأربعاء
+4-keskipaivasta|من ظهر الخميس
+5-keskipaivasta|من ظهر الجمعة
+6-keskipaivasta|من ظهر السبت
+7-keskipaivasta|من ظهر الأحد
+kemi-tornio:lle|لـ Kemi-Tornio
+rovaniemen seutu:lle|لمنطقة روفانيمي
+tornionlaakso:lle|لوادي تورني
+tunturi-lappi:lle|لـ Tunturi-Lappi
+elyalue-epo:lle|لمنطقة أوستروبوثنيا الجنوبية ELY
+elyalue-kas:lle|لمنطقة جنوب شرق فنلندا ELY
+elyalue-kes:lle|لمنطقة فنلندا الوسطى ELY
+elyalue-lap:lle|لمنطقة لابلاند ELY
+elyalue-pir:lle|لمنطقة بيركانماا ELY
+elyalue-pkp:lle|لمنطقة شمال أوستروبوثنيا ELY
+elyalue-pos:lle|لمنطقة شمال سافو ELY
+elyalue-uud:lle|لمنطقة Uusimaa ELY
+elyalue-var:lle|لمنطقة فنلندا الجنوبية الغربية ELY
+tiepiiri-h1:lle|لجنوب هاميه
+tiepiiri-h2:lle|لجنوب پايانه-هاميه
+tiepiiri-h3:lle|لجنوب بيركانماا
+tiepiiri-h4:lle|لشمال پايانه-هاميه
+tiepiiri-h5:lle|لشمال بيركانماا
+tiepiiri-k1:lle|لمنطقة كيمينماا الساحلية
+tiepiiri-k2:lle|لمنطقة كيمينماا الداخلية
+tiepiiri-k3:lle|لكاريليا الجنوبية
+tiepiiri-k4:lle|لسافو الجنوبية
+tiepiiri-ke1:lle|للمنطقة الجنوبية من فنلندا الوسطى
+tiepiiri-ke2:lle|للمنطقة الشمالية من فنلندا الوسطى
+tiepiiri-l1:lle|للابلاند الجنوبية الغربية
+tiepiiri-l2:lle|للابلاند الجنوبية الشرقية
+tiepiiri-l3:lle|للابلاند الوسطى
+tiepiiri-l4:lle|للابلاند الشمالية الغربية
+tiepiiri-l5:lle|للابلاند الشمالية
+tiepiiri-o1e:lle|للمنطقة الساحلية الجنوبية من أولو
+tiepiiri-o1p:lle|للمنطقة الساحلية الشمالية من أولو
+tiepiiri-o2:lle|للمنطقة الداخلية الجنوبية من أولو
+tiepiiri-o3:lle|لـ Kainuu
+tiepiiri-o5:lle|لـ Koillismaa
+tiepiiri-s1:lle|للمنطقة الجنوبية من شمال كاريليا
+tiepiiri-s2:lle|للمنطقة الجنوبية من شمال سافو
+[etelatuuli] voimistuu [nopeasti]|[1] تشتد [2]
+[iltapaivalla] [pohjoistuuli] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] الرياح تبدأ في الاشتداد وتصبح متقلبة مؤقتاً
+[iltapaivalla] tuuli alkaa voimistua ja kaantyy [etelaan]|الرياح تبدأ في الاشتداد وتتجه [2] [1]
+[pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] تبدأ في الاشتداد [2] وتتجه [4] [3]
+[pohjoistuuli] alkaa voimistua ja kaantya [etelaan]|[1] تبدأ في الاشتداد والتجه نحو [2]
+[pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] تبدأ في الاشتداد وتصبح متقلبة مؤقتاً
+[pohjoistuuli] voimistuu [nopeasti]|[1] تشتد [2]
+[pohjoistuuli] voimistuu ja kaantyy [etelaan]|[1] تشتد وتتجه [2]
+[pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] تشتد وتصبح متقلبة مؤقتاً
+[pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi|[1] تشتد وتصبح متقلبة
+1-aamuyolla|يوم الاثنين في الساعات الأولى
+tiepiiri-s3:lle|للمنطقة الوسطى من شمال كاريليا
+tiepiiri-s4:lle|للمنطقة الشمالية من شمال سافو
+tiepiiri-s5:lle|للمنطقة الشمالية من شمال كاريليا
+tiepiiri-t1:lle|للمنطقة الساحلية من فنلندا الجنوبية الغربية
+tiepiiri-t2:lle|للمنطقة الداخلية من فنلندا الجنوبية الغربية
+tiepiiri-t3:lle|للمنطقة الشرقية من فنلندا الجنوبية الغربية
+tiepiiri-t4:lle|للمنطقة الساحلية من ساتاكونتا
+tiepiiri-t5:lle|للمنطقة الداخلية من ساتاكونتا
+tiepiiri-u1:lle|للمنطقة الساحلية الغربية من Uusimaa
+tiepiiri-u2:lle|لمنطقة العاصمة
+tiepiiri-u3:lle|للمنطقة الساحلية الشرقية من Uusimaa
+tiepiiri-u4:lle|للمنطقة الداخلية الغربية من Uusimaa
+tiepiiri-u5:lle|للمنطقة الداخلية الشرقية من Uusimaa
+tiepiiri-v1:lle|للمناطق الساحلية الجنوبية من أوستروبوثنيا
+tiepiiri-v2:lle|لجنوب أوستروبوثنيا
+tiepiiri-v4:lle|للمناطق الساحلية الشمالية من أوستروبوثنيا
+tiepiiri-v5:lle|لوسط أوستروبوثنيا
+[iltap] [nop] [heikken] [tuulta] [m...n] [m sek], joka kaantyy [illalla] [pohj]|[1] [2] [3] [4] [5] [6]، تتجه [8] [7]
+[lampotila] vahan nollan alapuolella|[1] تحت الصفر قليلاً
+[lampotila] on vahan nollan alapuolella|[1] تحت الصفر قليلاً
+[huomenna] vahan nollan alapuolella|[1] تحت الصفر قليلاً
+[sismaassa] vahan nollan alapuolella|[1] تحت الصفر قليلاً
+[huomenna] [lampotila] on vahan nollan alapuolella|[1] [2] تحت الصفر قليلاً
+[sisamaassa] [lampotila] on vahan nollan alapuolella|[1] [2] تحت الصفر قليلاً
+[huomenna] [sisamaassa] vahan nollan alapuolella|[1] تحت الصفر قليلاً [2]
+[huomenna] [sisamaassa] [lampotila] on vahan nollan alapuolella|[1] [3] تحت الصفر قليلاً [2]
+rannikolla vahan nollan alapuolella|تحت الصفر قليلاً على الساحل
+muuten hyva nakyvyys|رؤية جيدة في المناطق الأخرى
+hyva nakyvyys|رؤية جيدة
+enimmakseen hyva nakyvyys|رؤية جيدة في الغالب
+yolla ja aamulla|ليلاً وصباحاً
+aamulla ja paivalla|صباحاً وخلال النهار
+paivalla ja illalla|خلال النهار ومساءً
+illalla ja yolla|مساءً وليلاً
+1-keskipaivalla|يوم الاثنين عند الظهر
+2-keskipaivalla|يوم الثلاثاء عند الظهر
+3-keskipaivalla|يوم الأربعاء عند الظهر
+4-keskipaivalla|يوم الخميس عند الظهر
+5-keskipaivalla|يوم الجمعة عند الظهر
+6-keskipaivalla|يوم السبت عند الظهر
+7-keskipaivalla|يوم الأحد عند الظهر
+ja huono nakyvyys|ورؤية ضعيفة
+B2_B1S:lle|لكفاركين وجنوب خليج بوثنيا
+B2_B1:lle|لكفاركين وخليج بوثنيا
+B3_B2_B1:lle|لبحر بوثنيا وكفاركين وخليج بوثنيا
+B3_B2:lle|لبحر بوثنيا وكفاركين
+B4E_B3:lle|لبحر الأرخبيل وبحر بوثنيا
+B4_B3:lle|لبحر الأرخبيل وبحر أولاند وبحر بوثنيا
+B7_B4:lle|لبحر البلطيق الشمالي وبحر الأرخبيل وبحر أولاند
+B7_B4_B3:lle|لبحر البلطيق الشمالي وبحر الأرخبيل وبحر أولاند وبحر بوثنيا
+B5W_B7:lle|للجزء الغربي من خليج فنلندا وبحر البلطيق الشمالي
+B5_B7:lle|لخليج فنلندا وبحر البلطيق الشمالي
+B3N_B2:lle|لشمال بحر بوثنيا وكفاركين
+vesi- tai tihkusadetta|مطر أو رذاذ
+lumi- tai tihkusadetta|ثلج أو رذاذ
+ranta- tai tihkusadetta|مطر مثلج أو رذاذ
+jaatavaa tihkusadetta|رذاذ متجمد
+jotka muuttuvat lumikuuroiksi|التي تتحول إلى زخات ثلجية
+jotka muuttuvat rantakuuroiksi|التي تتحول إلى زخات مطر مثلج
+[iltapaivalla] [etelatuuli] alkaa voimistua [nopeasti]|[1] [2] تبدأ في الاشتداد [3]
+[iltapaivalla] [etelatuuli] voimistuu [nopeasti]|[2] تشتد [3] [1]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] تبدأ في الاشتداد [3] وتتجه [5] [4]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] تبدأ في الاشتداد وتصبح متقلبة مؤقتاً
+4-aamuyolla ja aamulla|يوم الخميس في الساعات الأولى وصباحاً
+B5W_B7E_B4E:lle|للجزء الغربي من خليج فنلندا والجزء الشرقي من بحر البلطيق الشمالي وبحر الأرخبيل
+B5W_B7E:lle|للجزء الغربي من خليج فنلندا والجزء الشرقي من بحر البلطيق الشمالي
+B7_B4_B3S:lle|لبحر البلطيق الشمالي وبحر الأرخبيل وبحر أولاند وجنوب بحر بوثنيا
+B7E_B4E_B3S:lle|للجزء الشرقي من بحر البلطيق الشمالي وبحر الأرخبيل وجنوب بحر بوثنيا
+B7E_B4E:lle|للجزء الشرقي من بحر البلطيق الشمالي وبحر الأرخبيل
+B7W_B4:lle|للجزء الغربي من خليج فنلندا وبحر الأرخبيل وبحر أولاند
+B7W_B4W_B3S:lle|للجزء الغربي من خليج فنلندا وبحر أولاند وجنوب بحر بوثنيا
+B7W_B4W:lle|للجزء الغربي من خليج فنلندا وبحر أولاند
+[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] تشتد وتصبح متقلبة مؤقتاً
+[iltapaivalla] tuuli kaantyy [etelaan] ja heikkenee edelleen|[1] الرياح تتجه [2] وتستمر في الاشتداد
+tuuli voimistuu|الرياح تشتد إلى
+B4_B3S:lle|لبحر الأرخبيل وبحر أولاند وجنوب بحر بوثنيا
+aamupaivalla|قبل الظهر
+huomisen keskipaivaan asti|حتى ظهر الغد
+huono nakyvyys|رؤية ضعيفة
+B1|خليج بوثنيا
+B2|كفاركين
+B3|بحر بوثنيا
+B4|بحر الأرخبيل وبحر أولاند
+B5|خليج فنلندا
+B6|خليج ريغا
+B7|بحر البلطيق الشمالي
+B8|بحر البلطيق الأوسط
+B9|جنوب شرق بحر البلطيق
+B10|بحر البلطيق الجنوبي
+B11|حوض أركونا
+B12|أوريسوند والمضائق
+B13|كاتيغات
+B1N|شمال خليج بوثنيا
+B1S|جنوب خليج بوثنيا
+B4E|بحر الأرخبيل
+B4W|بحر أولاند
+B5E|الجزء الشرقي من خليج فنلندا
+B5W|الجزء الغربي من خليج فنلندا
+B8E|بحر البلطيق الأوسط
+B8W|بحر غوتلاند
+B10N|بحر أولاند
+B10S|بحر بورنهولم
+B2_B1S|كفاركين وجنوب خليج بوثنيا
+B2_B1|كفاركين وخليج بوثنيا
+B3_B2_B1|بحر بوثنيا وكفاركين وخليج بوثنيا
+B3_B2|بحر بوثنيا وكفاركين
+B4E_B3|بحر الأرخبيل وبحر بوثنيا
+B4_B3|بحر الأرخبيل وبحر أولاند وبحر بوثنيا
+B7_B4|بحر البلطيق الشمالي وبحر الأرخبيل وبحر أولاند
+B7_B4_B3|بحر البلطيق الشمالي وبحر الأرخبيل وبحر أولاند وبحر بوثنيا
+B5W_B7|الجزء الغربي من خليج فنلندا وبحر البلطيق الشمالي
+B5_B7|خليج فنلندا وبحر البلطيق الشمالي
+B3N_B2|شمال بحر بوثنيا وكفاركين
+B3N|شمال بحر بوثنيا
+B3S|جنوب بحر بوثنيا
+B4_B3S|بحر الأرخبيل وبحر أولاند وجنوب بحر بوثنيا
+B5W_B7E_B4E|الجزء الغربي من خليج فنلندا والجزء الشرقي من بحر البلطيق الشمالي وبحر الأرخبيل
+B5W_B7E|الجزء الغربي من خليج فنلندا والجزء الشرقي من بحر البلطيق الشمالي
+B7_B4_B3S|بحر البلطيق الشمالي وبحر الأرخبيل وبحر أولاند وجنوب بحر بوثنيا
+B7E_B4E_B3S|الجزء الشرقي من بحر البلطيق الشمالي وبحر الأرخبيل وجنوب بحر بوثنيا
+B7E_B4E|الجزء الشرقي من بحر البلطيق الشمالي وبحر الأرخبيل
+B7E|الجزء الشرقي من بحر البلطيق الشمالي
+B7W_B4W_B3S|الجزء الغربي من خليج فنلندا وبحر أولاند وجنوب بحر بوثنيا
+B7W_B4|الجزء الغربي من خليج فنلندا وبحر الأرخبيل وبحر أولاند
+B7W_B4W|الجزء الغربي من خليج فنلندا وبحر أولاند
+B7W|الجزء الغربي من بحر البلطيق الشمالي
+asteen(tuntumassa (mod 10=1))|درجات

@@ -188,6 +188,8 @@ voimistuvaa|strenghtening
 vahvistuu|strenghtens
 uusimaa|Uusimaa
 mahdollisesti ukkosta|possibility of thunder
+paikoin ukkosta|locally thunder
+ukkosta|thunder
 melko selkeaa|partly clear
 miinus|minus
 pilvistyvaa|increasing cloudiness

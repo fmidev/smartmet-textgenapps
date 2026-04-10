@@ -2042,6 +2042,8 @@ lappeenranta:lle|for Lappeenranta
 lumi- tai vesikuuroja|snow or rain showers
 lumparland:lle|for Lumparland
 mahdollisesti ukkosta|possibly thunder
+paikoin ukkosta|locally thunder
+ukkosta|thunder
 muonio:lle|for Muonio
 murmanskin alueen lansiosa:lle|for Western part of Murmansk Oblast
 nummipusula:lle|for Nummi-Pusula

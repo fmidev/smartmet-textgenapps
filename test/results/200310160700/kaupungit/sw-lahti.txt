@@ -1,0 +1,26 @@
+Lahti
+
+Ripoti ya hali ya hewa Alhamisi 7 saa
+
+Hali ya hewa inayotarajiwa hadi kesho jioni:
+
+Leo jua au mawingu kidogo.
+Kesho mawingu au mawingu kidogo.
+Uwezekano wa mvua ni leo 30 asilimia, kesho kubwa zaidi.
+Leo upepo wa kaskazini magharibi 2 mita kwa sekunde, kesho 5 mita kwa sekunde.
+Joto la juu la mchana ni leo takriban 5 nyuzi, kesho takriban sawa.
+Joto la chini la usiku ni takriban 1 nyuzi.
+Uwezekano wa baridi kali sana ni usiku wa Ijumaa 20 asilimia.
+Unyevu wa chini kabisa ni kesho 80 asilimia.
+
+Hali ya hewa inayotarajiwa kuanzia Ijumaa jioni hadi Jumanne asubuhi:
+
+Hali ya hewa si ya kawaida.
+Joto la juu la kila siku ni takriban 3 nyuzi, joto la chini la kila usiku takriban -1 nyuzi.
+
+Kuanzia Ijumaa asubuhi kwa siku tano zijazo:
+
+Joto la wastani 0 nyuzi.
+Joto la juu la wastani 3 nyuzi.
+Joto la chini la wastani -2 nyuzi.
+Mvua jumla 2-5 milimita.

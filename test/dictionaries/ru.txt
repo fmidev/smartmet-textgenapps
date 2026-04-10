@@ -1,0 +1,2149 @@
+o'clock|
+meri-lappi:lle|для Мери-Лапландии
+pohjois-pohjanmaan itaosa:lle|для восточной части Северной Остроботнии
+pohjois-pohjanmaan lansiosa:lle|для западной части Северной Остроботнии
+pohjanmaa ja etela-pohjanmaa:lle|для Остроботнии и Южной Остроботнии
+etela-lappi:lle|для Южной Лапландии
+keski-lappi:lle|для Центральной Лапландии
+utsjoki ja inari:lle|для Утсйоки и Инари
+finnmarkin lansiosa:lle|для западной части Финнмарка
+finnmarkin itaosa:lle|для восточной части Финнмарка
+murmanskin alueen lansiosa:lle|для западной части Мурманской области
+pohjois-ruotsi:lle|для Северной Швеции
+[iltapaivalla] lumikuurot voivat olla sakeita|снежные шквалы могут быть сильными [1]
+[iltapaivalla] lumisade voi olla sakeaa|снегопад может быть сильным [1]
+huomiseen iltapaivaan asti|до завтрашнего дня
+aamuyosta|с раннего утра
+astetta(noin n)|градусов
+huomattavasti lampimampi|значительно теплее
+lampimampi|теплее
+seuraava yo|следующая ночь
+seuraavana yona|следующей ночью
+on|составляет
+ankaran hallan todennakoisyys|вероятность сильных заморозков
+hallan todennakoisyys|вероятность заморозков
+7-vastaisena yona|в ночь на воскресенье
+6-vastaisena yona|в ночь на субботу
+5-vastaisena yona|в ночь на пятницу
+4-vastaisena yona|в ночь на четверг
+3-vastaisena yona|в ночь на среду
+2-vastaisena yona|в ночь на вторник
+1-vastaisena yona|в ночь на понедельник
+sama|то же самое
+hieman pienempi|несколько меньше
+hieman suurempi|несколько больше
+pienempi|меньше
+suurempi|больше
+alin suhteellinen kosteus|наименьшая относительная влажность
+7-na|в воскресенье
+6-na|в субботу
+5-na|в пятницу
+4-na|в четверг
+3-na|в среду
+2-na|во вторник
+1-na|в понедельник
+odotettavissa|прогноз погоды
+7-illasta|с воскресного вечера
+1-illasta|с вечера понедельника
+2-illasta|с вечера вторника
+3-illasta|с вечера среды
+4-illasta|с вечера четверга
+5-illasta|с вечера пятницы
+6-illasta|с вечера субботы
+7-aamuun|до воскресного утра
+1-aamuun|до утра понедельника
+2-aamuun|до утра вторника
+3-aamuun|до утра среды
+4-aamuun|до утра четверга
+5-aamuun|до утра пятницы
+6-aamuun|до утра субботы
+saa|погода
+keskilampotila|средняя температура
+keskimaarainen ylin lampotila|средняя максимальная температура
+keskimaarainen alin lampotila|средняя минимальная температура
+sadesumma|общее количество осадков
+astetta|градусов
+millimetria|миллиметров
+1-aamusta|с утра понедельника
+2-aamusta|с утра вторника
+3-aamusta|с утра среды
+4-aamusta|с утра четверга
+5-aamusta|с утра пятницы
+6-aamusta|с утра субботы
+7-aamusta|с утра воскресенья
+alkavan|
+1-iltaan|до вечера понедельника
+2-vuorokauden saa|на ближайшие двое суток
+3-vuorokauden saa|на ближайшие трое суток
+4-vuorokauden saa|на ближайшие четверо суток
+5-vuorokauden saa|на ближайшие пять суток
+6-vuorokauden saa|на ближайшие шесть суток
+7-vuorokauden saa|на ближайшие семь суток
+8-vuorokauden saa|на ближайшие восемь суток
+9-vuorokauden saa|на ближайшие девять суток
+10-vuorokauden saa|на ближайшие 10 суток
+1-keskipaivaan asti|до полудня понедельника
+2-keskipaivaan asti|до полудня вторника
+3-keskipaivaan asti|до полудня среды
+4-keskipaivaan asti|до полудня четверга
+5-keskipaivaan asti|до полудня пятницы
+6-keskipaivaan asti|до полудня субботы
+7-keskipaivaan asti|до полудня воскресенья
+yli|выше
+2-iltaan|до вечера вторника
+3-iltaan|до вечера среды
+4-iltaan|до вечера четверга
+5-iltaan|до вечера пятницы
+6-iltaan|до вечера субботы
+7-iltaan|до вечера воскресенья
+monin paikoin enemman|во многих местах больше
+paikoin enemman|местами больше
+monin paikoin|во многих местах
+paikoin|местами
+asti|
+huomattavasti korkeampi|значительно выше
+korkeampi|выше
+hieman korkeampi|несколько выше
+suunnilleen sama|примерно то же самое
+hieman alempi|несколько ниже
+alempi|ниже
+huomattavasti alempi|значительно ниже
+noin|около
+seuraavana paivana|на следующий день
+paivan ylin lampotila|максимальная дневная температура
+yon alin lampotila|минимальная ночная температура
+paivien ylin lampotila|ежедневная максимальная температура
+oiden alin lampotila|ночная минимальная температура
+paivalampotila|дневная температура
+yolampotila|ночная температура
+lopuksi|в конце концов
+8-suunnasta|с северо-запада
+7-suunnasta|с запада
+6-suunnasta|с юго-запада
+5-suunnasta|с юга
+4-suunnasta|с юго-востока
+3-suunnasta|с востока
+2-suunnasta|с северо-востока
+1-suunnasta|с севера
+8-suuntaan|на северо-запад
+7-suuntaan|на запад
+6-suuntaan|на юго-запад
+5-suuntaan|на юг
+4-suuntaan|на юго-восток
+3-suuntaan|на восток
+2-suuntaan|на северо-восток
+1-suuntaan|на север
+alueen yli|над районом
+liikkuu|перемещается
+kosteammaksi|более влажным
+kuivemmaksi|более сухим
+muuttuu|меняется
+viilenee|холодает
+lampenee|теплеет
+sadealue|зона осадков
+leviaa|распространяется
+loittonee|удаляется
+lahestyy|приближается
+laaja|обширный
+korkeapaineen alue|область высокого давления
+matalapaineen alue|область низкого давления
+syvenee|углубляется
+korkeapaine|антициклон
+matalapaine|циклон
+lampotila|температура
+m/s|м/с
+heikkoa|слабый
+kohtalaista|умеренный
+navakkaa|свежий
+kovaa|сильный
+myrskya|штормовой
+tuulta|ветер
+suunnaltaan vaihtelevaa|переменный
+1-tuulta|северный ветер
+2-tuulta|северо-восточный ветер
+3-tuulta|восточный ветер
+4-tuulta|юго-восточный ветер
+5-tuulta|южный ветер
+6-tuulta|юго-западный ветер
+7-tuulta|западный ветер
+8-tuulta|северо-западный ветер
+yolla|ночью
+heikkenevaa|ослабевающий
+tuuli|ветер
+1-puoleista tuulta|преимущественно северный ветер
+2-puoleista tuulta|преимущественно северо-восточный ветер
+3-puoleista tuulta|преимущественно восточный ветер
+4-puoleista tuulta|преимущественно юго-восточный ветер
+5-puoleista tuulta|преимущественно южный ветер
+6-puoleista tuulta|преимущественно юго-западный ветер
+7-puoleista tuulta|преимущественно западный ветер
+8-puoleista tuulta|преимущественно северо-западный ветер
+ajoittain lumisadetta|временами снегопад
+ajoittain sadetta|временами осадки
+ajoittain ukkosta|временами гроза
+heikkoa sadetta|слабые осадки
+lumikuuroja|снежные шквалы
+lumisadetta|снегопад
+voimistuvaa|усиливающийся
+vahvistuu|усиливается
+uusimaa|Уусимаа
+mahdollisesti ukkosta|возможна гроза
+paikoin ukkosta|местами гроза
+ukkosta|гроза
+melko selkeaa|преимущественно ясно
+miinus|минус
+pilvistyvaa|увеличивающаяся облачность
+pilvista|облачно
+poutaa|без осадков
+puolipilvista|переменная облачность
+runsasta sadetta|сильный дождь
+sadetta|дождь
+sakeaa lumisadetta|сильный снегопад
+sakeita lumikuuroja|сильные снежные шквалы
+selkenevaa|уменьшающаяся облачность
+selkeaa|солнечно
+tai|или
+tuuli heikkenee|ветер ослабевает до
+vaihtelevaa pilvisyytta|переменная облачность
+vesisadetta|дождь
+voimakkaita kuuroja|сильные шквалы
+vahaisia kuuroja|слабые шквалы
+vahaista lumisadetta|слабый снегопад
+heikoksi|слабый
+kohtalaiseksi|умеренный
+navakaksi|свежий
+kovaksi|сильный
+myrskyksi|штормовой
+1-tuuleksi|северный ветер
+2-tuuleksi|северо-восточный ветер
+3-tuuleksi|восточный ветер
+4-tuuleksi|юго-восточный ветер
+5-tuuleksi|южный ветер
+6-tuuleksi|юго-западный ветер
+7-tuuleksi|западный ветер
+8-tuuleksi|северо-западный ветер
+1-puoleiseksi tuuleksi|преимущественно северный ветер
+2-puoleiseksi tuuleksi|преимущественно северо-восточный ветер
+3-puoleiseksi tuuleksi|преимущественно восточный ветер
+4-puoleiseksi tuuleksi|преимущественно юго-восточный ветер
+5-puoleiseksi tuuleksi|преимущественно южный ветер
+6-puoleiseksi tuuleksi|преимущественно юго-западный ветер
+7-puoleiseksi tuuleksi|преимущественно западный ветер
+8-puoleiseksi tuuleksi|преимущественно северо-западный ветер
+tuuli tyyntyy|ветер становится штилем
+tyyneksi|штиль
+tyynta|штиль
+viiva|до
+rantasadetta|мокрый снег
+saa on epavakaista|неустойчивая погода
+lumi-|снег
+ranta-|мокрый снег
+vesi-|дождь
+edelleen|по-прежнему
+enimmakseen|преимущественно
+ajoittain sateista|временами осадки
+paivalla|днём
+hirmumyrskya|сильный шторм
+hirmumyrskyksi|сильный шторм
+saaennuste|сводка погоды
+kello|
+aland:lle|для Аландских островов
+etela-karjala:lle|для Южной Карелии
+etela-pohjanmaa:lle|для Южной Остроботнии
+etela-savo:lle|для Южного Саво
+hame:lle|для Тавастии
+kainuu:lle|для Кайнуу
+keski-pohjanmaa:lle|для Центральной Остроботнии
+keski-suomi:lle|для Центральной Финляндии
+koillismaa:lle|для Коиллисмаа
+kymenlaakso:lle|для Кюменлааксо
+lansi-lappi:lle|для Западной Лапландии
+nyland:lle|для Уусимаа
+osterbotten:lle|для Остроботнии
+paijat-hame:lle|для Пяйяне-Тавастии
+pirkanmaa:lle|для Пирканмаа
+pohjois-karjala:lle|для Северной Карелии
+pohjois-lappi:lle|для Северной Лапландии
+pohjois-pohjanmaa:lle|для Северной Остроботнии
+pohjois-savo:lle|для Северного Саво
+satakunta:lle|для Сатакунты
+uusimaa:lle|для Уусимаа
+varsinais-suomi:lle|для Финляндии Проппер
+huomattavasti suurempi|значительно больше
+huomattavasti pienempi|значительно меньше
+rannikolla|на побережье
+metria sekunnissa|метров в секунду
+1-alkaen|начиная с понедельника
+2-alkaen|начиная со вторника
+3-alkaen|начиная со среды
+4-alkaen|начиная с четверга
+5-alkaen|начиная с пятницы
+6-alkaen|начиная с субботы
+7-alkaen|начиная с воскресенья
+tanaan|сегодня
+huomenna|завтра
+ylihuomenna|послезавтра
+ensi yona|ночью
+huomisaamuna|завтра утром
+aamulla|утром
+illalla|вечером
+iltapaivalla|днём
+aamuyolla|после полуночи
+keskipaivalla|в полдень
+iltayolla|до полуночи
+keskiyolla|в полночь
+yosta alkaen|с ночи
+aamuyosta alkaen|с раннего утра
+aamusta alkaen|с утра
+aamupaivasta alkaen|с первой половины дня
+keskipaivasta alkaen|с полудня
+iltapaivasta alkaen|с послеполуденного времени
+illasta alkaen|с вечера
+iltayosta alkaen|с позднего вечера
+keskiyosta alkaen|с полуночи
+prosenttia|процентов
+ajoittain|временами
+1-na kello|в понедельник
+2-na kello|во вторник
+3-na kello|в среду
+4-na kello|в четверг
+5-na kello|в пятницу
+6-na kello|в субботу
+7-na kello|в воскресенье
+ei suuria muutoksia saassa|существенных изменений погоды не ожидается
+saa selkenee|погода прояснится
+saa muuttuu epavakaisemmaksi|погода становится более неустойчивой
+sateinen saa jatkuu|дождливая погода продолжается
+epavakainen saa jatkuu|неустойчивая погода продолжается
+saa lauhtuu|погода становится мягче
+saa on enimmakseen poutaista|погода преимущественно без осадков
+saa poutaantuu|погода улучшается
+saa muuttuu helteiseksi|погода становится жаркой
+saa lampenee|погода теплеет
+saa viilenee|погода холодает
+saa muuttuu koleaksi|погода становится холоднее
+saa kylmenee|погода становится холодной
+helteinen saa jatkuu|жаркая погода продолжается
+lammin saa jatkuu|тёплая погода продолжается
+viilea saa jatkuu|прохладная погода продолжается
+kolea saa jatkuu|холодная погода продолжается
+kylma saa jatkuu|холодная погода продолжается
+virtaa|течёт
+tilapaisesti|временно
+lamminta|тёплый
+kylmaa|холодный
+viileaa|прохладный
+viileampaa|прохладнее
+lampimampaa|теплее
+kylmempaa|холоднее
+hyvin|значительно
+vahan|немного
+ilmaa|воздух
+Suomeen|в Финляндию
+maan|страны
+etelaosiin|южные районы
+keskiosiin|центральные районы
+pohjoisosiin|северные районы
+itaosiin|восточные районы
+lansiosiin|западные районы
+etela-|южный
+keski-|центральный
+pohjois-|северный
+ita-|восточный
+lansi-|западный
+kuivempaa|более сухой
+kosteampaa|более влажный
+sadealueita|зоны осадков
+Suomen yli|над Финляндией
+Etela-Suomen yli|над Южной Финляндией
+Keski-Suomen yli|над Центральной Финляндией
+Pohjois-Suomen yli|над Северной Финляндией
+Ita-Suomen yli|над Восточной Финляндией
+Lansi-Suomen yli|над Западной Финляндией
+Kaakkois-Suomen yli|над Юго-Восточной Финляндией
+uusi|новый
+sateen todennakoisyys|вероятность осадков
+kuurosateen todennakoisyys|вероятность ливней
+ukkosen todennakoisyys|вероятность грозы
+pakkanen jatkuu|морозы продолжатся
+pakkanen kiristyy|морозы усилятся
+pakkanen heikkenee|морозы ослабнут
+kuuluu|относится к
+sateineen|с осадками
+sadealueineen|с зонами осадков
+hajanaisine sadealueineen|с разрозненными зонами осадков
+Lounais-Suomen yli|над Юго-Западной Финляндией
+saapuu|приближается
+saa muuttuu sateisemmaksi|погода становится более дождливой
+alue|район
+pohjanmaa:lle|для Остроботнии
+suomi:lle|для Финляндии
+aluksi|сначала
+ahvenanmaa:lle|для Аланда
+huomisesta alkaen|начиная с завтра
+ja|и
+tiepiiri-hame:lle|для дорожного района Тавастии
+tiepiiri-kaakkois-lappi:lle|для Юго-Восточной Лапландии
+tiepiiri-kaakkois-suomi:lle|для дорожного района Юго-Восточной Финляндии
+tiepiiri-kasivarsi:lle|для Северо-Западной Лапландии
+tiepiiri-keski-lappi:lle|для Центральной Лапландии
+tiepiiri-keski-suomi:lle|для дорожного района Центральной Финляндии
+tiepiiri-lounais-lappi:lle|для Юго-Западной Лапландии
+tiepiiri-oulu-ita:lle|для восточной части дорожного района Оулу
+tiepiiri-oulu-lansi:lle|для западной части дорожного района Оулу
+tiepiiri-savo-karjala:lle|для дорожного района Саво-Карелия
+tiepiiri-turku:lle|для дорожного района Турку
+tiepiiri-uusimaa:lle|для дорожного района Уусимаа
+tiepiiri-vaasa:lle|для дорожного района Вааса
+tiepiiri-yla-lappi:lle|для Верхней Лапландии
+tienpintalampotila|температура дорожного покрытия
+ensimmaisen 12 tunnin sademaara|общее количество осадков за первые 12 часов
+ensimmaisen 12 tunnin sademaara|общее количество осадков за первые 12 часов
+seuraavan 12 tunnin|в течение следующих 12 часов
+seuraavan 24 tunnin sademaara|общее количество осадков за следующие 24 часа
+tiet ovat|дороги
+teilla on|на дорогах
+jaisia|обледенелые
+osittain jaisia|частично обледенелые
+kuuraa|покрытые инеем
+sohjoa|покрытые слякотью
+lunta|заснеженные
+markia|мокрые
+kosteita|влажные
+kuivia|сухие
+kuuraisia|покрытые инеем
+sohjoisia|покрытые слякотью
+lumisia|заснеженные
+tiet ovat (sivulause)|
+yleisesti|в целом
+kanta-hame:lle|для Кянта-Тавастии
+ita-uusimaa:lle|для Восточного Уусимаа
+lappi:lle|для Лапландии
+lapin-laani:lle|для провинции Лапландия
+oulun-laani:lle|для провинции Оулу
+ita-suomen-laani:lle|для провинции Восточная Финляндия
+lansi-suomen-laani:lle|для провинции Западная Финляндия
+etela-suomen-laani:lle|для провинции Южная Финляндия
+ahvenanmaan-laani:lle|для провинции Аланд
+7-paivalla|в воскресенье днём
+2-aamuna|во вторник утром
+3-aamuna|в среду утром
+4-aamuna|в четверг утром
+5-aamuna|в пятницу утром
+6-aamuna|в субботу утром
+7-aamuna|в воскресенье утром
+1-aamupaivasta alkaen|с первой половины дня понедельника
+2-aamupaivasta alkaen|с первой половины дня вторника
+3-aamupaivasta alkaen|с первой половины дня среды
+4-aamupaivasta alkaen|с первой половины дня четверга
+5-aamupaivasta alkaen|с первой половины дня пятницы
+6-aamupaivasta alkaen|с первой половины дня субботы
+1-aamusta alkaen|с утра понедельника
+2-aamusta alkaen|с утра вторника
+3-aamusta alkaen|с утра среды
+4-aamusta alkaen|с утра четверга
+5-aamusta alkaen|с утра пятницы
+6-aamusta alkaen|с утра субботы
+7-aamusta alkaen|с утра воскресенья
+1-iltana|в понедельник вечером
+2-iltana|во вторник вечером
+3-iltana|в среду вечером
+4-iltana|в четверг вечером
+5-iltana|в пятницу вечером
+6-iltana|в субботу вечером
+7-iltana|в воскресенье вечером
+1-illasta alkaen|с вечера понедельника
+2-illasta alkaen|с вечера вторника
+3-illasta alkaen|с вечера среды
+4-illasta alkaen|с вечера четверга
+5-illasta alkaen|с вечера пятницы
+6-illasta alkaen|с вечера субботы
+7-illasta alkaen|с вечера воскресенья
+1-paivalla|в понедельник днём
+2-paivalla|во вторник днём
+3-paivalla|в среду днём
+4-paivalla|в четверг днём
+5-paivalla|в пятницу днём
+6-paivalla|в субботу днём
+1-vastaisesta yosta alkaen|с ночи на понедельник
+2-vastaisesta yosta alkaen|с ночи на вторник
+3-vastaisesta yosta alkaen|с ночи на среду
+4-vastaisesta yosta alkaen|с ночи на четверг
+5-vastaisesta yosta alkaen|с ночи на пятницу
+6-vastaisesta yosta alkaen|с ночи на субботу
+7-vastaisesta yosta alkaen|с ночи на воскресенье
+huomisaamusta alkaen|с завтрашнего утра
+huomisaamupaivasta alkaen|с завтрашнего первой половины дня
+huomisillasta alkaen|с завтрашнего вечера
+huomenna paivalla|завтра днём
+huomisiltana|завтра вечером
+1-aamuna|в понедельник утром
+7-aamupaivasta alkaen|с первой половины дня воскресенья
+B1:lle|для Ботнического залива
+B2:lle|для Кваркена
+B3:lle|для Ботнического моря
+B4:lle|для Архипелагового моря и Аландского моря
+B5:lle|для Финского залива
+B6:lle|для Рижского залива
+B7:lle|для Северной Балтики
+B8:lle|для Средней Балтики
+B9:lle|для Юго-восточной Балтики
+B10:lle|для Южной Балтики
+B11:lle|для Арконского бассейна
+B12:lle|для Эресунна и Бельтов
+B13:lle|для Каттегата
+B1N:lle|для Северного Ботнического залива
+B1S:lle|для Южного Ботнического залива
+B4E:lle|для Архипелагового моря
+B4W:lle|для Аландского моря
+B5E:lle|для Восточного Финского залива
+B5W:lle|для Западного Финского залива
+B8E:lle|для Средней Балтики
+B8W:lle|для Готландского моря
+B10N:lle|для Эландского моря
+B10S:lle|для Борнхольмского моря
+osittain jaisiksi|частично обледенелые
+kuuraisiksi|покрытые инеем
+keli on|дорожные условия
+tienpinnat muuttuvat|дорожное покрытие становится
+jaisiksi|обледенелые
+pakkasliukkautta|скользкость из-за мороза
+rannasta ja liukkaista|ухудшено из-за скользких дорог и мокрого снега
+tieto puuttuu|данные отсутствуют
+liukkaiksi jaatavasta sateesta|скользкие из-за ледяного дождя
+rannasta ja osittain liukkaista|ухудшено из-за частично скользких дорог и мокрого снега
+sateesta ja osittain liukkaista|ухудшено из-за частично скользких дорог и дождя
+sateesta ja liukkaista|ухудшено из-за скользких дорог и дождя
+normaali|нормально
+aanekoski:lle|для Яанекоски
+aetsa:lle|для Яэтся
+ahtari:lle|для Яхтяри
+alaharma:lle|для Алахярмя
+alajarvi:lle|для Алаярви
+alastaro:lle|для Аластаро
+alavieska:lle|для Алавиеска
+alavus:lle|для Алавус
+anjalankoski:lle|для Анялянкоски
+artjarvi:lle|для Артярви
+asikkala:lle|для Асиккала
+askainen:lle|для Аскайнен
+askola:lle|для Аскола
+aura:lle|для Аура
+brando:lle|для Брандё
+dragsfjard:lle|для Драгсфьярд
+eckero:lle|для Эккерё
+elimaki:lle|для Элимяки
+enonkoski:lle|для Энонкоски
+enontekio:lle|для Энонтекиё
+eno:lle|для Эно
+espoo:lle|для Эспоо
+eurajoki:lle|для Эурайоки
+eura:lle|для Эура
+evijarvi:lle|для Эвиярви
+finstrom:lle|для Финстрём
+foglo:lle|для Фёглё
+forssa:lle|для Форсса
+geta:lle|для Гета
+haapajarvi:lle|для Хаапаярви
+haapavesi:lle|для Хаапавеси
+hailuoto:lle|для Хайлуото
+halikko:lle|для Халикко
+halsua:lle|для Халсуа
+hameenkoski:lle|для Хямеэнкоски
+hameenkyro:lle|для Хямеэнкюрё
+hameenlinna:lle|для Хямеэнлинны
+hamina:lle|для Хамины
+hammarland:lle|для Хаммарланд
+hankasalmi:lle|для Ханкасалми
+hanko:lle|для Ханко
+harjavalta:lle|для Харьявалта
+B3S:lle|для Южного Ботнического моря
+B7E:lle|для восточной части Северной Балтики
+B7W:lle|для западной части Северной Балтики
+hartola:lle|для Хартола
+hattula:lle|для Хаттула
+hauho:lle|для Хаухо
+haukipudas:lle|для Хаукипудас
+haukivuori:lle|для Хаукивуори
+hausjarvi:lle|для Хаусярви
+heinavesi:lle|для Хейнявеси
+heinola:lle|для Хейнола
+helsinki:lle|для Хельсинки
+himanka:lle|для Химанка
+hirvensalmi:lle|для Хирвенсалми
+hollola:lle|для Холлола
+honkajoki:lle|для Хонкайоки
+houtskari:lle|для Хаутскари
+huittinen:lle|для Хуиттинен
+humppila:lle|для Хумппила
+hyrynsalmi:lle|для Хюрюнсалми
+hyvinkaa:lle|для Хювинкяя
+iisalmi:lle|для Иисалми
+ii:lle|для Ии
+iitti:lle|для Иитти
+ikaalinen:lle|для Икаалинен
+ilmajoki:lle|для Илмайоки
+ilomantsi:lle|для Иломантси
+imatra:lle|для Иматры
+inari:lle|для Инари
+inio:lle|для Иниё
+inkoo:lle|для Инкоо
+isojoki:lle|для Исойоки
+isokyro:lle|для Исокюрё
+jaala:lle|для Яала
+jalasjarvi:lle|для Ялясярви
+jamijarvi:lle|для Ямийярви
+jamsankoski:lle|для Ямсянкоски
+jamsa:lle|для Ямся
+janakkala:lle|для Янаккала
+jarvenpaa:lle|для Ярвенпяя
+joensuu:lle|для Йоэнсуу
+jokioinen:lle|для Йокиойнен
+jomala:lle|для Йомала
+joroinen:lle|для Йоройнен
+joutsa:lle|для Йоутса
+joutseno:lle|для Йоутсено
+juankoski:lle|для Юанкоски
+jurva:lle|для Юрва
+juuka:lle|для Юука
+juupajoki:lle|для Юупайоки
+juva:lle|для Юва
+jyvaskylan_mlk:lle|для Ювяскюля
+jyvaskyla:lle|для Ювяскюля
+kaarina:lle|для Каарина
+kaavi:lle|для Кааеви
+kajaani:lle|для Каяани
+kalajoki:lle|для Калайоки
+kalvia:lle|для Кялвия
+kalvola:lle|для Калвола
+kangasala:lle|для Кангасала
+kangasniemi:lle|для Кангасниеми
+kankaanpaa:lle|для Канкаанпяя
+kannonkoski:lle|для Каннонкоски
+kannus:lle|для Каннус
+karijoki:lle|для Кариёки
+karjaa:lle|для Карьяа
+karjalohja:lle|для Карьялохья
+karkkila:lle|для Карккила
+karkola:lle|для Кяркёля
+karsamaki:lle|для Кярсямяки
+karstula:lle|для Карстула
+karttula:lle|для Карттула
+karvia:lle|для Карвиа
+kaskinen:lle|для Каскинен
+kauhajoki:lle|для Каухайоки
+kauhava:lle|для Каухава
+kauniainen:lle|для Кауниайнен
+kaustinen:lle|для Каустинен
+keitele:lle|для Кейтеле
+kemijarvi:lle|для Кемиярви
+keminmaa:lle|для Кеминмаа
+kemio:lle|для Кемиё
+kemi:lle|для Кеми
+kempele:lle|для Кемпеле
+kerava:lle|для Керава
+kerimaki:lle|для Керимяки
+kesalahti:lle|для Кесялахти
+kestila:lle|для Кестиля
+keuruu:lle|для Кеуруу
+kihnio:lle|для Кихниё
+kiikala:lle|для Кийкала
+kiikoinen:lle|для Кийкойнен
+kiiminki:lle|для Кийминки
+kinnula:lle|для Кинула
+kirkkonummi:lle|для Киркконумми
+kisko:lle|для Кисько
+kitee:lle|для Китеэ
+kittila:lle|для Киттиля
+kiukainen:lle|для Киукайнен
+kiuruvesi:lle|для Кюуровеси
+kivijarvi:lle|для Кивиярви
+kodisjoki:lle|для Кодисйоки
+kokar:lle|для Кёкар
+kokemaki:lle|для Кокемяки
+kokkola:lle|для Коккола
+kolari:lle|для Колари
+konnevesi:lle|для Коннэвеси
+kontiolahti:lle|для Контиолахти
+korpilahti:lle|для Корпилахти
+korppoo:lle|для Корппоо
+korsnas:lle|для Корснес
+kortesjarvi:lle|для Кортесярви
+koski_tl:lle|для Коски
+kotka:lle|для Котки
+kouvola:lle|для Коуволы
+koylio:lle|для Кёюлиё
+kristiinankaupunki:lle|для Кристийнанкаупунки
+kronoby:lle|для Кронобю
+kuhmalahti:lle|для Кухмалахти
+kuhmoinen:lle|для Кухмойнен
+kuhmo:lle|для Кухмо
+kuivaniemi:lle|для Куйваниеми
+kumlinge:lle|для Кумлинге
+kuopio:lle|для Куопио
+kuortane:lle|для Куортане
+kurikka:lle|для Курикка
+kuru:lle|для Куру
+kustavi:lle|для Кустави
+kuusamo:lle|для Куусамо
+kuusankoski:lle|для Куусанкоски
+kuusjoki:lle|для Куусйоки
+kylmakoski:lle|для Кюлмякоски
+kyyjarvi:lle|для Кюйярви
+lahti:lle|для Лахти
+laihia:lle|для Лайхиа
+laitila:lle|для Лайтила
+lammi:lle|для Ламми
+langelmaki:lle|для Лянгелмяки
+lapinjarvi:lle|для Лапинярви
+lapinlahti:lle|для Лапинлахти
+lappajarvi:lle|для Лаппаярви
+lappeenranta:lle|для Лаппеэнранты
+lapin kuntaan:lle|для Лаппи
+lapua:lle|для Лапуа
+larsmo:lle|для Ларсмо
+laukaa:lle|для Лаукаа
+lavia:lle|для Лавиа
+lehtimaki:lle|для Лехтимяки
+leivonmaki:lle|для Лейвонмяки
+lemi:lle|для Леми
+lemland:lle|для Лемланд
+lempaala:lle|для Лемпяяля
+lemu:lle|для Лему
+leppavirta:lle|для Леппявирта
+lestijarvi:lle|для Лестийярви
+lieksa:lle|для Лиекса
+lieto:lle|для Лието
+liljendal:lle|для Лильендаль
+liminka:lle|для Лиминка
+liperi:lle|для Липери
+lohja:lle|для Лохья
+lohtaja:lle|для Лохтая
+loimaa:lle|для Лоймаа
+loppi:lle|для Лоппи
+loviisa:lle|для Ловийса
+luhanka:lle|для Луханка
+lumijoki:lle|для Лумийоки
+lumparland:lle|для Лумпарланд
+luopioinen:lle|для Луопиойнен
+luumaki:lle|для Луумяки
+luvia:lle|для Лувиа
+maalahti:lle|для Маалахти
+maaninka:lle|для Маанинка
+maarianhamina:lle|для Маарианхамина
+maksamaa:lle|для Максамаа
+mantsala:lle|для Мянтсяля
+mantta:lle|для Мянтта
+mantyharju:lle|для Мянтюхарью
+marttila:lle|для Марттила
+masku:lle|для Маску
+mellila:lle|для Меллиля
+merijarvi:lle|для Мериярви
+merikarvia:lle|для Мерикарвиа
+merimasku:lle|для Меримаску
+miehikkala:lle|для Мийехиккяля
+mietoinen:lle|для Миетойнен
+mikkeli:lle|для Миккели
+mouhijarvi:lle|для Моухийярви
+muhos:lle|для Мухос
+multia:lle|для Мултиа
+muonio:lle|для Муонио
+mustasaari:lle|для Мустасаари
+muurame:lle|для Мюурамэ
+muurla:lle|для Мюурла
+mynamaki:lle|для Минамяки
+myrskyla:lle|для Мюрскюля
+naantali:lle|для Наантали
+nakkila:lle|для Накила
+narpio:lle|для Нярпиё
+nastola:lle|для Настола
+nauvo:lle|для Науво
+nilsia:lle|для Нилсия
+nivala:lle|для Нивала
+nokia:lle|для Нокиа
+noormarkku:lle|для Нооркарку
+nousiainen:lle|для Нусяйнен
+nummipusula:lle|для Нумми-Пусула
+nurmes:lle|для Нурмес
+nurmijarvi:lle|для Нурмиярви
+nurmo:lle|для Нурмо
+oravainen:lle|для Оравайнен
+orimattila:lle|для Ориматтила
+oripaa:lle|для Ориппяя
+orivesi:lle|для Ориведи
+oulainen:lle|для Оулайнен
+oulunsalo:lle|для Оулунсало
+oulu:lle|для Оулу
+outokumpu:lle|для Оутокумпу
+padasjoki:lle|для Падасйоки
+paimio:lle|для Паймио
+palkane:lle|для Пялькяне
+paltamo:lle|для Палтамо
+parainen:lle|для Параинен
+parikkala:lle|для Парикала
+parkano:lle|для Паркано
+pedersoren_kunta:lle|для Педерсёре
+pelkosenniemi:lle|для Пелкосенниеми
+pello:lle|для Пелло
+perho:lle|для Перхо
+pernaja:lle|для Пернайа
+pernio:lle|для Перниё
+pertteli:lle|для Перттели
+pertunmaa:lle|для Пертунмаа
+petajavesi:lle|для Петяявеси
+pieksanmaa:lle|для Пиексянмаа
+pielavesi:lle|для Пиелавеси
+pietarsaari:lle|для Пиетарсаари
+pihtipudas:lle|для Пихтипудас
+piikkio:lle|для Пийккиё
+piippola:lle|для Пийппола
+pirkkala:lle|для Пирккала
+pohja:lle|для Похья
+polvijarvi:lle|для Полвиярви
+pomarkku:lle|для Поmarkку
+pori:lle|для Пори
+pornainen:lle|для Порнайнен
+porvoo:lle|для Порвоо
+posio:lle|для Посио
+poytya:lle|для Пёйтья
+pudasjarvi:lle|для Пудасярви
+pukkila:lle|для Пуккила
+pulkkila:lle|для Пулккила
+punkaharju:lle|для Пункахарью
+punkalaidun:lle|для Пункалайдун
+puolanka:lle|для Пуоланка
+puumala:lle|для Пуумала
+pyhajarvi:lle|для Пюхяярви
+pyhajoki:lle|для Пюхяйоки
+pyhanta:lle|для Пюхянтя
+pyharanta:lle|для Пюхяранта
+pyhaselka:lle|для Пюхяселькя
+pyhtaa:lle|для Пюхтяя
+pylkonmaki:lle|для Пюлькёнмяки
+raahe:lle|для Раахе
+raakkyla:lle|для Рааккюля
+raisio:lle|для Райсио
+rantasalmi:lle|для Рантасалми
+rantsila:lle|для Рантсила
+ranua:lle|для Рануа
+rauma:lle|для Раума
+rautalampi:lle|для Рауталампи
+rautavaara:lle|для Раутаваара
+rautjarvi:lle|для Раутярви
+reisjarvi:lle|для Рейсярви
+renko:lle|для Ренко
+riihimaki:lle|для Рийхимяки
+ristiina:lle|для Ристийна
+ristijarvi:lle|для Ристиярви
+rovaniemen_mlk:lle|для района Рованиеми
+rovaniemi:lle|для Рованиеми
+ruokolahti:lle|для Руоколахти
+ruotsinpyhtaa:lle|для Руотсинпюхтяя
+ruovesi:lle|для Руовеси
+rusko:lle|для Руско
+ruukki:lle|для Руукки
+rymattyla:lle|для Рюмяттюля
+saarijarvi:lle|для Саариярви
+sakyla:lle|для Сякюля
+salla:lle|для Салла
+salo:lle|для Сало
+saltvik:lle|для Салтвик
+sammatti:lle|для Саммати
+sarkisalo:lle|для Сяркисало
+sauvo:lle|для Сауво
+savitaipale:lle|для Савитайпале
+savonlinna:lle|для Савонлинны
+savonranta:lle|для Савонранта
+savukoski:lle|для Савукоски
+seinajoki:lle|для Сейняйоки
+sievi:lle|для Сиеви
+siikainen:lle|для Сийкайнен
+siikajoki:lle|для Сийкайоки
+siilinjarvi:lle|для Сийлинярви
+simo:lle|для Симо
+sipoo:lle|для Сипоо
+siuntio:lle|для Сюнтио
+sodankyla:lle|для Соданкюля
+soini:lle|для Сойни
+somero:lle|для Сомеро
+sonkajarvi:lle|для Сонкаярви
+sotkamo:lle|для Сoтками
+sottunga:lle|для Соттунга
+sulkava:lle|для Сулкава
+sumiainen:lle|для Сумиайнен
+sund:lle|для Сунд
+suodenniemi:lle|для Суоденниеми
+suolahti:lle|для Суолахти
+suomenniemi:lle|для Суоменниеми
+suomusjarvi:lle|для Суомусярви
+suomussalmi:lle|для Суомуссалми
+suonenjoki:lle|для Суоненйоки
+sysma:lle|для Сюсмя
+taipalsaari:lle|для Тайпалсаари
+taivalkoski:lle|для Тайвалкоски
+taivassalo:lle|для Тайвассало
+tammela:lle|для Таммела
+tammisaari:lle|для Таммисаари
+tampere:lle|для Тампере
+tarvasjoki:lle|для Тарвасйоки
+tervola:lle|для Тервола
+tervo:lle|для Терво
+teuva:lle|для Теува
+tohmajarvi:lle|для Тохмаярви
+toholampi:lle|для Тохоламппи
+toijala:lle|для Тойяла
+toivakka:lle|для Тойвакка
+tornio:lle|для Торнио
+toysa:lle|для Тёюся
+turku:lle|для Турку
+tuulos:lle|для Туулос
+tuusniemi:lle|для Туусниеми
+tuusula:lle|для Туусула
+tyrnava:lle|для Тюрнявя
+ullava:lle|для Уллава
+ulvila:lle|для Улвила
+urjala:lle|для Урьяла
+utajarvi:lle|для Утаярви
+utsjoki:lle|для Утсйоки
+uurainen:lle|для Ууройнен
+uusikaarlepyy:lle|для Уусикаарлепюю
+uusikaupunki:lle|для Уусикаупунки
+vaala:lle|для Ваала
+vaasa:lle|для Ваасы
+vahakyro:lle|для Вяхякюрё
+vahto:lle|для Вахто
+valkeakoski:lle|для Валкеакоски
+valkeala:lle|для Валкеала
+valtimo:lle|для Валтимо
+vammala:lle|для Ваммала
+vampula:lle|для Вампула
+vantaa:lle|для Вантаа
+vardo:lle|для Вордё
+varkaus:lle|для Варкауса
+varpaisjarvi:lle|для Варпайсярви
+vastanfjard:lle|для Вестанфьярд
+vehmaa:lle|для Вехмаа
+velkua:lle|для Велькуа
+vesanto:lle|для Весанто
+vesilahti:lle|для Весилахти
+veteli:lle|для Ветели
+vierema:lle|для Вийремя
+vihanti:lle|для Вихaнти
+vihti:lle|для Вихти
+viiala:lle|для Вийяла
+viitasaari:lle|для Вийтасаари
+viljakkala:lle|для Вильяккала
+vilppula:lle|для Вилппула
+vimpeli:lle|для Вимпели
+virolahti:lle|для Виролахти
+virrat:lle|для Виррат
+voyri:lle|для Вёюри
+vuolijoki:lle|для Вуолийоки
+ylamaa:lle|для Юлямаа
+ylane:lle|для Юляне
+yliharma:lle|для Юлихярмя
+yliii:lle|для Юли-Ии
+ylikiiminki:lle|для Юликийминки
+ylistaro:lle|для Юлистаро
+ylitornio:lle|для Юлиторнио
+ylivieska:lle|для Юливийска
+ylojarvi:lle|для Юлёярви
+ypaja:lle|для Юпяя
+poudan todennakoisyys|вероятность отсутствия осадков
+metsapaloindeksi|индекс лесной пожарной опасности
+haihdunta on erittain huono|испарение очень слабое
+haihdunta on huono|испарение слабое
+haihdunta on tyydyttava|испарение удовлетворительное
+haihdunta on hyva|испарение хорошее
+haihdunta on erinomainen|испарение очень хорошее
+metsapalovaroitus on voimassa|предупреждение о лесных пожарах действует
+metsapalovaroitus ei ole voimassa|предупреждение о лесных пожарах не действует
+luoto:lle|для Луото
+kruunupyy:lle|для Крунупюю
+1-aamulla|в понедельник утром
+2-aamulla|во вторник утром
+3-aamulla|в среду утром
+4-aamulla|в четверг утром
+5-aamulla|в пятницу утром
+6-aamulla|в субботу утром
+7-aamulla|в воскресенье утром
+1-aamupaivalla|в понедельник в первой половине дня
+2-aamupaivalla|во вторник в первой половине дня
+3-aamupaivalla|в среду в первой половине дня
+4-aamupaivalla|в четверг в первой половине дня
+5-aamupaivalla|в пятницу в первой половине дня
+6-aamupaivalla|в субботу в первой половине дня
+7-aamupaivalla|в воскресенье в первой половине дня
+1-iltapaivalla|в понедельник днём
+2-iltapaivalla|во вторник днём
+3-iltapaivalla|в среду днём
+4-iltapaivalla|в четверг днём
+5-iltapaivalla|в пятницу днём
+6-iltapaivalla|в субботу днём
+7-iltapaivalla|в воскресенье днём
+1-illalla|в понедельник вечером
+2-illalla|во вторник вечером
+3-illalla|в среду вечером
+4-illalla|в четверг вечером
+5-illalla|в пятницу вечером
+6-illalla|в субботу вечером
+7-illalla|в воскресенье вечером
+kastepiste|точка росы
+suhteellinen kosteus|относительная влажность
+hehtopascalia|гектопаскалей
+paine|давление
+keli muuttuu|дорожные условия меняются
+lumisateen takia|из-за снегопада
+haukivesi:lle|для Хаукивеси
+kallavesi:lle|для Каллавеси
+malaren:lle|для Меларена
+pihlajavesi:lle|для Пихлаявеси
+suur-saimaa:lle|для Сайма
+vanern:lle|для Венерна
+tie on muuttumassa|дорожное покрытие становится
+keli huononee|дорожные условия ухудшаются
+vaikeuttaa liikennetta|затрудняет движение
+kuuraiseksi|покрытое инеем
+marka|мокрое
+lumisateen takia|из-за снегопада
+pakkasliukkaus|скользкость из-за мороза
+voimakas puuskainen tuuli|сильный порывистый ветер
+lumipyry|метель
+kelin nopea huononeminen|быстрое ухудшение дорожных условий
+rantasade jaiselle|мокрый снег на обледенелой или частично обледенелой дороге
+jaiseksi vesisateesta johtuen|обледенение из-за дождя
+alijaahtynyt sade|переохлаждённые осадки
+jaiseksi tai osittain jaiseksi|обледенелое или частично обледенелое
+runsas lumisade|сильный снегопад
+tienpinta muuttuu|дорожное покрытие становится
+ukkoskuurot todennakoisia|вероятны грозовые шквалы
+ukkoskuurot paikoin mahdollisia|местами возможны грозовые шквалы
+pohjoispohjanmeri:lle|для Северного Северного моря
+etelapohjanmeri:lle|для Южного Северного моря
+biskaja:lle|для Бискайского залива
+uusimaa_ita-uusim:lle|для Уусимаа
+paakaupunkiseutu:lle|для столичного региона Хельсинки
+kaakkois-suomi:lle|для Юго-Восточной Финляндии
+ita-lappi:lle|для Восточной Лапландии
+pohjois-pohjanmaa-itaosa:lle|для восточной части Северной Остроботнии
+pohjois-pohjanmaa-lansiosa:lle|для западной части Северной Остроботнии
+merilappi:lle|для Мери-Лапландии
+pohjanmaa-etela-pohjanmaa:lle|для Остроботнии и Южной Остроботнии
+marka tienpinta muuttuu|мокрое дорожное покрытие превращается в
+alle|ниже
+yksi millimetri|один миллиметр
+lahella [1] astetta|около [1] градусов
+[1] asteen tienoilla|примерно [1] градусов
+kello [1]|[1]
+1-na kello [1]|в понедельник [1]
+2-na kello [1]|во вторник [1]
+3-na kello [1]|в среду [1]
+4-na kello [1]|в четверг [1]
+5-na kello [1]|в пятницу [1]
+6-na kello [1]|в субботу [1]
+7-na kello [1]|в воскресенье [1]
+[1] asteen tuntumassa|близко к [1] градусам
+ita-suomi:lle|для Восточной Финляндии
+itainen-uusimaa:lle|для Восточного Уусимаа
+koleaa|холодный
+lantinen-uusimaa:lle|для Западного Уусимаа
+lounais-suomi:lle|для Юго-Западной Финляндии
+pohjois-suomi:lle|для Северной Финляндии
+pikkupakkasta|температура чуть ниже нуля
+yksittaiset vesikuurot mahdollisia|возможны отдельные дождевые шквалы
+yksittaiset vesi- tai rantakuurot mahdollisia|возможны отдельные шквалы дождя или мокрого снега
+yksittaiset vesi- tai lumikuurot mahdollisia|возможны отдельные шквалы дождя или снега
+yksittaiset sadekuurot mahdollisia|возможны отдельные осадочные шквалы
+yksittaiset rantakuurot mahdollisia|возможны отдельные шквалы мокрого снега
+yksittaiset ranta- tai vesikuurot mahdollisia|возможны отдельные шквалы мокрого снега или дождя
+yksittaiset lumikuurot mahdollisia|возможны отдельные снежные шквалы
+yksittaiset lumi- tai rantakuurot mahdollisia|возможны отдельные шквалы снега или мокрого снега
+vahan plussan puolella|немного выше нуля
+voimakkaita vesikuuroja|сильные дождевые шквалы
+voimakkaita sadekuuroja|сильные осадочные шквалы
+vesikuuroja|дождевые шквалы
+vajaat|почти
+verrattain pilvinen|сравнительно облачно
+vaihtelee puolipilvisesta pilviseen|меняется от переменной до облачной
+tuulinen|ветреный
+tuulista|ветрено
+tuuli saa saan tuntumaan viileammalta|ветер делает погоду ощущаемой более прохладной
+tuuli saa saan tuntumaan kylmemmalta|ветер делает погоду ощущаемой более холодной
+tuntumassa|близко к
+tihkusadetta|морось
+tienoilla|примерно
+saa on helteista|жаркая погода
+saa on edelleen lauhaa|погода по-прежнему мягкая
+sumua|туман
+sisamaassa|во внутренних районах
+selkea|ясно
+sakeita|плотный
+sakeaa|плотный
+sadekuuroja|осадочные шквалы
+sade alkaa|начинаются осадки
+saadaan|получается
+rantakuuroja|шквалы мокрого снега
+runsasta vesisadetta|сильный дождь
+runsaita|сильный
+puolipilvinen|переменная облачность
+poutainen|без осадков
+poikkeuksellisen|исключительно
+pohjoisesta|с севера
+pohjoisesta alkaen|начиная с севера
+pilvinen|облачно
+pieni ukkosen todennakoisyys|небольшая вероятность грозы
+pakkasta|мороз
+pakkanen|заморозок
+pakkanen on purevaa|мороз кусается
+pakkanen on erittain purevaa|мороз очень сильный
+pakkanen hellittaa|мороз начинает ослабевать
+paikkeilla|около
+nollan tienoilla|около нуля
+melko selkea|довольно ясно
+mahdollisesti|возможно
+lannesta|с запада
+lannesta alkaen|начиная с запада
+lampotila nousee|температура повышается
+lahella|вблизи
+luoteesta|с северо-запада
+luoteesta alkaen|начиная с северо-запада
+lounaasta|с юго-запада
+lounaasta alkaen|начиная с юго-запада
+leutoa|мягкий
+koillisesta|с северо-востока
+koillisesta alkaen|начиная с северо-востока
+kirea|сильный мороз
+kirea pakkanen jatkuu|сильный мороз продолжается
+kaakosta|с юго-востока
+kaakosta alkaen|начиная с юго-востока
+jaatavaa vesisadetta|ледяной дождь
+jotka voivat olla jaatavia|которые могут вызывать обледенение
+joka voi olla sakeaa|который может быть плотным
+joka voi olla jaatavaa|который может вызывать обледенение
+joka voi olla ankaraa|который может быть сильным
+joka muuttuu vesisateeksi|который переходит в дождь
+joka muuttuu tihkusateeksi|который переходит в морось
+joka muuttuu rantasateeksi|который переходит в мокрый снег
+joka muuttuu lumisateeksi|который переходит в снег
+idasta|с востока
+idasta alkaen|начиная с востока
+huomattavasti|значительно
+hieman lauhempaa|немного мягче
+hieman kylmempaa|немного холоднее
+hieman kireampaa|немного сильнее мороз
+hieman heikompaa|немного слабее
+heikkoja|слабый
+heikkoja vesikuuroja|слабые дождевые шквалы
+heikkoja sadekuuroja|слабые осадочные шквалы
+heikkoa vesisadetta|слабый дождь
+harvinaisen|необычно
+hallan vaara|угроза заморозков
+hallaa|заморозок
+etelasta|с юга
+etelasta alkaen|начиная с юга
+asteen|градусов
+alueen pohjoisosassa|в северной части района
+alueen lansiosassa|в западной части района
+alueen luoteisosassa|в северо-западной части района
+alueen lounaisosassa|в юго-западной части района
+alueen koillisosassa|в северо-восточной части района
+alueen kaakkoisosassa|в юго-восточной части района
+alueen itaosassa|в восточной части района
+alueen etelaosassa|в южной части района
+alavilla mailla|на низинных землях
+myohemmin|позднее
+[1-na] saa on [poikkeuksellisen] [kylmaa]|погода [2] [3] [1]
+[1-na] [saa lampenee]|[2] [1]
+kirea pakkanen heikkenee|сильный мороз ослабевает
+saa lampenee huomattavasti|погода значительно теплеет
+saa lampenee vahan|погода немного теплеет
+saa viilenee huomattavasti|погода значительно холодает
+saa viilenee vahan|погода немного холодает
+[iltapaivalla] saa poutaantuu ja vaihtelee puolipilvisesta pilviseen|погода улучшается и меняется от переменной до облачной [1]
+empty_string|
+[rannikolla] [paikoin] hallaa, joka voi olla ankaraa|возможны сильные заморозки [2] [1]
+[rannikolla] mahdollisesti hallaa|возможны заморозки [1]
+[sisamaassa] hallan vaara|угроза заморозков [1]
+[rannikolla] [paikoin] hallaa|заморозки [2] [1]
+aamusta|с утра
+[huomenna] [sisamaassa] [paikoin] sumua, joka voi olla sakeaa|[1] возможен плотный туман [3] [2]
+[huomenna] [sisamaassa] [paikoin] sumua|[1] туман [3] [2]
+keskiyolla ja aamuyolla|в полночь и после полуночи
+iltayolla ja keskiyolla|до полуночи и в полночь
+aamuyolla ja aamulla|после полуночи и утром
+illalla ja iltayolla|вечером и до полуночи
+iltapaivalla ja illalla|днём и вечером
+aamulla ja aamupaivalla|утром и в первой половине дня
+7-iltapaivalla ja illalla|в воскресенье днём и вечером
+6-iltapaivalla ja illalla|в субботу днём и вечером
+5-iltapaivalla ja illalla|в пятницу днём и вечером
+4-iltapaivalla ja illalla|в четверг днём и вечером
+3-iltapaivalla ja illalla|в среду днём и вечером
+2-iltapaivalla ja illalla|во вторник днём и вечером
+1-iltapaivalla ja illalla|в понедельник днём и вечером
+7-aamulla ja aamupaivalla|в воскресенье утром и в первой половине дня
+6-aamulla ja aamupaivalla|в субботу утром и в первой половине дня
+5-aamulla ja aamupaivalla|в пятницу утром и в первой половине дня
+4-aamulla ja aamupaivalla|в четверг утром и в первой половине дня
+3-aamulla ja aamupaivalla|в среду утром и в первой половине дня
+2-aamulla ja aamupaivalla|во вторник утром и в первой половине дня
+1-aamulla ja aamupaivalla|в понедельник утром и в первой половине дня
+7-illalla ja iltayolla|в воскресенье вечером и до полуночи
+6-illalla ja iltayolla|в субботу вечером и до полуночи
+5-illalla ja iltayolla|в пятницу вечером и до полуночи
+4-illalla ja iltayolla|в четверг вечером и до полуночи
+3-illalla ja iltayolla|в среду вечером и до полуночи
+2-illalla ja iltayolla|во вторник вечером и до полуночи
+1-illalla ja iltayolla|в понедельник вечером и до полуночи
+aamupaivasta|с первой половины дня
+7-iltayolla|в воскресенье до полуночи
+6-iltayolla|в субботу до полуночи
+5-iltayolla|в пятницу до полуночи
+4-iltayolla|в четверг до полуночи
+3-iltayolla|в среду до полуночи
+2-iltayolla|во вторник до полуночи
+1-iltayolla|в понедельник до полуночи
+[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen|[1] погода меняется от переменной до облачной [2]
+[huomenna] [sisamaassa] saa on [selkea]|[1] погода [3] [2]
+hyvin tuulinen|очень ветреный
+hyvin tuulista|очень ветрено
+[iltapaivalla] [rannikolla] pakkanen on purevaa|мороз кусается [2] [1]
+7-aamuyolla|в воскресенье в ранние часы
+6-aamuyolla|в субботу в ранние часы
+5-aamuyolla|в пятницу в ранние часы
+4-aamuyolla|в четверг в ранние часы
+3-aamuyolla|в среду в ранние часы
+2-aamuyolla|во вторник в ранние часы
+2-aamuyolla ja aamulla|во вторник в ранние часы и утром
+3-aamuyolla ja aamulla|в среду в ранние часы и утром
+5-aamuyolla ja aamulla|в пятницу в ранние часы и утром
+6-aamuyolla ja aamulla|в субботу в ранние часы и утром
+7-aamuyolla ja aamulla|в воскресенье в ранние часы и утром
+1-aamuyolla ja aamulla|в понедельник в ранние часы и утром
+saa on tuulinen|погода ветреная
+[iltapaivalla] [rannikolla] on [tuulista]|[1] ветрено [3] [2]
+rannikolla lahella [N] [astetta]|около [1] [2] на побережье
+[huomenna] [sisamaassa] [lampotila] on vahan yli [N] [astetta]|[1] [3] немного выше [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on vajaat [N] [astetta]|[1] [3] почти [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on lahella [N] [astetta]|[1] [3] около [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] asteen tuntumassa|[1] [3] близко к [4] градусам [2]
+[huomenna] [sisamaassa] [lampotila] on [N] asteen tienoilla|[1] [3] примерно [4] градусов [2]
+[huomenna] [sisamaassa] [lampotila] on noin [N] [astetta]|[1] [3] около [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on [M...N] [astetta]|[1] [3] [4] [5] [2]
+[yolla] on [hieman kylmempaa]|[2] [1]
+[huomenna] [sisamaassa] [lampotila] on [suunnilleen sama]|[1] [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on [M...N] [astetta]|[1] температура [3] [4] [2]
+[yolla] lampotila nousee|температура повышается [1]
+[huomenna] [sisamaassa] pakkanen on [hieman kireampaa]|[1] мороз [3] [2]
+[huomenna] [rannikolla] on pikkupakkasta|[1] [2] температура чуть ниже нуля
+rannikolla noin [N] [astetta]|около [1] [2] на побережье
+rannikolla vajaat [N] [astetta]|почти [1] [2] на побережье
+rannikolla vahan yli [N] [astetta]|немного выше [1] [2] на побережье
+rannikolla [M...N] [astetta]|[1] [2] на побережье
+rannikolla [N] asteen tienoilla|примерно [1] градусов на побережье
+rannikolla [N] asteen tuntumassa|близко к [1] градусам на побережье
+rannikolla [suunnilleen sama]|[1] на побережье
+[huomenna] [sisamaassa] [M...N] [astetta]|[1] [3] [4] [2]
+[huomenna] [sisamaassa] noin [N] [astetta]|[1] около [3] [4] [2]
+[huomenna] [sisamaassa] [N] asteen tienoilla|[1] примерно [3] градусов [2]
+[huomenna] [sisamaassa] [N] asteen tuntumassa|[1] близко к [3] градусам [2]
+[huomenna] [sisamaassa] lahella [N] [astetta]|[1] около [3] [4] [2]
+[huomenna] [sisamaassa] vajaat [N] [astetta]|[1] почти [3] [4] [2]
+[huomenna] [sisamaassa] vahan yli [N] [astetta]|[1] немного выше [3] [4] [2]
+[huomenna] [sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|погода преимущественно без осадков [2] [1], [3]
+[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta]|[1] [4] [5] [3] [2]
+[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4] [5], которые могут вызывать обледенение
+[huomenna] [sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4] [5], которые могут вызывать обледенение
+saa on poutainen|погода без осадков
+6-keskiyolla|в субботу в полночь
+5-keskiyolla|в пятницу в полночь
+4-keskiyolla|в четверг в полночь
+3-keskiyolla|в среду в полночь
+2-keskiyolla|во вторник в полночь
+1-keskiyolla|в понедельник в полночь
+[sisamaassa] alavilla mailla hallan vaara|угроза заморозков на низинных землях [1]
+7-keskiyolla|в воскресенье в полночь
+[huomenna] [sisamaassa] [suunnilleen sama]|[1] [3] [2]
+7-iltapaivasta alkaen|с воскресного послеполудня
+6-iltapaivasta alkaen|с субботнего послеполудня
+5-iltapaivasta alkaen|с пятничного послеполудня
+4-iltapaivasta alkaen|с четвергового послеполудня
+3-iltapaivasta alkaen|со среднего послеполудня
+2-iltapaivasta alkaen|со вторничного послеполудня
+1-iltapaivasta alkaen|с послеполудня понедельника
+7-iltayosta alkaen|с позднего воскресного вечера
+6-iltayosta alkaen|с позднего субботнего вечера
+5-iltayosta alkaen|с позднего пятничного вечера
+4-iltayosta alkaen|с позднего четвергового вечера
+3-iltayosta alkaen|с позднего вечера среды
+2-iltayosta alkaen|с позднего вечера вторника
+1-iltayosta alkaen|с позднего вечера понедельника
+7-aamuyosta alkaen|с раннего утра воскресенья
+6-aamuyosta alkaen|с раннего утра субботы
+5-aamuyosta alkaen|с раннего утра пятницы
+4-aamuyosta alkaen|с раннего утра четверга
+3-aamuyosta alkaen|с раннего утра среды
+2-aamuyosta alkaen|с раннего утра вторника
+1-aamuyosta alkaen|с раннего утра понедельника
+7-keskiyosta alkaen|с воскресной полуночи
+6-keskiyosta alkaen|с субботней полуночи
+5-keskiyosta alkaen|с пятничной полуночи
+4-keskiyosta alkaen|с четверговой полуночи
+3-keskiyosta alkaen|с полуночи среды
+2-keskiyosta alkaen|с полуночи вторника
+1-keskiyosta alkaen|с полуночи понедельника
+1 hehtopascal|один гектопаскаль
+0 hehtopascalia|ноль гектопаскалей
+1 prosentti|один процент
+0 prosenttia|ноль процентов
+1 millimetri|один миллиметр
+0 millimetria|ноль миллиметров
+1 metri sekunnissa|один метр в секунду
+0 metria sekunnissa|ноль метров в секунду
+1 aste|один градус
+0 astetta|ноль градусов
+ranta- tai lumisadetta|мокрый снег или снегопад
+lumi- tai rantasadetta|снегопад или мокрый снег
+lumi- tai vesisadetta|снегопад или дождь
+vesi- tai lumisadetta|дождь или снегопад
+ranta- tai vesisadetta|мокрый снег или дождь
+vesi- tai rantasadetta|дождь или мокрый снег
+ranta- tai vesikuuroja|шквалы мокрого снега или дождя
+vesi- tai rantakuuroja|дождевые шквалы или шквалы мокрого снега
+vesi- tai lumikuuroja|дождевые шквалы или снежные шквалы
+lumi- tai vesikuuroja|снежные шквалы или дождевые шквалы
+[huomenna] [sisamaassa] pakkanen on [N] asteen tuntumassa|[1] температура близко к [3] градусам [2]
+[huomenna] [sisamaassa] saa on poutainen|погода без осадков [2] [1]
+[huomenna] [sisamaassa] pakkanen on [N] asteen tienoilla|температура примерно [3] градусов [2] [1]
+[huomenna] [sisamaassa] pakkanen on lahella [N] [astetta]|[1] температура около [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on vahan yli [N] [astetta]|[1] температура немного выше [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on vajaat [N] [astetta]|[1] температура почти [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on noin [N] [astetta]|[1] температура около [3] [4] [2]
+[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|[1] погода меняется от переменной до облачной и без осадков [2]
+[huomenna] [sisamaassa] saa on [selkea] ja poutainen|[1] погода [3] и без осадков [2]
+[iltapaivalla] saa poutaantuu|погода улучшается [1]
+todennakoisesti myos ukkostaa|также вероятны грозы
+mahdollisesti myos ukkostaa|также возможна гроза
+paikoin myos ukkostaa|местами также бывают грозы
+paikoin voi myos ukkostaa|местами также возможна гроза
+myos ukkosta esiintyy|также наблюдается гроза
+[iltapaivasta alkaen] [pilvistyvaa]|[2] [1]
+[iltapaivalla] saa poutaantuu ja on [selkea]|погода улучшается и [2] [1]
+[lampotila] on [suunnilleen sama]|[1] [2]
+[lampotila] on [M...N] [astetta]|[1] [2] [3]
+[lampotila] on noin [N] [astetta]|[1] около [2] [3]
+[lampotila] on [N] asteen tienoilla|[1] примерно [2] градусов
+[lampotila] on [N] asteen tuntumassa|[1] близко к [2] градусам
+[lampotila] on lahella [N] [astetta]|[1] около [2] [3]
+[lampotila] on vajaat [N] [astetta]|[1] почти [2] [3]
+[lampotila] on vahan yli [N] [astetta]|[1] немного выше [2] [3]
+saa on [poikkeuksellisen] [kylmaa]|погода [1] [2]
+[sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|погода преимущественно без осадков [1], [2]
+[sisamaassa] saa on poutainen|погода без осадков [1]
+[sisamaassa] [paikoin] [heikkoa] [sadetta]|[3] [4] [2] [1]
+[sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4], которые могут вызывать обледенение
+[sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4], которые могут вызывать обледенение
+[paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], которые могут вызывать обледенение
+[paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3], которые могут вызывать обледенение
+[paikoin] [heikkoa] [sadetta]|[1] [2] [3]
+[paikoin] sumua|туман [1]
+[sisamaassa] [paikoin] sumua|туман [2] [1]
+[huomenna] sumua|[1] туман
+[sisamaassa] sumua|туман [1]
+[huomenna] [paikoin] sumua|[1] [2] туман
+[huomenna] [sisamaassa] sumua|[1] [2] туман
+[huomenna] [sisamaassa] sumua, joka voi olla sakeaa|[1] возможен плотный туман [2]
+[paikoin] sumua, joka voi olla sakeaa|[1] возможен плотный туман
+[sisamaassa] sumua, joka voi olla sakeaa|возможен плотный туман [1]
+[sisamaassa] [paikoin] sumua, joka voi olla sakeaa|возможен плотный туман [2] [1]
+[huomenna] [paikoin] sumua, joka voi olla sakeaa|[1] возможен плотный туман [2]
+[huomenna] sumua, joka voi olla sakeaa|[1] возможен плотный туман
+[huomenna] [paikoin] [heikkoa] [sadetta]|[1] [3] [4] [2]
+[paikoin] [sadetta]|[2] [1]
+[huomenna] [sisamaassa] [heikkoa] [sadetta]|[1] [3] [4] [2]
+[sisamaassa] [heikkoa] [sadetta]|[2] [3] [1]
+[huomenna] [heikkoa] [sadetta]|[1] [2] [3]
+[sisamaassa] [sadetta]|[2] [1]
+[sisamaassa] [paikoin] [sadetta]|[3] [2] [1]
+[huomenna] [sadetta]|[1] [2]
+[huomenna] [paikoin] [sadetta]|[1] [3] [2]
+[huomenna] [sisamaassa] [sadetta]|[1] [3] [2]
+[huomenna] [sisamaassa] [paikoin] [sadetta]|[1] [4] [3] [2]
+[huomenna] saa on poutainen|погода без осадков [1]
+[huomenna] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|погода преимущественно без осадков [1], [2]
+[sisamaassa] saa vaihtelee puolipilvisesta pilviseen|погода меняется от переменной до облачной [1]
+[huomenna] saa vaihtelee puolipilvisesta pilviseen|[1] погода меняется от переменной до облачной
+[sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|погода меняется от переменной до облачной и без осадков [1]
+[huomenna] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|[1] погода меняется от переменной до облачной и без осадков
+[sisamaassa] saa on [selkea]|погода [2] [1]
+[huomenna] saa on [selkea]|[1] погода [2]
+[sisamaassa] saa on [selkea] ja poutainen|погода [2] и без осадков [1]
+[huomenna] saa on [selkea] ja poutainen|[1] погода [2] и без осадков
+[huomenna] [sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4], которые могут вызывать обледенение
+[huomenna] [sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4], которые могут вызывать обледенение
+[huomenna] [sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4], которые могут вызывать обледенение
+[huomenna] [sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4], которые могут вызывать обледенение
+[huomenna] [sisamaassa] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], которые могут вызывать обледенение
+[huomenna] [sisamaassa] [sadetta], joka voi olla jaatavaa|[1] [2] [3], которые могут вызывать обледенение
+[heikkoa] [sadetta]|[1] [2]
+[sadetta], joka voi olla jaatavaa|[1], которые могут вызывать обледенение
+[heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2], которые могут вызывать обледенение
+[paikoin] [sadetta], joka voi olla jaatavaa|[1] [2], которые могут вызывать обледенение
+[sisamaassa] [sadetta], joka voi olla jaatavaa|[1] [2], которые могут вызывать обледенение
+[sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3], которые могут вызывать обледенение
+[sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3], которые могут вызывать обледенение
+[huomenna] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4], которые могут вызывать обледенение
+[huomenna] [sadetta], joka voi olla jaatavaa|[1] [2], которые могут вызывать обледенение
+[huomenna] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3], которые могут вызывать обледенение
+[huomenna] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3], которые могут вызывать обледенение
+[sadekuuroja], jotka voivat olla jaatavia|[1], которые могут вызывать обледенение
+[heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2], которые могут вызывать обледенение
+[paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2], которые могут вызывать обледенение
+[sisamaassa] [sadekuuroja], jotka voivat olla jaatavia|[1] [2], которые могут вызывать обледенение
+[sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], которые могут вызывать обледенение
+[sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], которые могут вызывать обледенение
+[huomenna] [sadekuuroja], jotka voivat olla jaatavia|[1] [2], которые могут вызывать обледенение
+[huomenna] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], которые могут вызывать обледенение
+[huomenna] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], которые могут вызывать обледенение
+[huomenna] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4], которые могут вызывать обледенение
+[iltapaivalla] [rannikolla] pakkanen on erittain purevaa|очень сильный мороз [2] [1]
+[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan kylmemmalta|ветер делает погоду ощущаемой более холодной [2] [1]
+[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta|ветер делает погоду ощущаемой более прохладной [2] [1]
+saa on hyvin tuulinen|погода очень ветреная
+saa on [iltapaivalla] [rannikolla] [tuulinen]|ветрено [3] [2] [1]
+[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1] [2] [1]
+pakkasta on vahan yli [N] [astetta]|температура немного ниже [1] [2]
+pakkasta on vajaat [N] [astetta]|температура почти [1] [2]
+pakkanen on lahella [N] [astetta]|температура около [1] [2]
+pakkanen on [N] asteen tienoilla|температура примерно [1] градусов
+pakkanen on [N] asteen tuntumassa|температура близко к [1] градусам
+pakkasta on noin [N] [astetta]|температура около [1] [2]
+pakkasta on [M...N] [astetta]|температура [1] [2]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen|погода улучшается [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on selkea|погода улучшается и ясно [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on selkea|погода улучшается и ясно [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on selkea|погода улучшается и ясно [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on selkea|погода улучшается и ясно [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja vaihtelee puolipilvisesta pilviseen|погода улучшается и меняется от переменной до облачной [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja vaihtelee puolipilvisesta pilviseen|погода улучшается и меняется от переменной до облачной [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja vaihtelee puolipilvisesta pilviseen|погода улучшается и меняется от переменной до облачной [1]
+6-keskiyohon asti|до субботней полуночи
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja vaihtelee puolipilvisesta pilviseen|погода улучшается и меняется от переменной до облачной [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen|погода улучшается [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen|погода улучшается [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen|погода улучшается [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on pilvinen|погода улучшается и облачно [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on pilvinen|погода улучшается и облачно [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on pilvinen|погода улучшается и облачно [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on pilvinen|погода улучшается и облачно [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on verrattain pilvinen|погода улучшается и сравнительно облачно [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on verrattain pilvinen|погода улучшается и сравнительно облачно [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on verrattain pilvinen|погода улучшается и сравнительно облачно [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on verrattain pilvinen|погода улучшается и сравнительно облачно [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on puolipilvinen|погода улучшается и переменная облачность [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on puolipilvinen|погода улучшается и переменная облачность [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on puolipilvinen|погода улучшается и переменная облачность [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on puolipilvinen|погода улучшается и переменная облачность [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on melko selkea|погода улучшается и довольно ясно [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on melko selkea|погода улучшается и довольно ясно [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on melko selkea|погода улучшается и довольно ясно [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on melko selkea|погода улучшается и довольно ясно [1]
+[rannikolla] on [tuulista]|ветрено [2] [1]
+[iltapaivalla] on [tuulista]|ветрено [2] [1]
+[rannikolla] tuuli saa saan tuntumaan kylmemmalta|ветер делает погоду ощущаемой более холодной [1]
+[iltapaivalla] tuuli saa saan tuntumaan kylmemmalta|ветер делает погоду ощущаемой более холодной [1]
+[rannikolla] tuuli saa saan tuntumaan viileammalta|ветер делает погоду ощущаемой более прохладной [1]
+[iltapaivalla] tuuli saa saan tuntumaan viileammalta|ветер делает погоду ощущаемой более прохладной [1]
+[rannikolla] pakkanen on erittain purevaa|очень сильный мороз [1]
+[iltapaivalla] pakkanen on erittain purevaa|очень сильный мороз [1]
+[rannikolla] pakkanen on purevaa|мороз кусается [1]
+[iltapaivalla] pakkanen on purevaa|мороз кусается [1]
+saa on ajankohtaan nahden tavanomaista lampimampaa|погода значительно теплее обычного для данного времени года
+[huomenna] pakkasta on [M...N] [astetta]|[1] температура [2] [3]
+[huomenna] pakkasta on noin [N] [astetta]|[1] температура около [2] [3]
+[huomenna] pakkanen on [hieman kireampaa]|[1] мороз [2]
+[huomenna] pakkasta on vahan yli [N] [astetta]|[1] температура немного ниже [2] [3]
+[huomenna] pakkasta on vajaat [N] [astetta]|[1] температура почти [2] [3]
+[huomenna] pakkanen on lahella [N] [astetta]|[1] температура около [2] [3]
+[huomenna] pakkanen on [N] asteen tuntumassa|[1] температура близко к [2] градусам
+[huomenna] pakkanen on [N] asteen tienoilla|[1] температура примерно [2] градусов
+[sisamaassa] pakkasta on [M...N] [astetta]|температура [2] [3] [1]
+[sisamaassa] pakkasta on noin [N] [astetta]|температура около [2] [3] [1]
+[sisamaassa] pakkanen on [hieman kireampaa]|мороз [2] [1]
+[sisamaassa] pakkasta on vahan yli [N] [astetta]|температура немного ниже [2] [3] [1]
+[sisamaassa] pakkanen on lahella [N] [astetta]|температура около [2] [3] [1]
+[sisamaassa] pakkasta on vajaat [N] [astetta]|температура почти [2] [3] [1]
+[sisamaassa] pakkanen on [N] asteen tuntumassa|температура близко к [2] градусам [1]
+[sisamaassa] pakkanen on [N] asteen tienoilla|температура примерно [2] градусов [1]
+[sisamaassa] [lampotila] on [suunnilleen sama]|[2] [3] [1]
+[sisamaassa] [lampotila] on [M...N] [astetta]|[2] [3] [4] [1]
+[sisamaassa] [lampotila] on noin [N] [astetta]|[2] около [3] [4] [1]
+[sisamaassa] [lampotila] on [N] asteen tienoilla|[2] примерно [3] градусов [1]
+[sisamaassa] [lampotila] on [N] asteen tuntumassa|[2] близко к [3] градусам [1]
+[sisamaassa] [lampotila] on lahella [N] [astetta]|[2] около [3] [1]
+[sisamaassa] [lampotila] on vajaat [N] [astetta]|[2] почти [3] [4] [1]
+[sisamaassa] [lampotila] on vahan yli [N] [astetta]|[2] немного выше [3] [4] [1]
+[huomenna] [lampotila] on [suunnilleen sama]|[1] [2] [3]
+[huomenna] [lampotila] on [M...N] [astetta]|[1] [2] [3] [4]
+[huomenna] [lampotila] on noin [N] [astetta]|[1] [2] около [3] [4]
+[huomenna] [lampotila] on [N] asteen tienoilla|[1] [2] примерно [3] градусов
+[huomenna] [lampotila] on [N] asteen tuntumassa|[1] [2] близко к [3] градусам
+[huomenna] [lampotila] on lahella [N] [astetta]|[1] [2] около [3]
+[huomenna] [lampotila] on vajaat [N] [astetta]|[1] [2] почти [3] [4]
+2-keskiyohon asti|до вторничной полуночи
+[huomenna] [lampotila] on vahan yli [N] [astetta]|[1] [2] немного выше [3] [4]
+[rannikolla] on pikkupakkasta|температура чуть ниже нуля [1]
+[huomenna] on pikkupakkasta|[1] температура чуть ниже нуля
+[sisamaassa] [M...N] [astetta]|[2] [3] [1]
+[huomenna] [M...N] [astetta]|[1] [2] [3]
+[sisamaassa] [suunnilleen sama]|[2] [1]
+[huomenna] [suunnilleen sama]|[1] [2]
+[sisamaassa] noin [N] [astetta]|около [2] [3] [1]
+[huomenna] noin [N] [astetta]|[1] около [2] [3]
+[sisamaassa] [N] asteen tienoilla|примерно [2] градусов [1]
+[huomenna] [N] asteen tienoilla|[1] близко к [2] градусам
+[sisamaassa] [N] asteen tuntumassa|близко к [2] градусам [1]
+[huomenna] [N] asteen tuntumassa|[1] близко к [2] градусам
+[sisamaassa] lahella [N] [astetta]|около [2] [3] [1]
+[huomenna] lahella [N] [astetta]|[1] около [2] [3]
+[sisamaassa] vahan yli [N] [astetta]|немного выше [2] [3] [1]
+[huomenna] vahan yli [N] [astetta]|[1] немного выше [2] [3]
+[sisamaassa] vajaat [N] [astetta]|почти [2] [3] [1]
+[huomenna] vajaat [N] [astetta]|[1] почти [2] [3]
+[1-na] saa on ajankohtaan nahden tavanomaista lampimampaa|[1] погода значительно теплее обычного для данного времени года
+asteen(tienoilla)|градусов
+asteen(tuntumassa)|градусов
+[N] [asteen] tienoilla|примерно [1] [2]
+[N] [asteen] tuntumassa|близко к [1] [2]
+[sisamaassa] [N] [asteen] tuntumassa|близко к [2] [3] [1]
+[sisamaassa] [lampotila] on [N] [asteen] tuntumassa|[2] близко к [3] [4] [1]
+[sisamaassa] pakkanen on [N] [asteen] tuntumassa|температура близко к [2] [3] [1]
+[lampotila] on [N] [asteen] tuntumassa|[1] близко к [2] [3]
+[huomenna] [sisamaassa] [N] [asteen] tuntumassa|[1] близко к [3] [4] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tuntumassa|[1] [3] близко к [4] [5] [2]
+[huomenna] [sisamaassa] pakkanen on [N] [asteen] tuntumassa|[1] температура близко к [3] [4] [2]
+[huomenna] [N] [asteen] tuntumassa|[1] близко к [2] [3]
+[huomenna] [lampotila] on [N] [asteen] tuntumassa|[1] [2] близко к [3] [4]
+[huomenna] pakkanen on [N] [asteen] tuntumassa|[1] температура близко к [2] [3]
+rannikolla [N] [asteen] tuntumassa|близко к [1] [2] на побережье
+pakkanen on [N] [asteen] tuntumassa|температура близко к [1] [2]
+[sisamaassa] [N] [asteen] tienoilla|примерно [2] [3] [1]
+[sisamaassa] [lampotila] on [N] [asteen] tienoilla|[2] примерно [3] [4] [1]
+[sisamaassa] pakkanen on [N] [asteen] tienoilla|температура примерно [2] [3] [1]
+[lampotila] on [N] [asteen] tienoilla|[1] примерно [2] [3]
+[huomenna] [sisamaassa] [N] [asteen] tienoilla|[1] примерно [3] [4] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tienoilla|[1] [3] примерно [4] [5] [2]
+[huomenna] [sisamaassa] pakkanen on [N] [asteen] tienoilla|температура примерно [3] [4] [2] [1]
+[huomenna] [N] [asteen] tienoilla|[1] близко к [2] [3]
+[huomenna] [lampotila] on [N] [asteen] tienoilla|[1] [2] примерно [3] [4]
+[huomenna] pakkanen on [N] [asteen] tienoilla|[1] температура примерно [2] [3]
+rannikolla [N] [asteen] tienoilla|примерно [1] [2] на побережье
+pakkanen on [N] [asteen] tienoilla|температура примерно [1] [2]
+saa vaihtelee puolipilvisesta pilviseen ja on poutainen|погода меняется от переменной до облачной и без осадков
+saa on [selkea] ja poutainen|погода [1] и без осадков
+[alueella] saa on ajankohtaan nahden tavanomaista lampimampaa|погода значительно теплее обычного для данного времени года [1]
+[1-na] [alueella] saa on ajankohtaan nahden tavanomaista lampimampaa|[1] погода значительно теплее обычного для данного времени года [2]
+[alueella] [saa lampenee]|[2] [1]
+[1-na] [alueella] [saa lampenee]|[3] [1] [2]
+[alueella] saa on [poikkeuksellisen] [kylmaa]|погода [2] [3] [1]
+[1-na] [alueella] saa on [poikkeuksellisen] [kylmaa]|погода [3] [4] [2] [1]
+yon alin|ночной минимум
+[1-na] [alueella] saa lauhtuu|[1] погода становится мягче [2]
+[alueella] saa lauhtuu|погода становится мягче [1]
+[1-na] saa lauhtuu|[1] погода становится мягче
+[1-na] [alueella] saa on edelleen lauhaa|[1] погода по-прежнему мягкая [2]
+[alueella] saa on edelleen lauhaa|погода по-прежнему мягкая [1]
+[1-na] saa on edelleen lauhaa|[1] погода по-прежнему мягкая
+[alueella] pakkanen kiristyy|морозы усилятся [1]
+[1-na] pakkanen kiristyy|[1] морозы усилятся
+[1-na] [alueella] pakkanen kiristyy|[1] морозы усилятся [2]
+[alueella] kirea pakkanen jatkuu|сильный мороз продолжается [1]
+[1-na] kirea pakkanen jatkuu|[1] сильный мороз продолжается
+[1-na] [alueella] kirea pakkanen jatkuu|[1] сильный мороз продолжается [2]
+[alueella] pakkanen hellittaa|мороз начинает ослабевать [1]
+[1-na] pakkanen hellittaa|[1] мороз начинает ослабевать
+[1-na] [alueella] pakkanen hellittaa|[1] мороз начинает ослабевать [2]
+[alueella] kirea pakkanen heikkenee|сильный мороз ослабевает [1]
+[1-na] kirea pakkanen heikkenee|[1] сильный мороз ослабевает
+[1-na] [alueella] kirea pakkanen heikkenee|[1] сильный мороз ослабевает [2]
+[alueella] pakkanen heikkenee|морозы ослабнут [1]
+[1-na] pakkanen heikkenee|[1] морозы ослабнут
+[1-na] [alueella] pakkanen heikkenee|[1] морозы ослабнут [2]
+[alueella] saa on helteista|жаркая погода [1]
+[1-na] saa on helteista|[1] жаркая погода
+[1-na] [alueella] saa on helteista|[1] жаркая погода [2]
+[alueella] saa muuttuu helteiseksi|погода становится жаркой [1]
+[1-na] saa muuttuu helteiseksi|[1] погода становится жаркой
+[1-na] [alueella] saa muuttuu helteiseksi|[1] погода становится жаркой [2]
+[alueella] helteinen saa jatkuu|жаркая погода продолжается [1]
+[1-na] helteinen saa jatkuu|[1] жаркая погода продолжается
+[1-na] [alueella] helteinen saa jatkuu|[1] жаркая погода продолжается [2]
+[alueella] saa viilenee huomattavasti|погода значительно холодает [1]
+[1-na] saa viilenee huomattavasti|[1] погода значительно холодает
+[1-na] [alueella] saa viilenee huomattavasti|[1] погода значительно холодает [2]
+[alueella] saa viilenee vahan|погода немного холодает [1]
+[1-na] saa viilenee vahan|[1] погода немного холодает
+[1-na] [alueella] saa viilenee vahan|[1] погода немного холодает [2]
+[alueella] saa viilenee|погода холодает [1]
+[1-na] saa viilenee|[1] погода холодает
+[1-na] [alueella] saa viilenee|[1] погода холодает [2]
+[alueella] viilea saa jatkuu|прохладная погода продолжается [1]
+[1-na] viilea saa jatkuu|[1] прохладная погода продолжается
+[1-na] [alueella] viilea saa jatkuu|[1] прохладная погода продолжается [2]
+[alueella] kolea saa jatkuu|холодная погода продолжается [1]
+[1-na] kolea saa jatkuu|[1] холодная погода продолжается
+[1-na] [alueella] kolea saa jatkuu|[1] холодная погода продолжается [2]
+[alueella] saa lampenee huomattavasti|погода значительно теплеет [1]
+[1-na] saa lampenee huomattavasti|[1] погода значительно теплеет
+[1-na] [alueella] saa lampenee huomattavasti|[1] погода значительно теплеет [2]
+[alueella] saa lampenee vahan|погода немного теплеет [1]
+[1-na] saa lampenee vahan|[1] погода немного теплеет
+[1-na] [alueella] saa lampenee vahan|[1] погода немного теплеет [2]
+[alueella] saa lampenee|погода теплеет [1]
+[1-na] saa lampenee|[1] погода теплеет
+[1-na] [alueella] saa lampenee|[1] погода теплеет [2]
+7-keskiyolla ja aamuyolla|в воскресенье в полночь и после полуночи
+6-keskiyolla ja aamuyolla|в субботу в полночь и после полуночи
+5-keskiyolla ja aamuyolla|в пятницу в полночь и после полуночи
+4-keskiyolla ja aamuyolla|в четверг в полночь и после полуночи
+3-keskiyolla ja aamuyolla|в среду в полночь и после полуночи
+2-keskiyolla ja aamuyolla|во вторник в полночь и после полуночи
+1-keskiyolla ja aamuyolla|в понедельник в полночь и после полуночи
+[huomenna] yksittaiset vesikuurot mahdollisia|[1] возможны отдельные дождевые шквалы
+[huomenna] yksittaiset vesi- tai rantakuurot mahdollisia|[1] возможны отдельные шквалы дождя или мокрого снега
+[huomenna] yksittaiset vesi- tai lumikuurot mahdollisia|[1] возможны отдельные шквалы дождя или снега
+[huomenna] yksittaiset sadekuurot mahdollisia|[1] возможны отдельные осадочные шквалы
+[huomenna] yksittaiset rantakuurot mahdollisia|[1] возможны отдельные шквалы мокрого снега
+[huomenna] yksittaiset ranta- tai vesikuurot mahdollisia|[1] возможны отдельные шквалы мокрого снега или дождя
+[huomenna] yksittaiset lumikuurot mahdollisia|[1] возможны отдельные снежные шквалы
+[huomenna] yksittaiset lumi- tai rantakuurot mahdollisia|[1] возможны отдельные шквалы снега или мокрого снега
+[huomenna] [sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia|возможны отдельные шквалы снега или мокрого снега [2] [1]
+[huomenna] [sisamaassa] yksittaiset lumikuurot mahdollisia|возможны отдельные снежные шквалы [2] [1]
+[huomenna] [sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia|возможны отдельные шквалы мокрого снега или дождя [2] [1]
+[huomenna] [sisamaassa] yksittaiset rantakuurot mahdollisia|возможны отдельные шквалы мокрого снега [2] [1]
+[huomenna] [sisamaassa] yksittaiset sadekuurot mahdollisia|возможны отдельные осадочные шквалы [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia|возможны отдельные шквалы дождя или снега [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia|возможны отдельные шквалы дождя или мокрого снега [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesikuurot mahdollisia|возможны отдельные дождевые шквалы [2] [1]
+[sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia|возможны отдельные шквалы мокрого снега или дождя [1]
+[sisamaassa] yksittaiset rantakuurot mahdollisia|возможны отдельные шквалы мокрого снега [1]
+[sisamaassa] yksittaiset sadekuurot mahdollisia|возможны отдельные осадочные шквалы [1]
+1-keskiyohon asti|до полуночи понедельника
+[sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia|возможны отдельные шквалы дождя или снега [1]
+[sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia|возможны отдельные шквалы дождя или мокрого снега [1]
+[sisamaassa] yksittaiset vesikuurot mahdollisia|возможны отдельные дождевые шквалы [1]
+[sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia|[1] возможны отдельные шквалы снега или мокрого снега
+[sisamaassa] yksittaiset lumikuurot mahdollisia|возможны отдельные снежные шквалы [1]
+[sisamaassa] on [hieman lauhempaa]|[2] [1]
+[huomenna] on [hieman lauhempaa]|[1] [2]
+[huomenna] [sisamaassa] on [hieman lauhempaa]|[1] [3] [2]
+[lampotila] [M...N] [astetta]|[1] [2] [3]
+paivan ylin|дневной максимум
+[lampotila] [suunnilleen sama]|[1] [2]
+[lampotila] vahan yli [N] [astetta]|[1] немного выше [2] [3]
+[lampotila] vajaat [N] [astetta]|[1] почти [2] [3]
+[lampotila] lahella [N] [astetta]|[1] около [2] [3]
+[lampotila] [N] [asteen] tuntumassa|[1] близко к [2] [3]
+[lampotila] [N] [asteen] tienoilla|[1] примерно [2] [3]
+[lampotila] noin [N] [astetta]|[1] около [2] [3]
+luoteeseen|на северо-запад
+lounaaseen|на юго-запад
+kaakkoon|на юго-восток
+koilliseen|на северо-восток
+lanteen|на запад
+itaan|на восток
+etelaan|на юг
+pohjoiseen|на север
+[iltapaivalla] tuuli kaantyy [etelaan] ja voimistuu edelleen|[1] ветер поворачивает [2] и продолжает усиливаться
+[pohjoistuulta] [m...n] [metria sekunnissa], joka muuttuu [iltapaivalla] vaihtelevaksi|[1] [2] [3], который становится переменным [4]
+vahitellen|постепенно
+[pohjoistuulta] [m...n] [metria sekunnissa], joka kaantyy [iltapaivalla] [etelaan]|[1] [2] [3], который поворачивает [5] [4]
+[iltapaivalla] tuuli kaantyy [etelaan]|ветер поворачивает [2] [1]
+suunnaltaan vaihtelevaa tuulta|переменный ветер
+latvia:lle|для Латвии
+astetta (n...0)|градусов
+1- ja 2-valille|на север—северо-восток
+3- ja 2-valille|на восток—северо-восток
+3- ja 4-valille|на восток—юго-восток
+5- ja 4-valille|на юг—юго-восток
+5- ja 6-valille|на юг—юго-запад
+7- ja 6-valille|на запад—юго-запад
+7- ja 8-valille|на запад—северо-запад
+1- ja 8-valille|на север—северо-запад
+[huomenna] [etelatuulta]|[1] [2]
+ivalo:lle|для Ивало
+pieksamaki:lle|для Пиексямяки
+[iltapaivalla] [etelaan] kaantyvaa tuulta|ветер поворачивает [2] [1]
+heikkenevaa tuulta|ослабевающий ветер
+8-puolelle|преимущественно северо-западный
+7-puolelle|преимущественно западный
+6-puolelle|преимущественно юго-западный
+5-puolelle|преимущественно южный
+4-puolelle|преимущественно юго-восточный
+3-puolelle|преимущественно восточный
+2-puolelle|преимущественно северо-восточный
+1-puolelle|преимущественно северный
+tuuli muuttuu vaihtelevaksi|ветер становится переменным
+[iltapaivalla] tuuli muuttuu vaihtelevaksi|ветер становится переменным [1]
+[iltapaivalla] [etelatuulta]|[2] [1]
+astetta (1)|градус
+astetta (0)|градусов
+astetta (4)|градусов
+astetta (3)|градусов
+astetta (n...(mod 10=1))|градусов
+astetta (n...4)|градусов
+astetta (n...3)|градусов
+astetta (n...2)|градусов
+astetta (n...1)|градусов
+astetta (2)|градуса
+aallonkorkeus on enimmillaan [N] [metria]|высота волн не превышает [1] [2]
+latgale:lle|для региона Латгале
+vidzeme:lle|для региона Видземе
+zemgale:lle|для региона Земгале
+kurzeme:lle|для региона Курземе
+rigaregion:lle|для региона Лиелрига
+tuuli kaantyy|ветер поворачивает
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta]|[2] [3] [4] [1]
+[iltapaivalla] [nopeasti] [heikkenevaa tuulta]|[2] [3] [1]
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi|ветер временно становится переменным [1]
+[iltapaivalla] tuuli heikkenee ja muuttuu vaihtelevaksi|[1] ветер ослабевает и становится переменным
+astetta (m...n)|градусов
+astetta (n)|градусов
+[iltapaivalla] tuuli heikkenee ja kaantyy [etelaan]|[1] ветер ослабевает и поворачивает [2]
+keskipaivasta|с полудня
+[iltapaivalla] tuuli voimistuu ja kaantyy [etelaan]|[1] ветер усиливается и поворачивает [2]
+[iltapaivalla] tuuli voimistuu ja muuttuu vaihtelevaksi|ветер усиливается и становится переменным [1]
+voimistuvaa tuulta|усиливающийся ветер
+kovimmillaan|до
+nopeasti|быстро
+[iltapaivalla] tuuli muuttuu vaihtelevaksi ja heikkenee edelleen|[1] ветер становится переменным и продолжает ослабевать
+[iltapaivalla] [heikkenevaa tuulta]|[1] [2]
+[iltapaivalla] [heikkenevaa] [etelatuulta]|[1] [2] [3]
+[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] [2] ослабевает и становится переменным
+[iltapaivalla] [pohjoistuuli] heikkenee ja kaantyy [etelaan]|[1] [2] ослабевает и поворачивает [3]
+1- ja 8-valista tuulta|ветер с севера—северо-запада
+7- ja 8-valista tuulta|ветер с запада—северо-запада
+7- ja 6-valista tuulta|ветер с запада—юго-запада
+5- ja 6-valista tuulta|ветер с юга—юго-запада
+5- ja 4-valista tuulta|ветер с юга—юго-востока
+3- ja 4-valista tuulta|ветер с востока—юго-востока
+3- ja 2-valista tuulta|ветер с востока—северо-востока
+1- ja 2-valista tuulta|ветер с севера—северо-востока
+1- ja 8-valinen tuuli|северо-западный ветер с севера
+7- ja 8-valinen tuuli|северо-западный ветер с запада
+7- ja 6-valinen tuuli|юго-западный ветер с запада
+5- ja 6-valinen tuuli|юго-западный ветер с юга
+5- ja 4-valinen tuuli|юго-восточный ветер с юга
+3- ja 4-valinen tuuli|юго-восточный ветер с востока
+3- ja 2-valinen tuuli|северо-восточный ветер с востока
+1- ja 2-valinen tuuli|северо-восточный ветер с севера
+8-puoleinen tuuli|преимущественно северо-западный ветер
+7-puoleinen tuuli|преимущественно западный ветер
+6-puoleinen tuuli|преимущественно юго-западный ветер
+5-puoleinen tuuli|преимущественно южный ветер
+4-puoleinen tuuli|преимущественно юго-восточный ветер
+3-puoleinen tuuli|преимущественно восточный ветер
+2-puoleinen tuuli|преимущественно северо-восточный ветер
+1-puoleinen tuuli|преимущественно северный ветер
+8-tuuli|северо-западный ветер
+7-tuuli|западный ветер
+6-tuuli|юго-западный ветер
+5-tuuli|южный ветер
+4-tuuli|юго-восточный ветер
+3-tuuli|восточный ветер
+2-tuuli|северо-восточный ветер
+1-tuuli|северный ветер
+suunnaltaan vaihteleva tuuli|переменный ветер
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja heikkenee edelleen|[1] ветер временно становится переменным и продолжает ослабевать
+[iltapaivalla] tuuli heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] ветер ослабевает и временно становится переменным
+[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] ослабевает и временно становится переменным
+iltapaivasta|с послеполудня
+[iltapaivalla] [etelatuuli] alkaa heiketa [nopeasti]|[1] [2] начинает ослабевать [3]
+illasta|с вечера
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantya [etelaan]|[1] [2] начинает ослабевать и поворачивать [3]
+astetta (mod 10=1)|градусов
+aste|градус
+nolla|ноль
+asteen(tienoilla (mod 10=1))|градусов
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [pohjoiseen]|[1] [2] [3] [4], который поворачивает [5]
+[iltapaivalla] edelleen [heikkenevaa] [pohjoistuulta]|[1] [3] продолжает [2]
+hehtopascalia (mod 10=1)|гектопаскалей
+prosenttia (mod 10=1)|процентов
+millimetria (mod 10=1)|миллиметров
+metria sekunnissa (mod 10=1)|метров в секунду
+4 astetta|4 градуса
+3 astetta|3 градуса
+2 astetta|2 градуса
+puuskittaista [etelatuulta]|порывистый [1]
+aallonkorkeus on alle [N] [metria]|высота волн менее [1] [2]
+aallonkorkeus on [N...M] [metria]|высота волн [1] [2]
+aallonkorkeus on noin [N] [metria]|высота волн около [1] [2]
+asteen(tuntumassa (mod 10=1))|градусов
+astetta(noin 0)|градусов
+astetta(noin 4)|градусов
+astetta(noin 3)|градусов
+astetta(noin 2)|градусов
+astetta(noin 1)|градус
+astetta(noin (mod 10=1))|градусов
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[1] [2] начинает ослабевать и поворачивает [3]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantya [etelaan]|[1] [2] начинает усиливаться и поворачивать [3]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantyy [etelaan]|[1] [2] начинает усиливаться и поворачивает [3]
+[iltapaivalla] [pohjoistuuli] voimistuu ja kaantyy [etelaan]|[1] [2] усиливается и поворачивает [3]
+[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi|[1] [2] усиливается и становится переменным
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja voimistuu edelleen|[1] ветер временно становится переменным и продолжает усиливаться
+[iltapaivalla] tuuli muuttuu vaihtelevaksi ja voimistuu edelleen|ветер становится переменным и продолжает усиливаться [1]
+[iltapaivalla] tuuli voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] ветер усиливается и временно становится переменным
+iltayosta|с позднего вечера
+keskiyosta|с полуночи
+[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa heiketa|[1] [2] [3], который начинает ослабевать
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [illalla] [pohjoiseen]|[1] [2] [3] [4], который поворачивает [6] [5]
+yosta|с ночи
+[iltapaivalla] [pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] начинает ослабевать [3] и поворачивает [5] [4]
+[ip] [p-tuulta] [m...n] [m/s], joka alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] [3] [4], который начинает ослабевать [5] и поворачивает [7] [6]
+[iltapaivalla] [etelatuuli] heikkenee [nopeasti]|[2] ослабевает [3] [1]
+[iltapaivalla] [pohjoistuuli] heikkenee edelleen|[2] продолжает ослабевать [1]
+[iltapaivalla] sade voi olla runsasta|осадки могут быть сильными [1]
+1-asti|до понедельника
+2-asti|до вторника
+3-asti|до среды
+4-asti|до четверга
+6-asti|до пятницы
+5-asti|до субботы
+7-asti|до воскресенья
+yohon asti|до ночи
+aamuun asti|до утра
+aamupaivaan asti|до первой половины дня
+keskipaivaan asti|до полудня
+iltapaivaan asti|до послеполудня
+iltaan asti|до вечера
+iltayohon asti|до позднего вечера
+keskiyohon asti|до полуночи
+huomiseen asti|до завтра
+1-aamupaivaan asti|до первой половины дня понедельника
+2-aamupaivaan asti|до первой половины дня вторника
+3-aamupaivaan asti|до первой половины дня среды
+4-aamupaivaan asti|до первой половины дня четверга
+5-aamupaivaan asti|до первой половины дня пятницы
+6-aamupaivaan asti|до первой половины дня субботы
+7-aamupaivaan asti|до первой половины дня воскресенья
+1-aamuun asti|до утра понедельника
+2-aamuun asti|до утра вторника
+3-aamuun asti|до утра среды
+4-aamuun asti|до утра четверга
+5-aamuun asti|до утра пятницы
+6-aamuun asti|до утра субботы
+7-aamuun asti|до утра воскресенья
+1-iltaan asti|до вечера понедельника
+2-iltaan asti|до вечера вторника
+3-iltaan asti|до вечера среды
+4-iltaan asti|до вечера четверга
+5-iltaan asti|до вечера пятницы
+6-iltaan asti|до вечера субботы
+7-iltaan asti|до вечера воскресенья
+1-vastaiseen yohon asti|до ночи на понедельник
+2-vastaiseen yohon asti|до ночи на вторник
+3-vastaiseen yohon asti|до ночи на среду
+4-vastaiseen yohon asti|до ночи на четверг
+5-vastaiseen yohon asti|до ночи на пятницу
+6-vastaiseen yohon asti|до ночи на субботу
+7-vastaiseen yohon asti|до ночи на воскресенье
+huomisaamuun asti|до завтрашнего утра
+huomisaamupaivaan asti|до завтрашней первой половины дня
+huomisiltaan asti|до завтрашнего вечера
+7-iltapaivaan asti|до пятничного послеполудня
+6-iltapaivaan asti|до субботнего послеполудня
+5-iltapaivaan asti|до пятничного послеполудня
+4-iltapaivaan asti|до четвергового послеполудня
+3-iltapaivaan asti|до послеполудня среды
+2-iltapaivaan asti|до вторничного послеполудня
+1-iltapaivaan asti|до послеполудня понедельника
+7-iltayohon asti|до позднего воскресного вечера
+6-iltayohon asti|до позднего субботнего вечера
+5-iltayohon asti|до позднего пятничного вечера
+4-iltayohon asti|до позднего четвергового вечера
+3-iltayohon asti|до позднего вечера среды
+2-iltayohon asti|до позднего вечера вторника
+1-iltayohon asti|до позднего вечера понедельника
+7-keskiyohon asti|до воскресной полуночи
+5-keskiyohon asti|до пятничной полуночи
+4-keskiyohon asti|до четверговой полуночи
+3-keskiyohon asti|до полуночи среды
+[iltapaivalla] [pohjoistuuli] voimistuu edelleen|[2] продолжает усиливаться [1]
+[ip] [p-tuulta] [m...n] [m/s], joka alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] [3] [4], который начинает усиливаться [5] и поворачивает [7] [6]
+[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa voimistua|[1] [2] [3], который начинает усиливаться
+aamuyohon asti|до ранних часов
+7-aamuyohon asti|до ранних часов воскресенья
+6-aamuyohon asti|до ранних часов субботы
+5-aamuyohon asti|до ранних часов пятницы
+4-aamuyohon asti|до ранних часов четверга
+3-aamuyohon asti|до ранних часов среды
+2-aamuyohon asti|до ранних часов вторника
+1-aamuyohon asti|до ранних часов понедельника
+[iltapaivalla] kuurot voivat olla voimakkaita|шквалы могут быть сильными [1]
+B3N:lle|для Северного Ботнического моря
+[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] ветер начинает ослабевать и становится переменным
+[iltapaivalla] tuuli alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] ветер начинает ослабевать и временно становится переменным
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] начинает ослабевать и становится переменным
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] начинает ослабевать и временно становится переменным
+inari_utsjoki:lle|для Инари и Утсйоки
+ita_finnmark:lle|для Восточного Финнмарка
+lansi_finnmark:lle|для Западного Финнмарка
+pohjois_ruotsi:lle|для Северной Швеции
+kasivarsi:lle|для Касиварси
+kova|сильный
+voimakas|очень сильный
+heikkenee|ослабевает
+kuola:lle|для Кольского полуострова
+[voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen|[1] поворачивает [2] и продолжает ослабевать
+[voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]|[1] ослабевает и поворачивает [2]
+[voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[1] начинает ослабевать и поворачивает [2]
+[voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] ослабевает и становится переменным
+[voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] начинает ослабевать и становится переменным
+[voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] начинает ослабевать и временно становится переменным
+[voimakas pohjoistuuli] heikkenee edelleen|[1] продолжает ослабевать
+[voimakas pohjoistuuli] alkaa heiketa [nopeasti]|[1] начинает быстро ослабевать [2]
+[voimakas pohjoistuuli] heikkenee [nopeasti]|[1] ослабевает [2]
+[voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] ослабевает и временно становится переменным
+voimakas 3- ja 4-valinen tuuli|сильный ветер с востока—юго-востока
+voimakas 4-tuuli|сильный юго-восточный ветер
+voimakas 4-puoleinen tuuli|сильный преимущественно юго-восточный ветер
+voimakas 5- ja 4-valinen tuuli|сильный ветер с юга—юго-востока
+voimakas 5-tuuli|сильный южный ветер
+voimakas 5-puoleinen tuuli|сильный преимущественно южный ветер
+voimakas 5- ja 6-valinen tuuli|сильный ветер с юга—юго-запада
+voimakas 6-tuuli|сильный юго-западный ветер
+voimakas 6-puoleinen tuuli|сильный преимущественно юго-западный ветер
+voimakas 7- ja 6-valinen tuuli|сильный ветер с запада—юго-запада
+voimakas 7-tuuli|сильный западный ветер
+voimakas 7-puoleinen tuuli|сильный преимущественно западный ветер
+voimakas 7- ja 8-valinen tuuli|сильный ветер с запада—северо-запада
+voimakas 8-tuuli|сильный северо-западный ветер
+voimakas 8-puoleinen tuuli|сильный преимущественно северо-западный ветер
+voimakas 1- ja 8-valinen tuuli|сильный ветер с севера—северо-запада
+voimakas tuuli|штормовой ветер
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti]|[2] ослабевает [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee edelleen|[2] продолжает ослабевать [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa [nopeasti]|[2] начинает ослабевать [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[2] начинает ослабевать и временно становится переменным [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[2] ослабевает и временно становится переменным [1]
+voimakas 2-puoleinen tuuli|сильный преимущественно северо-восточный ветер
+voimakas 3-puoleinen tuuli|сильный преимущественно восточный ветер
+voimakas 3-tuuli|сильный восточный ветер
+voimakas 1-tuuli|сильный северный ветер
+voimakas 1-puoleinen tuuli|сильный преимущественно северный ветер
+voimakas 3- ja 2-valinen tuuli|сильный ветер с востока—северо-востока
+voimakas 2-tuuli|сильный северо-восточный ветер
+voimakas 1- ja 2-valinen tuuli|сильный ветер с севера—северо-востока
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[2] начинает ослабевать и становится переменным [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[2] ослабевает и становится переменным [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[2] начинает ослабевать и поворачивает [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]|[2] ослабевает и поворачивает [3] [1]
+tiepiiri-o4:lle|для северного внутреннего района Оулу
+[iltapaivalla] [voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen|[2] поворачивает [3] и продолжает ослабевать [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]|[2] ослабевает [3] [1] и поворачивает [5] [4]
+[etelatuuli] alkaa voimistua [nopeasti]|[1] начинает усиливаться [2]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] начинает усиливаться и становится переменным
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] ветер начинает усиливаться и временно становится переменным
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] начинает усиливаться и становится переменным
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[2] ослабевает [3] [1] и поворачивает [4]
+[pohjoistuuli] heikkenee [nopeasti]|[1] ослабевает [2]
+[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]|[1] ослабевает [2] и поворачивает [4] [3]
+[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[1] ослабевает [2] и поворачивает [3]
+[pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] ослабевает и становится переменным
+[etelatuuli] alkaa heiketa [nopeasti]|[1] начинает ослабевать [2]
+[pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] ослабевает и временно становится переменным
+[pohjoistuuli] alkaa heiketa ja kaantya [etelaan]|[1] начинает ослабевать и поворачивать [2]
+[pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] начинает ослабевать [2] и поворачивает [4] [3]
+[etelatuuli] heikkenee [nopeasti]|[1] ослабевает [2]
+[pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] начинает ослабевать и становится переменным
+[pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] начинает ослабевать и временно становится переменным
+[pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] начинает ослабевать и становится переменным
+1-keskipaivaan|до полудня понедельника
+2-keskipaivaan|до полудня вторника
+3-keskipaivaan|до полудня среды
+4-keskipaivaan|до полудня четверга
+5-keskipaivaan|до полудня пятницы
+6-keskipaivaan|до полудня субботы
+7-keskipaivaan|до полудня воскресенья
+1-keskipaivasta|с полудня понедельника
+2-keskipaivasta|с полудня вторника
+3-keskipaivasta|с полудня среды
+4-keskipaivasta|с полудня четверга
+5-keskipaivasta|с полудня пятницы
+6-keskipaivasta|с полудня субботы
+7-keskipaivasta|с полудня воскресенья
+kemi-tornio:lle|для Кеми-Торнио
+rovaniemen seutu:lle|для района Рованиеми
+tornionlaakso:lle|для долины Торне
+tunturi-lappi:lle|для Тунтури-Лапи
+elyalue-epo:lle|для района ЭЛУ Южной Остроботнии
+elyalue-kas:lle|для района ЭЛУ Юго-Восточной Финляндии
+elyalue-kes:lle|для района ЭЛУ Центральной Финляндии
+elyalue-lap:lle|для района ЭЛУ Лапландии
+elyalue-pir:lle|для района ЭЛУ Пирканмаа
+elyalue-pkp:lle|для района ЭЛУ Северной Остроботнии
+elyalue-pos:lle|для района ЭЛУ Северного Саво
+elyalue-uud:lle|для района ЭЛУ Уусимаа
+elyalue-var:lle|для района ЭЛУ Финляндии Проппер
+tiepiiri-h1:lle|для Южного Хяме
+tiepiiri-h2:lle|для Южного Пяйянне-Хяме
+tiepiiri-h3:lle|для Южного Пирканмаа
+tiepiiri-h4:lle|для Северного Пяйянне-Хяме
+tiepiiri-h5:lle|для Северного Пирканмаа
+tiepiiri-k1:lle|для прибрежного района Кюменмаа
+tiepiiri-k2:lle|для внутреннего района Кюменмаа
+tiepiiri-k3:lle|для Южной Карелии
+tiepiiri-k4:lle|для Южного Саво
+tiepiiri-ke1:lle|для южного района Центральной Финляндии
+tiepiiri-ke2:lle|для северного района Центральной Финляндии
+tiepiiri-l1:lle|для Юго-Западной Лапландии
+tiepiiri-l2:lle|для Юго-Восточной Лапландии
+tiepiiri-l3:lle|для Центральной Лапландии
+tiepiiri-l4:lle|для Северо-Западной Лапландии
+tiepiiri-l5:lle|для Северной Лапландии
+tiepiiri-o1e:lle|для южного прибрежного района Оулу
+tiepiiri-o1p:lle|для северного прибрежного района Оулу
+tiepiiri-o2:lle|для южного внутреннего района Оулу
+tiepiiri-o3:lle|для Кайнуу
+tiepiiri-o5:lle|для Коиллисмаа
+tiepiiri-s1:lle|для южного района Северной Карелии
+tiepiiri-s2:lle|для южного района Северного Саво
+[etelatuuli] voimistuu [nopeasti]|[1] усиливается [2]
+[iltapaivalla] [pohjoistuuli] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] начинает усиливаться и временно становится переменным
+[iltapaivalla] tuuli alkaa voimistua ja kaantyy [etelaan]|ветер начинает усиливаться и поворачивает [2] [1]
+[pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] начинает усиливаться [2] и поворачивает [4] [3]
+[pohjoistuuli] alkaa voimistua ja kaantya [etelaan]|[1] начинает усиливаться и поворачивать [2]
+[pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] начинает усиливаться и временно становится переменным
+[pohjoistuuli] voimistuu [nopeasti]|[1] усиливается [2]
+[pohjoistuuli] voimistuu ja kaantyy [etelaan]|[1] усиливается и поворачивает [2]
+[pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] усиливается и временно становится переменным
+[pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi|[1] усиливается и становится переменным
+1-aamuyolla|в понедельник в ранние часы
+tiepiiri-s3:lle|для центрального района Северной Карелии
+tiepiiri-s4:lle|для северного района Северного Саво
+tiepiiri-s5:lle|для северного района Северной Карелии
+tiepiiri-t1:lle|для прибрежного района Финляндии Проппер
+tiepiiri-t2:lle|для внутреннего района Финляндии Проппер
+tiepiiri-t3:lle|для восточного района Финляндии Проппер
+tiepiiri-t4:lle|для прибрежного района Сатакунты
+tiepiiri-t5:lle|для внутреннего района Сатакунты
+tiepiiri-u1:lle|для западного прибрежного района Уусимаа
+tiepiiri-u2:lle|для столичного района
+tiepiiri-u3:lle|для восточного прибрежного района Уусимаа
+tiepiiri-u4:lle|для западного внутреннего района Уусимаа
+tiepiiri-u5:lle|для восточного внутреннего района Уусимаа
+tiepiiri-v1:lle|для южных прибрежных районов Остроботнии
+tiepiiri-v2:lle|для Южной Остроботнии
+tiepiiri-v4:lle|для северных прибрежных районов Остроботнии
+tiepiiri-v5:lle|для Центральной Остроботнии
+[iltap] [nop] [heikken] [tuulta] [m...n] [m sek], joka kaantyy [illalla] [pohj]|[1] [2] [3] [4] [5] [6], который поворачивает [8] [7]
+[lampotila] vahan nollan alapuolella|[1] немного ниже нуля
+[lampotila] on vahan nollan alapuolella|[1] немного ниже нуля
+[huomenna] vahan nollan alapuolella|[1] немного ниже нуля
+[sismaassa] vahan nollan alapuolella|[1] немного ниже нуля
+[huomenna] [lampotila] on vahan nollan alapuolella|[1] [2] немного ниже нуля
+[sisamaassa] [lampotila] on vahan nollan alapuolella|[1] [2] немного ниже нуля
+[huomenna] [sisamaassa] vahan nollan alapuolella|[1] немного ниже нуля [2]
+[huomenna] [sisamaassa] [lampotila] on vahan nollan alapuolella|[1] [3] немного ниже нуля [2]
+rannikolla vahan nollan alapuolella|немного ниже нуля на побережье
+muuten hyva nakyvyys|в остальном хорошая видимость
+hyva nakyvyys|хорошая видимость
+enimmakseen hyva nakyvyys|преимущественно хорошая видимость
+yolla ja aamulla|ночью и утром
+aamulla ja paivalla|утром и днём
+paivalla ja illalla|днём и вечером
+illalla ja yolla|вечером и ночью
+1-keskipaivalla|в понедельник в полдень
+2-keskipaivalla|во вторник в полдень
+3-keskipaivalla|в среду в полдень
+4-keskipaivalla|в четверг в полдень
+5-keskipaivalla|в пятницу в полдень
+6-keskipaivalla|в субботу в полдень
+7-keskipaivalla|в воскресенье в полдень
+ja huono nakyvyys|и плохая видимость
+B2_B1S:lle|для Кваркена и Южного Ботнического залива
+B2_B1:lle|для Кваркена и Ботнического залива
+B3_B2_B1:lle|для Ботнического моря, Кваркена и Ботнического залива
+B3_B2:lle|для Ботнического моря и Кваркена
+B4E_B3:lle|для Архипелагового моря и Ботнического моря
+B4_B3:lle|для Архипелагового моря и Аландского моря и Ботнического моря
+B7_B4:lle|для Северной Балтики, Архипелагового моря и Аландского моря
+B7_B4_B3:lle|для Северной Балтики, Архипелагового моря и Аландского моря и Ботнического моря
+B5W_B7:lle|для Западного Финского залива и Северной Балтики
+B5_B7:lle|для Финского залива и Северной Балтики
+B3N_B2:lle|для Северного Ботнического моря и Кваркена
+vesi- tai tihkusadetta|дождь или морось
+lumi- tai tihkusadetta|снегопад или морось
+ranta- tai tihkusadetta|мокрый снег или морось
+jaatavaa tihkusadetta|замерзающая морось
+jotka muuttuvat lumikuuroiksi|которые переходят в снежные шквалы
+jotka muuttuvat rantakuuroiksi|которые переходят в шквалы мокрого снега
+[iltapaivalla] [etelatuuli] alkaa voimistua [nopeasti]|[1] [2] начинает усиливаться [3]
+[iltapaivalla] [etelatuuli] voimistuu [nopeasti]|[2] усиливается [3] [1]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] начинает усиливаться [3] и поворачивает [5] [4]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] начинает усиливаться и временно становится переменным
+4-aamuyolla ja aamulla|в четверг в ранние часы и утром
+B5W_B7E_B4E:lle|для Западного Финского залива, восточной части Северной Балтики и Архипелагового моря
+B5W_B7E:lle|для Западного Финского залива и восточной части Северной Балтики
+B7_B4_B3S:lle|для Северной Балтики, Архипелагового моря и Аландского моря и Южного Ботнического моря
+B7E_B4E_B3S:lle|для восточной части Северной Балтики, Архипелагового моря и Южного Ботнического моря
+B7E_B4E:lle|для восточной части Северной Балтики и Архипелагового моря
+B7W_B4:lle|для Западного Финского залива, Архипелагового моря и Аландского моря
+B7W_B4W_B3S:lle|для Западного Финского залива, Аландского моря и Южного Ботнического моря
+B7W_B4W:lle|для Западного Финского залива и Аландского моря
+[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] усиливается и временно становится переменным
+[iltapaivalla] tuuli kaantyy [etelaan] ja heikkenee edelleen|[1] ветер поворачивает [2] и продолжает ослабевать
+tuuli voimistuu|ветер усиливается до
+B4_B3S:lle|для Архипелагового моря и Аландского моря и Южного Ботнического моря
+aamupaivalla|в первой половине дня
+huomisen keskipaivaan asti|до завтрашнего полудня
+huono nakyvyys|плохая видимость
+B1|Ботнический залив
+B2|Кваркен
+B3|Ботническое море
+B4|Архипелаговое море и Аландское море
+B5|Финский залив
+B6|Рижский залив
+B7|Северная Балтика
+B8|Средняя Балтика
+B9|Юго-восточная Балтика
+B10|Южная Балтика
+B11|Арконский бассейн
+B12|Эресунн и Бельты
+B13|Каттегат
+B1N|Северный Ботнический залив
+B1S|Южный Ботнический залив
+B4E|Архипелаговое море
+B4W|Аландское море
+B5E|Восточный Финский залив
+B5W|Западный Финский залив
+B8E|Средняя Балтика
+B8W|Готландское море
+B10N|Эландское море
+B10S|Борнхольмское море
+B2_B1S|Кваркен и Южный Ботнический залив
+B2_B1|Кваркен и Ботнический залив
+B3_B2_B1|Ботническое море, Кваркен и Ботнический залив
+B3_B2|Ботническое море и Кваркен
+B4E_B3|Архипелаговое море и Ботническое море
+B4_B3|Архипелаговое море и Аландское море и Ботническое море
+B7_B4|Северная Балтика, Архипелаговое море и Аландское море
+B7_B4_B3|Северная Балтика, Архипелаговое море и Аландское море и Ботническое море
+B5W_B7|Западный Финский залив и Северная Балтика
+B5_B7|Финский залив и Северная Балтика
+B3N_B2|Северное Ботническое море и Кваркен
+B3N|Северное Ботническое море
+B3S|Южное Ботническое море
+B4_B3S|Архипелаговое море и Аландское море и Южное Ботническое море
+B5W_B7E_B4E|Западный Финский залив, восточная часть Северной Балтики и Архипелаговое море
+B5W_B7E|Западный Финский залив и восточная часть Северной Балтики
+B7_B4_B3S|Северная Балтика, Архипелаговое море и Аландское море и Южное Ботническое море
+B7E_B4E_B3S|Восточная часть Северной Балтики, Архипелаговое море и Южное Ботническое море
+B7E_B4E|Восточная часть Северной Балтики и Архипелаговое море
+B7E|Восточная часть Северной Балтики
+B7W_B4W_B3S|Западный Финский залив, Аландское море и Южное Ботническое море
+B7W_B4|Западный Финский залив, Архипелаговое море и Аландское море
+B7W_B4W|Западный Финский залив и Аландское море
+B7W|Западная часть Северной Балтики
+[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta|[1] ветер делает погоду более прохладной [2]
+lumisateesta|ухудшение из-за снегопада

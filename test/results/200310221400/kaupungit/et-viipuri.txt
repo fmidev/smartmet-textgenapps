@@ -1,0 +1,25 @@
+Viipuri
+
+Ilmateade kolmapäeval 14
+
+Ilmavaade reede õhtuni:
+
+Homme ja reedel pilves.
+Sademete tõenäosus on homme 20 protsenti, järgmisel päeval sama.
+Homme ja järgmisel päeval kirdetuul 2 meetrit sekundis.
+Päeva maksimaalne temperatuur on homme umbes 0 kraadi, järgmisel päeval ligikaudu sama.
+Öö minimaalne temperatuur on umbes -5 kraadi, reede ööl ligikaudu sama.
+Tugeva öökülma tõenäosus on neljapäeva ööl 90 protsenti, järgmisel ööl sama.
+Madalaim suhteline niiskus on homme 70 protsenti, reedel veidi madalam.
+
+Ilmavaade reede õhtust teisipäeva hommikuni:
+
+Ilm on ebastabiilne.
+Päevane maksimaalne temperatuur on umbes -1 kraad, öine minimaalne temperatuur umbes -4 kraadi.
+
+Neljapäeva hommikust järgmise viie päeva ilm:
+
+Kesktemperatuur -3 kraadi.
+Keskmine maksimaalne temperatuur -1 kraadi.
+Keskmine minimaalne temperatuur -4 kraadi.
+Sademete kogus 10-20 millimeetrit.

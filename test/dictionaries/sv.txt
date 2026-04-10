@@ -163,6 +163,8 @@ heikkoa sadetta|lätt regn
 lumikuuroja|snöbyar
 lumisadetta|snöfall
 mahdollisesti ukkosta|möjligen åska
+paikoin ukkosta|lokalt åska
+ukkosta|åska
 melko selkeaa|tämligen klart
 miinus|minus
 pilvistyvaa|ökad molnighet

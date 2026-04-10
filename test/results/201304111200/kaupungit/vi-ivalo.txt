@@ -1,0 +1,24 @@
+Ivalo
+
+Bản tin thời tiết vào thứ Năm 12 giờ
+
+Dự báo thời tiết đến tối thứ Bảy:
+
+Hôm nay nắng, ngày mai và vào thứ Bảy mây thay đổi.
+Xác suất mưa là ngày mai 20 phần trăm, ngày tiếp theo như nhau.
+Gió nam 3-4 mét/giây.
+Nhiệt độ cao nhất ban ngày là ngày mai khoảng 3 độ, ngày tiếp theo gần như như nhau.
+Nhiệt độ thấp nhất ban đêm là khoảng -8 độ, đêm thứ Bảy cao hơn.
+Độ ẩm tương đối thấp nhất là ngày mai 50 phần trăm, vào thứ Bảy cao hơn.
+
+Dự báo thời tiết từ tối thứ Bảy đến sáng thứ Tư:
+
+Thời tiết không ổn định.
+Nhiệt độ tối cao hàng ngày là khoảng 1 độ, nhiệt độ tối thấp hàng đêm khoảng -4 độ.
+
+Từ sáng thứ Sáu trong năm ngày tới:
+
+Nhiệt độ trung bình -1 độ.
+Nhiệt độ tối cao trung bình 2 độ.
+Nhiệt độ tối thấp trung bình -4 độ.
+Tổng lượng mưa 10-20 milimét.

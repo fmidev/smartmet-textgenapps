@@ -1,0 +1,27 @@
+Rauma
+
+Ilmateade laupäeval 9
+
+Ilmavaade homme õhtuni:
+
+Täna pilves, ennelõunal kohati lörts- või lumesadu.
+Homme pilves või muutliku pilvisusega.
+Sademete tõenäosus on täna 50 protsenti, homme väiksem.
+Täna põhjatuul 13 meetrit sekundis, homme 8 meetrit sekundis.
+Päeva maksimaalne temperatuur on täna umbes 2 kraadi, homme veidi madalam.
+Öö minimaalne temperatuur on umbes -2 kraadi.
+Tugeva öökülma tõenäosus on pühapäeva ööl 50 protsenti.
+Madalaim suhteline niiskus on homme 60 protsenti.
+Sademete kogus on täna ennelõunast alates umbes 2 millimeetrit.
+
+Ilmavaade pühapäeva õhtust neljapäeva hommikuni:
+
+Ilm on ebastabiilne.
+Päevane maksimaalne temperatuur on umbes 3 kraadi, öine minimaalne temperatuur umbes 1 kraad.
+
+Pühapäeva hommikust järgmise viie päeva ilm:
+
+Kesktemperatuur 4 kraadi.
+Keskmine maksimaalne temperatuur 4 kraadi.
+Keskmine minimaalne temperatuur 2 kraadi.
+Sademete kogus 5-10 millimeetrit.

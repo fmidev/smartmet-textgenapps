@@ -1,0 +1,26 @@
+Imatra
+
+Ilmateade neljapäeval 7
+
+Ilmavaade homme õhtuni:
+
+Täna muutlik pilvisus.
+Homme enamasti pilves, enne südaööd kohati nõrgad hoovihmad.
+Sademete tõenäosus on täna 50 protsenti, homme veidi suurem.
+Täna loodetuul 3 meetrit sekundis, homme 5 meetrit sekundis.
+Päeva maksimaalne temperatuur on täna umbes 5 kraadi, homme ligikaudu sama.
+Öö minimaalne temperatuur on umbes 1 kraad.
+Tugeva öökülma tõenäosus on reede ööl 20 protsenti.
+Madalaim suhteline niiskus on homme 80 protsenti.
+
+Ilmavaade reede õhtust teisipäeva hommikuni:
+
+Ilm on ebastabiilne.
+Päevane maksimaalne temperatuur on umbes 1 kraad, öine minimaalne temperatuur umbes -2 kraadi.
+
+Reede hommikust järgmise viie päeva ilm:
+
+Kesktemperatuur -1 kraadi.
+Keskmine maksimaalne temperatuur 2 kraadi.
+Keskmine minimaalne temperatuur -3 kraadi.
+Sademete kogus 2-5 millimeetrit.

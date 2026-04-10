@@ -1,0 +1,26 @@
+Rauma
+
+Laporan cuaca hari Rabu 14
+
+Prakiraan cuaca hingga Jumat malam:
+
+Besok berawan atau sebagian berawan.
+Hari Jumat berawan atau sebagian berawan.
+Kemungkinan hujan adalah besok 30 persen, hari berikutnya sedikit lebih besar.
+Besok angin timur 3 meter per detik, hari Jumat 5 meter per detik.
+Suhu maksimum siang hari adalah besok sekitar 0 derajat, hari berikutnya sedikit lebih tinggi.
+Suhu minimum malam hari adalah sekitar -7 derajat, malam Jumat lebih tinggi.
+Kemungkinan embun beku parah adalah malam Kamis 100 persen, malam berikutnya 90 persen.
+Kelembaban relatif terendah adalah besok 60 persen, hari Jumat sama.
+
+Prakiraan cuaca mulai Jumat malam hingga Selasa pagi:
+
+Cuaca tidak stabil.
+Suhu maksimum harian adalah sekitar 1 derajat, suhu minimum malam sekitar -2 derajat.
+
+Mulai Kamis pagi untuk lima hari ke depan:
+
+Suhu rata-rata -1 derajat.
+Suhu maksimum rata-rata 1 derajat.
+Suhu minimum rata-rata -3 derajat.
+Total curah hujan 10-20 milimeter.

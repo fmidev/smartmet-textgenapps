@@ -1,0 +1,2147 @@
+o'clock|
+meri-lappi:lle|untuk Meri-Lappi
+pohjois-pohjanmaan itaosa:lle|untuk Bagian Timur Ostrobothnia Utara
+pohjois-pohjanmaan lansiosa:lle|untuk Bagian Barat Ostrobothnia Utara
+pohjanmaa ja etela-pohjanmaa:lle|untuk Ostrobothnia dan Ostrobothnia Selatan
+etela-lappi:lle|untuk Lapland Selatan
+keski-lappi:lle|untuk Lapland Tengah
+utsjoki ja inari:lle|untuk Utsjoki dan Inari
+finnmarkin lansiosa:lle|untuk Bagian Barat Finnmark
+finnmarkin itaosa:lle|untuk Bagian Timur Finnmark
+murmanskin alueen lansiosa:lle|untuk Bagian Barat Oblast Murmansk
+pohjois-ruotsi:lle|untuk Swedia Utara
+[iltapaivalla] lumikuurot voivat olla sakeita|hujan salju bisa lebat [1]
+[iltapaivalla] lumisade voi olla sakeaa|salju bisa lebat [1]
+huomiseen iltapaivaan asti|hingga sore besok
+aamuyosta|dari dini hari
+astetta(noin n)|derajat
+huomattavasti lampimampi|jauh lebih hangat
+lampimampi|lebih hangat
+seuraava yo|malam berikutnya
+seuraavana yona|malam berikutnya
+on|adalah
+ankaran hallan todennakoisyys|kemungkinan embun beku parah
+hallan todennakoisyys|kemungkinan embun beku
+7-vastaisena yona|malam Minggu
+6-vastaisena yona|malam Sabtu
+5-vastaisena yona|malam Jumat
+4-vastaisena yona|malam Kamis
+3-vastaisena yona|malam Rabu
+2-vastaisena yona|malam Selasa
+1-vastaisena yona|malam Senin
+sama|sama
+hieman pienempi|sedikit lebih kecil
+hieman suurempi|sedikit lebih besar
+pienempi|lebih kecil
+suurempi|lebih besar
+alin suhteellinen kosteus|kelembaban relatif terendah
+7-na|hari Minggu
+6-na|hari Sabtu
+5-na|hari Jumat
+4-na|hari Kamis
+3-na|hari Rabu
+2-na|hari Selasa
+1-na|hari Senin
+odotettavissa|prakiraan cuaca
+7-illasta|mulai Minggu malam
+1-illasta|mulai Senin malam
+2-illasta|mulai Selasa malam
+3-illasta|mulai Rabu malam
+4-illasta|mulai Kamis malam
+5-illasta|mulai Jumat malam
+6-illasta|mulai Sabtu malam
+7-aamuun|hingga Minggu pagi
+1-aamuun|hingga Senin pagi
+2-aamuun|hingga Selasa pagi
+3-aamuun|hingga Rabu pagi
+4-aamuun|hingga Kamis pagi
+5-aamuun|hingga Jumat pagi
+6-aamuun|hingga Sabtu pagi
+saa|cuaca
+keskilampotila|suhu rata-rata
+keskimaarainen ylin lampotila|suhu maksimum rata-rata
+keskimaarainen alin lampotila|suhu minimum rata-rata
+sadesumma|total curah hujan
+astetta|derajat
+millimetria|milimeter
+1-aamusta|mulai Senin pagi
+2-aamusta|mulai Selasa pagi
+3-aamusta|mulai Rabu pagi
+4-aamusta|mulai Kamis pagi
+5-aamusta|mulai Jumat pagi
+6-aamusta|mulai Sabtu pagi
+7-aamusta|mulai Minggu pagi
+alkavan|
+1-iltaan|hingga Senin malam
+2-vuorokauden saa|untuk dua hari ke depan
+3-vuorokauden saa|untuk tiga hari ke depan
+4-vuorokauden saa|untuk empat hari ke depan
+5-vuorokauden saa|untuk lima hari ke depan
+6-vuorokauden saa|untuk enam hari ke depan
+7-vuorokauden saa|untuk tujuh hari ke depan
+8-vuorokauden saa|untuk delapan hari ke depan
+9-vuorokauden saa|untuk sembilan hari ke depan
+10-vuorokauden saa|untuk 10 hari ke depan
+1-keskipaivaan asti|hingga siang Senin
+2-keskipaivaan asti|hingga siang Selasa
+3-keskipaivaan asti|hingga siang Rabu
+4-keskipaivaan asti|hingga siang Kamis
+5-keskipaivaan asti|hingga siang Jumat
+6-keskipaivaan asti|hingga siang Sabtu
+7-keskipaivaan asti|hingga siang Minggu
+yli|di atas
+2-iltaan|hingga Selasa malam
+3-iltaan|hingga Rabu malam
+4-iltaan|hingga Kamis malam
+5-iltaan|hingga Jumat malam
+6-iltaan|hingga Sabtu malam
+7-iltaan|hingga Minggu malam
+monin paikoin enemman|lebih banyak di banyak tempat
+paikoin enemman|lebih banyak di beberapa tempat
+monin paikoin|di banyak tempat
+paikoin|di beberapa tempat
+asti|
+huomattavasti korkeampi|jauh lebih tinggi
+korkeampi|lebih tinggi
+hieman korkeampi|sedikit lebih tinggi
+suunnilleen sama|kira-kira sama
+hieman alempi|sedikit lebih rendah
+alempi|lebih rendah
+huomattavasti alempi|jauh lebih rendah
+noin|sekitar
+seuraavana paivana|hari berikutnya
+paivan ylin lampotila|suhu maksimum siang hari
+yon alin lampotila|suhu minimum malam hari
+paivien ylin lampotila|suhu maksimum harian
+oiden alin lampotila|suhu minimum malam
+paivalampotila|suhu siang hari
+yolampotila|suhu malam hari
+lopuksi|pada akhirnya
+8-suunnasta|dari barat laut
+7-suunnasta|dari barat
+6-suunnasta|dari barat daya
+5-suunnasta|dari selatan
+4-suunnasta|dari tenggara
+3-suunnasta|dari timur
+2-suunnasta|dari timur laut
+1-suunnasta|dari utara
+8-suuntaan|ke barat laut
+7-suuntaan|ke barat
+6-suuntaan|ke barat daya
+5-suuntaan|ke selatan
+4-suuntaan|ke tenggara
+3-suuntaan|ke timur
+2-suuntaan|ke timur laut
+1-suuntaan|ke utara
+alueen yli|di atas daerah
+liikkuu|bergerak
+kosteammaksi|lebih lembab
+kuivemmaksi|lebih kering
+muuttuu|berubah
+viilenee|menjadi lebih dingin
+lampenee|menjadi lebih hangat
+sadealue|daerah hujan
+leviaa|meluas
+loittonee|menjauh
+lahestyy|mendekat
+laaja|luas
+korkeapaineen alue|daerah tekanan tinggi
+matalapaineen alue|daerah tekanan rendah
+syvenee|semakin dalam
+korkeapaine|tekanan tinggi
+matalapaine|tekanan rendah
+lampotila|suhu
+m/s|m/s
+heikkoa|lemah
+kohtalaista|sedang
+navakkaa|agak kencang
+kovaa|kencang
+myrskya|badai
+tuulta|angin
+suunnaltaan vaihtelevaa|berubah-ubah
+1-tuulta|angin utara
+2-tuulta|angin timur laut
+3-tuulta|angin timur
+4-tuulta|angin tenggara
+5-tuulta|angin selatan
+6-tuulta|angin barat daya
+7-tuulta|angin barat
+8-tuulta|angin barat laut
+yolla|malam hari
+heikkenevaa|melemah
+tuuli|angin
+1-puoleista tuulta|angin utara umumnya
+2-puoleista tuulta|angin timur laut umumnya
+3-puoleista tuulta|angin timur umumnya
+4-puoleista tuulta|angin tenggara umumnya
+5-puoleista tuulta|angin selatan umumnya
+6-puoleista tuulta|angin barat daya umumnya
+7-puoleista tuulta|angin barat umumnya
+8-puoleista tuulta|angin barat laut umumnya
+ajoittain lumisadetta|salju kadang-kadang
+ajoittain sadetta|hujan kadang-kadang
+ajoittain ukkosta|petir
+heikkoa sadetta|hujan lemah
+lumikuuroja|hujan salju
+lumisadetta|salju
+voimistuvaa|menguat
+vahvistuu|menguat
+uusimaa|Uusimaa
+mahdollisesti ukkosta|kemungkinan petir
+paikoin ukkosta|petir di beberapa tempat
+ukkosta|petir
+melko selkeaa|agak cerah
+miinus|minus
+pilvistyvaa|awan semakin tebal
+pilvista|berawan
+poutaa|cuaca cerah
+puolipilvista|sebagian berawan
+runsasta sadetta|hujan lebat
+sadetta|hujan
+sakeaa lumisadetta|salju lebat
+sakeita lumikuuroja|hujan salju lebat
+selkenevaa|awan berkurang
+selkeaa|cerah
+tai|atau
+tuuli heikkenee|angin melemah menjadi
+vaihtelevaa pilvisyytta|awan tidak menentu
+vesisadetta|hujan
+voimakkaita kuuroja|hujan lebat
+vahaisia kuuroja|hujan ringan
+vahaista lumisadetta|salju ringan
+heikoksi|lemah
+kohtalaiseksi|sedang
+navakaksi|agak kencang
+kovaksi|kencang
+myrskyksi|badai
+1-tuuleksi|angin utara
+2-tuuleksi|angin timur laut
+3-tuuleksi|angin timur
+4-tuuleksi|angin tenggara
+5-tuuleksi|angin selatan
+6-tuuleksi|angin barat daya
+7-tuuleksi|angin barat
+8-tuuleksi|angin barat laut
+1-puoleiseksi tuuleksi|angin utara umumnya
+2-puoleiseksi tuuleksi|angin timur laut umumnya
+3-puoleiseksi tuuleksi|angin timur umumnya
+4-puoleiseksi tuuleksi|angin tenggara umumnya
+5-puoleiseksi tuuleksi|angin selatan umumnya
+6-puoleiseksi tuuleksi|angin barat daya umumnya
+7-puoleiseksi tuuleksi|angin barat umumnya
+8-puoleiseksi tuuleksi|angin barat laut umumnya
+tuuli tyyntyy|angin menjadi tenang
+tyyneksi|tenang
+tyynta|angin tenang
+viiva|ke
+rantasadetta|hujan es
+saa on epavakaista|cuaca tidak stabil
+lumi-|salju
+ranta-|hujan es
+vesi-|hujan
+edelleen|berlanjut
+enimmakseen|sebagian besar
+ajoittain sateista|hujan kadang-kadang
+paivalla|siang hari
+hirmumyrskya|badai besar
+hirmumyrskyksi|badai besar
+saaennuste|laporan cuaca
+kello|
+aland:lle|untuk Kepulauan Åland
+etela-karjala:lle|untuk Karelia Selatan
+etela-pohjanmaa:lle|untuk Ostrobothnia Selatan
+etela-savo:lle|untuk Savonia Selatan
+hame:lle|untuk Tavastia
+kainuu:lle|untuk Kainuu
+keski-pohjanmaa:lle|untuk Ostrobothnia Tengah
+keski-suomi:lle|untuk Finlandia Tengah
+koillismaa:lle|untuk Koillismaa
+kymenlaakso:lle|untuk Kymenlaakso
+lansi-lappi:lle|untuk Lapland Barat
+nyland:lle|untuk Uusimaa
+osterbotten:lle|untuk Ostrobothnia
+paijat-hame:lle|untuk Päijänne Tavastia
+pirkanmaa:lle|untuk Pirkanmaa
+pohjois-karjala:lle|untuk Karelia Utara
+pohjois-lappi:lle|untuk Lapland Utara
+pohjois-pohjanmaa:lle|untuk Ostrobothnia Utara
+pohjois-savo:lle|untuk Savonia Utara
+satakunta:lle|untuk Satakunta
+uusimaa:lle|untuk Uusimaa
+varsinais-suomi:lle|untuk Finlandia Proper
+huomattavasti suurempi|jauh lebih besar
+huomattavasti pienempi|jauh lebih kecil
+rannikolla|di pesisir
+metria sekunnissa|meter per detik
+1-alkaen|mulai Senin
+2-alkaen|mulai Selasa
+3-alkaen|mulai Rabu
+4-alkaen|mulai Kamis
+5-alkaen|mulai Jumat
+6-alkaen|mulai Sabtu
+7-alkaen|mulai Minggu
+tanaan|hari ini
+huomenna|besok
+ylihuomenna|lusa
+ensi yona|malam hari
+huomisaamuna|besok pagi
+aamulla|pagi hari
+illalla|malam
+iltapaivalla|sore hari
+aamuyolla|lewat tengah malam
+keskipaivalla|siang hari
+iltayolla|sebelum tengah malam
+keskiyolla|tengah malam
+yosta alkaen|mulai malam ini
+aamuyosta alkaen|mulai dini hari
+aamusta alkaen|mulai pagi
+aamupaivasta alkaen|mulai menjelang siang
+keskipaivasta alkaen|mulai siang
+iltapaivasta alkaen|mulai sore
+illasta alkaen|mulai malam
+iltayosta alkaen|mulai larut malam
+keskiyosta alkaen|mulai tengah malam
+prosenttia|persen
+ajoittain|kadang-kadang
+1-na kello|hari Senin
+2-na kello|hari Selasa
+3-na kello|hari Rabu
+4-na kello|hari Kamis
+5-na kello|hari Jumat
+6-na kello|hari Sabtu
+7-na kello|hari Minggu
+ei suuria muutoksia saassa|tidak ada perubahan signifikan dalam cuaca
+saa selkenee|cuaca menjadi cerah
+saa muuttuu epavakaisemmaksi|cuaca menjadi lebih tidak stabil
+sateinen saa jatkuu|cuaca hujan berlanjut
+epavakainen saa jatkuu|cuaca tidak stabil berlanjut
+saa lauhtuu|cuaca menjadi lebih ringan
+saa on enimmakseen poutaista|cuaca sebagian besar cerah
+saa poutaantuu|cuaca membaik
+saa muuttuu helteiseksi|cuaca menjadi panas
+saa lampenee|cuaca menjadi lebih hangat
+saa viilenee|cuaca menjadi lebih sejuk
+saa muuttuu koleaksi|cuaca menjadi dingin menusuk
+saa kylmenee|cuaca menjadi lebih dingin
+helteinen saa jatkuu|cuaca panas berlanjut
+lammin saa jatkuu|cuaca hangat berlanjut
+viilea saa jatkuu|cuaca sejuk berlanjut
+kolea saa jatkuu|cuaca dingin menusuk berlanjut
+kylma saa jatkuu|cuaca dingin berlanjut
+virtaa|mengalir
+tilapaisesti|sementara
+lamminta|hangat
+kylmaa|dingin
+viileaa|sejuk
+viileampaa|lebih sejuk
+lampimampaa|lebih hangat
+kylmempaa|lebih dingin
+hyvin|banyak
+vahan|sedikit
+ilmaa|udara
+Suomeen|ke Finlandia
+maan|negara
+etelaosiin|bagian selatan
+keskiosiin|bagian tengah
+pohjoisosiin|bagian utara
+itaosiin|bagian timur
+lansiosiin|bagian barat
+etela-|selatan
+keski-|tengah
+pohjois-|utara
+ita-|timur
+lansi-|barat
+kuivempaa|lebih kering
+kosteampaa|lebih lembab
+sadealueita|daerah hujan
+Suomen yli|di atas Finlandia
+Etela-Suomen yli|di atas Finlandia Selatan
+Keski-Suomen yli|di atas Finlandia Tengah
+Pohjois-Suomen yli|di atas Finlandia Utara
+Ita-Suomen yli|di atas Finlandia Timur
+Lansi-Suomen yli|di atas Finlandia Barat
+Kaakkois-Suomen yli|di atas Finlandia Tenggara
+uusi|baru
+sateen todennakoisyys|kemungkinan hujan
+kuurosateen todennakoisyys|kemungkinan hujan lebat
+ukkosen todennakoisyys|kemungkinan petir
+pakkanen jatkuu|embun beku berlanjut
+pakkanen kiristyy|embun beku semakin kuat
+pakkanen heikkenee|embun beku melemah
+kuuluu|termasuk
+sateineen|dengan hujan
+sadealueineen|dengan daerah hujan
+hajanaisine sadealueineen|dengan daerah hujan tersebar
+Lounais-Suomen yli|di atas Finlandia Barat Daya
+saapuu|mendekat
+saa muuttuu sateisemmaksi|cuaca menjadi lebih hujan
+alue|daerah
+pohjanmaa:lle|untuk Ostrobothnia
+suomi:lle|untuk Finlandia
+aluksi|pada awalnya
+ahvenanmaa:lle|untuk Åland
+huomisesta alkaen|mulai besok
+ja|dan
+tiepiiri-hame:lle|untuk distrik jalan Tavastia
+tiepiiri-kaakkois-lappi:lle|untuk Lapland Tenggara
+tiepiiri-kaakkois-suomi:lle|untuk distrik jalan Finlandia Tenggara
+tiepiiri-kasivarsi:lle|untuk Lapland Barat Laut
+tiepiiri-keski-lappi:lle|untuk Lapland Tengah
+tiepiiri-keski-suomi:lle|untuk distrik jalan Finlandia Tengah
+tiepiiri-lounais-lappi:lle|untuk Lapland Barat Daya
+tiepiiri-oulu-ita:lle|untuk bagian timur distrik jalan Oulu
+tiepiiri-oulu-lansi:lle|untuk bagian barat distrik jalan Oulu
+tiepiiri-savo-karjala:lle|untuk distrik jalan Savonia-Karelia
+tiepiiri-turku:lle|untuk distrik jalan Turku
+tiepiiri-uusimaa:lle|untuk distrik jalan Uusimaa
+tiepiiri-vaasa:lle|untuk distrik jalan Vaasa
+tiepiiri-yla-lappi:lle|untuk Lapland Atas
+tienpintalampotila|suhu permukaan jalan
+ensimmaisen 12 tunnin sademaara|total curah hujan 12 jam pertama
+seuraavan 12 tunnin|untuk 12 jam berikutnya
+seuraavan 24 tunnin sademaara|total curah hujan 24 jam ke depan
+tiet ovat|jalan
+teilla on|jalan
+jaisia|berlapis es
+osittain jaisia|sebagian berlapis es
+kuuraa|tertutup embun beku
+sohjoa|tertutup salju basah
+lunta|tertutup salju
+markia|basah
+kosteita|lembab
+kuivia|kering
+kuuraisia|tertutup embun beku
+sohjoisia|tertutup salju basah
+lumisia|tertutup salju
+tiet ovat (sivulause)|
+yleisesti|umumnya
+kanta-hame:lle|untuk Tavastia Proper
+ita-uusimaa:lle|untuk Uusimaa Timur
+lappi:lle|untuk Lapland
+lapin-laani:lle|untuk provinsi Lapland
+oulun-laani:lle|untuk provinsi Oulu
+ita-suomen-laani:lle|untuk provinsi Finlandia Timur
+lansi-suomen-laani:lle|untuk provinsi Finlandia Barat
+etela-suomen-laani:lle|untuk provinsi Finlandia Selatan
+ahvenanmaan-laani:lle|untuk provinsi Åland
+7-paivalla|hari Minggu siang
+2-aamuna|Selasa pagi
+3-aamuna|Rabu pagi
+4-aamuna|Kamis pagi
+5-aamuna|Jumat pagi
+6-aamuna|Sabtu pagi
+7-aamuna|Minggu pagi
+1-aamupaivasta alkaen|mulai menjelang siang Senin
+2-aamupaivasta alkaen|mulai menjelang siang Selasa
+3-aamupaivasta alkaen|mulai menjelang siang Rabu
+4-aamupaivasta alkaen|mulai menjelang siang Kamis
+5-aamupaivasta alkaen|mulai menjelang siang Jumat
+6-aamupaivasta alkaen|mulai menjelang siang Sabtu
+1-aamusta alkaen|mulai Senin pagi
+2-aamusta alkaen|mulai Selasa pagi
+3-aamusta alkaen|mulai Rabu pagi
+4-aamusta alkaen|mulai Kamis pagi
+5-aamusta alkaen|mulai Jumat pagi
+6-aamusta alkaen|mulai Sabtu pagi
+7-aamusta alkaen|mulai Minggu pagi
+1-iltana|Senin malam
+2-iltana|Selasa malam
+3-iltana|Rabu malam
+4-iltana|Kamis malam
+5-iltana|Jumat malam
+6-iltana|Sabtu malam
+7-iltana|Minggu malam
+1-illasta alkaen|mulai Senin malam
+2-illasta alkaen|mulai Selasa malam
+3-illasta alkaen|mulai Rabu malam
+4-illasta alkaen|mulai Kamis malam
+5-illasta alkaen|mulai Jumat malam
+6-illasta alkaen|mulai Sabtu malam
+7-illasta alkaen|mulai Minggu malam
+1-paivalla|hari Senin siang
+2-paivalla|hari Selasa siang
+3-paivalla|hari Rabu siang
+4-paivalla|hari Kamis siang
+5-paivalla|hari Jumat siang
+6-paivalla|hari Sabtu siang
+1-vastaisesta yosta alkaen|mulai malam Senin
+2-vastaisesta yosta alkaen|mulai malam Selasa
+3-vastaisesta yosta alkaen|mulai malam Rabu
+4-vastaisesta yosta alkaen|mulai malam Kamis
+5-vastaisesta yosta alkaen|mulai malam Jumat
+6-vastaisesta yosta alkaen|mulai malam Sabtu
+7-vastaisesta yosta alkaen|mulai malam Minggu
+huomisaamusta alkaen|mulai besok pagi
+huomisaamupaivasta alkaen|mulai besok menjelang siang
+huomisillasta alkaen|mulai besok malam
+huomenna paivalla|besok siang
+huomisiltana|besok malam
+1-aamuna|Senin pagi
+7-aamupaivasta alkaen|mulai menjelang siang Minggu
+B1:lle|untuk Teluk Bothnia
+B2:lle|untuk Kvarken
+B3:lle|untuk Laut Bothnia
+B4:lle|untuk Laut Kepulauan dan Laut Åland
+B5:lle|untuk Teluk Finlandia
+B6:lle|untuk Teluk Riga
+B7:lle|untuk Baltik Utara
+B8:lle|untuk Baltik Tengah
+B9:lle|untuk Baltik Proper Tenggara
+B10:lle|untuk Baltik Selatan
+B11:lle|untuk Laut Arkona
+B12:lle|untuk Öresund dan Selat
+B13:lle|untuk Kattegat
+B1N:lle|untuk Teluk Bothnia Utara
+B1S:lle|untuk Teluk Bothnia Selatan
+B4E:lle|untuk Laut Kepulauan
+B4W:lle|untuk Laut Åland
+B5E:lle|untuk Teluk Finlandia Timur
+B5W:lle|untuk Teluk Finlandia Barat
+B8E:lle|untuk Baltik Tengah
+B8W:lle|untuk Laut Gotland
+B10N:lle|untuk Laut Öland
+B10S:lle|untuk Laut Bornholm
+osittain jaisiksi|sebagian berlapis es
+kuuraisiksi|tertutup embun beku
+keli on|kondisi jalan adalah
+tienpinnat muuttuvat|permukaan jalan akan
+jaisiksi|berlapis es
+pakkasliukkautta|licin karena embun beku
+rannasta ja liukkaista|diperlemah oleh permukaan jalan licin dan hujan es
+tieto puuttuu|data tidak tersedia
+liukkaiksi jaatavasta sateesta|licin karena hujan beku
+rannasta ja osittain liukkaista|diperlemah oleh permukaan jalan sebagian licin dan hujan es
+sateesta ja osittain liukkaista|diperlemah oleh permukaan jalan sebagian licin dan hujan
+sateesta ja liukkaista|diperlemah oleh permukaan jalan licin dan hujan
+normaali|normal
+aanekoski:lle|untuk Äänekoski
+aetsa:lle|untuk Äetsä
+ahtari:lle|untuk Ähtäri
+alaharma:lle|untuk Alahärmä
+alajarvi:lle|untuk Alajärvi
+alastaro:lle|untuk Alastaro
+alavieska:lle|untuk Alavieska
+alavus:lle|untuk Alavus
+anjalankoski:lle|untuk Anjalankoski
+artjarvi:lle|untuk Artjärvi
+asikkala:lle|untuk Asikkala
+askainen:lle|untuk Askainen
+askola:lle|untuk Askola
+aura:lle|untuk Aura
+brando:lle|untuk Brändö
+dragsfjard:lle|untuk Dragsfjärd
+eckero:lle|untuk Eckerö
+elimaki:lle|untuk Elimäki
+enonkoski:lle|untuk Enonkoski
+enontekio:lle|untuk Enontekiö
+eno:lle|untuk Eno
+espoo:lle|untuk Espoo
+eurajoki:lle|untuk Eurajoki
+eura:lle|untuk Eura
+evijarvi:lle|untuk Evijärvi
+finstrom:lle|untuk Finström
+foglo:lle|untuk Föglö
+forssa:lle|untuk Forssa
+geta:lle|untuk Geta
+haapajarvi:lle|untuk Haapajärvi
+haapavesi:lle|untuk Haapavesi
+hailuoto:lle|untuk Hailuoto
+halikko:lle|untuk Halikko
+halsua:lle|untuk Halsua
+hameenkoski:lle|untuk Hämeenkoski
+hameenkyro:lle|untuk Hämeenkyrö
+hameenlinna:lle|untuk Hämeenlinna
+hamina:lle|untuk Hamina
+hammarland:lle|untuk Hammarland
+hankasalmi:lle|untuk Hankasalmi
+hanko:lle|untuk Hanko
+harjavalta:lle|untuk Harjavalta
+B3S:lle|untuk Laut Bothnia Selatan
+B7E:lle|untuk Bagian Timur Baltik Utara
+B7W:lle|untuk Bagian Barat Baltik Utara
+hartola:lle|untuk Hartola
+hattula:lle|untuk Hattula
+hauho:lle|untuk Hauho
+haukipudas:lle|untuk Haukipudas
+haukivuori:lle|untuk Haukivuori
+hausjarvi:lle|untuk Hausjärvi
+heinavesi:lle|untuk Heinävesi
+heinola:lle|untuk Heinola
+helsinki:lle|untuk Helsinki
+himanka:lle|untuk Himanka
+hirvensalmi:lle|untuk Hirvensalmi
+hollola:lle|untuk Hollola
+honkajoki:lle|untuk Honkajoki
+houtskari:lle|untuk Houtskari
+huittinen:lle|untuk Huittinen
+humppila:lle|untuk Humppila
+hyrynsalmi:lle|untuk Hyrynsalmi
+hyvinkaa:lle|untuk Hyvinkää
+iisalmi:lle|untuk Iisalmi
+ii:lle|untuk Ii
+iitti:lle|untuk Iitti
+ikaalinen:lle|untuk Ikaalinen
+ilmajoki:lle|untuk Ilmajoki
+ilomantsi:lle|untuk Ilomantsi
+imatra:lle|untuk Imatra
+inari:lle|untuk Inari
+inio:lle|untuk Iniö
+inkoo:lle|untuk Inkoo
+isojoki:lle|untuk Isojoki
+isokyro:lle|untuk Isokyrö
+jaala:lle|untuk Jaala
+jalasjarvi:lle|untuk Jalasjärvi
+jamijarvi:lle|untuk Jämijärvi
+jamsankoski:lle|untuk Jämsänkoski
+jamsa:lle|untuk Jämsä
+janakkala:lle|untuk Janakkala
+jarvenpaa:lle|untuk Järvenpää
+joensuu:lle|untuk Joensuu
+jokioinen:lle|untuk Jokioinen
+jomala:lle|untuk Jomala
+joroinen:lle|untuk Joroinen
+joutsa:lle|untuk Joutsa
+joutseno:lle|untuk Joutseno
+juankoski:lle|untuk Juankoski
+jurva:lle|untuk Jurva
+juuka:lle|untuk Juuka
+juupajoki:lle|untuk Juupajoki
+juva:lle|untuk Juva
+jyvaskylan_mlk:lle|untuk Jyväskylän_mlk
+jyvaskyla:lle|untuk Jyväskylä
+kaarina:lle|untuk Kaarina
+kaavi:lle|untuk Kaavi
+kajaani:lle|untuk Kajaani
+kalajoki:lle|untuk Kalajoki
+kalvia:lle|untuk Kälviä
+kalvola:lle|untuk Kalvola
+kangasala:lle|untuk Kangasala
+kangasniemi:lle|untuk Kangasniemi
+kankaanpaa:lle|untuk Kankaanpää
+kannonkoski:lle|untuk Kannonkoski
+kannus:lle|untuk Kannus
+karijoki:lle|untuk Karijoki
+karjaa:lle|untuk Karjaa
+karjalohja:lle|untuk Karjalohja
+karkkila:lle|untuk Karkkila
+karkola:lle|untuk Kärkölä
+karsamaki:lle|untuk Kärsämäki
+karstula:lle|untuk Karstula
+karttula:lle|untuk Karttula
+karvia:lle|untuk Karvia
+kaskinen:lle|untuk Kaskinen
+kauhajoki:lle|untuk Kauhajoki
+kauhava:lle|untuk Kauhava
+kauniainen:lle|untuk Kauniainen
+kaustinen:lle|untuk Kaustinen
+keitele:lle|untuk Keitele
+kemijarvi:lle|untuk Kemijärvi
+keminmaa:lle|untuk Keminmaa
+kemio:lle|untuk Kemiö
+kemi:lle|untuk Kemi
+kempele:lle|untuk Kempele
+kerava:lle|untuk Kerava
+kerimaki:lle|untuk Kerimäki
+kesalahti:lle|untuk Kesälahti
+kestila:lle|untuk Kestilä
+keuruu:lle|untuk Keuruu
+kihnio:lle|untuk Kihniö
+kiikala:lle|untuk Kiikala
+kiikoinen:lle|untuk Kiikoinen
+kiiminki:lle|untuk Kiiminki
+kinnula:lle|untuk Kinnula
+kirkkonummi:lle|untuk Kirkkonummi
+kisko:lle|untuk Kisko
+kitee:lle|untuk Kitee
+kittila:lle|untuk Kittilä
+kiukainen:lle|untuk Kiukainen
+kiuruvesi:lle|untuk Kiuruvesi
+kivijarvi:lle|untuk Kivijärvi
+kodisjoki:lle|untuk Kodisjoki
+kokar:lle|untuk Kökar
+kokemaki:lle|untuk Kokemäki
+kokkola:lle|untuk Kokkola
+kolari:lle|untuk Kolari
+konnevesi:lle|untuk Konnevesi
+kontiolahti:lle|untuk Kontiolahti
+korpilahti:lle|untuk Korpilahti
+korppoo:lle|untuk Korppoo
+korsnas:lle|untuk Korsnäs
+kortesjarvi:lle|untuk Kortesjärvi
+koski_tl:lle|untuk Koski
+kotka:lle|untuk Kotka
+kouvola:lle|untuk Kouvola
+koylio:lle|untuk Köyliö
+kristiinankaupunki:lle|untuk Kristiinankaupunki
+kronoby:lle|untuk Kronoby
+kuhmalahti:lle|untuk Kuhmalahti
+kuhmoinen:lle|untuk Kuhmoinen
+kuhmo:lle|untuk Kuhmo
+kuivaniemi:lle|untuk Kuivaniemi
+kumlinge:lle|untuk Kumlinge
+kuopio:lle|untuk Kuopio
+kuortane:lle|untuk Kuortane
+kurikka:lle|untuk Kurikka
+kuru:lle|untuk Kuru
+kustavi:lle|untuk Kustavi
+kuusamo:lle|untuk Kuusamo
+kuusankoski:lle|untuk Kuusankoski
+kuusjoki:lle|untuk Kuusjoki
+kylmakoski:lle|untuk Kylmäkoski
+kyyjarvi:lle|untuk Kyyjärvi
+lahti:lle|untuk Lahti
+laihia:lle|untuk Laihia
+laitila:lle|untuk Laitila
+lammi:lle|untuk Lammi
+langelmaki:lle|untuk Längelmäki
+lapinjarvi:lle|untuk Lapinjärvi
+lapinlahti:lle|untuk Lapinlahti
+lappajarvi:lle|untuk Lappajärvi
+lappeenranta:lle|untuk Lappeenranta
+lapin kuntaan:lle|untuk Lappi
+lapua:lle|untuk Lapua
+larsmo:lle|untuk Larsmo
+laukaa:lle|untuk Laukaa
+lavia:lle|untuk Lavia
+lehtimaki:lle|untuk Lehtimäki
+leivonmaki:lle|untuk Leivonmäki
+lemi:lle|untuk Lemi
+lemland:lle|untuk Lemland
+lempaala:lle|untuk Lempäälä
+lemu:lle|untuk Lemu
+leppavirta:lle|untuk Leppävirta
+lestijarvi:lle|untuk Lestijärvi
+lieksa:lle|untuk Lieksa
+lieto:lle|untuk Lieto
+liljendal:lle|untuk Liljendal
+liminka:lle|untuk Liminka
+liperi:lle|untuk Liperi
+lohja:lle|untuk Lohja
+lohtaja:lle|untuk Lohtaja
+loimaa:lle|untuk Loimaa
+loppi:lle|untuk Loppi
+loviisa:lle|untuk Loviisa
+luhanka:lle|untuk Luhanka
+lumijoki:lle|untuk Lumijoki
+lumparland:lle|untuk Lumparland
+luopioinen:lle|untuk Luopioinen
+luumaki:lle|untuk Luumäki
+luvia:lle|untuk Luvia
+maalahti:lle|untuk Maalahti
+maaninka:lle|untuk Maaninka
+maarianhamina:lle|untuk Maarianhamina
+maksamaa:lle|untuk Maksamaa
+mantsala:lle|untuk Mäntsälä
+mantta:lle|untuk Mänttä
+mantyharju:lle|untuk Mäntyharju
+marttila:lle|untuk Marttila
+masku:lle|untuk Masku
+mellila:lle|untuk Mellilä
+merijarvi:lle|untuk Merijärvi
+merikarvia:lle|untuk Merikarvia
+merimasku:lle|untuk Merimasku
+miehikkala:lle|untuk Miehikkälä
+mietoinen:lle|untuk Mietoinen
+mikkeli:lle|untuk Mikkeli
+mouhijarvi:lle|untuk Mouhijärvi
+muhos:lle|untuk Muhos
+multia:lle|untuk Multia
+muonio:lle|untuk Muonio
+mustasaari:lle|untuk Mustasaari
+muurame:lle|untuk Muurame
+muurla:lle|untuk Muurla
+mynamaki:lle|untuk Mynämäki
+myrskyla:lle|untuk Myrskylä
+naantali:lle|untuk Naantali
+nakkila:lle|untuk Nakkila
+narpio:lle|untuk Närpiö
+nastola:lle|untuk Nastola
+nauvo:lle|untuk Nauvo
+nilsia:lle|untuk Nilsiä
+nivala:lle|untuk Nivala
+nokia:lle|untuk Nokia
+noormarkku:lle|untuk Noormarkku
+nousiainen:lle|untuk Nousiainen
+nummipusula:lle|untuk Nummi-Pusula
+nurmes:lle|untuk Nurmes
+nurmijarvi:lle|untuk Nurmijärvi
+nurmo:lle|untuk Nurmo
+oravainen:lle|untuk Oravainen
+orimattila:lle|untuk Orimattila
+oripaa:lle|untuk Oripää
+orivesi:lle|untuk Orivesi
+oulainen:lle|untuk Oulainen
+oulunsalo:lle|untuk Oulunsalo
+oulu:lle|untuk Oulu
+outokumpu:lle|untuk Outokumpu
+padasjoki:lle|untuk Padasjoki
+paimio:lle|untuk Paimio
+palkane:lle|untuk Pälkäne
+paltamo:lle|untuk Paltamo
+parainen:lle|untuk Parainen
+parikkala:lle|untuk Parikkala
+parkano:lle|untuk Parkano
+pedersoren_kunta:lle|untuk Pedersöre
+pelkosenniemi:lle|untuk Pelkosenniemi
+pello:lle|untuk Pello
+perho:lle|untuk Perho
+pernaja:lle|untuk Pernaja
+pernio:lle|untuk Perniö
+pertteli:lle|untuk Pertteli
+pertunmaa:lle|untuk Pertunmaa
+petajavesi:lle|untuk Petäjävesi
+pieksanmaa:lle|untuk Pieksänmaa
+pielavesi:lle|untuk Pielavesi
+pietarsaari:lle|untuk Pietarsaari
+pihtipudas:lle|untuk Pihtipudas
+piikkio:lle|untuk Piikkiö
+piippola:lle|untuk Piippola
+pirkkala:lle|untuk Pirkkala
+pohja:lle|untuk Pohja
+polvijarvi:lle|untuk Polvijärvi
+pomarkku:lle|untuk Pomarkku
+pori:lle|untuk Pori
+pornainen:lle|untuk Pornainen
+porvoo:lle|untuk Porvoo
+posio:lle|untuk Posio
+poytya:lle|untuk Pöytyä
+pudasjarvi:lle|untuk Pudasjärvi
+pukkila:lle|untuk Pukkila
+pulkkila:lle|untuk Pulkkila
+punkaharju:lle|untuk Punkaharju
+punkalaidun:lle|untuk Punkalaidun
+puolanka:lle|untuk Puolanka
+puumala:lle|untuk Puumala
+pyhajarvi:lle|untuk Pyhäjärvi
+pyhajoki:lle|untuk Pyhäjoki
+pyhanta:lle|untuk Pyhäntä
+pyharanta:lle|untuk Pyhäranta
+pyhaselka:lle|untuk Pyhäselkä
+pyhtaa:lle|untuk Pyhtää
+pylkonmaki:lle|untuk Pylkönmäki
+raahe:lle|untuk Raahe
+raakkyla:lle|untuk Rääkkylä
+raisio:lle|untuk Raisio
+rantasalmi:lle|untuk Rantasalmi
+rantsila:lle|untuk Rantsila
+ranua:lle|untuk Ranua
+rauma:lle|untuk Rauma
+rautalampi:lle|untuk Rautalampi
+rautavaara:lle|untuk Rautavaara
+rautjarvi:lle|untuk Rautjärvi
+reisjarvi:lle|untuk Reisjärvi
+renko:lle|untuk Renko
+riihimaki:lle|untuk Riihimäki
+ristiina:lle|untuk Ristiina
+ristijarvi:lle|untuk Ristijärvi
+rovaniemen_mlk:lle|untuk Rovaniemen_mlk
+rovaniemi:lle|untuk Rovaniemi
+ruokolahti:lle|untuk Ruokolahti
+ruotsinpyhtaa:lle|untuk Ruotsinpyhtää
+ruovesi:lle|untuk Ruovesi
+rusko:lle|untuk Rusko
+ruukki:lle|untuk Ruukki
+rymattyla:lle|untuk Rymättylä
+saarijarvi:lle|untuk Saarijärvi
+sakyla:lle|untuk Säkylä
+salla:lle|untuk Salla
+salo:lle|untuk Salo
+saltvik:lle|untuk Saltvik
+sammatti:lle|untuk Sammatti
+sarkisalo:lle|untuk Särkisalo
+sauvo:lle|untuk Sauvo
+savitaipale:lle|untuk Savitaipale
+savonlinna:lle|untuk Savonlinna
+savonranta:lle|untuk Savonranta
+savukoski:lle|untuk Savukoski
+seinajoki:lle|untuk Seinäjoki
+sievi:lle|untuk Sievi
+siikainen:lle|untuk Siikainen
+siikajoki:lle|untuk Siikajoki
+siilinjarvi:lle|untuk Siilinjärvi
+simo:lle|untuk Simo
+sipoo:lle|untuk Sipoo
+siuntio:lle|untuk Siuntio
+sodankyla:lle|untuk Sodankylä
+soini:lle|untuk Soini
+somero:lle|untuk Somero
+sonkajarvi:lle|untuk Sonkajärvi
+sotkamo:lle|untuk Sotkamo
+sottunga:lle|untuk Sottunga
+sulkava:lle|untuk Sulkava
+sumiainen:lle|untuk Sumiainen
+sund:lle|untuk Sund
+suodenniemi:lle|untuk Suodenniemi
+suolahti:lle|untuk Suolahti
+suomenniemi:lle|untuk Suomenniemi
+suomusjarvi:lle|untuk Suomusjärvi
+suomussalmi:lle|untuk Suomussalmi
+suonenjoki:lle|untuk Suonenjoki
+sysma:lle|untuk Sysmä
+taipalsaari:lle|untuk Taipalsaari
+taivalkoski:lle|untuk Taivalkoski
+taivassalo:lle|untuk Taivassalo
+tammela:lle|untuk Tammela
+tammisaari:lle|untuk Tammisaari
+tampere:lle|untuk Tampere
+tarvasjoki:lle|untuk Tarvasjoki
+tervola:lle|untuk Tervola
+tervo:lle|untuk Tervo
+teuva:lle|untuk Teuva
+tohmajarvi:lle|untuk Tohmajärvi
+toholampi:lle|untuk Toholampi
+toijala:lle|untuk Toijala
+toivakka:lle|untuk Toivakka
+tornio:lle|untuk Tornio
+toysa:lle|untuk Töysä
+turku:lle|untuk Turku
+tuulos:lle|untuk Tuulos
+tuusniemi:lle|untuk Tuusniemi
+tuusula:lle|untuk Tuusula
+tyrnava:lle|untuk Tyrnävä
+ullava:lle|untuk Ullava
+ulvila:lle|untuk Ulvila
+urjala:lle|untuk Urjala
+utajarvi:lle|untuk Utajärvi
+utsjoki:lle|untuk Utsjoki
+uurainen:lle|untuk Uurainen
+uusikaarlepyy:lle|untuk Uusikaarlepyy
+uusikaupunki:lle|untuk Uusikaupunki
+vaala:lle|untuk Vaala
+vaasa:lle|untuk Vaasa
+vahakyro:lle|untuk Vähäkyrö
+vahto:lle|untuk Vahto
+valkeakoski:lle|untuk Valkeakoski
+valkeala:lle|untuk Valkeala
+valtimo:lle|untuk Valtimo
+vammala:lle|untuk Vammala
+vampula:lle|untuk Vampula
+vantaa:lle|untuk Vantaa
+vardo:lle|untuk Vårdö
+varkaus:lle|untuk Varkaus
+varpaisjarvi:lle|untuk Varpaisjärvi
+vastanfjard:lle|untuk Västanfjärd
+vehmaa:lle|untuk Vehmaa
+velkua:lle|untuk Velkua
+vesanto:lle|untuk Vesanto
+vesilahti:lle|untuk Vesilahti
+veteli:lle|untuk Veteli
+vierema:lle|untuk Vieremä
+vihanti:lle|untuk Vihanti
+vihti:lle|untuk Vihti
+viiala:lle|untuk Viiala
+viitasaari:lle|untuk Viitasaari
+viljakkala:lle|untuk Viljakkala
+vilppula:lle|untuk Vilppula
+vimpeli:lle|untuk Vimpeli
+virolahti:lle|untuk Virolahti
+virrat:lle|untuk Virrat
+voyri:lle|untuk Vöyri
+vuolijoki:lle|untuk Vuolijoki
+ylamaa:lle|untuk Ylämaa
+ylane:lle|untuk Yläne
+yliharma:lle|untuk Ylihärmä
+yliii:lle|untuk Yli-Ii
+ylikiiminki:lle|untuk Ylikiiminki
+ylistaro:lle|untuk Ylistaro
+ylitornio:lle|untuk Ylitornio
+ylivieska:lle|untuk Ylivieska
+ylojarvi:lle|untuk Ylöjärvi
+ypaja:lle|untuk Ypäjä
+poudan todennakoisyys|kemungkinan tidak hujan
+metsapaloindeksi|indeks peringatan kebakaran hutan
+haihdunta on erittain huono|evaporasi sangat lemah
+haihdunta on huono|evaporasi lemah
+haihdunta on tyydyttava|evaporasi cukup
+haihdunta on hyva|evaporasi baik
+haihdunta on erinomainen|evaporasi sangat baik
+metsapalovaroitus on voimassa|peringatan kebakaran hutan berlaku
+metsapalovaroitus ei ole voimassa|peringatan kebakaran hutan tidak berlaku
+luoto:lle|untuk Luoto
+kruunupyy:lle|untuk Kruunupyy
+1-aamulla|Senin pagi
+2-aamulla|Selasa pagi
+3-aamulla|Rabu pagi
+4-aamulla|Kamis pagi
+5-aamulla|Jumat pagi
+6-aamulla|Sabtu pagi
+7-aamulla|Minggu pagi
+1-aamupaivalla|Senin menjelang siang
+2-aamupaivalla|Selasa menjelang siang
+3-aamupaivalla|Rabu menjelang siang
+4-aamupaivalla|Kamis menjelang siang
+5-aamupaivalla|Jumat menjelang siang
+6-aamupaivalla|Sabtu menjelang siang
+7-aamupaivalla|Minggu menjelang siang
+1-iltapaivalla|Senin sore
+2-iltapaivalla|Selasa sore
+3-iltapaivalla|Rabu sore
+4-iltapaivalla|Kamis sore
+5-iltapaivalla|Jumat sore
+6-iltapaivalla|Sabtu sore
+7-iltapaivalla|Minggu sore
+1-illalla|Senin malam
+2-illalla|Selasa malam
+3-illalla|Rabu malam
+4-illalla|Kamis malam
+5-illalla|Jumat malam
+6-illalla|Sabtu malam
+7-illalla|Minggu malam
+kastepiste|titik embun
+suhteellinen kosteus|kelembaban relatif
+hehtopascalia|hektopaskal
+paine|tekanan
+keli muuttuu|kondisi jalan berubah
+lumisateen takia|lebih buruk karena salju
+haukivesi:lle|untuk Haukivesi
+kallavesi:lle|untuk Kallavesi
+malaren:lle|untuk Mälaren
+pihlajavesi:lle|untuk Pihlajavesi
+suur-saimaa:lle|untuk Saimaa
+vanern:lle|untuk Vänern
+tie on muuttumassa|permukaan jalan sedang berubah
+keli huononee|kondisi jalan memburuk
+vaikeuttaa liikennetta|menghambat lalu lintas
+kuuraiseksi|tertutup embun beku
+marka|basah
+lumisateen takia|karena salju
+pakkasliukkaus|licin karena embun beku
+voimakas puuskainen tuuli|angin kencang bertiup kencang
+lumipyry|badai salju
+kelin nopea huononeminen|kondisi jalan memburuk cepat
+rantasade jaiselle|hujan es ke permukaan jalan berlapis es
+jaiseksi vesisateesta johtuen|berlapis es karena hujan
+alijaahtynyt sade|hujan super dingin
+jaiseksi tai osittain jaiseksi|berlapis es atau sebagian berlapis es
+runsas lumisade|salju lebat
+tienpinta muuttuu|permukaan jalan berubah
+ukkoskuurot todennakoisia|hujan badai petir kemungkinan
+ukkoskuurot paikoin mahdollisia|hujan badai petir mungkin di beberapa tempat
+pohjoispohjanmeri:lle|untuk Laut Utara Utara
+etelapohjanmeri:lle|untuk Laut Utara Selatan
+biskaja:lle|untuk Biscay
+uusimaa_ita-uusim:lle|untuk Uusimaa
+paakaupunkiseutu:lle|untuk Kawasan Metropolitan Helsinki
+kaakkois-suomi:lle|untuk Finlandia Tenggara
+ita-lappi:lle|untuk Lapland Timur
+pohjois-pohjanmaa-itaosa:lle|untuk Bagian Timur Ostrobothnia Utara
+pohjois-pohjanmaa-lansiosa:lle|untuk Bagian Barat Ostrobothnia Utara
+merilappi:lle|untuk Merilappi
+pohjanmaa-etela-pohjanmaa:lle|untuk Ostrobothnia dan Ostrobothnia Selatan
+marka tienpinta muuttuu|permukaan jalan basah berubah menjadi
+alle|di bawah
+yksi millimetri|satu milimeter
+lahella [1] astetta|sekitar [1] derajat
+[1] asteen tienoilla|sekitar [1] derajat
+kello [1]|[1]
+1-na kello [1]|hari Senin [1]
+2-na kello [1]|hari Selasa[1]
+3-na kello [1]|hari Rabu [1]
+4-na kello [1]|hari Kamis [1]
+5-na kello [1]|hari Jumat [1]
+6-na kello [1]|hari Sabtu [1]
+7-na kello [1]|hari Minggu [1]
+[1] asteen tuntumassa|mendekati [1] derajat
+ita-suomi:lle|untuk Finlandia Timur
+itainen-uusimaa:lle|untuk Uusimaa Timur
+koleaa|dingin menusuk
+lantinen-uusimaa:lle|untuk Uusimaa Barat
+lounais-suomi:lle|untuk Finlandia Barat Daya
+pohjois-suomi:lle|untuk Finlandia Utara
+pikkupakkasta|suhu sedikit di bawah nol
+yksittaiset vesikuurot mahdollisia|mungkin kadang-kadang hujan
+yksittaiset vesi- tai rantakuurot mahdollisia|mungkin kadang-kadang hujan atau hujan es
+yksittaiset vesi- tai lumikuurot mahdollisia|mungkin kadang-kadang hujan atau hujan salju
+yksittaiset sadekuurot mahdollisia|mungkin kadang-kadang hujan
+yksittaiset rantakuurot mahdollisia|mungkin kadang-kadang hujan es
+yksittaiset ranta- tai vesikuurot mahdollisia|mungkin kadang-kadang hujan es atau hujan
+yksittaiset lumikuurot mahdollisia|mungkin kadang-kadang hujan salju
+yksittaiset lumi- tai rantakuurot mahdollisia|mungkin kadang-kadang hujan salju atau hujan es
+vahan plussan puolella|sedikit di atas nol
+voimakkaita vesikuuroja|hujan deras
+voimakkaita sadekuuroja|hujan deras kuat
+vesikuuroja|hujan
+vajaat|hampir
+verrattain pilvinen|cukup berawan
+vaihtelee puolipilvisesta pilviseen|bervariasi dari sebagian berawan hingga berawan
+tuulinen|berangin
+tuulista|berangin
+tuuli saa saan tuntumaan viileammalta|angin membuat cuaca terasa lebih sejuk
+tuuli saa saan tuntumaan kylmemmalta|angin membuat cuaca terasa lebih dingin
+tuntumassa|mendekati
+tihkusadetta|gerimis
+tienoilla|sekitar
+saa on helteista|cuaca sangat panas
+saa on edelleen lauhaa|cuaca masih ringan
+sumua|kabut
+sisamaassa|di pedalaman
+selkea|cerah
+sakeita|tebal
+sakeaa|tebal
+sadekuuroja|hujan
+sade alkaa|hujan mulai
+saadaan|diperoleh
+rantakuuroja|hujan es
+runsasta vesisadetta|hujan lebat
+runsaita|lebat
+puolipilvinen|sebagian berawan
+poutainen|cerah
+poikkeuksellisen|luar biasa
+pohjoisesta|dari utara
+pohjoisesta alkaen|mulai dari utara
+pilvinen|berawan
+pieni ukkosen todennakoisyys|kemungkinan kecil petir
+pakkasta|dingin
+pakkanen|embun beku
+pakkanen on purevaa|embun beku menggigit
+pakkanen on erittain purevaa|embun beku sangat menggigit
+pakkanen hellittaa|dingin mulai mereda
+paikkeilla|sekitar
+nollan tienoilla|sekitar nol
+melko selkea|cukup cerah
+mahdollisesti|mungkin
+lannesta|dari barat
+lannesta alkaen|mulai dari barat
+lampotila nousee|suhu naik
+lahella|dekat
+luoteesta|dari barat laut
+luoteesta alkaen|mulai dari barat laut
+lounaasta|dari barat daya
+lounaasta alkaen|mulai dari barat daya
+leutoa|ringan
+koillisesta|dari timur laut
+koillisesta alkaen|mulai dari timur laut
+kirea|intens
+kirea pakkanen jatkuu|dingin intens berlanjut
+kaakosta|dari tenggara
+kaakosta alkaen|mulai dari tenggara
+jaatavaa vesisadetta|hujan beku
+jotka voivat olla jaatavia|yang mungkin membeku
+joka voi olla sakeaa|yang mungkin tebal
+joka voi olla jaatavaa|yang mungkin membeku
+joka voi olla ankaraa|yang mungkin parah
+joka muuttuu vesisateeksi|yang berubah menjadi hujan
+joka muuttuu tihkusateeksi|yang berubah menjadi gerimis
+joka muuttuu rantasateeksi|yang berubah menjadi hujan es
+joka muuttuu lumisateeksi|yang berubah menjadi salju
+idasta|dari timur
+idasta alkaen|mulai dari timur
+huomattavasti|secara signifikan
+hieman lauhempaa|sedikit lebih ringan
+hieman kylmempaa|sedikit lebih dingin
+hieman kireampaa|sedikit lebih intens
+hieman heikompaa|sedikit lebih lemah
+heikkoja|lemah
+heikkoja vesikuuroja|hujan lemah
+heikkoja sadekuuroja|hujan lemah
+heikkoa vesisadetta|hujan lemah
+harvinaisen|luar biasa
+hallan vaara|bahaya embun beku
+hallaa|embun beku
+etelasta|dari selatan
+etelasta alkaen|mulai dari selatan
+asteen|derajat
+alueen pohjoisosassa|di utara
+alueen lansiosassa|di barat
+alueen luoteisosassa|di barat laut
+alueen lounaisosassa|di barat daya
+alueen koillisosassa|di timur laut
+alueen kaakkoisosassa|di tenggara
+alueen itaosassa|di timur
+alueen etelaosassa|di selatan
+alavilla mailla|di dataran rendah
+myohemmin|kemudian
+[1-na] saa on [poikkeuksellisen] [kylmaa]|cuaca adalah [2] [3] [1]
+[1-na] [saa lampenee]|[2] [1]
+kirea pakkanen heikkenee|dingin intens melemah
+saa lampenee huomattavasti|cuaca menghangat secara signifikan
+saa lampenee vahan|cuaca sedikit menghangat
+saa viilenee huomattavasti|cuaca mendingin secara signifikan
+saa viilenee vahan|cuaca sedikit mendingin
+[iltapaivalla] saa poutaantuu ja vaihtelee puolipilvisesta pilviseen|cuaca membaik dan bervariasi dari sebagian berawan hingga berawan [1]
+empty_string|
+[rannikolla] [paikoin] hallaa, joka voi olla ankaraa|mungkin embun beku parah [2] [1]
+[rannikolla] mahdollisesti hallaa|mungkin embun beku [1]
+[sisamaassa] hallan vaara|risiko embun beku [1]
+[rannikolla] [paikoin] hallaa|embun beku [2] [1]
+aamusta|dari pagi
+[huomenna] [sisamaassa] [paikoin] sumua, joka voi olla sakeaa|[1] mungkin kabut tebal [3] [2]
+[huomenna] [sisamaassa] [paikoin] sumua|[1] kabut [3] [2]
+keskiyolla ja aamuyolla|tengah malam dan lewat tengah malam
+iltayolla ja keskiyolla|sebelum tengah malam dan tengah malam
+aamuyolla ja aamulla|lewat tengah malam dan pagi hari
+illalla ja iltayolla|malam dan sebelum tengah malam
+iltapaivalla ja illalla|sore dan malam
+aamulla ja aamupaivalla|pagi dan menjelang siang
+7-iltapaivalla ja illalla|Minggu sore dan malam
+6-iltapaivalla ja illalla|Sabtu sore dan malam
+5-iltapaivalla ja illalla|Jumat sore dan malam
+4-iltapaivalla ja illalla|Kamis sore dan malam
+3-iltapaivalla ja illalla|Rabu sore dan malam
+2-iltapaivalla ja illalla|Selasa sore dan malam
+1-iltapaivalla ja illalla|Senin sore dan malam
+7-aamulla ja aamupaivalla|Minggu pagi dan menjelang siang
+6-aamulla ja aamupaivalla|Sabtu pagi dan menjelang siang
+5-aamulla ja aamupaivalla|Jumat pagi dan menjelang siang
+4-aamulla ja aamupaivalla|Kamis pagi dan menjelang siang
+3-aamulla ja aamupaivalla|Rabu pagi dan menjelang siang
+2-aamulla ja aamupaivalla|Selasa pagi dan menjelang siang
+1-aamulla ja aamupaivalla|Senin pagi dan menjelang siang
+7-illalla ja iltayolla|Minggu malam dan sebelum tengah malam
+6-illalla ja iltayolla|Sabtu malam dan sebelum tengah malam
+5-illalla ja iltayolla|Jumat malam dan sebelum tengah malam
+4-illalla ja iltayolla|Kamis malam dan sebelum tengah malam
+3-illalla ja iltayolla|Rabu malam dan sebelum tengah malam
+2-illalla ja iltayolla|Selasa malam dan sebelum tengah malam
+1-illalla ja iltayolla|Senin malam dan sebelum tengah malam
+aamupaivasta|dari menjelang siang
+7-iltayolla|Minggu sebelum tengah malam
+6-iltayolla|Sabtu sebelum tengah malam
+5-iltayolla|Jumat sebelum tengah malam
+4-iltayolla|Kamis sebelum tengah malam
+3-iltayolla|Rabu sebelum tengah malam
+2-iltayolla|Selasa sebelum tengah malam
+1-iltayolla|Senin sebelum tengah malam
+[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen|[1] cuaca sebagian berawan atau berawan [2]
+[huomenna] [sisamaassa] saa on [selkea]|[1] cuaca adalah [3] [2]
+hyvin tuulinen|sangat berangin
+hyvin tuulista|sangat berangin
+[iltapaivalla] [rannikolla] pakkanen on purevaa|embun beku menggigit [2] [1]
+7-aamuyolla|Minggu dini hari
+6-aamuyolla|Sabtu dini hari
+5-aamuyolla|Jumat dini hari
+4-aamuyolla|Kamis dini hari
+3-aamuyolla|Rabu dini hari
+2-aamuyolla|Selasa dini hari
+2-aamuyolla ja aamulla|Selasa dini hari dan pagi
+3-aamuyolla ja aamulla|Rabu dini hari dan pagi
+5-aamuyolla ja aamulla|Jumat dini hari dan pagi
+6-aamuyolla ja aamulla|Sabtu dini hari dan pagi
+7-aamuyolla ja aamulla|Minggu dini hari dan pagi
+1-aamuyolla ja aamulla|Senin dini hari dan pagi
+saa on tuulinen|cuaca berangin
+[iltapaivalla] [rannikolla] on [tuulista]|[1] angin [3] [2]
+rannikolla lahella [N] [astetta]|dekat [1] [2] di pesisir
+[huomenna] [sisamaassa] [lampotila] on vahan yli [N] [astetta]|[1] [3] sedikit di atas [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on vajaat [N] [astetta]|[1] [3] hampir [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on lahella [N] [astetta]|[1] [3] dekat [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] asteen tuntumassa|[1] [3] mendekati [4] derajat [2]
+[huomenna] [sisamaassa] [lampotila] on [N] asteen tienoilla|[1] [3] sekitar [4] derajat [2]
+[huomenna] [sisamaassa] [lampotila] on noin [N] [astetta]|[1] [3] sekitar [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on [M...N] [astetta]|[1] [3] adalah [4] [5] [2]
+[yolla] on [hieman kylmempaa]|[2] [1]
+[huomenna] [sisamaassa] [lampotila] on [suunnilleen sama]|[1] [3] adalah [4] [2]
+[huomenna] [sisamaassa] pakkasta on [M...N] [astetta]|[1] suhu adalah [3] [4] [2]
+[yolla] lampotila nousee|suhu naik [1]
+[huomenna] [sisamaassa] pakkanen on [hieman kireampaa]|[1] dingin adalah [3] [2]
+[huomenna] [rannikolla] on pikkupakkasta|[1] [2] suhu sedikit di bawah nol
+rannikolla noin [N] [astetta]|sekitar [1] [2] di pesisir
+rannikolla vajaat [N] [astetta]|hampir [1] [2] di pesisir
+rannikolla vahan yli [N] [astetta]|sedikit di atas [1] [2] di pesisir
+rannikolla [M...N] [astetta]|[1] [2] di pesisir
+rannikolla [N] asteen tienoilla|sekitar [1] derajat di pesisir
+rannikolla [N] asteen tuntumassa|mendekati [1] derajat di pesisir
+rannikolla [suunnilleen sama]|[1] di pesisir
+[huomenna] [sisamaassa] [M...N] [astetta]|[1] [3] [4] [2]
+[huomenna] [sisamaassa] noin [N] [astetta]|[1] sekitar [3] [4] [2]
+[huomenna] [sisamaassa] [N] asteen tienoilla|[1] sekitar [3] derajat [2]
+[huomenna] [sisamaassa] [N] asteen tuntumassa|[1] mendekati [3] derajat [2]
+[huomenna] [sisamaassa] lahella [N] [astetta]|[1] dekat [3] [4] [2]
+[huomenna] [sisamaassa] vajaat [N] [astetta]|[1] hampir [3] [4] [2]
+[huomenna] [sisamaassa] vahan yli [N] [astetta]|[1] sedikit di atas [3] [4] [2]
+[huomenna] [sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|cuaca sebagian besar cerah [2] [1], [3]
+[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta]|[1] [4] [5] [3] [2]
+[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4] [5], yang mungkin membeku
+[huomenna] [sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4] [5], yang mungkin membeku
+saa on poutainen|cuaca cerah
+6-keskiyolla|Sabtu tengah malam
+5-keskiyolla|Jumat tengah malam
+4-keskiyolla|Kamis tengah malam
+3-keskiyolla|Rabu tengah malam
+2-keskiyolla|Selasa tengah malam
+1-keskiyolla|Senin tengah malam
+[sisamaassa] alavilla mailla hallan vaara|risiko embun beku di dataran rendah [1]
+7-keskiyolla|Minggu tengah malam
+[huomenna] [sisamaassa] [suunnilleen sama]|[1] [3] [2]
+7-iltapaivasta alkaen|mulai Minggu sore
+6-iltapaivasta alkaen|mulai Sabtu sore
+5-iltapaivasta alkaen|mulai Jumat sore
+4-iltapaivasta alkaen|mulai Kamis sore
+3-iltapaivasta alkaen|mulai Rabu sore
+2-iltapaivasta alkaen|mulai Selasa sore
+1-iltapaivasta alkaen|mulai Senin sore
+7-iltayosta alkaen|mulai Minggu larut malam
+6-iltayosta alkaen|mulai Sabtu larut malam
+5-iltayosta alkaen|mulai Jumat larut malam
+4-iltayosta alkaen|mulai Kamis larut malam
+3-iltayosta alkaen|mulai Rabu larut malam
+2-iltayosta alkaen|mulai Selasa larut malam
+1-iltayosta alkaen|mulai Senin larut malam
+7-aamuyosta alkaen|mulai dini hari Minggu
+6-aamuyosta alkaen|mulai dini hari Sabtu
+5-aamuyosta alkaen|mulai dini hari Jumat
+4-aamuyosta alkaen|mulai dini hari Kamis
+3-aamuyosta alkaen|mulai dini hari Rabu
+2-aamuyosta alkaen|mulai dini hari Selasa
+1-aamuyosta alkaen|mulai dini hari Senin
+7-keskiyosta alkaen|mulai tengah malam Minggu
+6-keskiyosta alkaen|mulai tengah malam Sabtu
+5-keskiyosta alkaen|mulai tengah malam Jumat
+4-keskiyosta alkaen|mulai tengah malam Kamis
+3-keskiyosta alkaen|mulai tengah malam Rabu
+2-keskiyosta alkaen|mulai tengah malam Selasa
+1-keskiyosta alkaen|mulai tengah malam Senin
+1 hehtopascal|satu hektopaskal
+0 hehtopascalia|nol hektopaskal
+1 prosentti|satu persen
+0 prosenttia|nol persen
+1 millimetri|satu milimeter
+0 millimetria|nol milimeter
+1 metri sekunnissa|satu meter per detik
+0 metria sekunnissa|nol meter per detik
+1 aste|satu derajat
+0 astetta|nol derajat
+ranta- tai lumisadetta|hujan es atau salju
+lumi- tai rantasadetta|salju atau hujan es
+lumi- tai vesisadetta|salju atau hujan
+vesi- tai lumisadetta|hujan atau salju
+ranta- tai vesisadetta|hujan es atau hujan
+vesi- tai rantasadetta|hujan atau hujan es
+ranta- tai vesikuuroja|hujan es atau hujan
+vesi- tai rantakuuroja|hujan atau hujan es
+vesi- tai lumikuuroja|hujan atau hujan salju
+lumi- tai vesikuuroja|hujan salju atau hujan
+[huomenna] [sisamaassa] pakkanen on [N] asteen tuntumassa|[1] suhu mendekati [3] derajat [2]
+[huomenna] [sisamaassa] saa on poutainen|cuaca cerah [2] [1]
+[huomenna] [sisamaassa] pakkanen on [N] asteen tienoilla|suhu sekitar [3] derajat [2] [1]
+[huomenna] [sisamaassa] pakkanen on lahella [N] [astetta]|[1] suhu dekat [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on vahan yli [N] [astetta]|[1] suhu sedikit di atas [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on vajaat [N] [astetta]|[1] suhu hampir [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on noin [N] [astetta]|[1] suhu sekitar [3] [4] [2]
+[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|[1] cuaca sebagian berawan atau berawan dan cerah [2]
+[huomenna] [sisamaassa] saa on [selkea] ja poutainen|[1] cuaca adalah [3] dan cerah [2]
+[iltapaivalla] saa poutaantuu|cuaca membaik [1]
+todennakoisesti myos ukkostaa|petir juga kemungkinan
+mahdollisesti myos ukkostaa|mungkin ada beberapa petir
+paikoin myos ukkostaa|di beberapa tempat ada petir
+paikoin voi myos ukkostaa|di beberapa tempat mungkin ada petir
+myos ukkosta esiintyy|ada beberapa petir
+[iltapaivasta alkaen] [pilvistyvaa]|[2] [1]
+[iltapaivalla] saa poutaantuu ja on [selkea]|cuaca membaik dan adalah [2] [1]
+[lampotila] on [suunnilleen sama]|[1] adalah [2]
+[lampotila] on [M...N] [astetta]|[1] adalah [2] [3]
+[lampotila] on noin [N] [astetta]|[1] sekitar [2] [3]
+[lampotila] on [N] asteen tienoilla|[1] sekitar [2] derajat
+[lampotila] on [N] asteen tuntumassa|[1] mendekati [2] derajat
+[lampotila] on lahella [N] [astetta]|[1] dekat [2] [3]
+[lampotila] on vajaat [N] [astetta]|[1] hampir [2] [3]
+[lampotila] on vahan yli [N] [astetta]|[1] sedikit di atas [2] [3]
+saa on [poikkeuksellisen] [kylmaa]|cuaca adalah [1] [2]
+[sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|cuaca sebagian besar cerah [1], [2]
+[sisamaassa] saa on poutainen|cuaca cerah [1]
+[sisamaassa] [paikoin] [heikkoa] [sadetta]|[3] [4] [2] [1]
+[sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4], yang mungkin membeku
+[sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4], yang mungkin membeku
+[paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], yang mungkin membeku
+[paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3], yang mungkin membeku
+[paikoin] [heikkoa] [sadetta]|[1] [2] [3]
+[paikoin] sumua|kabut [1]
+[sisamaassa] [paikoin] sumua|kabut [2] [1]
+[huomenna] sumua|[1] kabut
+[sisamaassa] sumua|kabut [1]
+[huomenna] [paikoin] sumua|[1] [2] kabut
+[huomenna] [sisamaassa] sumua|[1] [2] kabut
+[huomenna] [sisamaassa] sumua, joka voi olla sakeaa|[1] mungkin kabut tebal [2]
+[paikoin] sumua, joka voi olla sakeaa|[1] mungkin kabut tebal
+[sisamaassa] sumua, joka voi olla sakeaa|mungkin kabut tebal [1]
+[sisamaassa] [paikoin] sumua, joka voi olla sakeaa|mungkin kabut tebal [2] [1]
+[huomenna] [paikoin] sumua, joka voi olla sakeaa|[1] mungkin kabut tebal [2]
+[huomenna] sumua, joka voi olla sakeaa|[1] mungkin kabut tebal
+[huomenna] [paikoin] [heikkoa] [sadetta]|[1] [3] [4] [2]
+[paikoin] [sadetta]|[2] [1]
+[huomenna] [sisamaassa] [heikkoa] [sadetta]|[1] [3] [4] [2]
+[sisamaassa] [heikkoa] [sadetta]|[2] [3] [1]
+[huomenna] [heikkoa] [sadetta]|[1] [2] [3]
+[sisamaassa] [sadetta]|[2] [1]
+[sisamaassa] [paikoin] [sadetta]|[3] [2] [1]
+[huomenna] [sadetta]|[1] [2]
+[huomenna] [paikoin] [sadetta]|[1] [3] [2]
+[huomenna] [sisamaassa] [sadetta]|[1] [3] [2]
+[huomenna] [sisamaassa] [paikoin] [sadetta]|[1] [4] [3] [2]
+[huomenna] saa on poutainen|cuaca cerah [1]
+[huomenna] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|cuaca sebagian besar cerah [1], [2]
+[sisamaassa] saa vaihtelee puolipilvisesta pilviseen|cuaca sebagian berawan atau berawan [1]
+[huomenna] saa vaihtelee puolipilvisesta pilviseen|[1] cuaca sebagian berawan atau berawan
+[sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|cuaca sebagian berawan atau berawan dan cerah [1]
+[huomenna] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|[1] cuaca sebagian berawan atau berawan dan cerah
+[sisamaassa] saa on [selkea]|cuaca adalah [2] [1]
+[huomenna] saa on [selkea]|[1] cuaca adalah [2]
+[sisamaassa] saa on [selkea] ja poutainen|cuaca adalah [2] dan cerah [1]
+[huomenna] saa on [selkea] ja poutainen|[1] cuaca adalah [2] dan cerah
+[huomenna] [sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4], yang mungkin membeku
+[huomenna] [sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4], yang mungkin membeku
+[huomenna] [sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4], yang mungkin membeku
+[huomenna] [sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4], yang mungkin membeku
+[huomenna] [sisamaassa] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], yang mungkin membeku
+[huomenna] [sisamaassa] [sadetta], joka voi olla jaatavaa|[1] [2] [3], yang mungkin membeku
+[heikkoa] [sadetta]|[1] [2]
+[sadetta], joka voi olla jaatavaa|[1], yang mungkin membeku
+[heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2], yang mungkin membeku
+[paikoin] [sadetta], joka voi olla jaatavaa|[1] [2], yang mungkin membeku
+[sisamaassa] [sadetta], joka voi olla jaatavaa|[1] [2], yang mungkin membeku
+[sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3], yang mungkin membeku
+[sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3], yang mungkin membeku
+[huomenna] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4], yang mungkin membeku
+[huomenna] [sadetta], joka voi olla jaatavaa|[1] [2], yang mungkin membeku
+[huomenna] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3], yang mungkin membeku
+[huomenna] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3], yang mungkin membeku
+[sadekuuroja], jotka voivat olla jaatavia|[1], yang mungkin membeku
+[heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2], yang mungkin membeku
+[paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2], yang mungkin membeku
+[sisamaassa] [sadekuuroja], jotka voivat olla jaatavia|[1] [2], yang mungkin membeku
+[sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], yang mungkin membeku
+[sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], yang mungkin membeku
+[huomenna] [sadekuuroja], jotka voivat olla jaatavia|[1] [2], yang mungkin membeku
+[huomenna] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], yang mungkin membeku
+[huomenna] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], yang mungkin membeku
+[huomenna] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4], yang mungkin membeku
+[iltapaivalla] [rannikolla] pakkanen on erittain purevaa|embun beku sangat menggigit [2] [1]
+[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan kylmemmalta|angin membuat cuaca terasa lebih dingin [2] [1]
+[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta|angin membuat cuaca terasa lebih sejuk [2] [1]
+saa on hyvin tuulinen|cuaca sangat berangin
+saa on [iltapaivalla] [rannikolla] [tuulinen]|angin [3] [2] [1]
+[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1] [2] [1]
+pakkasta on vahan yli [N] [astetta]|suhu sedikit di bawah [1] [2]
+pakkasta on vajaat [N] [astetta]|suhu hampir [1] [2]
+pakkanen on lahella [N] [astetta]|suhu dekat [1] [2]
+pakkanen on [N] asteen tienoilla|suhu sekitar [1] derajat
+pakkanen on [N] asteen tuntumassa|suhu mendekati [1] derajat
+pakkasta on noin [N] [astetta]|suhu sekitar [1] [2]
+pakkasta on [M...N] [astetta]|suhu adalah [1] 2]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen|cuaca membaik [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on selkea|cuaca membaik dan cerah [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on selkea|cuaca membaik dan cerah [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on selkea|cuaca membaik dan cerah [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on selkea|cuaca membaik dan cerah [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja vaihtelee puolipilvisesta pilviseen|cuaca membaik dan bervariasi dari sebagian berawan hingga berawan [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja vaihtelee puolipilvisesta pilviseen|cuaca membaik dan bervariasi dari sebagian berawan hingga berawan [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja vaihtelee puolipilvisesta pilviseen|cuaca membaik dan bervariasi dari sebagian berawan hingga berawan [1]
+6-keskiyohon asti|hingga tengah malam Sabtu
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja vaihtelee puolipilvisesta pilviseen|cuaca membaik dan bervariasi dari sebagian berawan hingga berawan [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen|cuaca membaik [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen|cuaca membaik [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen|cuaca membaik [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on pilvinen|cuaca membaik dan berawan [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on pilvinen|cuaca membaik dan berawan [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on pilvinen|cuaca membaik dan berawan [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on pilvinen|cuaca membaik dan berawan [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on verrattain pilvinen|cuaca membaik dan cukup berawan [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on verrattain pilvinen|cuaca membaik dan cukup berawan [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on verrattain pilvinen|cuaca membaik dan cukup berawan [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on verrattain pilvinen|cuaca membaik dan cukup berawan [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on puolipilvinen|cuaca membaik dan sebagian berawan [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on puolipilvinen|cuaca membaik dan sebagian berawan [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on puolipilvinen|cuaca membaik dan sebagian berawan [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on puolipilvinen|cuaca membaik dan sebagian berawan [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on melko selkea|cuaca membaik dan cukup cerah [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on melko selkea|cuaca membaik dan cukup cerah [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on melko selkea|cuaca membaik dan cukup cerah [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on melko selkea|cuaca membaik dan cukup cerah [1]
+[rannikolla] on [tuulista]|angin [2] [1]
+[iltapaivalla] on [tuulista]|angin [2] [1]
+[rannikolla] tuuli saa saan tuntumaan kylmemmalta|angin membuat cuaca terasa lebih dingin [1]
+[iltapaivalla] tuuli saa saan tuntumaan kylmemmalta|angin membuat cuaca terasa lebih dingin [1]
+[rannikolla] tuuli saa saan tuntumaan viileammalta|angin membuat cuaca terasa lebih sejuk [1]
+[iltapaivalla] tuuli saa saan tuntumaan viileammalta|angin membuat cuaca terasa lebih sejuk [1]
+[rannikolla] pakkanen on erittain purevaa|embun beku sangat menggigit [1]
+[iltapaivalla] pakkanen on erittain purevaa|embun beku sangat menggigit [1]
+[rannikolla] pakkanen on purevaa|embun beku menggigit [1]
+[iltapaivalla] pakkanen on purevaa|embun beku menggigit [1]
+saa on ajankohtaan nahden tavanomaista lampimampaa|cuaca jelas lebih hangat dari biasanya
+[huomenna] pakkasta on [M...N] [astetta]|[1] suhu adalah [2] [3]
+[huomenna] pakkasta on noin [N] [astetta]|[1] suhu sekitar [2] [3]
+[huomenna] pakkanen on [hieman kireampaa]|[1] dingin adalah [2]
+[huomenna] pakkasta on vahan yli [N] [astetta]|[1] suhu sedikit di bawah [2] [3]
+[huomenna] pakkasta on vajaat [N] [astetta]|[1] suhu hampir [2] [3]
+[huomenna] pakkanen on lahella [N] [astetta]|[1] suhu dekat [2] [3]
+[huomenna] pakkanen on [N] asteen tuntumassa|[1] suhu mendekati [2] derajat
+[huomenna] pakkanen on [N] asteen tienoilla|[1] suhu sekitar [2] derajat
+[sisamaassa] pakkasta on [M...N] [astetta]|suhu adalah [2] [3] [1]
+[sisamaassa] pakkasta on noin [N] [astetta]|suhu sekitar [2] [3] [1]
+[sisamaassa] pakkanen on [hieman kireampaa]|dingin adalah [2] [1]
+[sisamaassa] pakkasta on vahan yli [N] [astetta]|suhu sedikit di bawah [2] [3] [1]
+[sisamaassa] pakkanen on lahella [N] [astetta]|suhu dekat [2] [3] [1]
+[sisamaassa] pakkasta on vajaat [N] [astetta]|suhu hampir [2] [3] [1]
+[sisamaassa] pakkanen on [N] asteen tuntumassa|suhu mendekati [2] derajat [1]
+[sisamaassa] pakkanen on [N] asteen tienoilla|suhu sekitar [2] derajat [1]
+[sisamaassa] [lampotila] on [suunnilleen sama]|[2] adalah [3] [1]
+[sisamaassa] [lampotila] on [M...N] [astetta]|[2] adalah [3] [4] [1]
+[sisamaassa] [lampotila] on noin [N] [astetta]|[2] sekitar [3] [4] [1]
+[sisamaassa] [lampotila] on [N] asteen tienoilla|[2] sekitar [3] derajat [1]
+[sisamaassa] [lampotila] on [N] asteen tuntumassa|[2] mendekati [3] derajat [1]
+[sisamaassa] [lampotila] on lahella [N] [astetta]|[2] dekat [3] [1]
+[sisamaassa] [lampotila] on vajaat [N] [astetta]|[2] hampir [3] [4] [1]
+[sisamaassa] [lampotila] on vahan yli [N] [astetta]|[2] sedikit di atas [3] [4] [1]
+[huomenna] [lampotila] on [suunnilleen sama]|[1] [2] adalah [3]
+[huomenna] [lampotila] on [M...N] [astetta]|[1] [2] adalah [3] [4]
+[huomenna] [lampotila] on noin [N] [astetta]|[1] [2] sekitar [3] [4]
+[huomenna] [lampotila] on [N] asteen tienoilla|[1] [2] sekitar [3] derajat
+[huomenna] [lampotila] on [N] asteen tuntumassa|[1] [2] mendekati [3] derajat
+[huomenna] [lampotila] on lahella [N] [astetta]|[1] [2] dekat [3]
+[huomenna] [lampotila] on vajaat [N] [astetta]|[1] [2] hampir [3] [4]
+2-keskiyohon asti|hingga tengah malam Selasa
+[huomenna] [lampotila] on vahan yli [N] [astetta]|[1] [2] sedikit di atas [3] [4]
+[rannikolla] on pikkupakkasta|suhu sedikit di bawah nol [1]
+[huomenna] on pikkupakkasta|[1] suhu sedikit di bawah nol
+[sisamaassa] [M...N] [astetta]|[2] [3] [1]
+[huomenna] [M...N] [astetta]|[1] [2] [3]
+[sisamaassa] [suunnilleen sama]|[2] [1]
+[huomenna] [suunnilleen sama]|[1] [2]
+[sisamaassa] noin [N] [astetta]|sekitar [2] [3] [1]
+[huomenna] noin [N] [astetta]|[1] sekitar [2] [3]
+[sisamaassa] [N] asteen tienoilla|sekitar [2] derajat [1]
+[huomenna] [N] asteen tienoilla|[1] mendekati [2] derajat
+[sisamaassa] [N] asteen tuntumassa|mendekati [2] derajat [1]
+[huomenna] [N] asteen tuntumassa|[1] mendekati [2] derajat
+[sisamaassa] lahella [N] [astetta]|dekat [2] [3] [1]
+[huomenna] lahella [N] [astetta]|[1] dekat [2] [3]
+[sisamaassa] vahan yli [N] [astetta]|sedikit di atas [2] [3] [1]
+[huomenna] vahan yli [N] [astetta]|[1] sedikit di atas [2] [3]
+[sisamaassa] vajaat [N] [astetta]|hampir [2] [3] [1]
+[huomenna] vajaat [N] [astetta]|[1] hampir [2] [3]
+[1-na] saa on ajankohtaan nahden tavanomaista lampimampaa|[1] cuaca jelas lebih hangat dari biasanya
+asteen(tienoilla)|derajat
+asteen(tuntumassa)|derajat
+[N] [asteen] tienoilla|sekitar [1] [2]
+[N] [asteen] tuntumassa|mendekati [1] [2]
+[sisamaassa] [N] [asteen] tuntumassa|mendekati [2] [3] [1]
+[sisamaassa] [lampotila] on [N] [asteen] tuntumassa|[2] mendekati [3] [4] [1]
+[sisamaassa] pakkanen on [N] [asteen] tuntumassa|suhu mendekati [2] [3] [1]
+[lampotila] on [N] [asteen] tuntumassa|[1] mendekati [2] [3]
+[huomenna] [sisamaassa] [N] [asteen] tuntumassa|[1] mendekati [3] [4] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tuntumassa|[1] [3] mendekati [4] [5] [2]
+[huomenna] [sisamaassa] pakkanen on [N] [asteen] tuntumassa|[1] suhu mendekati [3] [4] [2]
+[huomenna] [N] [asteen] tuntumassa|[1] mendekati [2] [3]
+[huomenna] [lampotila] on [N] [asteen] tuntumassa|[1] [2] mendekati [3] [4]
+[huomenna] pakkanen on [N] [asteen] tuntumassa|[1] suhu mendekati [2] [3]
+rannikolla [N] [asteen] tuntumassa|mendekati [1] [2] di pesisir
+pakkanen on [N] [asteen] tuntumassa|suhu mendekati [1] [2]
+[sisamaassa] [N] [asteen] tienoilla|sekitar [2] [3] [1]
+[sisamaassa] [lampotila] on [N] [asteen] tienoilla|[2] sekitar [3] [4] [1]
+[sisamaassa] pakkanen on [N] [asteen] tienoilla|suhu sekitar [2] [3] [1]
+[lampotila] on [N] [asteen] tienoilla|[1] sekitar [2] [3]
+[huomenna] [sisamaassa] [N] [asteen] tienoilla|[1] sekitar [3] [4] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tienoilla|[1] [3] sekitar [4] [5] [2]
+[huomenna] [sisamaassa] pakkanen on [N] [asteen] tienoilla|suhu sekitar [3] [4] [2] [1]
+[huomenna] [N] [asteen] tienoilla|[1] mendekati [2] [3]
+[huomenna] [lampotila] on [N] [asteen] tienoilla|[1] [2] sekitar [3] [4]
+[huomenna] pakkanen on [N] [asteen] tienoilla|[1] suhu sekitar [2] [3]
+rannikolla [N] [asteen] tienoilla|sekitar [1] [2] di pesisir
+pakkanen on [N] [asteen] tienoilla|suhu sekitar [1] [2]
+saa vaihtelee puolipilvisesta pilviseen ja on poutainen|cuaca sebagian berawan atau berawan dan cerah
+saa on [selkea] ja poutainen|cuaca adalah [1] dan cerah
+[alueella] saa on ajankohtaan nahden tavanomaista lampimampaa|cuaca jelas lebih hangat dari biasanya [1]
+[1-na] [alueella] saa on ajankohtaan nahden tavanomaista lampimampaa|[1] cuaca jelas lebih hangat dari biasanya [2]
+[alueella] [saa lampenee]|[2] [1]
+[1-na] [alueella] [saa lampenee]|[3] [1] [2]
+[alueella] saa on [poikkeuksellisen] [kylmaa]|cuaca adalah [2] [3] [1]
+[1-na] [alueella] saa on [poikkeuksellisen] [kylmaa]|cuaca adalah [3] [4] [2] [1]
+yon alin|minimum malam
+[1-na] [alueella] saa lauhtuu|[1] cuaca menjadi lebih ringan [2]
+[alueella] saa lauhtuu|cuaca menjadi lebih ringan [1]
+[1-na] saa lauhtuu|[1] cuaca menjadi lebih ringan
+[1-na] [alueella] saa on edelleen lauhaa|[1] cuaca masih ringan [2]
+[alueella] saa on edelleen lauhaa|cuaca masih ringan [1]
+[1-na] saa on edelleen lauhaa|[1] cuaca masih ringan
+[alueella] pakkanen kiristyy|embun beku semakin kuat [1]
+[1-na] pakkanen kiristyy|[1] embun beku semakin kuat
+[1-na] [alueella] pakkanen kiristyy|[1] embun beku semakin kuat [2]
+[alueella] kirea pakkanen jatkuu|dingin intens berlanjut [1]
+[1-na] kirea pakkanen jatkuu|[1] dingin intens berlanjut
+[1-na] [alueella] kirea pakkanen jatkuu|[1] dingin intens berlanjut [2]
+[alueella] pakkanen hellittaa|dingin mulai mereda [1]
+[1-na] pakkanen hellittaa|[1] dingin mulai mereda
+[1-na] [alueella] pakkanen hellittaa|[1] dingin mulai mereda [2]
+[alueella] kirea pakkanen heikkenee|dingin intens melemah [1]
+[1-na] kirea pakkanen heikkenee|[1] dingin intens melemah
+[1-na] [alueella] kirea pakkanen heikkenee|[1] dingin intens melemah [2]
+[alueella] pakkanen heikkenee|embun beku melemah [1]
+[1-na] pakkanen heikkenee|[1] embun beku melemah
+[1-na] [alueella] pakkanen heikkenee|[1] embun beku melemah [2]
+[alueella] saa on helteista|cuaca sangat panas [1]
+[1-na] saa on helteista|[1] cuaca sangat panas
+[1-na] [alueella] saa on helteista|[1] cuaca sangat panas [2]
+[alueella] saa muuttuu helteiseksi|cuaca menjadi panas [1]
+[1-na] saa muuttuu helteiseksi|[1] cuaca menjadi panas
+[1-na] [alueella] saa muuttuu helteiseksi|[1] cuaca menjadi panas [2]
+[alueella] helteinen saa jatkuu|cuaca panas berlanjut [1]
+[1-na] helteinen saa jatkuu|[1] cuaca panas berlanjut
+[1-na] [alueella] helteinen saa jatkuu|[1] cuaca panas berlanjut [2]
+[alueella] saa viilenee huomattavasti|cuaca mendingin secara signifikan [1]
+[1-na] saa viilenee huomattavasti|[1] cuaca mendingin secara signifikan
+[1-na] [alueella] saa viilenee huomattavasti|[1] cuaca mendingin secara signifikan [2]
+[alueella] saa viilenee vahan|cuaca sedikit mendingin [1]
+[1-na] saa viilenee vahan|[1] cuaca sedikit mendingin
+[1-na] [alueella] saa viilenee vahan|[1] cuaca sedikit mendingin [2]
+[alueella] saa viilenee|cuaca menjadi lebih sejuk [1]
+[1-na] saa viilenee|[1] cuaca menjadi lebih sejuk
+[1-na] [alueella] saa viilenee|[1] cuaca menjadi lebih sejuk [2]
+[alueella] viilea saa jatkuu|cuaca sejuk berlanjut [1]
+[1-na] viilea saa jatkuu|[1] cuaca sejuk berlanjut
+[1-na] [alueella] viilea saa jatkuu|[1] cuaca sejuk berlanjut [2]
+[alueella] kolea saa jatkuu|cuaca dingin menusuk berlanjut [1]
+[1-na] kolea saa jatkuu|[1] cuaca dingin menusuk berlanjut
+[1-na] [alueella] kolea saa jatkuu|[1] cuaca dingin menusuk berlanjut [2]
+[alueella] saa lampenee huomattavasti|cuaca menghangat secara signifikan [1]
+[1-na] saa lampenee huomattavasti|[1] cuaca menghangat secara signifikan
+[1-na] [alueella] saa lampenee huomattavasti|[1] cuaca menghangat secara signifikan [2]
+[alueella] saa lampenee vahan|cuaca sedikit menghangat [1]
+[1-na] saa lampenee vahan|[1] cuaca sedikit menghangat
+[1-na] [alueella] saa lampenee vahan|[1] cuaca sedikit menghangat [2]
+[alueella] saa lampenee|cuaca menjadi lebih hangat [1]
+[1-na] saa lampenee|[1] cuaca menjadi lebih hangat
+[1-na] [alueella] saa lampenee|[1] cuaca menjadi lebih hangat [2]
+7-keskiyolla ja aamuyolla|Minggu tengah malam dan lewat tengah malam
+6-keskiyolla ja aamuyolla|Sabtu tengah malam dan lewat tengah malam
+5-keskiyolla ja aamuyolla|Jumat tengah malam dan lewat tengah malam
+4-keskiyolla ja aamuyolla|Kamis tengah malam dan lewat tengah malam
+3-keskiyolla ja aamuyolla|Rabu tengah malam dan lewat tengah malam
+2-keskiyolla ja aamuyolla|Selasa tengah malam dan lewat tengah malam
+1-keskiyolla ja aamuyolla|Senin tengah malam dan lewat tengah malam
+[huomenna] yksittaiset vesikuurot mahdollisia|[1] mungkin kadang-kadang hujan
+[huomenna] yksittaiset vesi- tai rantakuurot mahdollisia|[1] mungkin kadang-kadang hujan atau hujan es
+[huomenna] yksittaiset vesi- tai lumikuurot mahdollisia|[1] mungkin kadang-kadang hujan atau hujan salju
+[huomenna] yksittaiset sadekuurot mahdollisia|[1] mungkin kadang-kadang hujan
+[huomenna] yksittaiset rantakuurot mahdollisia|[1] mungkin kadang-kadang hujan es
+[huomenna] yksittaiset ranta- tai vesikuurot mahdollisia|[1] mungkin kadang-kadang hujan es atau hujan
+[huomenna] yksittaiset lumikuurot mahdollisia|[1] mungkin kadang-kadang hujan salju
+[huomenna] yksittaiset lumi- tai rantakuurot mahdollisia|[1] mungkin kadang-kadang hujan salju atau hujan es
+[huomenna] [sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia|mungkin kadang-kadang hujan salju atau hujan es [2] [1]
+[huomenna] [sisamaassa] yksittaiset lumikuurot mahdollisia|mungkin kadang-kadang hujan salju [2] [1]
+[huomenna] [sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia|mungkin kadang-kadang hujan es atau hujan [2] [1]
+[huomenna] [sisamaassa] yksittaiset rantakuurot mahdollisia|mungkin kadang-kadang hujan es [2] [1]
+[huomenna] [sisamaassa] yksittaiset sadekuurot mahdollisia|mungkin kadang-kadang hujan [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia|mungkin kadang-kadang hujan atau hujan salju [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia|mungkin kadang-kadang hujan atau hujan es [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesikuurot mahdollisia|mungkin kadang-kadang hujan [2] [1]
+[sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia|mungkin kadang-kadang hujan es atau hujan [1]
+[sisamaassa] yksittaiset rantakuurot mahdollisia|mungkin kadang-kadang hujan es [1]
+[sisamaassa] yksittaiset sadekuurot mahdollisia|mungkin kadang-kadang hujan [1]
+1-keskiyohon asti|hingga tengah malam Senin
+[sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia|mungkin kadang-kadang hujan atau hujan salju [1]
+[sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia|mungkin kadang-kadang hujan atau hujan es [1]
+[sisamaassa] yksittaiset vesikuurot mahdollisia|mungkin kadang-kadang hujan [1]
+[sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia|[1] mungkin kadang-kadang hujan salju atau hujan es
+[sisamaassa] yksittaiset lumikuurot mahdollisia|mungkin kadang-kadang hujan salju [1]
+[sisamaassa] on [hieman lauhempaa]|[2] [1]
+[huomenna] on [hieman lauhempaa]|[1] [2]
+[huomenna] [sisamaassa] on [hieman lauhempaa]|[1] [3] [2]
+[lampotila] [M...N] [astetta]|[1] [2] [3]
+paivan ylin|maksimum siang
+[lampotila] [suunnilleen sama]|[1] [2]
+[lampotila] vahan yli [N] [astetta]|[1] sedikit di atas [2] [3]
+[lampotila] vajaat [N] [astetta]|[1] hampir [2] [3]
+[lampotila] lahella [N] [astetta]|[1] dekat [2] [3]
+[lampotila] [N] [asteen] tuntumassa|[1] mendekati [2] [3]
+[lampotila] [N] [asteen] tienoilla|[1] sekitar [2] [3]
+[lampotila] noin [N] [astetta]|[1] sekitar [2] [3]
+luoteeseen|ke barat laut
+lounaaseen|ke barat daya
+kaakkoon|ke tenggara
+koilliseen|ke timur laut
+lanteen|ke barat
+itaan|ke timur
+etelaan|ke selatan
+pohjoiseen|ke utara
+[iltapaivalla] tuuli kaantyy [etelaan] ja voimistuu edelleen|[1] angin berbalik [2] dan terus menguat
+[pohjoistuulta] [m...n] [metria sekunnissa], joka muuttuu [iltapaivalla] vaihtelevaksi|[1] [2] [3], yang menjadi berubah-ubah [4]
+vahitellen|secara bertahap
+[pohjoistuulta] [m...n] [metria sekunnissa], joka kaantyy [iltapaivalla] [etelaan]|[1] [2] [3], yang berbalik [5] [4]
+[iltapaivalla] tuuli kaantyy [etelaan]|angin berbalik [2] [1]
+suunnaltaan vaihtelevaa tuulta|angin berubah-ubah
+latvia:lle|untuk Latvia
+astetta (n...0)|derajat
+1- ja 2-valille|ke utara hingga timur laut
+3- ja 2-valille|ke timur hingga timur laut
+3- ja 4-valille|ke timur hingga tenggara
+5- ja 4-valille|ke selatan hingga tenggara
+5- ja 6-valille|ke selatan hingga barat daya
+7- ja 6-valille|ke barat hingga barat daya
+7- ja 8-valille|ke barat hingga barat laut
+1- ja 8-valille|ke utara hingga barat laut
+[huomenna] [etelatuulta]|[1] [2]
+ivalo:lle|untuk Ivalo
+pieksamaki:lle|untuk Pieksämäki
+[iltapaivalla] [etelaan] kaantyvaa tuulta|angin berbalik [2] [1]
+heikkenevaa tuulta|angin melemah
+8-puolelle|umumnya barat laut
+7-puolelle|umumnya barat
+6-puolelle|umumnya barat daya
+5-puolelle|umumnya selatan
+4-puolelle|umumnya tenggara
+3-puolelle|umumnya timur
+2-puolelle|umumnya timur laut
+1-puolelle|umumnya utara
+tuuli muuttuu vaihtelevaksi|angin menjadi berubah-ubah
+[iltapaivalla] tuuli muuttuu vaihtelevaksi|angin menjadi berubah-ubah [1]
+[iltapaivalla] [etelatuulta]|[2] [1]
+astetta (1)|derajat
+astetta (0)|derajat
+astetta (4)|derajat
+astetta (3)|derajat
+astetta (n...(mod 10=1))|derajat
+astetta (n...4)|derajat
+astetta (n...3)|derajat
+astetta (n...2)|derajat
+astetta (n...1)|derajat
+astetta (2)|derajat
+aallonkorkeus on enimmillaan [N] [metria]|tinggi gelombang maksimal [1] [2]
+latgale:lle|untuk kawasan Latgale
+vidzeme:lle|untuk kawasan Vidzeme
+zemgale:lle|untuk kawasan Zemgale
+kurzeme:lle|untuk kawasan Kurzeme
+rigaregion:lle|untuk kawasan Lielriga
+tuuli kaantyy|angin berbalik
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta]|[2] [3] [4] [1]
+[iltapaivalla] [nopeasti] [heikkenevaa tuulta]|[2] [3] [1]
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi|angin menjadi sementara berubah-ubah [1]
+[iltapaivalla] tuuli heikkenee ja muuttuu vaihtelevaksi|[1] angin melemah dan menjadi berubah-ubah
+astetta (m...n)|derajat
+astetta (n)|derajat
+[iltapaivalla] tuuli heikkenee ja kaantyy [etelaan]|[1] angin melemah dan berbalik [2]
+keskipaivasta|dari siang
+[iltapaivalla] tuuli voimistuu ja kaantyy [etelaan]|[1] angin menguat dan berbalik [2]
+[iltapaivalla] tuuli voimistuu ja muuttuu vaihtelevaksi|angin menguat dan menjadi berubah-ubah [1]
+voimistuvaa tuulta|angin menguat
+kovimmillaan|hingga
+nopeasti|cepat
+[iltapaivalla] tuuli muuttuu vaihtelevaksi ja heikkenee edelleen|[1] angin menjadi berubah-ubah dan terus melemah
+[iltapaivalla] [heikkenevaa tuulta]|[1] [2]
+[iltapaivalla] [heikkenevaa] [etelatuulta]|[1] [2] [3]
+[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] [2] melemah dan menjadi berubah-ubah
+[iltapaivalla] [pohjoistuuli] heikkenee ja kaantyy [etelaan]|[1] [2] melemah dan berbalik [3]
+1- ja 8-valista tuulta|angin utara hingga barat laut
+7- ja 8-valista tuulta|angin barat hingga barat laut
+7- ja 6-valista tuulta|angin barat hingga barat daya
+5- ja 6-valista tuulta|angin selatan hingga barat daya
+5- ja 4-valista tuulta|angin selatan hingga tenggara
+3- ja 4-valista tuulta|angin timur hingga tenggara
+3- ja 2-valista tuulta|angin timur hingga timur laut
+1- ja 2-valista tuulta|angin utara hingga timur laut
+1- ja 8-valinen tuuli|angin utara hingga barat laut
+7- ja 8-valinen tuuli|angin barat hingga barat laut
+7- ja 6-valinen tuuli|angin barat hingga barat daya
+5- ja 6-valinen tuuli|angin selatan hingga barat daya
+5- ja 4-valinen tuuli|angin selatan hingga tenggara
+3- ja 4-valinen tuuli|angin timur hingga tenggara
+3- ja 2-valinen tuuli|angin timur hingga timur laut
+1- ja 2-valinen tuuli|angin utara hingga timur laut
+8-puoleinen tuuli|angin barat laut umumnya
+7-puoleinen tuuli|angin barat umumnya
+6-puoleinen tuuli|angin barat daya umumnya
+5-puoleinen tuuli|angin selatan umumnya
+4-puoleinen tuuli|angin tenggara umumnya
+3-puoleinen tuuli|angin timur umumnya
+2-puoleinen tuuli|angin timur laut umumnya
+1-puoleinen tuuli|angin utara umumnya
+8-tuuli|angin barat laut
+7-tuuli|angin barat
+6-tuuli|angin barat daya
+5-tuuli|angin selatan
+4-tuuli|angin tenggara
+3-tuuli|angin timur
+2-tuuli|angin timur laut
+1-tuuli|angin utara
+suunnaltaan vaihteleva tuuli|angin berubah-ubah
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja heikkenee edelleen|[1] angin menjadi sementara berubah-ubah dan terus melemah
+[iltapaivalla] tuuli heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] angin melemah dan menjadi sementara berubah-ubah
+[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1]  [2] melemah dan menjadi sementara berubah-ubah
+iltapaivasta|dari sore
+[iltapaivalla] [etelatuuli] alkaa heiketa [nopeasti]|[1] [2] mulai melemah [3]
+illasta|dari malam
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantya [etelaan]|[1] [2] mulai melemah dan berbalik [3]
+astetta (mod 10=1)|derajat
+aste|derajat
+nolla|nol
+asteen(tienoilla (mod 10=1))|derajat
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [pohjoiseen]|[1] [2] [3] [4], yang berbalik [5]
+[iltapaivalla] edelleen [heikkenevaa] [pohjoistuulta]|[1] [3] terus [2]
+hehtopascalia (mod 10=1)|hektopaskal
+prosenttia (mod 10=1)|persen
+millimetria (mod 10=1)|milimeter
+metria sekunnissa (mod 10=1)|meter per detik
+4 astetta|4 derajat
+3 astetta|3 derajat
+2 astetta|2 derajat
+puuskittaista [etelatuulta]|bertiup kencang [1]
+aallonkorkeus on alle [N] [metria]|tinggi gelombang kurang dari [1] [2]
+aallonkorkeus on [N...M] [metria]|tinggi gelombang [1] [2]
+aallonkorkeus on noin [N] [metria]|tinggi gelombang sekitar [1] [2]
+asteen(tuntumassa (mod 10=1))|derajat
+astetta(noin 0)|derajat
+astetta(noin 4)|derajat
+astetta(noin 3)|derajat
+astetta(noin 2)|derajat
+astetta(noin 1)|derajat
+astetta(noin (mod 10=1))|derajat
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[1] [2] mulai melemah dan berbalik [3]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantya [etelaan]|[1] [2] mulai menguat dan berbalik [3]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantyy [etelaan]|[1] [2] mulai menguat dan berbalik [3]
+[iltapaivalla] [pohjoistuuli] voimistuu ja kaantyy [etelaan]|[1] [2] menguat dan berbalik [3]
+[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi|[1] [2] menguat dan menjadi berubah-ubah
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja voimistuu edelleen|[1] angin menjadi sementara berubah-ubah dan terus menguat
+[iltapaivalla] tuuli muuttuu vaihtelevaksi ja voimistuu edelleen|angin menjadi berubah-ubah dan terus menguat [1]
+[iltapaivalla] tuuli voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] angin terus menguat dan menjadi sementara berubah-ubah
+iltayosta|dari larut malam
+keskiyosta|dari tengah malam
+[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa heiketa|[1] [2] [3], yang mulai melemah
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [illalla] [pohjoiseen]|[1] [2] [3] [4], yang berbalik [6] [5]
+yosta|dari malam ini
+[iltapaivalla] [pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] mulai melemah [3] dan berbalik [5] [4]
+[ip] [p-tuulta] [m...n] [m/s], joka alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] [3] [4], yang mulai melemah [5] dan berbalik [7] [6]
+[iltapaivalla] [etelatuuli] heikkenee [nopeasti]|[2] melemah [3] [1]
+[iltapaivalla] [pohjoistuuli] heikkenee edelleen|[2] terus melemah [1]
+[iltapaivalla] sade voi olla runsasta|hujan bisa lebat [1]
+1-asti|hingga Senin
+2-asti|hingga Selasa
+3-asti|hingga Rabu
+4-asti|hingga Kamis
+6-asti|hingga Jumat
+5-asti|hingga Sabtu
+7-asti|hingga Minggu
+yohon asti|hingga malam
+aamuun asti|hingga pagi
+aamupaivaan asti|hingga menjelang siang
+keskipaivaan asti|hingga siang
+iltapaivaan asti|hingga sore
+iltaan asti|hingga malam
+iltayohon asti|hingga larut malam
+keskiyohon asti|hingga tengah malam
+huomiseen asti|hingga besok
+1-aamupaivaan asti|hingga menjelang siang Senin
+2-aamupaivaan asti|hingga menjelang siang Selasa
+3-aamupaivaan asti|hingga menjelang siang Rabu
+4-aamupaivaan asti|hingga menjelang siang Kamis
+5-aamupaivaan asti|hingga menjelang siang Jumat
+6-aamupaivaan asti|hingga menjelang siang Sabtu
+7-aamupaivaan asti|hingga menjelang siang Minggu
+1-aamuun asti|hingga Senin pagi
+2-aamuun asti|hingga Selasa pagi
+3-aamuun asti|hingga Rabu pagi
+4-aamuun asti|hingga Kamis pagi
+5-aamuun asti|hingga Jumat pagi
+6-aamuun asti|hingga Sabtu pagi
+7-aamuun asti|hingga Minggu pagi
+1-iltaan asti|hingga Senin malam
+2-iltaan asti|hingga Selasa malam
+3-iltaan asti|hingga Rabu malam
+4-iltaan asti|hingga Kamis malam
+5-iltaan asti|hingga Jumat malam
+6-iltaan asti|hingga Sabtu malam
+7-iltaan asti|hingga Minggu malam
+1-vastaiseen yohon asti|hingga malam Senin
+2-vastaiseen yohon asti|hingga malam Selasa
+3-vastaiseen yohon asti|hingga malam Rabu
+4-vastaiseen yohon asti|hingga malam Kamis
+5-vastaiseen yohon asti|hingga malam Jumat
+6-vastaiseen yohon asti|hingga malam Sabtu
+7-vastaiseen yohon asti|hingga malam Minggu
+huomisaamuun asti|hingga besok pagi
+huomisaamupaivaan asti|hingga besok menjelang siang
+huomisiltaan asti|hingga besok malam
+7-iltapaivaan asti|hingga Jumat sore
+6-iltapaivaan asti|hingga Sabtu sore
+5-iltapaivaan asti|hingga Jumat sore
+4-iltapaivaan asti|hingga Kamis sore
+3-iltapaivaan asti|hingga Rabu sore
+2-iltapaivaan asti|hingga Selasa sore
+1-iltapaivaan asti|hingga Senin sore
+7-iltayohon asti|hingga Minggu larut malam
+6-iltayohon asti|hingga Sabtu larut malam
+5-iltayohon asti|hingga Jumat larut malam
+4-iltayohon asti|hingga Kamis larut malam
+3-iltayohon asti|hingga Rabu larut malam
+2-iltayohon asti|hingga Selasa larut malam
+1-iltayohon asti|hingga Senin larut malam
+7-keskiyohon asti|hingga tengah malam Minggu
+5-keskiyohon asti|hingga tengah malam Jumat
+4-keskiyohon asti|hingga tengah malam Kamis
+3-keskiyohon asti|hingga tengah malam Rabu
+[iltapaivalla] [pohjoistuuli] voimistuu edelleen|[2] terus menguat [1]
+[ip] [p-tuulta] [m...n] [m/s], joka alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] [3] [4], yang mulai menguat [5] dan berbalik [7] [6]
+[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa voimistua|[1] [2] [3], yang mulai menguat
+aamuyohon asti|hingga dini hari
+7-aamuyohon asti|hingga dini hari Minggu
+6-aamuyohon asti|hingga dini hari Sabtu
+5-aamuyohon asti|hingga dini hari Jumat
+4-aamuyohon asti|hingga dini hari Kamis
+3-aamuyohon asti|hingga dini hari Rabu
+2-aamuyohon asti|hingga dini hari Selasa
+1-aamuyohon asti|hingga dini hari Senin
+[iltapaivalla] kuurot voivat olla voimakkaita|hujan bisa lebat [1]
+B3N:lle|untuk Laut Bothnia Utara
+[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] mulai melemah dan menjadi berubah-ubah
+[iltapaivalla] tuuli alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] mulai melemah dan menjadi sementara berubah-ubah
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] mulai melemah dan menjadi berubah-ubah
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] mulai melemah dan menjadi sementara berubah-ubah
+inari_utsjoki:lle|untuk Inari dan Utsjoki
+ita_finnmark:lle|untuk Finnmark Timur
+lansi_finnmark:lle|untuk Finnmark Barat
+pohjois_ruotsi:lle|untuk Swedia Utara
+kasivarsi:lle|untuk Käsivarsi
+kova|kencang
+voimakas|sangat kencang
+heikkenee|melemah
+kuola:lle|untuk Semenanjung Kola
+[voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen|[1] berbalik [2] dan terus melemah
+[voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]|[1] melemah dan berbalik [2]
+[voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[1] mulai melemah dan berbalik [2]
+[voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] heikkenee ja muuttuu vaihtelevaksi
+[voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] mulai melemah dan menjadi berubah-ubah
+[voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] mulai melemah dan menjadi sementara berubah-ubah
+[voimakas pohjoistuuli] heikkenee edelleen|[1] terus melemah
+[voimakas pohjoistuuli] alkaa heiketa [nopeasti]|[1] mulai melemah [2]
+[voimakas pohjoistuuli] heikkenee [nopeasti]|[1] melemah [2]
+[voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] melemah dan menjadi sementara berubah-ubah
+voimakas 3- ja 4-valinen tuuli|angin timur hingga tenggara kencang
+voimakas 4-tuuli|angin tenggara kencang
+voimakas 4-puoleinen tuuli|angin tenggara umumnya kencang
+voimakas 5- ja 4-valinen tuuli|angin selatan hingga tenggara kencang
+voimakas 5-tuuli|angin selatan kencang
+voimakas 5-puoleinen tuuli|angin selatan umumnya kencang
+voimakas 5- ja 6-valinen tuuli|angin selatan hingga barat daya kencang
+voimakas 6-tuuli|angin barat daya kencang
+voimakas 6-puoleinen tuuli|angin barat daya umumnya kencang
+voimakas 7- ja 6-valinen tuuli|angin barat hingga barat daya kencang
+voimakas 7-tuuli|angin barat kencang
+voimakas 7-puoleinen tuuli|angin barat umumnya kencang
+voimakas 7- ja 8-valinen tuuli|angin barat hingga barat laut kencang
+voimakas 8-tuuli|angin barat laut kencang
+voimakas 8-puoleinen tuuli|angin barat laut umumnya kencang
+voimakas 1- ja 8-valinen tuuli|angin utara hingga barat laut kencang
+voimakas tuuli|angin badai
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti]|[2] melemah [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee edelleen|[2] terus melemah [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa [nopeasti]|[2] mulai melemah [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[2] mulai melemah dan menjadi sementara berubah-ubah [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[2] melemah dan menjadi sementara berubah-ubah [1]
+voimakas 2-puoleinen tuuli|angin timur laut umumnya kencang
+voimakas 3-puoleinen tuuli|angin timur umumnya kencang
+voimakas 3-tuuli|angin timur kencang
+voimakas 1-tuuli|angin utara kencang
+voimakas 1-puoleinen tuuli|angin utara umumnya kencang
+voimakas 3- ja 2-valinen tuuli|angin timur hingga timur laut kencang
+voimakas 2-tuuli|angin timur laut kencang
+voimakas 1- ja 2-valinen tuuli|angin utara hingga timur laut kencang
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[2] mulai melemah dan menjadi berubah-ubah [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[2] melemah dan menjadi berubah-ubah [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[2] mulai melemah dan berbalik [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]|[2] melemah dan berbalik [3] [1]
+tiepiiri-o4:lle|untuk kawasan pedalaman utara Oulu
+[iltapaivalla] [voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen|[2] berbalik [3] dan terus melemah [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]|[2] melemah [3] [1] dan berbalik [5] [4]
+[etelatuuli] alkaa voimistua [nopeasti]|[1] mulai menguat [2]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] mulai menguat dan menjadi berubah-ubah
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] angin mulai menguat dan menjadi sementara berubah-ubah
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] mulai menguat dan menjadi berubah-ubah
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[2] melemah [3]  [1] dan berbalik [4]
+[pohjoistuuli] heikkenee [nopeasti]|[1] melemah [2]
+[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]|[1] melemah [2] dan berbalik [4] [3]
+[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[1] melemah [2] dan berbalik [3]
+[pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] melemah dan  dan  menjadi berubah-ubah
+[etelatuuli] alkaa heiketa [nopeasti]|[1] mulai melemah [2]
+[pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] melemah dan menjadi sementara berubah-ubah
+[pohjoistuuli] alkaa heiketa ja kaantya [etelaan]|[1] mulai melemah dan berbalik [2]
+[pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] mulai melemah [2] dan berbalik [4] [3]
+[etelatuuli] heikkenee [nopeasti]|[1] melemah [2]
+[pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] mulai melemah dan menjadi berubah-ubah
+[pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] mulai melemah dan menjadi sementara berubah-ubah
+[pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] mulai melemah dan menjadi berubah-ubah
+1-keskipaivaan|hingga siang Senin
+2-keskipaivaan|hingga siang Selasa
+3-keskipaivaan|hingga siang Rabu
+4-keskipaivaan|hingga siang Kamis
+5-keskipaivaan|hingga siang Jumat
+6-keskipaivaan|hingga siang Sabtu
+7-keskipaivaan|hingga siang Minggu
+1-keskipaivasta|dari siang Senin
+2-keskipaivasta|dari siang Selasa
+3-keskipaivasta|dari siang Rabu
+4-keskipaivasta|dari siang Kamis
+5-keskipaivasta|dari siang Jumat
+6-keskipaivasta|dari siang Sabtu
+7-keskipaivasta|dari siang Minggu
+kemi-tornio:lle|untuk Kemi-Tornio
+rovaniemen seutu:lle|untuk kawasan Rovaniemi
+tornionlaakso:lle|untuk Lembah Torne
+tunturi-lappi:lle|untuk Tunturi-Lappi
+elyalue-epo:lle|untuk kawasan ELY Ostrobothnia Selatan
+elyalue-kas:lle|untuk kawasan ELY Finlandia Tenggara
+elyalue-kes:lle|untuk kawasan ELY Finlandia Tengah
+elyalue-lap:lle|untuk kawasan ELY Lapland
+elyalue-pir:lle|untuk kawasan ELY Pirkanmaa
+elyalue-pkp:lle|untuk kawasan ELY Ostrobothnia Utara
+elyalue-pos:lle|untuk kawasan ELY Savonia Utara
+elyalue-uud:lle|untuk kawasan ELY Uusimaa
+elyalue-var:lle|untuk kawasan ELY Finlandia Proper
+tiepiiri-h1:lle|untuk Häme Selatan
+tiepiiri-h2:lle|untuk Päijänne-Häme Selatan
+tiepiiri-h3:lle|untuk Pirkanmaa Selatan
+tiepiiri-h4:lle|untuk Päijänne-Häme Utara
+tiepiiri-h5:lle|untuk Pirkanmaa Utara
+tiepiiri-k1:lle|untuk kawasan pesisir Kymenmaa
+tiepiiri-k2:lle|untuk kawasan pedalaman Kymenmaa
+tiepiiri-k3:lle|untuk Karelia Selatan
+tiepiiri-k4:lle|untuk Savo Selatan
+tiepiiri-ke1:lle|untuk kawasan selatan Finlandia Tengah
+tiepiiri-ke2:lle|untuk kawasan utara Finlandia Tengah
+tiepiiri-l1:lle|untuk Lapland Barat Daya
+tiepiiri-l2:lle|untuk Lapland Tenggara
+tiepiiri-l3:lle|untuk Lapland Tengah
+tiepiiri-l4:lle|untuk Lapland Barat Laut
+tiepiiri-l5:lle|untuk Lapland Utara
+tiepiiri-o1e:lle|untuk kawasan pesisir selatan Oulu
+tiepiiri-o1p:lle|untuk kawasan pesisir utara Oulu
+tiepiiri-o2:lle|untuk kawasan pedalaman selatan Oulu
+tiepiiri-o3:lle|untuk Kainuu
+tiepiiri-o5:lle|untuk Koillismaa
+tiepiiri-s1:lle|untuk kawasan selatan Karelia Utara
+tiepiiri-s2:lle|untuk kawasan selatan Savonia Utara
+[etelatuuli] voimistuu [nopeasti]|[1] menguat [2]
+[iltapaivalla] [pohjoistuuli] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] mulai menguat dan menjadi sementara berubah-ubah
+[iltapaivalla] tuuli alkaa voimistua ja kaantyy [etelaan]|angin mulai menguat dan berbalik [2] [1]
+[pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] mulai menguat [2] dan berbalik [4] [3]
+[pohjoistuuli] alkaa voimistua ja kaantya [etelaan]|[1] mulai menguat dan berbalik [2]
+[pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] mulai menguat dan menjadi sementara berubah-ubah
+[pohjoistuuli] voimistuu [nopeasti]|[1] menguat [2]
+[pohjoistuuli] voimistuu ja kaantyy [etelaan]|[1] menguat dan berbalik [2]
+[pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] menguat dan menjadi sementara berubah-ubah
+[pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi|[1] menguat dan  menjadi berubah-ubah
+1-aamuyolla|Senin dini hari
+tiepiiri-s3:lle|untuk kawasan tengah Karelia Utara
+tiepiiri-s4:lle|untuk kawasan utara Savonia Utara
+tiepiiri-s5:lle|untuk kawasan utara Karelia Utara
+tiepiiri-t1:lle|untuk kawasan pesisir Finlandia Proper
+tiepiiri-t2:lle|untuk kawasan pedalaman Finlandia Proper
+tiepiiri-t3:lle|untuk kawasan timur Finlandia Proper
+tiepiiri-t4:lle|untuk kawasan pesisir Satakunta
+tiepiiri-t5:lle|untuk kawasan pedalaman Satakunta
+tiepiiri-u1:lle|untuk kawasan pesisir Uusimaa Barat
+tiepiiri-u2:lle|untuk kawasan ibu kota
+tiepiiri-u3:lle|untuk kawasan pesisir Uusimaa Timur
+tiepiiri-u4:lle|untuk kawasan pedalaman Uusimaa Barat
+tiepiiri-u5:lle|untuk kawasan pedalaman Uusimaa Timur
+tiepiiri-v1:lle|untuk kawasan pesisir selatan Ostrobothnia
+tiepiiri-v2:lle|untuk Ostrobothnia Selatan
+tiepiiri-v4:lle|untuk kawasan pesisir utara Ostrobothnia
+tiepiiri-v5:lle|untuk Ostrobothnia Tengah
+[iltap] [nop] [heikken] [tuulta] [m...n] [m sek], joka kaantyy [illalla] [pohj]|[1] [2] [3] [4] [5] [6], yang berbalik [8] [7]
+[lampotila] vahan nollan alapuolella|[1] sedikit di bawah nol
+[lampotila] on vahan nollan alapuolella|[1] sedikit di bawah nol
+[huomenna] vahan nollan alapuolella|[1] sedikit di bawah nol
+[sismaassa] vahan nollan alapuolella|[1] sedikit di bawah nol
+[huomenna] [lampotila] on vahan nollan alapuolella|[1] [2] sedikit di bawah nol
+[sisamaassa] [lampotila] on vahan nollan alapuolella|[1] [2] sedikit di bawah nol
+[huomenna] [sisamaassa] vahan nollan alapuolella|[1] sedikit di bawah nol [2]
+[huomenna] [sisamaassa] [lampotila] on vahan nollan alapuolella|[1] [3] sedikit di bawah nol [2]
+rannikolla vahan nollan alapuolella|sedikit di bawah nol di pesisir
+muuten hyva nakyvyys|jarak pandang baik lainnya
+hyva nakyvyys|jarak pandang baik
+enimmakseen hyva nakyvyys|jarak pandang umumnya baik
+yolla ja aamulla|malam hari dan pagi hari
+aamulla ja paivalla|pagi hari dan siang hari
+paivalla ja illalla|siang hari dan malam
+illalla ja yolla|malam dan malam hari
+1-keskipaivalla|siang hari Senin
+2-keskipaivalla|siang hari Selasa
+3-keskipaivalla|siang hari Rabu
+4-keskipaivalla|siang hari Kamis
+5-keskipaivalla|siang hari Jumat
+6-keskipaivalla|siang hari Sabtu
+7-keskipaivalla|siang hari Minggu
+ja huono nakyvyys|dan jarak pandang buruk
+B2_B1S:lle|untuk Kvarken dan Teluk Bothnia Selatan
+B2_B1:lle|untuk Kvarken dan Teluk Bothnia
+B3_B2_B1:lle|untuk Laut Bothnia, Kvarken dan Teluk Bothnia
+B3_B2:lle|untuk Laut Bothnia dan Kvarken
+B4E_B3:lle|untuk Laut Kepulauan dan Laut Bothnia
+B4_B3:lle|untuk Laut Kepulauan dan Laut Åland dan Laut Bothnia
+B7_B4:lle|untuk Baltik Utara, Laut Kepulauan dan Laut Åland
+B7_B4_B3:lle|untuk Baltik Utara, Laut Kepulauan dan Laut Åland dan Laut Bothnia
+B5W_B7:lle|untuk Teluk Finlandia Barat dan Baltik Utara
+B5_B7:lle|untuk Teluk Finlandia dan Baltik Utara
+B3N_B2:lle|untuk Laut Bothnia Utara dan Kvarken
+vesi- tai tihkusadetta|hujan atau gerimis
+lumi- tai tihkusadetta|salju atau gerimis
+ranta- tai tihkusadetta|hujan es atau gerimis
+jaatavaa tihkusadetta|gerimis beku
+jotka muuttuvat lumikuuroiksi|yang berubah menjadi hujan salju
+jotka muuttuvat rantakuuroiksi|yang berubah menjadi hujan es
+[iltapaivalla] [etelatuuli] alkaa voimistua [nopeasti]|[1] [2] mulai menguat [3]
+[iltapaivalla] [etelatuuli] voimistuu [nopeasti]|[2] menguat [3] [1]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] mulai menguat [3] dan berbalik [5] [4]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] mulai menguat dan menjadi sementara berubah-ubah
+4-aamuyolla ja aamulla|Kamis dini hari dan pagi
+B5W_B7E_B4E:lle|untuk Teluk Finlandia Barat, Bagian Timur Baltik Utara dan Laut Kepulauan
+B5W_B7E:lle|untuk Teluk Finlandia Barat dan Bagian Timur Baltik Utara
+B7_B4_B3S:lle|untuk Baltik Utara, Laut Kepulauan dan Laut Åland dan Laut Bothnia Selatan
+B7E_B4E_B3S:lle|untuk Bagian Timur Baltik Utara, Laut Kepulauan dan Laut Bothnia Selatan
+B7E_B4E:lle|untuk Bagian Timur Baltik Utara dan Laut Kepulauan
+B7W_B4:lle|untuk Teluk Finlandia Barat, Laut Kepulauan dan Laut Åland
+B7W_B4W_B3S:lle|untuk Teluk Finlandia Barat, Laut Åland dan Laut Bothnia Selatan
+B7W_B4W:lle|untuk Teluk Finlandia Barat dan Laut Åland
+[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] menguat dan menjadi sementara berubah-ubah
+[iltapaivalla] tuuli kaantyy [etelaan] ja heikkenee edelleen|[1] angin berbalik [2] dan terus menguat
+tuuli voimistuu|angin menguat menjadi
+B4_B3S:lle|untuk Laut Kepulauan dan Laut Åland dan Laut Bothnia Selatan
+aamupaivalla|menjelang siang
+huomisen keskipaivaan asti|hingga siang besok
+huono nakyvyys|jarak pandang buruk
+B1|Teluk Bothnia
+B2|Kvarken
+B3|Laut Bothnia
+B4|Laut Kepulauan dan Laut Åland
+B5|Teluk Finlandia
+B6|Teluk Riga
+B7|Baltik Utara
+B8|Baltik Tengah
+B9|Baltik Proper Tenggara
+B10|Baltik Selatan
+B11|Laut Arkona
+B12|Öresund dan Selat
+B13|Kattegat
+B1N|Teluk Bothnia Utara
+B1S|Teluk Bothnia Selatan
+B4E|Laut Kepulauan
+B4W|Laut Åland
+B5E|Teluk Finlandia Timur
+B5W|Teluk Finlandia Barat
+B8E|Baltik Tengah
+B8W|Laut Gotland
+B10N|Laut Öland
+B10S|Laut Bornholm
+B2_B1S|Kvarken dan Teluk Bothnia Selatan
+B2_B1|Kvarken dan Teluk Bothnia
+B3_B2_B1|Laut Bothnia, Kvarken dan Teluk Bothnia
+B3_B2|Laut Bothnia dan Kvarken
+B4E_B3|Laut Kepulauan dan Laut Bothnia
+B4_B3|Laut Kepulauan dan Laut Åland dan Laut Bothnia
+B7_B4|Baltik Utara, Laut Kepulauan dan Laut Åland
+B7_B4_B3|Baltik Utara, Laut Kepulauan dan Laut Åland dan Laut Bothnia
+B5W_B7|Teluk Finlandia Barat dan Baltik Utara
+B5_B7|Teluk Finlandia dan Baltik Utara
+B3N_B2|Laut Bothnia Utara dan Kvarken
+B3N|Laut Bothnia Utara
+B3S|Laut Bothnia Selatan
+B4_B3S|Laut Kepulauan dan Laut Åland dan Laut Bothnia Selatan
+B5W_B7E_B4E|Teluk Finlandia Barat, Bagian Timur Baltik Utara dan Laut Kepulauan
+B5W_B7E|Teluk Finlandia Barat dan Bagian Timur Baltik Utara
+B7_B4_B3S|Baltik Utara, Laut Kepulauan dan Laut Åland dan Laut Bothnia Selatan
+B7E_B4E_B3S|Bagian Timur Baltik Utara, Laut Kepulauan dan Laut Bothnia Selatan
+B7E_B4E|Bagian Timur Baltik Utara dan Laut Kepulauan
+B7E|Bagian Timur Baltik Utara
+B7W_B4W_B3S|Teluk Finlandia Barat, Laut Åland dan Laut Bothnia Selatan
+B7W_B4|Teluk Finlandia Barat, Laut Kepulauan dan Laut Åland
+B7W_B4W|Teluk Finlandia Barat dan Laut Åland
+B7W|Bagian Barat Baltik Utara
+lumisateesta|lebih buruk karena salju

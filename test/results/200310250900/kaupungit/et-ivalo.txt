@@ -1,0 +1,26 @@
+Ivalo
+
+Ilmateade laupäeval 9
+
+Ilmavaade homme õhtuni:
+
+Täna keskpäevast alates kohati nõrk lumesadu.
+Homme muutliku pilvisusega.
+Sademete tõenäosus on täna 50 protsenti, homme väiksem.
+Täna põhjatuul 6 meetrit sekundis, homme 3 meetrit sekundis.
+Päeva maksimaalne temperatuur on täna umbes -5 kraadi, homme ligikaudu sama.
+Öö minimaalne temperatuur on umbes -10 kraadi.
+Madalaim suhteline niiskus on homme 80 protsenti.
+Sademete kogus on täna ennelõunast alates umbes 1 millimeetrit.
+
+Ilmavaade pühapäeva õhtust neljapäeva hommikuni:
+
+Ilm on ebastabiilne.
+Päevane maksimaalne temperatuur on umbes -4 kraadi, öine minimaalne temperatuur umbes -9 kraadi.
+
+Pühapäeva hommikust järgmise viie päeva ilm:
+
+Kesktemperatuur -4 kraadi.
+Keskmine maksimaalne temperatuur -4 kraadi.
+Keskmine minimaalne temperatuur -8 kraadi.
+Sademete kogus 5-10 millimeetrit.

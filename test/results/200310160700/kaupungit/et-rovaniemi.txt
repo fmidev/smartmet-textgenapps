@@ -1,0 +1,26 @@
+Rovaniemi
+
+Ilmateade neljapäeval 7
+
+Ilmavaade homme õhtuni:
+
+Neljapäevast alates vahelduv vihm.
+Sademete tõenäosus on täna 60 protsenti, homme sama.
+Täna läänetuul 4 meetrit sekundis, homme 6 meetrit sekundis.
+Päeva maksimaalne temperatuur on täna umbes 6 kraadi, homme veidi madalam.
+Öö minimaalne temperatuur on umbes 4 kraadi.
+Öökülma tõenäosus on reede ööl 30 protsenti.
+Madalaim suhteline niiskus on homme 70 protsenti.
+Sademete kogus on täna hommikust alates umbes 2 millimeetrit, homme umbes 5 millimeetrit.
+
+Ilmavaade reede õhtust teisipäeva hommikuni:
+
+Enamasti pilves, vahelduv sademed.
+Päevane maksimaalne temperatuur on umbes -1 kraad, öine minimaalne temperatuur umbes -5 kraadi.
+
+Reede hommikust järgmise viie päeva ilm:
+
+Kesktemperatuur -3 kraadi.
+Keskmine maksimaalne temperatuur 0 kraadi.
+Keskmine minimaalne temperatuur -5 kraadi.
+Sademete kogus 5-10 millimeetrit.

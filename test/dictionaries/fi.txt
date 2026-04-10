@@ -183,6 +183,8 @@ voimakkaita kuuroja|voimakkaita kuuroja
 vahaisia kuuroja|vähäisiä kuuroja
 vahaista lumisadetta|vähäistä lumisadetta
 mahdollisesti ukkosta|mahdollisesti ukkosta
+paikoin ukkosta|paikoin ukkosta
+ukkosta|ukkosta
 ajoittain ukkosta|ajoittain ukkosta
 viiva|viiva
 miinus|miinus

@@ -1,0 +1,2148 @@
+word_separator|
+sentence_end|.
+o'clock|นาฬิกา
+meri-lappi:lle|สำหรับ Meri-Lappi
+pohjois-pohjanmaan itaosa:lle|สำหรับภาคตะวันออกของ Northern Ostrobothnia
+pohjois-pohjanmaan lansiosa:lle|สำหรับภาคตะวันตกของ Northern Ostrobothnia
+pohjanmaa ja etela-pohjanmaa:lle|สำหรับ Ostrobothnia และ Southern Ostrobothnia
+etela-lappi:lle|สำหรับ Southern Lapland
+keski-lappi:lle|สำหรับ Central Lapland
+utsjoki ja inari:lle|สำหรับ Utsjoki และ Inari
+finnmarkin lansiosa:lle|สำหรับภาคตะวันตกของ Finnmark
+finnmarkin itaosa:lle|สำหรับภาคตะวันออกของ Finnmark
+murmanskin alueen lansiosa:lle|สำหรับภาคตะวันตกของ Murmansk Oblast
+pohjois-ruotsi:lle|สำหรับ Northern Sweden
+[iltapaivalla] lumikuurot voivat olla sakeita|หิมะตกหนักได้ [1]
+[iltapaivalla] lumisade voi olla sakeaa|หิมะตกหนักได้ [1]
+huomiseen iltapaivaan asti|จนถึงตอนบ่ายพรุ่งนี้
+aamuyosta|ตั้งแต่ช่วงเช้าตรู่
+astetta(noin n)|องศา
+huomattavasti lampimampi|อุ่นกว่ามาก
+lampimampi|อุ่นกว่า
+seuraava yo|คืนถัดไป
+seuraavana yona|ในคืนถัดไป
+on|คือ
+ankaran hallan todennakoisyys|ความน่าจะเป็นของน้ำค้างแข็งรุนแรง
+hallan todennakoisyys|ความน่าจะเป็นของน้ำค้างแข็ง
+7-vastaisena yona|คืนวันอาทิตย์
+6-vastaisena yona|คืนวันเสาร์
+5-vastaisena yona|คืนวันศุกร์
+4-vastaisena yona|คืนวันพฤหัสบดี
+3-vastaisena yona|คืนวันพุธ
+2-vastaisena yona|คืนวันอังคาร
+1-vastaisena yona|คืนวันจันทร์
+sama|เหมือนเดิม
+hieman pienempi|น้อยกว่าเล็กน้อย
+hieman suurempi|มากกว่าเล็กน้อย
+pienempi|น้อยกว่า
+suurempi|มากกว่า
+alin suhteellinen kosteus|ความชื้นสัมพัทธ์ต่ำสุด
+7-na|วันอาทิตย์
+6-na|วันเสาร์
+5-na|วันศุกร์
+4-na|วันพฤหัสบดี
+3-na|วันพุธ
+2-na|วันอังคาร
+1-na|วันจันทร์
+odotettavissa|สภาพอากาศที่คาดการณ์
+7-illasta|ตั้งแต่ตอนเย็นวันอาทิตย์
+1-illasta|ตั้งแต่ตอนเย็นวันจันทร์
+2-illasta|ตั้งแต่ตอนเย็นวันอังคาร
+3-illasta|ตั้งแต่ตอนเย็นวันพุธ
+4-illasta|ตั้งแต่ตอนเย็นวันพฤหัสบดี
+5-illasta|ตั้งแต่ตอนเย็นวันศุกร์
+6-illasta|ตั้งแต่ตอนเย็นวันเสาร์
+7-aamuun|จนถึงเช้าวันอาทิตย์
+1-aamuun|จนถึงเช้าวันจันทร์
+2-aamuun|จนถึงเช้าวันอังคาร
+3-aamuun|จนถึงเช้าวันพุธ
+4-aamuun|จนถึงเช้าวันพฤหัสบดี
+5-aamuun|จนถึงเช้าวันศุกร์
+6-aamuun|จนถึงเช้าวันเสาร์
+saa|สภาพอากาศ
+keskilampotila|อุณหภูมิเฉลี่ย
+keskimaarainen ylin lampotila|อุณหภูมิสูงสุดเฉลี่ย
+keskimaarainen alin lampotila|อุณหภูมิต่ำสุดเฉลี่ย
+sadesumma|ปริมาณน้ำฝนรวม
+astetta|องศา
+millimetria|มิลลิเมตร
+1-aamusta|ตั้งแต่เช้าวันจันทร์
+2-aamusta|ตั้งแต่เช้าวันอังคาร
+3-aamusta|ตั้งแต่เช้าวันพุธ
+4-aamusta|ตั้งแต่เช้าวันพฤหัสบดี
+5-aamusta|ตั้งแต่เช้าวันศุกร์
+6-aamusta|ตั้งแต่เช้าวันเสาร์
+7-aamusta|ตั้งแต่เช้าวันอาทิตย์
+alkavan|
+1-iltaan|จนถึงตอนเย็นวันจันทร์
+2-vuorokauden saa|สภาพอากาศสองวันข้างหน้า
+3-vuorokauden saa|สภาพอากาศสามวันข้างหน้า
+4-vuorokauden saa|สภาพอากาศสี่วันข้างหน้า
+5-vuorokauden saa|สภาพอากาศห้าวันข้างหน้า
+6-vuorokauden saa|สภาพอากาศหกวันข้างหน้า
+7-vuorokauden saa|สภาพอากาศเจ็ดวันข้างหน้า
+8-vuorokauden saa|สภาพอากาศแปดวันข้างหน้า
+9-vuorokauden saa|สภาพอากาศเก้าวันข้างหน้า
+10-vuorokauden saa|สภาพอากาศสิบวันข้างหน้า
+1-keskipaivaan asti|จนถึงเที่ยงวันจันทร์
+2-keskipaivaan asti|จนถึงเที่ยงวันอังคาร
+3-keskipaivaan asti|จนถึงเที่ยงวันพุธ
+4-keskipaivaan asti|จนถึงเที่ยงวันพฤหัสบดี
+5-keskipaivaan asti|จนถึงเที่ยงวันศุกร์
+6-keskipaivaan asti|จนถึงเที่ยงวันเสาร์
+7-keskipaivaan asti|จนถึงเที่ยงวันอาทิตย์
+yli|มากกว่า
+2-iltaan|จนถึงตอนเย็นวันอังคาร
+3-iltaan|จนถึงตอนเย็นวันพุธ
+4-iltaan|จนถึงตอนเย็นวันพฤหัสบดี
+5-iltaan|จนถึงตอนเย็นวันศุกร์
+6-iltaan|จนถึงตอนเย็นวันเสาร์
+7-iltaan|จนถึงตอนเย็นวันอาทิตย์
+monin paikoin enemman|มากขึ้นในหลายพื้นที่
+paikoin enemman|มากขึ้นในบางพื้นที่
+monin paikoin|ในหลายพื้นที่
+paikoin|ในบางพื้นที่
+asti|
+huomattavasti korkeampi|สูงกว่ามาก
+korkeampi|สูงกว่า
+hieman korkeampi|สูงกว่าเล็กน้อย
+suunnilleen sama|ประมาณเท่าเดิม
+hieman alempi|ต่ำกว่าเล็กน้อย
+alempi|ต่ำกว่า
+huomattavasti alempi|ต่ำกว่ามาก
+noin|ประมาณ
+seuraavana paivana|ในวันถัดไป
+paivan ylin lampotila|อุณหภูมิสูงสุดในตอนกลางวัน
+yon alin lampotila|อุณหภูมิต่ำสุดในตอนกลางคืน
+paivien ylin lampotila|อุณหภูมิสูงสุดประจำวัน
+oiden alin lampotila|อุณหภูมิต่ำสุดในเวลากลางคืน
+paivalampotila|อุณหภูมิกลางวัน
+yolampotila|อุณหภูมิกลางคืน
+lopuksi|สุดท้าย
+8-suunnasta|จากทิศตะวันตกเฉียงเหนือ
+7-suunnasta|จากทิศตะวันตก
+6-suunnasta|จากทิศตะวันตกเฉียงใต้
+5-suunnasta|จากทิศใต้
+4-suunnasta|จากทิศตะวันออกเฉียงใต้
+3-suunnasta|จากทิศตะวันออก
+2-suunnasta|จากทิศตะวันออกเฉียงเหนือ
+1-suunnasta|จากทิศเหนือ
+8-suuntaan|ไปทิศตะวันตกเฉียงเหนือ
+7-suuntaan|ไปทิศตะวันตก
+6-suuntaan|ไปทิศตะวันตกเฉียงใต้
+5-suuntaan|ไปทิศใต้
+4-suuntaan|ไปทิศตะวันออกเฉียงใต้
+3-suuntaan|ไปทิศตะวันออก
+2-suuntaan|ไปทิศตะวันออกเฉียงเหนือ
+1-suuntaan|ไปทิศเหนือ
+alueen yli|เหนือพื้นที่
+liikkuu|เคลื่อนที่
+kosteammaksi|ชื้นมากขึ้น
+kuivemmaksi|แห้งมากขึ้น
+muuttuu|เปลี่ยนเป็น
+viilenee|เย็นลง
+lampenee|อุ่นขึ้น
+sadealue|พื้นที่ฝนตก
+leviaa|แผ่กระจาย
+loittonee|ถอยห่างออกไป
+lahestyy|เข้าใกล้
+laaja|กว้างใหญ่
+korkeapaineen alue|บริเวณความกดอากาศสูง
+matalapaineen alue|บริเวณความกดอากาศต่ำ
+syvenee|ลึกลงไป
+korkeapaine|ความกดอากาศสูง
+matalapaine|ความกดอากาศต่ำ
+lampotila|อุณหภูมิ
+m/s|ม./วินาที
+heikkoa|เบา
+kohtalaista|ปานกลาง
+navakkaa|แรงพอสมควร
+kovaa|แรง
+myrskya|พายุ
+tuulta|ลม
+suunnaltaan vaihtelevaa|ทิศทางแปรปรวน
+1-tuulta|ลมทิศเหนือ
+2-tuulta|ลมทิศตะวันออกเฉียงเหนือ
+3-tuulta|ลมทิศตะวันออก
+4-tuulta|ลมทิศตะวันออกเฉียงใต้
+5-tuulta|ลมทิศใต้
+6-tuulta|ลมทิศตะวันตกเฉียงใต้
+7-tuulta|ลมทิศตะวันตก
+8-tuulta|ลมทิศตะวันตกเฉียงเหนือ
+yolla|กลางคืน
+heikkenevaa|อ่อนกำลังลง
+tuuli|ลม
+1-puoleista tuulta|ลมทิศเหนือเป็นส่วนใหญ่
+2-puoleista tuulta|ลมทิศตะวันออกเฉียงเหนือเป็นส่วนใหญ่
+3-puoleista tuulta|ลมทิศตะวันออกเป็นส่วนใหญ่
+4-puoleista tuulta|ลมทิศตะวันออกเฉียงใต้เป็นส่วนใหญ่
+5-puoleista tuulta|ลมทิศใต้เป็นส่วนใหญ่
+6-puoleista tuulta|ลมทิศตะวันตกเฉียงใต้เป็นส่วนใหญ่
+7-puoleista tuulta|ลมทิศตะวันตกเป็นส่วนใหญ่
+8-puoleista tuulta|ลมทิศตะวันตกเฉียงเหนือเป็นส่วนใหญ่
+ajoittain lumisadetta|หิมะตกเป็นครั้งคราว
+ajoittain sadetta|ฝนตกเป็นครั้งคราว
+ajoittain ukkosta|ฟ้าร้องเป็นครั้งคราว
+heikkoa sadetta|ฝนเบา
+lumikuuroja|ฝนหิมะ
+lumisadetta|หิมะตก
+voimistuvaa|แรงขึ้น
+vahvistuu|แรงขึ้น
+uusimaa|Uusimaa
+mahdollisesti ukkosta|อาจมีฟ้าร้อง
+paikoin ukkosta|ฟ้าร้องในบางพื้นที่
+ukkosta|ฟ้าร้อง
+melko selkeaa|ค่อนข้างแจ่มใส
+miinus|ลบ
+pilvistyvaa|เมฆมากขึ้น
+pilvista|มีเมฆมาก
+poutaa|อากาศดี
+puolipilvista|มีเมฆบางส่วน
+runsasta sadetta|ฝนตกหนัก
+sadetta|ฝน
+sakeaa lumisadetta|หิมะตกหนัก
+sakeita lumikuuroja|ฝนหิมะหนัก
+selkenevaa|เมฆลดลง
+selkeaa|แดดออก
+tai|หรือ
+tuuli heikkenee|ลมอ่อนกำลังลงเป็น
+vaihtelevaa pilvisyytta|เมฆแปรปรวน
+vesisadetta|ฝน
+voimakkaita kuuroja|ฝนหนัก
+vahaisia kuuroja|ฝนเบา
+vahaista lumisadetta|หิมะตกน้อย
+heikoksi|เบา
+kohtalaiseksi|ปานกลาง
+navakaksi|แรงพอสมควร
+kovaksi|แรง
+myrskyksi|พายุ
+1-tuuleksi|ลมทิศเหนือ
+2-tuuleksi|ลมทิศตะวันออกเฉียงเหนือ
+3-tuuleksi|ลมทิศตะวันออก
+4-tuuleksi|ลมทิศตะวันออกเฉียงใต้
+5-tuuleksi|ลมทิศใต้
+6-tuuleksi|ลมทิศตะวันตกเฉียงใต้
+7-tuuleksi|ลมทิศตะวันตก
+8-tuuleksi|ลมทิศตะวันตกเฉียงเหนือ
+1-puoleiseksi tuuleksi|ลมทิศเหนือเป็นส่วนใหญ่
+2-puoleiseksi tuuleksi|ลมทิศตะวันออกเฉียงเหนือเป็นส่วนใหญ่
+3-puoleiseksi tuuleksi|ลมทิศตะวันออกเป็นส่วนใหญ่
+4-puoleiseksi tuuleksi|ลมทิศตะวันออกเฉียงใต้เป็นส่วนใหญ่
+5-puoleiseksi tuuleksi|ลมทิศใต้เป็นส่วนใหญ่
+6-puoleiseksi tuuleksi|ลมทิศตะวันตกเฉียงใต้เป็นส่วนใหญ่
+7-puoleiseksi tuuleksi|ลมทิศตะวันตกเป็นส่วนใหญ่
+8-puoleiseksi tuuleksi|ลมทิศตะวันตกเฉียงเหนือเป็นส่วนใหญ่
+tuuli tyyntyy|ลมสงบลง
+tyyneksi|สงบ
+tyynta|ลมสงบ
+viiva|ถึง
+rantasadetta|ฝนปนลูกเห็บ
+saa on epavakaista|สภาพอากาศไม่แน่นอน
+lumi-|หิมะ
+ranta-|ลูกเห็บ
+vesi-|ฝน
+edelleen|ต่อเนื่อง
+enimmakseen|ส่วนใหญ่
+ajoittain sateista|ฝนตกเป็นครั้งคราว
+paivalla|ตอนกลางวัน
+hirmumyrskya|พายุรุนแรง
+hirmumyrskyksi|พายุรุนแรง
+saaennuste|รายงานอากาศ
+kello|
+aland:lle|สำหรับหมู่เกาะ Åland
+etela-karjala:lle|สำหรับ Southern Karelia
+etela-pohjanmaa:lle|สำหรับ Southern Ostrobothnia
+etela-savo:lle|สำหรับ Southern Savonia
+hame:lle|สำหรับ Tavastia
+kainuu:lle|สำหรับ Kainuu
+keski-pohjanmaa:lle|สำหรับ Central Ostrobothnia
+keski-suomi:lle|สำหรับ Central Finland
+koillismaa:lle|สำหรับ Koillismaa
+kymenlaakso:lle|สำหรับ Kymenlaakso
+lansi-lappi:lle|สำหรับ Western Lapland
+nyland:lle|สำหรับ Uusimaa
+osterbotten:lle|สำหรับ Ostrobothnia
+paijat-hame:lle|สำหรับ Päijänne Tavastia
+pirkanmaa:lle|สำหรับ Pirkanmaa
+pohjois-karjala:lle|สำหรับ Northern Karelia
+pohjois-lappi:lle|สำหรับ Northern Lapland
+pohjois-pohjanmaa:lle|สำหรับ Northern Ostrobothnia
+pohjois-savo:lle|สำหรับ Northern Savonia
+satakunta:lle|สำหรับ Satakunta
+uusimaa:lle|สำหรับ Uusimaa
+varsinais-suomi:lle|สำหรับ Finland Proper
+huomattavasti suurempi|มากกว่ามาก
+huomattavasti pienempi|น้อยกว่ามาก
+rannikolla|บริเวณชายฝั่ง
+metria sekunnissa|เมตร/วินาที
+1-alkaen|ตั้งแต่วันจันทร์เป็นต้นไป
+2-alkaen|ตั้งแต่วันอังคารเป็นต้นไป
+3-alkaen|ตั้งแต่วันพุธเป็นต้นไป
+4-alkaen|ตั้งแต่วันพฤหัสบดีเป็นต้นไป
+5-alkaen|ตั้งแต่วันศุกร์เป็นต้นไป
+6-alkaen|ตั้งแต่วันเสาร์เป็นต้นไป
+7-alkaen|ตั้งแต่วันอาทิตย์เป็นต้นไป
+tanaan|วันนี้
+huomenna|พรุ่งนี้
+ylihuomenna|มะรืนนี้
+ensi yona|คืนนี้
+huomisaamuna|เช้าพรุ่งนี้
+aamulla|ตอนเช้า
+illalla|ตอนเย็น
+iltapaivalla|ตอนบ่าย
+aamuyolla|หลังเที่ยงคืน
+keskipaivalla|เที่ยงวัน
+iltayolla|ก่อนเที่ยงคืน
+keskiyolla|เที่ยงคืน
+yosta alkaen|ตั้งแต่คืนนี้
+aamuyosta alkaen|ตั้งแต่ช่วงเช้าตรู่
+aamusta alkaen|ตั้งแต่เช้า
+aamupaivasta alkaen|ตั้งแต่ช่วงสาย
+keskipaivasta alkaen|ตั้งแต่เที่ยงวัน
+iltapaivasta alkaen|ตั้งแต่ตอนบ่าย
+illasta alkaen|ตั้งแต่ตอนเย็น
+iltayosta alkaen|ตั้งแต่ช่วงค่ำ
+keskiyosta alkaen|ตั้งแต่เที่ยงคืน
+prosenttia|เปอร์เซ็นต์
+ajoittain|เป็นครั้งคราว
+1-na kello|วันจันทร์
+2-na kello|วันอังคาร
+3-na kello|วันพุธ
+4-na kello|วันพฤหัสบดี
+5-na kello|วันศุกร์
+6-na kello|วันเสาร์
+7-na kello|วันอาทิตย์
+ei suuria muutoksia saassa|ไม่มีการเปลี่ยนแปลงสภาพอากาศอย่างมีนัยสำคัญ
+saa selkenee|สภาพอากาศแจ่มใสขึ้น
+saa muuttuu epavakaisemmaksi|สภาพอากาศไม่แน่นอนมากขึ้น
+sateinen saa jatkuu|สภาพอากาศฝนฟ้าคะนองยังคงอยู่
+epavakainen saa jatkuu|สภาพอากาศไม่แน่นอนยังคงอยู่
+saa lauhtuu|อากาศอ่อนโยนลง
+saa on enimmakseen poutaista|สภาพอากาศส่วนใหญ่ดี
+saa poutaantuu|สภาพอากาศดีขึ้น
+saa muuttuu helteiseksi|อากาศกลายเป็นอากาศร้อน
+saa lampenee|อากาศอุ่นขึ้น
+saa viilenee|อากาศเย็นลง
+saa muuttuu koleaksi|อากาศกลายเป็นอากาศหนาวเย็น
+saa kylmenee|อากาศเย็นลง
+helteinen saa jatkuu|อากาศร้อนยังคงอยู่
+lammin saa jatkuu|อากาศอุ่นยังคงอยู่
+viilea saa jatkuu|อากาศเย็นยังคงอยู่
+kolea saa jatkuu|อากาศหนาวเย็นยังคงอยู่
+kylma saa jatkuu|อากาศเย็นยังคงอยู่
+virtaa|ไหล
+tilapaisesti|ชั่วคราว
+lamminta|อุ่น
+kylmaa|เย็น
+viileaa|เย็นสบาย
+viileampaa|เย็นกว่า
+lampimampaa|อุ่นกว่า
+kylmempaa|เย็นกว่า
+hyvin|มาก
+vahan|นิดหน่อย
+ilmaa|อากาศ
+Suomeen|สู่ฟินแลนด์
+maan|ของประเทศ
+etelaosiin|ภาคใต้
+keskiosiin|ภาคกลาง
+pohjoisosiin|ภาคเหนือ
+itaosiin|ภาคตะวันออก
+lansiosiin|ภาคตะวันตก
+etela-|ภาคใต้
+keski-|ภาคกลาง
+pohjois-|ภาคเหนือ
+ita-|ภาคตะวันออก
+lansi-|ภาคตะวันตก
+kuivempaa|แห้งกว่า
+kosteampaa|ชื้นกว่า
+sadealueita|บริเวณฝนตก
+Suomen yli|เหนือฟินแลนด์
+Etela-Suomen yli|เหนือฟินแลนด์ตอนใต้
+Keski-Suomen yli|เหนือฟินแลนด์ตอนกลาง
+Pohjois-Suomen yli|เหนือฟินแลนด์ตอนเหนือ
+Ita-Suomen yli|เหนือฟินแลนด์ตะวันออก
+Lansi-Suomen yli|เหนือฟินแลนด์ตะวันตก
+Kaakkois-Suomen yli|เหนือฟินแลนด์ตะวันออกเฉียงใต้
+uusi|ใหม่
+sateen todennakoisyys|ความน่าจะเป็นของฝน
+kuurosateen todennakoisyys|ความน่าจะเป็นของฝนตกเป็นห่า
+ukkosen todennakoisyys|ความน่าจะเป็นของฟ้าร้อง
+pakkanen jatkuu|น้ำค้างแข็งยังคงอยู่
+pakkanen kiristyy|น้ำค้างแข็งรุนแรงขึ้น
+pakkanen heikkenee|น้ำค้างแข็งลดลง
+kuuluu|อยู่ใน
+sateineen|พร้อมกับฝน
+sadealueineen|พร้อมกับบริเวณฝน
+hajanaisine sadealueineen|พร้อมกับบริเวณฝนกระจาย
+Lounais-Suomen yli|เหนือฟินแลนด์ตะวันตกเฉียงใต้
+saapuu|เข้าใกล้
+saa muuttuu sateisemmaksi|สภาพอากาศมีฝนมากขึ้น
+alue|พื้นที่
+pohjanmaa:lle|สำหรับ Ostrobothnia
+suomi:lle|สำหรับฟินแลนด์
+aluksi|ในตอนแรก
+ahvenanmaa:lle|สำหรับ Åland
+huomisesta alkaen|ตั้งแต่พรุ่งนี้เป็นต้นไป
+ja|และ
+tiepiiri-hame:lle|สำหรับเขตถนน Tavastia
+tiepiiri-kaakkois-lappi:lle|สำหรับ South Eastern Lapland
+tiepiiri-kaakkois-suomi:lle|สำหรับเขตถนน South Eastern Finland
+tiepiiri-kasivarsi:lle|สำหรับ North Western Lapland
+tiepiiri-keski-lappi:lle|สำหรับ Central Lapland
+tiepiiri-keski-suomi:lle|สำหรับเขตถนน Central Finland
+tiepiiri-lounais-lappi:lle|สำหรับ South Western Lapland
+tiepiiri-oulu-ita:lle|สำหรับภาคตะวันออกเขตถนน Oulu
+tiepiiri-oulu-lansi:lle|สำหรับภาคตะวันตกเขตถนน Oulu
+tiepiiri-savo-karjala:lle|สำหรับเขตถนน Savonia-Karelia
+tiepiiri-turku:lle|สำหรับเขตถนน Turku
+tiepiiri-uusimaa:lle|สำหรับเขตถนน Uusimaa
+tiepiiri-vaasa:lle|สำหรับเขตถนน Vaasa
+tiepiiri-yla-lappi:lle|สำหรับ Upper Lapland
+tienpintalampotila|อุณหภูมิผิวถนน
+ensimmaisen 12 tunnin sademaara|ปริมาณน้ำฝนใน 12 ชั่วโมงแรก
+seuraavan 12 tunnin|ใน 12 ชั่วโมงถัดไป
+seuraavan 24 tunnin sademaara|ปริมาณน้ำฝนใน 24 ชั่วโมงถัดไป
+tiet ovat|สภาพถนน
+teilla on|สภาพถนน
+jaisia|เป็นน้ำแข็ง
+osittain jaisia|เป็นน้ำแข็งบางส่วน
+kuuraa|มีน้ำค้างแข็งปกคลุม
+sohjoa|มีหิมะเละปกคลุม
+lunta|มีหิมะปกคลุม
+markia|เปียก
+kosteita|ชื้น
+kuivia|แห้ง
+kuuraisia|มีน้ำค้างแข็งปกคลุม
+sohjoisia|มีหิมะเละปกคลุม
+lumisia|มีหิมะปกคลุม
+tiet ovat (sivulause)|
+yleisesti|โดยทั่วไป
+kanta-hame:lle|สำหรับ Tavastia Proper
+ita-uusimaa:lle|สำหรับ Eastern Uusimaa
+lappi:lle|สำหรับ Lapland
+lapin-laani:lle|สำหรับจังหวัด Lapland
+oulun-laani:lle|สำหรับจังหวัด Oulu
+ita-suomen-laani:lle|สำหรับจังหวัด Eastern Finland
+lansi-suomen-laani:lle|สำหรับจังหวัด Western Finland
+etela-suomen-laani:lle|สำหรับจังหวัด Southern Finland
+ahvenanmaan-laani:lle|สำหรับจังหวัด Åland
+7-paivalla|วันอาทิตย์ตอนกลางวัน
+2-aamuna|เช้าวันอังคาร
+3-aamuna|เช้าวันพุธ
+4-aamuna|เช้าวันพฤหัสบดี
+5-aamuna|เช้าวันศุกร์
+6-aamuna|เช้าวันเสาร์
+7-aamuna|เช้าวันอาทิตย์
+1-aamupaivasta alkaen|ตั้งแต่ช่วงสายวันจันทร์
+2-aamupaivasta alkaen|ตั้งแต่ช่วงสายวันอังคาร
+3-aamupaivasta alkaen|ตั้งแต่ช่วงสายวันพุธ
+4-aamupaivasta alkaen|ตั้งแต่ช่วงสายวันพฤหัสบดี
+5-aamupaivasta alkaen|ตั้งแต่ช่วงสายวันศุกร์
+6-aamupaivasta alkaen|ตั้งแต่ช่วงสายวันเสาร์
+1-aamusta alkaen|ตั้งแต่เช้าวันจันทร์
+2-aamusta alkaen|ตั้งแต่เช้าวันอังคาร
+3-aamusta alkaen|ตั้งแต่เช้าวันพุธ
+4-aamusta alkaen|ตั้งแต่เช้าวันพฤหัสบดี
+5-aamusta alkaen|ตั้งแต่เช้าวันศุกร์
+6-aamusta alkaen|ตั้งแต่เช้าวันเสาร์
+7-aamusta alkaen|ตั้งแต่เช้าวันอาทิตย์
+1-iltana|ตอนเย็นวันจันทร์
+2-iltana|ตอนเย็นวันอังคาร
+3-iltana|ตอนเย็นวันพุธ
+4-iltana|ตอนเย็นวันพฤหัสบดี
+5-iltana|ตอนเย็นวันศุกร์
+6-iltana|ตอนเย็นวันเสาร์
+7-iltana|ตอนเย็นวันอาทิตย์
+1-illasta alkaen|ตั้งแต่ตอนเย็นวันจันทร์
+2-illasta alkaen|ตั้งแต่ตอนเย็นวันอังคาร
+3-illasta alkaen|ตั้งแต่ตอนเย็นวันพุธ
+4-illasta alkaen|ตั้งแต่ตอนเย็นวันพฤหัสบดี
+5-illasta alkaen|ตั้งแต่ตอนเย็นวันศุกร์
+6-illasta alkaen|ตั้งแต่ตอนเย็นวันเสาร์
+7-illasta alkaen|ตั้งแต่ตอนเย็นวันอาทิตย์
+1-paivalla|วันจันทร์ตอนกลางวัน
+2-paivalla|วันอังคารตอนกลางวัน
+3-paivalla|วันพุธตอนกลางวัน
+4-paivalla|วันพฤหัสบดีตอนกลางวัน
+5-paivalla|วันศุกร์ตอนกลางวัน
+6-paivalla|วันเสาร์ตอนกลางวัน
+1-vastaisesta yosta alkaen|ตั้งแต่คืนวันจันทร์
+2-vastaisesta yosta alkaen|ตั้งแต่คืนวันอังคาร
+3-vastaisesta yosta alkaen|ตั้งแต่คืนวันพุธ
+4-vastaisesta yosta alkaen|ตั้งแต่คืนวันพฤหัสบดี
+5-vastaisesta yosta alkaen|ตั้งแต่คืนวันศุกร์
+6-vastaisesta yosta alkaen|ตั้งแต่คืนวันเสาร์
+7-vastaisesta yosta alkaen|ตั้งแต่คืนวันอาทิตย์
+huomisaamusta alkaen|ตั้งแต่เช้าพรุ่งนี้
+huomisaamupaivasta alkaen|ตั้งแต่ช่วงสายพรุ่งนี้
+huomisillasta alkaen|ตั้งแต่ตอนเย็นพรุ่งนี้
+huomenna paivalla|พรุ่งนี้ตอนกลางวัน
+huomisiltana|ตอนเย็นพรุ่งนี้
+1-aamuna|เช้าวันจันทร์
+7-aamupaivasta alkaen|ตั้งแต่ช่วงสายวันอาทิตย์
+B1:lle|สำหรับ Bay of Bothnia
+B2:lle|สำหรับ the Quark
+B3:lle|สำหรับ Sea of Bothnia
+B4:lle|สำหรับ Sea of Archipelago and Sea of Åland
+B5:lle|สำหรับ Gulf of Finland
+B6:lle|สำหรับ Gulf of Riga
+B7:lle|สำหรับ Northern Baltic Proper
+B8:lle|สำหรับ Middle Baltic Proper
+B9:lle|สำหรับ Southeastern Baltic Proper
+B10:lle|สำหรับ Southern Baltic Proper
+B11:lle|สำหรับ Arkona Sea
+B12:lle|สำหรับ Öresund and the Belts
+B13:lle|สำหรับ Kattegat
+B1N:lle|สำหรับ Northern Bay of Bothnia
+B1S:lle|สำหรับ Southern Bay of Bothnia
+B4E:lle|สำหรับ Sea of Archipelago
+B4W:lle|สำหรับ Sea of Åland
+B5E:lle|สำหรับ Eastern Gulf of Finland
+B5W:lle|สำหรับ Western Gulf of Finland
+B8E:lle|สำหรับ Middle Baltic Proper
+B8W:lle|สำหรับ Gotland Sea
+B10N:lle|สำหรับ Öland Sea
+B10S:lle|สำหรับ Bornholm Sea
+osittain jaisiksi|เป็นน้ำแข็งบางส่วน
+kuuraisiksi|มีน้ำค้างแข็งปกคลุม
+keli on|สภาพถนนคือ
+tienpinnat muuttuvat|ผิวถนนจะ
+jaisiksi|เป็นน้ำแข็ง
+pakkasliukkautta|ลื่นเพราะน้ำค้างแข็ง
+rannasta ja liukkaista|อ่อนแอเพราะผิวถนนลื่นและฝนปนลูกเห็บ
+tieto puuttuu|ไม่มีข้อมูล
+liukkaiksi jaatavasta sateesta|ลื่นเพราะฝนน้ำแข็ง
+rannasta ja osittain liukkaista|อ่อนแอเพราะผิวถนนลื่นบางส่วนและฝนปนลูกเห็บ
+sateesta ja osittain liukkaista|อ่อนแอเพราะผิวถนนลื่นบางส่วนและฝนตก
+sateesta ja liukkaista|อ่อนแอเพราะผิวถนนลื่นและฝนตก
+normaali|ปกติ
+aanekoski:lle|สำหรับ Äänekoski
+aetsa:lle|สำหรับ Äetsä
+ahtari:lle|สำหรับ Ähtäri
+alaharma:lle|สำหรับ Alahärmä
+alajarvi:lle|สำหรับ Alajärvi
+alastaro:lle|สำหรับ Alastaro
+alavieska:lle|สำหรับ Alavieska
+alavus:lle|สำหรับ Alavus
+anjalankoski:lle|สำหรับ Anjalankoski
+artjarvi:lle|สำหรับ Artjärvi
+asikkala:lle|สำหรับ Asikkala
+askainen:lle|สำหรับ Askainen
+askola:lle|สำหรับ Askola
+aura:lle|สำหรับ Aura
+brando:lle|สำหรับ Brändö
+dragsfjard:lle|สำหรับ Dragsfjärd
+eckero:lle|สำหรับ Eckerö
+elimaki:lle|สำหรับ Elimäki
+enonkoski:lle|สำหรับ Enonkoski
+enontekio:lle|สำหรับ Enontekiö
+eno:lle|สำหรับ Eno
+espoo:lle|สำหรับ Espoo
+eurajoki:lle|สำหรับ Eurajoki
+eura:lle|สำหรับ Eura
+evijarvi:lle|สำหรับ Evijärvi
+finstrom:lle|สำหรับ Finström
+foglo:lle|สำหรับ Föglö
+forssa:lle|สำหรับ Forssa
+geta:lle|สำหรับ Geta
+haapajarvi:lle|สำหรับ Haapajärvi
+haapavesi:lle|สำหรับ Haapavesi
+hailuoto:lle|สำหรับ Hailuoto
+halikko:lle|สำหรับ Halikko
+halsua:lle|สำหรับ Halsua
+hameenkoski:lle|สำหรับ Hämeenkoski
+hameenkyro:lle|สำหรับ Hämeenkyrö
+hameenlinna:lle|สำหรับ Hämeenlinna
+hamina:lle|สำหรับ Hamina
+hammarland:lle|สำหรับ Hammarland
+hankasalmi:lle|สำหรับ Hankasalmi
+hanko:lle|สำหรับ Hanko
+harjavalta:lle|สำหรับ Harjavalta
+B3S:lle|สำหรับ Southern Sea of Bothnia
+B7E:lle|สำหรับภาคตะวันออกของ Northern Baltic Proper
+B7W:lle|สำหรับภาคตะวันตกของ Northern Baltic Proper
+hartola:lle|สำหรับ Hartola
+hattula:lle|สำหรับ Hattula
+hauho:lle|สำหรับ Hauho
+haukipudas:lle|สำหรับ Haukipudas
+haukivuori:lle|สำหรับ Haukivuori
+hausjarvi:lle|สำหรับ Hausjärvi
+heinavesi:lle|สำหรับ Heinävesi
+heinola:lle|สำหรับ Heinola
+helsinki:lle|สำหรับ Helsinki
+himanka:lle|สำหรับ Himanka
+hirvensalmi:lle|สำหรับ Hirvensalmi
+hollola:lle|สำหรับ Hollola
+honkajoki:lle|สำหรับ Honkajoki
+houtskari:lle|สำหรับ Houtskari
+huittinen:lle|สำหรับ Huittinen
+humppila:lle|สำหรับ Humppila
+hyrynsalmi:lle|สำหรับ Hyrynsalmi
+hyvinkaa:lle|สำหรับ Hyvinkää
+iisalmi:lle|สำหรับ Iisalmi
+ii:lle|สำหรับ Ii
+iitti:lle|สำหรับ Iitti
+ikaalinen:lle|สำหรับ Ikaalinen
+ilmajoki:lle|สำหรับ Ilmajoki
+ilomantsi:lle|สำหรับ Ilomantsi
+imatra:lle|สำหรับ Imatra
+inari:lle|สำหรับ Inari
+inio:lle|สำหรับ Iniö
+inkoo:lle|สำหรับ Inkoo
+isojoki:lle|สำหรับ Isojoki
+isokyro:lle|สำหรับ Isokyrö
+jaala:lle|สำหรับ Jaala
+jalasjarvi:lle|สำหรับ Jalasjärvi
+jamijarvi:lle|สำหรับ Jämijärvi
+jamsankoski:lle|สำหรับ Jämsänkoski
+jamsa:lle|สำหรับ Jämsä
+janakkala:lle|สำหรับ Janakkala
+jarvenpaa:lle|สำหรับ Järvenpää
+joensuu:lle|สำหรับ Joensuu
+jokioinen:lle|สำหรับ Jokioinen
+jomala:lle|สำหรับ Jomala
+joroinen:lle|สำหรับ Joroinen
+joutsa:lle|สำหรับ Joutsa
+joutseno:lle|สำหรับ Joutseno
+juankoski:lle|สำหรับ Juankoski
+jurva:lle|สำหรับ Jurva
+juuka:lle|สำหรับ Juuka
+juupajoki:lle|สำหรับ Juupajoki
+juva:lle|สำหรับ Juva
+jyvaskylan_mlk:lle|สำหรับ Jyväskylän mlk
+jyvaskyla:lle|สำหรับ Jyväskylä
+kaarina:lle|สำหรับ Kaarina
+kaavi:lle|สำหรับ Kaavi
+kajaani:lle|สำหรับ Kajaani
+kalajoki:lle|สำหรับ Kalajoki
+kalvia:lle|สำหรับ Kälviä
+kalvola:lle|สำหรับ Kalvola
+kangasala:lle|สำหรับ Kangasala
+kangasniemi:lle|สำหรับ Kangasniemi
+kankaanpaa:lle|สำหรับ Kankaanpää
+kannonkoski:lle|สำหรับ Kannonkoski
+kannus:lle|สำหรับ Kannus
+karijoki:lle|สำหรับ Karijoki
+karjaa:lle|สำหรับ Karjaa
+karjalohja:lle|สำหรับ Karjalohja
+karkkila:lle|สำหรับ Karkkila
+karkola:lle|สำหรับ Kärkölä
+karsamaki:lle|สำหรับ Kärsämäki
+karstula:lle|สำหรับ Karstula
+karttula:lle|สำหรับ Karttula
+karvia:lle|สำหรับ Karvia
+kaskinen:lle|สำหรับ Kaskinen
+kauhajoki:lle|สำหรับ Kauhajoki
+kauhava:lle|สำหรับ Kauhava
+kauniainen:lle|สำหรับ Kauniainen
+kaustinen:lle|สำหรับ Kaustinen
+keitele:lle|สำหรับ Keitele
+kemijarvi:lle|สำหรับ Kemijärvi
+keminmaa:lle|สำหรับ Keminmaa
+kemio:lle|สำหรับ Kemiö
+kemi:lle|สำหรับ Kemi
+kempele:lle|สำหรับ Kempele
+kerava:lle|สำหรับ Kerava
+kerimaki:lle|สำหรับ Kerimäki
+kesalahti:lle|สำหรับ Kesälahti
+kestila:lle|สำหรับ Kestilä
+keuruu:lle|สำหรับ Keuruu
+kihnio:lle|สำหรับ Kihniö
+kiikala:lle|สำหรับ Kiikala
+kiikoinen:lle|สำหรับ Kiikoinen
+kiiminki:lle|สำหรับ Kiiminki
+kinnula:lle|สำหรับ Kinnula
+kirkkonummi:lle|สำหรับ Kirkkonummi
+kisko:lle|สำหรับ Kisko
+kitee:lle|สำหรับ Kitee
+kittila:lle|สำหรับ Kittilä
+kiukainen:lle|สำหรับ Kiukainen
+kiuruvesi:lle|สำหรับ Kiuruvesi
+kivijarvi:lle|สำหรับ Kivijärvi
+kodisjoki:lle|สำหรับ Kodisjoki
+kokar:lle|สำหรับ Kökar
+kokemaki:lle|สำหรับ Kokemäki
+kokkola:lle|สำหรับ Kokkola
+kolari:lle|สำหรับ Kolari
+konnevesi:lle|สำหรับ Konnevesi
+kontiolahti:lle|สำหรับ Kontiolahti
+korpilahti:lle|สำหรับ Korpilahti
+korppoo:lle|สำหรับ Korppoo
+korsnas:lle|สำหรับ Korsnäs
+kortesjarvi:lle|สำหรับ Kortesjärvi
+koski_tl:lle|สำหรับ Koski
+kotka:lle|สำหรับ Kotka
+kouvola:lle|สำหรับ Kouvola
+koylio:lle|สำหรับ Köyliö
+kristiinankaupunki:lle|สำหรับ Kristiinankaupunki
+kronoby:lle|สำหรับ Kronoby
+kuhmalahti:lle|สำหรับ Kuhmalahti
+kuhmoinen:lle|สำหรับ Kuhmoinen
+kuhmo:lle|สำหรับ Kuhmo
+kuivaniemi:lle|สำหรับ Kuivaniemi
+kumlinge:lle|สำหรับ Kumlinge
+kuopio:lle|สำหรับ Kuopio
+kuortane:lle|สำหรับ Kuortane
+kurikka:lle|สำหรับ Kurikka
+kuru:lle|สำหรับ Kuru
+kustavi:lle|สำหรับ Kustavi
+kuusamo:lle|สำหรับ Kuusamo
+kuusankoski:lle|สำหรับ Kuusankoski
+kuusjoki:lle|สำหรับ Kuusjoki
+kylmakoski:lle|สำหรับ Kylmäkoski
+kyyjarvi:lle|สำหรับ Kyyjärvi
+lahti:lle|สำหรับ Lahti
+laihia:lle|สำหรับ Laihia
+laitila:lle|สำหรับ Laitila
+lammi:lle|สำหรับ Lammi
+langelmaki:lle|สำหรับ Längelmäki
+lapinjarvi:lle|สำหรับ Lapinjärvi
+lapinlahti:lle|สำหรับ Lapinlahti
+lappajarvi:lle|สำหรับ Lappajärvi
+lappeenranta:lle|สำหรับ Lappeenranta
+lapin kuntaan:lle|สำหรับ Lappi
+lapua:lle|สำหรับ Lapua
+larsmo:lle|สำหรับ Larsmo
+laukaa:lle|สำหรับ Laukaa
+lavia:lle|สำหรับ Lavia
+lehtimaki:lle|สำหรับ Lehtimäki
+leivonmaki:lle|สำหรับ Leivonmäki
+lemi:lle|สำหรับ Lemi
+lemland:lle|สำหรับ Lemland
+lempaala:lle|สำหรับ Lempäälä
+lemu:lle|สำหรับ Lemu
+leppavirta:lle|สำหรับ Leppävirta
+lestijarvi:lle|สำหรับ Lestijärvi
+lieksa:lle|สำหรับ Lieksa
+lieto:lle|สำหรับ Lieto
+liljendal:lle|สำหรับ Liljendal
+liminka:lle|สำหรับ Liminka
+liperi:lle|สำหรับ Liperi
+lohja:lle|สำหรับ Lohja
+lohtaja:lle|สำหรับ Lohtaja
+loimaa:lle|สำหรับ Loimaa
+loppi:lle|สำหรับ Loppi
+loviisa:lle|สำหรับ Loviisa
+luhanka:lle|สำหรับ Luhanka
+lumijoki:lle|สำหรับ Lumijoki
+lumparland:lle|สำหรับ Lumparland
+luopioinen:lle|สำหรับ Luopioinen
+luumaki:lle|สำหรับ Luumäki
+luvia:lle|สำหรับ Luvia
+maalahti:lle|สำหรับ Maalahti
+maaninka:lle|สำหรับ Maaninka
+maarianhamina:lle|สำหรับ Maarianhamina
+maksamaa:lle|สำหรับ Maksamaa
+mantsala:lle|สำหรับ Mäntsälä
+mantta:lle|สำหรับ Mänttä
+mantyharju:lle|สำหรับ Mäntyharju
+marttila:lle|สำหรับ Marttila
+masku:lle|สำหรับ Masku
+mellila:lle|สำหรับ Mellilä
+merijarvi:lle|สำหรับ Merijärvi
+merikarvia:lle|สำหรับ Merikarvia
+merimasku:lle|สำหรับ Merimasku
+miehikkala:lle|สำหรับ Miehikkälä
+mietoinen:lle|สำหรับ Mietoinen
+mikkeli:lle|สำหรับ Mikkeli
+mouhijarvi:lle|สำหรับ Mouhijärvi
+muhos:lle|สำหรับ Muhos
+multia:lle|สำหรับ Multia
+muonio:lle|สำหรับ Muonio
+mustasaari:lle|สำหรับ Mustasaari
+muurame:lle|สำหรับ Muurame
+muurla:lle|สำหรับ Muurla
+mynamaki:lle|สำหรับ Mynämäki
+myrskyla:lle|สำหรับ Myrskylä
+naantali:lle|สำหรับ Naantali
+nakkila:lle|สำหรับ Nakkila
+narpio:lle|สำหรับ Närpiö
+nastola:lle|สำหรับ Nastola
+nauvo:lle|สำหรับ Nauvo
+nilsia:lle|สำหรับ Nilsiä
+nivala:lle|สำหรับ Nivala
+nokia:lle|สำหรับ Nokia
+noormarkku:lle|สำหรับ Noormarkku
+nousiainen:lle|สำหรับ Nousiainen
+nummipusula:lle|สำหรับ Nummi-Pusula
+nurmes:lle|สำหรับ Nurmes
+nurmijarvi:lle|สำหรับ Nurmijärvi
+nurmo:lle|สำหรับ Nurmo
+oravainen:lle|สำหรับ Oravainen
+orimattila:lle|สำหรับ Orimattila
+oripaa:lle|สำหรับ Oripää
+orivesi:lle|สำหรับ Orivesi
+oulainen:lle|สำหรับ Oulainen
+oulunsalo:lle|สำหรับ Oulunsalo
+oulu:lle|สำหรับ Oulu
+outokumpu:lle|สำหรับ Outokumpu
+padasjoki:lle|สำหรับ Padasjoki
+paimio:lle|สำหรับ Paimio
+palkane:lle|สำหรับ Pälkäne
+paltamo:lle|สำหรับ Paltamo
+parainen:lle|สำหรับ Parainen
+parikkala:lle|สำหรับ Parikkala
+parkano:lle|สำหรับ Parkano
+pedersoren_kunta:lle|สำหรับ Pedersöre
+pelkosenniemi:lle|สำหรับ Pelkosenniemi
+pello:lle|สำหรับ Pello
+perho:lle|สำหรับ Perho
+pernaja:lle|สำหรับ Pernaja
+pernio:lle|สำหรับ Perniö
+pertteli:lle|สำหรับ Pertteli
+pertunmaa:lle|สำหรับ Pertunmaa
+petajavesi:lle|สำหรับ Petäjävesi
+pieksanmaa:lle|สำหรับ Pieksänmaa
+pielavesi:lle|สำหรับ Pielavesi
+pietarsaari:lle|สำหรับ Pietarsaari
+pihtipudas:lle|สำหรับ Pihtipudas
+piikkio:lle|สำหรับ Piikkiö
+piippola:lle|สำหรับ Piippola
+pirkkala:lle|สำหรับ Pirkkala
+pohja:lle|สำหรับ Pohja
+polvijarvi:lle|สำหรับ Polvijärvi
+pomarkku:lle|สำหรับ Pomarkku
+pori:lle|สำหรับ Pori
+pornainen:lle|สำหรับ Pornainen
+porvoo:lle|สำหรับ Porvoo
+posio:lle|สำหรับ Posio
+poytya:lle|สำหรับ Pöytyä
+pudasjarvi:lle|สำหรับ Pudasjärvi
+pukkila:lle|สำหรับ Pukkila
+pulkkila:lle|สำหรับ Pulkkila
+punkaharju:lle|สำหรับ Punkaharju
+punkalaidun:lle|สำหรับ Punkalaidun
+puolanka:lle|สำหรับ Puolanka
+puumala:lle|สำหรับ Puumala
+pyhajarvi:lle|สำหรับ Pyhäjärvi
+pyhajoki:lle|สำหรับ Pyhäjoki
+pyhanta:lle|สำหรับ Pyhäntä
+pyharanta:lle|สำหรับ Pyhäranta
+pyhaselka:lle|สำหรับ Pyhäselkä
+pyhtaa:lle|สำหรับ Pyhtää
+pylkonmaki:lle|สำหรับ Pylkönmäki
+raahe:lle|สำหรับ Raahe
+raakkyla:lle|สำหรับ Rääkkylä
+raisio:lle|สำหรับ Raisio
+rantasalmi:lle|สำหรับ Rantasalmi
+rantsila:lle|สำหรับ Rantsila
+ranua:lle|สำหรับ Ranua
+rauma:lle|สำหรับ Rauma
+rautalampi:lle|สำหรับ Rautalampi
+rautavaara:lle|สำหรับ Rautavaara
+rautjarvi:lle|สำหรับ Rautjärvi
+reisjarvi:lle|สำหรับ Reisjärvi
+renko:lle|สำหรับ Renko
+riihimaki:lle|สำหรับ Riihimäki
+ristiina:lle|สำหรับ Ristiina
+ristijarvi:lle|สำหรับ Ristijärvi
+rovaniemen_mlk:lle|สำหรับ Rovaniemen mlk
+rovaniemi:lle|สำหรับ Rovaniemi
+ruokolahti:lle|สำหรับ Ruokolahti
+ruotsinpyhtaa:lle|สำหรับ Ruotsinpyhtää
+ruovesi:lle|สำหรับ Ruovesi
+rusko:lle|สำหรับ Rusko
+ruukki:lle|สำหรับ Ruukki
+rymattyla:lle|สำหรับ Rymättylä
+saarijarvi:lle|สำหรับ Saarijärvi
+sakyla:lle|สำหรับ Säkylä
+salla:lle|สำหรับ Salla
+salo:lle|สำหรับ Salo
+saltvik:lle|สำหรับ Saltvik
+sammatti:lle|สำหรับ Sammatti
+sarkisalo:lle|สำหรับ Särkisalo
+sauvo:lle|สำหรับ Sauvo
+savitaipale:lle|สำหรับ Savitaipale
+savonlinna:lle|สำหรับ Savonlinna
+savonranta:lle|สำหรับ Savonranta
+savukoski:lle|สำหรับ Savukoski
+seinajoki:lle|สำหรับ Seinäjoki
+sievi:lle|สำหรับ Sievi
+siikainen:lle|สำหรับ Siikainen
+siikajoki:lle|สำหรับ Siikajoki
+siilinjarvi:lle|สำหรับ Siilinjärvi
+simo:lle|สำหรับ Simo
+sipoo:lle|สำหรับ Sipoo
+siuntio:lle|สำหรับ Siuntio
+sodankyla:lle|สำหรับ Sodankylä
+soini:lle|สำหรับ Soini
+somero:lle|สำหรับ Somero
+sonkajarvi:lle|สำหรับ Sonkajärvi
+sotkamo:lle|สำหรับ Sotkamo
+sottunga:lle|สำหรับ Sottunga
+sulkava:lle|สำหรับ Sulkava
+sumiainen:lle|สำหรับ Sumiainen
+sund:lle|สำหรับ Sund
+suodenniemi:lle|สำหรับ Suodenniemi
+suolahti:lle|สำหรับ Suolahti
+suomenniemi:lle|สำหรับ Suomenniemi
+suomusjarvi:lle|สำหรับ Suomusjärvi
+suomussalmi:lle|สำหรับ Suomussalmi
+suonenjoki:lle|สำหรับ Suonenjoki
+sysma:lle|สำหรับ Sysmä
+taipalsaari:lle|สำหรับ Taipalsaari
+taivalkoski:lle|สำหรับ Taivalkoski
+taivassalo:lle|สำหรับ Taivassalo
+tammela:lle|สำหรับ Tammela
+tammisaari:lle|สำหรับ Tammisaari
+tampere:lle|สำหรับ Tampere
+tarvasjoki:lle|สำหรับ Tarvasjoki
+tervola:lle|สำหรับ Tervola
+tervo:lle|สำหรับ Tervo
+teuva:lle|สำหรับ Teuva
+tohmajarvi:lle|สำหรับ Tohmajärvi
+toholampi:lle|สำหรับ Toholampi
+toijala:lle|สำหรับ Toijala
+toivakka:lle|สำหรับ Toivakka
+tornio:lle|สำหรับ Tornio
+toysa:lle|สำหรับ Töysä
+turku:lle|สำหรับ Turku
+tuulos:lle|สำหรับ Tuulos
+tuusniemi:lle|สำหรับ Tuusniemi
+tuusula:lle|สำหรับ Tuusula
+tyrnava:lle|สำหรับ Tyrnävä
+ullava:lle|สำหรับ Ullava
+ulvila:lle|สำหรับ Ulvila
+urjala:lle|สำหรับ Urjala
+utajarvi:lle|สำหรับ Utajärvi
+utsjoki:lle|สำหรับ Utsjoki
+uurainen:lle|สำหรับ Uurainen
+uusikaarlepyy:lle|สำหรับ Uusikaarlepyy
+uusikaupunki:lle|สำหรับ Uusikaupunki
+vaala:lle|สำหรับ Vaala
+vaasa:lle|สำหรับ Vaasa
+vahakyro:lle|สำหรับ Vähäkyrö
+vahto:lle|สำหรับ Vahto
+valkeakoski:lle|สำหรับ Valkeakoski
+valkeala:lle|สำหรับ Valkeala
+valtimo:lle|สำหรับ Valtimo
+vammala:lle|สำหรับ Vammala
+vampula:lle|สำหรับ Vampula
+vantaa:lle|สำหรับ Vantaa
+vardo:lle|สำหรับ Vårdö
+varkaus:lle|สำหรับ Varkaus
+varpaisjarvi:lle|สำหรับ Varpaisjärvi
+vastanfjard:lle|สำหรับ Västanfjärd
+vehmaa:lle|สำหรับ Vehmaa
+velkua:lle|สำหรับ Velkua
+vesanto:lle|สำหรับ Vesanto
+vesilahti:lle|สำหรับ Vesilahti
+veteli:lle|สำหรับ Veteli
+vierema:lle|สำหรับ Vieremä
+vihanti:lle|สำหรับ Vihanti
+vihti:lle|สำหรับ Vihti
+viiala:lle|สำหรับ Viiala
+viitasaari:lle|สำหรับ Viitasaari
+viljakkala:lle|สำหรับ Viljakkala
+vilppula:lle|สำหรับ Vilppula
+vimpeli:lle|สำหรับ Vimpeli
+virolahti:lle|สำหรับ Virolahti
+virrat:lle|สำหรับ Virrat
+voyri:lle|สำหรับ Vöyri
+vuolijoki:lle|สำหรับ Vuolijoki
+ylamaa:lle|สำหรับ Ylämaa
+ylane:lle|สำหรับ Yläne
+yliharma:lle|สำหรับ Ylihärmä
+yliii:lle|สำหรับ Yli-Ii
+ylikiiminki:lle|สำหรับ Ylikiiminki
+ylistaro:lle|สำหรับ Ylistaro
+ylitornio:lle|สำหรับ Ylitornio
+ylivieska:lle|สำหรับ Ylivieska
+ylojarvi:lle|สำหรับ Ylöjärvi
+ypaja:lle|สำหรับ Ypäjä
+poudan todennakoisyys|ความน่าจะเป็นที่จะไม่มีฝน
+metsapaloindeksi|ดัชนีเตือนภัยไฟป่า
+haihdunta on erittain huono|การระเหยอ่อนมาก
+haihdunta on huono|การระเหยอ่อน
+haihdunta on tyydyttava|การระเหยพอใช้
+haihdunta on hyva|การระเหยดี
+haihdunta on erinomainen|การระเหยดีมาก
+metsapalovaroitus on voimassa|คำเตือนไฟป่ามีผลบังคับใช้
+metsapalovaroitus ei ole voimassa|คำเตือนไฟป่าไม่มีผลบังคับใช้
+luoto:lle|สำหรับ Luoto
+kruunupyy:lle|สำหรับ Kruunupyy
+1-aamulla|เช้าวันจันทร์
+2-aamulla|เช้าวันอังคาร
+3-aamulla|เช้าวันพุธ
+4-aamulla|เช้าวันพฤหัสบดี
+5-aamulla|เช้าวันศุกร์
+6-aamulla|เช้าวันเสาร์
+7-aamulla|เช้าวันอาทิตย์
+1-aamupaivalla|ช่วงสายวันจันทร์
+2-aamupaivalla|ช่วงสายวันอังคาร
+3-aamupaivalla|ช่วงสายวันพุธ
+4-aamupaivalla|ช่วงสายวันพฤหัสบดี
+5-aamupaivalla|ช่วงสายวันศุกร์
+6-aamupaivalla|ช่วงสายวันเสาร์
+7-aamupaivalla|ช่วงสายวันอาทิตย์
+1-iltapaivalla|ตอนบ่ายวันจันทร์
+2-iltapaivalla|ตอนบ่ายวันอังคาร
+3-iltapaivalla|ตอนบ่ายวันพุธ
+4-iltapaivalla|ตอนบ่ายวันพฤหัสบดี
+5-iltapaivalla|ตอนบ่ายวันศุกร์
+6-iltapaivalla|ตอนบ่ายวันเสาร์
+7-iltapaivalla|ตอนบ่ายวันอาทิตย์
+1-illalla|ตอนเย็นวันจันทร์
+2-illalla|ตอนเย็นวันอังคาร
+3-illalla|ตอนเย็นวันพุธ
+4-illalla|ตอนเย็นวันพฤหัสบดี
+5-illalla|ตอนเย็นวันศุกร์
+6-illalla|ตอนเย็นวันเสาร์
+7-illalla|ตอนเย็นวันอาทิตย์
+kastepiste|จุดน้ำค้าง
+suhteellinen kosteus|ความชื้นสัมพัทธ์
+hehtopascalia|เฮกโตปาสคาล
+paine|ความกดอากาศ
+keli muuttuu|สภาพถนนกลายเป็น
+lumisateesta|แย่ลงเพราะหิมะตก
+haukivesi:lle|สำหรับ Haukivesi
+kallavesi:lle|สำหรับ Kallavesi
+malaren:lle|สำหรับ Mälaren
+pihlajavesi:lle|สำหรับ Pihlajavesi
+suur-saimaa:lle|สำหรับ Saimaa
+vanern:lle|สำหรับ Vänern
+tie on muuttumassa|ผิวถนนกำลังกลายเป็น
+keli huononee|สภาพถนนแย่ลง
+vaikeuttaa liikennetta|กีดขวางการจราจร
+kuuraiseksi|มีน้ำค้างแข็งปกคลุม
+marka|เปียก
+lumisateen takia|เพราะหิมะตก
+pakkasliukkaus|ลื่นเพราะน้ำค้างแข็ง
+voimakas puuskainen tuuli|ลมแรงกระโชก
+lumipyry|พายุหิมะ
+kelin nopea huononeminen|สภาพถนนแย่ลงอย่างรวดเร็ว
+rantasade jaiselle|ฝนปนลูกเห็บบนผิวถนนที่เป็นน้ำแข็ง
+jaiseksi vesisateesta johtuen|เป็นน้ำแข็งเพราะฝนตก
+alijaahtynyt sade|ฝนเย็นจัด
+jaiseksi tai osittain jaiseksi|เป็นน้ำแข็งหรือเป็นน้ำแข็งบางส่วน
+runsas lumisade|หิมะตกหนัก
+tienpinta muuttuu|ผิวถนนกลายเป็น
+ukkoskuurot todennakoisia|มีแนวโน้มมีฝนฟ้าคะนอง
+ukkoskuurot paikoin mahdollisia|อาจมีฝนฟ้าคะนองในบางพื้นที่
+pohjoispohjanmeri:lle|สำหรับ Northern North Sea
+etelapohjanmeri:lle|สำหรับ Southern North Sea
+biskaja:lle|สำหรับ Biscay
+uusimaa_ita-uusim:lle|สำหรับ Uusimaa
+paakaupunkiseutu:lle|สำหรับเขตนครหลวง Helsinki
+kaakkois-suomi:lle|สำหรับ Southeast Finland
+ita-lappi:lle|สำหรับ Eastern Lapland
+pohjois-pohjanmaa-itaosa:lle|สำหรับภาคตะวันออกของ Northern Ostrobothnia
+pohjois-pohjanmaa-lansiosa:lle|สำหรับภาคตะวันตกของ Northern Ostrobothnia
+merilappi:lle|สำหรับ Merilappi
+pohjanmaa-etela-pohjanmaa:lle|สำหรับ Ostrobothnia และ Southern Ostrobothnia
+marka tienpinta muuttuu|ผิวถนนเปียกกลายเป็น
+alle|ต่ำกว่า
+yksi millimetri|หนึ่งมิลลิเมตร
+lahella [1] astetta|ประมาณ [1] องศา
+[1] asteen tienoilla|ประมาณ [1] องศา
+kello [1]|[1] นาฬิกา
+1-na kello [1]|วันจันทร์ [1] นาฬิกา
+2-na kello [1]|วันอังคาร [1] นาฬิกา
+3-na kello [1]|วันพุธ [1] นาฬิกา
+4-na kello [1]|วันพฤหัสบดี [1] นาฬิกา
+5-na kello [1]|วันศุกร์ [1] นาฬิกา
+6-na kello [1]|วันเสาร์ [1] นาฬิกา
+7-na kello [1]|วันอาทิตย์ [1] นาฬิกา
+[1] asteen tuntumassa|ใกล้เคียง [1] องศา
+ita-suomi:lle|สำหรับ Eastern Finland
+itainen-uusimaa:lle|สำหรับ Eastern Uusimaa
+koleaa|หนาวเย็น
+lantinen-uusimaa:lle|สำหรับ Western Uusimaa
+lounais-suomi:lle|สำหรับ Southwestern Finland
+pohjois-suomi:lle|สำหรับ Northern Finland
+pikkupakkasta|อุณหภูมิต่ำกว่าศูนย์เล็กน้อย
+yksittaiset vesikuurot mahdollisia|อาจมีฝนประปราย
+yksittaiset vesi- tai rantakuurot mahdollisia|อาจมีฝนหรือลูกเห็บประปราย
+yksittaiset vesi- tai lumikuurot mahdollisia|อาจมีฝนหรือหิมะประปราย
+yksittaiset sadekuurot mahdollisia|อาจมีฝนประปราย
+yksittaiset rantakuurot mahdollisia|อาจมีลูกเห็บประปราย
+yksittaiset ranta- tai vesikuurot mahdollisia|อาจมีลูกเห็บหรือฝนประปราย
+yksittaiset lumikuurot mahdollisia|อาจมีหิมะประปราย
+yksittaiset lumi- tai rantakuurot mahdollisia|อาจมีหิมะหรือลูกเห็บประปราย
+vahan plussan puolella|อุณหภูมิเป็นบวกเล็กน้อย
+voimakkaita vesikuuroja|ฝนหนักมาก
+voimakkaita sadekuuroja|ฝนหนัก
+vesikuuroja|ฝนตกเป็นห่า
+vajaat|เกือบ
+verrattain pilvinen|มีเมฆค่อนข้างมาก
+vaihtelee puolipilvisesta pilviseen|แปรปรวนจากมีเมฆบางส่วนถึงมีเมฆมาก
+tuulinen|มีลมแรง
+tuulista|มีลมแรง
+tuuli saa saan tuntumaan viileammalta|ลมทำให้รู้สึกเย็นขึ้น
+tuuli saa saan tuntumaan kylmemmalta|ลมทำให้รู้สึกหนาวขึ้น
+tuntumassa|ใกล้เคียง
+tihkusadetta|ฝนละออง
+tienoilla|ประมาณ
+saa on helteista|อากาศร้อนมาก
+saa on edelleen lauhaa|อากาศยังคงอ่อนโยน
+sumua|หมอก
+sisamaassa|ในแผ่นดิน
+selkea|แจ่มใส
+sakeita|หนาแน่น
+sakeaa|หนาแน่น
+sadekuuroja|ฝนตกเป็นห่า
+sade alkaa|ฝนเริ่มตก
+saadaan|ได้รับ
+rantakuuroja|ลูกเห็บตกเป็นห่า
+runsasta vesisadetta|ฝนตกหนัก
+runsaita|หนัก
+puolipilvinen|มีเมฆบางส่วน
+poutainen|อากาศดี
+poikkeuksellisen|ผิดปกติ
+pohjoisesta|จากทิศเหนือ
+pohjoisesta alkaen|เริ่มจากทิศเหนือ
+pilvinen|มีเมฆมาก
+pieni ukkosen todennakoisyys|ความน่าจะเป็นของฟ้าร้องต่ำ
+pakkasta|น้ำค้างแข็ง
+pakkanen|น้ำค้างแข็ง
+pakkanen on purevaa|น้ำค้างแข็งรุนแรง
+pakkanen on erittain purevaa|น้ำค้างแข็งรุนแรงมาก
+pakkanen hellittaa|ความเย็นเริ่มคลาย
+paikkeilla|ประมาณ
+nollan tienoilla|ประมาณศูนย์องศา
+melko selkea|ค่อนข้างแจ่มใส
+mahdollisesti|อาจจะ
+lannesta|จากทิศตะวันตก
+lannesta alkaen|เริ่มจากทิศตะวันตก
+lampotila nousee|อุณหภูมิสูงขึ้น
+lahella|ใกล้เคียง
+luoteesta|จากทิศตะวันตกเฉียงเหนือ
+luoteesta alkaen|เริ่มจากทิศตะวันตกเฉียงเหนือ
+lounaasta|จากทิศตะวันตกเฉียงใต้
+lounaasta alkaen|เริ่มจากทิศตะวันตกเฉียงใต้
+leutoa|อ่อนโยน
+koillisesta|จากทิศตะวันออกเฉียงเหนือ
+koillisesta alkaen|เริ่มจากทิศตะวันออกเฉียงเหนือ
+kirea|รุนแรง
+kirea pakkanen jatkuu|ความหนาวเย็นรุนแรงยังคงอยู่
+kaakosta|จากทิศตะวันออกเฉียงใต้
+kaakosta alkaen|เริ่มจากทิศตะวันออกเฉียงใต้
+jaatavaa vesisadetta|ฝนน้ำแข็ง
+jotka voivat olla jaatavia|ซึ่งอาจเป็นน้ำแข็ง
+joka voi olla sakeaa|ซึ่งอาจหนาแน่น
+joka voi olla jaatavaa|ซึ่งอาจเป็นน้ำแข็ง
+joka voi olla ankaraa|ซึ่งอาจรุนแรง
+joka muuttuu vesisateeksi|ซึ่งเปลี่ยนเป็นฝน
+joka muuttuu tihkusateeksi|ซึ่งเปลี่ยนเป็นฝนละออง
+joka muuttuu rantasateeksi|ซึ่งเปลี่ยนเป็นลูกเห็บ
+joka muuttuu lumisateeksi|ซึ่งเปลี่ยนเป็นหิมะ
+idasta|จากทิศตะวันออก
+idasta alkaen|เริ่มจากทิศตะวันออก
+huomattavasti|มาก
+hieman lauhempaa|อ่อนโยนกว่าเล็กน้อย
+hieman kylmempaa|เย็นกว่าเล็กน้อย
+hieman kireampaa|รุนแรงกว่าเล็กน้อย
+hieman heikompaa|อ่อนกว่าเล็กน้อย
+heikkoja|อ่อน
+heikkoja vesikuuroja|ฝนเบาตกเป็นห่า
+heikkoja sadekuuroja|ฝนเบาตกเป็นห่า
+heikkoa vesisadetta|ฝนเบา
+harvinaisen|ผิดปกติ
+hallan vaara|อันตรายจากน้ำค้างแข็ง
+hallaa|น้ำค้างแข็ง
+etelasta|จากทิศใต้
+etelasta alkaen|เริ่มจากทิศใต้
+asteen|องศา
+alueen pohjoisosassa|ทางเหนือของพื้นที่
+alueen lansiosassa|ทางตะวันตกของพื้นที่
+alueen luoteisosassa|ทางตะวันตกเฉียงเหนือของพื้นที่
+alueen lounaisosassa|ทางตะวันตกเฉียงใต้ของพื้นที่
+alueen koillisosassa|ทางตะวันออกเฉียงเหนือของพื้นที่
+alueen kaakkoisosassa|ทางตะวันออกเฉียงใต้ของพื้นที่
+alueen itaosassa|ทางตะวันออกของพื้นที่
+alueen etelaosassa|ทางใต้ของพื้นที่
+alavilla mailla|ในพื้นที่ลุ่ม
+myohemmin|ในภายหลัง
+[1-na] saa on [poikkeuksellisen] [kylmaa]|สภาพอากาศ [2] [3] [1]
+[1-na] [saa lampenee]|[2] [1]
+kirea pakkanen heikkenee|ความหนาวเย็นรุนแรงลดลง
+saa lampenee huomattavasti|อากาศอุ่นขึ้นอย่างมาก
+saa lampenee vahan|อากาศอุ่นขึ้นเล็กน้อย
+saa viilenee huomattavasti|อากาศเย็นลงอย่างมาก
+saa viilenee vahan|อากาศเย็นลงเล็กน้อย
+[iltapaivalla] saa poutaantuu ja vaihtelee puolipilvisesta pilviseen|สภาพอากาศดีขึ้นและแปรปรวนจากมีเมฆบางส่วนถึงมีเมฆมาก [1]
+empty_string|
+[rannikolla] [paikoin] hallaa, joka voi olla ankaraa|อาจมีน้ำค้างแข็งรุนแรง [2] [1]
+[rannikolla] mahdollisesti hallaa|อาจมีน้ำค้างแข็ง [1]
+[sisamaassa] hallan vaara|ความเสี่ยงน้ำค้างแข็ง [1]
+[rannikolla] [paikoin] hallaa|น้ำค้างแข็ง [2] [1]
+aamusta|ตั้งแต่เช้า
+[huomenna] [sisamaassa] [paikoin] sumua, joka voi olla sakeaa|[1] อาจมีหมอกหนาแน่น [3] [2]
+[huomenna] [sisamaassa] [paikoin] sumua|[1] หมอก [3] [2]
+keskiyolla ja aamuyolla|เที่ยงคืนและหลังเที่ยงคืน
+iltayolla ja keskiyolla|ก่อนเที่ยงคืนและเที่ยงคืน
+aamuyolla ja aamulla|หลังเที่ยงคืนและตอนเช้า
+illalla ja iltayolla|ตอนเย็นและก่อนเที่ยงคืน
+iltapaivalla ja illalla|ตอนบ่ายและตอนเย็น
+aamulla ja aamupaivalla|ตอนเช้าและช่วงสาย
+7-iltapaivalla ja illalla|ตอนบ่ายและตอนเย็นวันอาทิตย์
+6-iltapaivalla ja illalla|ตอนบ่ายและตอนเย็นวันเสาร์
+5-iltapaivalla ja illalla|ตอนบ่ายและตอนเย็นวันศุกร์
+4-iltapaivalla ja illalla|ตอนบ่ายและตอนเย็นวันพฤหัสบดี
+3-iltapaivalla ja illalla|ตอนบ่ายและตอนเย็นวันพุธ
+2-iltapaivalla ja illalla|ตอนบ่ายและตอนเย็นวันอังคาร
+1-iltapaivalla ja illalla|ตอนบ่ายและตอนเย็นวันจันทร์
+7-aamulla ja aamupaivalla|ตอนเช้าและช่วงสายวันอาทิตย์
+6-aamulla ja aamupaivalla|ตอนเช้าและช่วงสายวันเสาร์
+5-aamulla ja aamupaivalla|ตอนเช้าและช่วงสายวันศุกร์
+4-aamulla ja aamupaivalla|ตอนเช้าและช่วงสายวันพฤหัสบดี
+3-aamulla ja aamupaivalla|ตอนเช้าและช่วงสายวันพุธ
+2-aamulla ja aamupaivalla|ตอนเช้าและช่วงสายวันอังคาร
+1-aamulla ja aamupaivalla|ตอนเช้าและช่วงสายวันจันทร์
+7-illalla ja iltayolla|ตอนเย็นและก่อนเที่ยงคืนวันอาทิตย์
+6-illalla ja iltayolla|ตอนเย็นและก่อนเที่ยงคืนวันเสาร์
+5-illalla ja iltayolla|ตอนเย็นและก่อนเที่ยงคืนวันศุกร์
+4-illalla ja iltayolla|ตอนเย็นและก่อนเที่ยงคืนวันพฤหัสบดี
+3-illalla ja iltayolla|ตอนเย็นและก่อนเที่ยงคืนวันพุธ
+2-illalla ja iltayolla|ตอนเย็นและก่อนเที่ยงคืนวันอังคาร
+1-illalla ja iltayolla|ตอนเย็นและก่อนเที่ยงคืนวันจันทร์
+aamupaivasta|ตั้งแต่ช่วงสาย
+7-iltayolla|ก่อนเที่ยงคืนวันอาทิตย์
+6-iltayolla|ก่อนเที่ยงคืนวันเสาร์
+5-iltayolla|ก่อนเที่ยงคืนวันศุกร์
+4-iltayolla|ก่อนเที่ยงคืนวันพฤหัสบดี
+3-iltayolla|ก่อนเที่ยงคืนวันพุธ
+2-iltayolla|ก่อนเที่ยงคืนวันอังคาร
+1-iltayolla|ก่อนเที่ยงคืนวันจันทร์
+[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen|[1] สภาพอากาศแปรปรวนจากมีเมฆบางส่วนถึงมีเมฆมาก [2]
+[huomenna] [sisamaassa] saa on [selkea]|[1] สภาพอากาศ [3] [2]
+hyvin tuulinen|มีลมแรงมาก
+hyvin tuulista|มีลมแรงมาก
+[iltapaivalla] [rannikolla] pakkanen on purevaa|น้ำค้างแข็งรุนแรง [2] [1]
+7-aamuyolla|ช่วงเช้าตรู่วันอาทิตย์
+6-aamuyolla|ช่วงเช้าตรู่วันเสาร์
+5-aamuyolla|ช่วงเช้าตรู่วันศุกร์
+4-aamuyolla|ช่วงเช้าตรู่วันพฤหัสบดี
+3-aamuyolla|ช่วงเช้าตรู่วันพุธ
+2-aamuyolla|ช่วงเช้าตรู่วันอังคาร
+2-aamuyolla ja aamulla|ช่วงเช้าตรู่และตอนเช้าวันอังคาร
+3-aamuyolla ja aamulla|ช่วงเช้าตรู่และตอนเช้าวันพุธ
+5-aamuyolla ja aamulla|ช่วงเช้าตรู่และตอนเช้าวันศุกร์
+6-aamuyolla ja aamulla|ช่วงเช้าตรู่และตอนเช้าวันเสาร์
+7-aamuyolla ja aamulla|ช่วงเช้าตรู่และตอนเช้าวันอาทิตย์
+1-aamuyolla ja aamulla|ช่วงเช้าตรู่และตอนเช้าวันจันทร์
+saa on tuulinen|สภาพอากาศมีลมแรง
+[iltapaivalla] [rannikolla] on [tuulista]|[1] มีลม [3] [2]
+rannikolla lahella [N] [astetta]|ใกล้เคียง [1] [2] บริเวณชายฝั่ง
+[huomenna] [sisamaassa] [lampotila] on vahan yli [N] [astetta]|[1] [3] เกิน [4] [5] เล็กน้อย [2]
+[huomenna] [sisamaassa] [lampotila] on vajaat [N] [astetta]|[1] [3] เกือบ [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on lahella [N] [astetta]|[1] [3] ใกล้เคียง [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] asteen tuntumassa|[1] [3] ใกล้เคียง [4] องศา [2]
+[huomenna] [sisamaassa] [lampotila] on [N] asteen tienoilla|[1] [3] ประมาณ [4] องศา [2]
+[huomenna] [sisamaassa] [lampotila] on noin [N] [astetta]|[1] [3] ประมาณ [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on [M...N] [astetta]|[1] [3] [4] [5] [2]
+[yolla] on [hieman kylmempaa]|[1] อากาศ [2]
+[huomenna] [sisamaassa] [lampotila] on [suunnilleen sama]|[1] [3] ประมาณเท่าเดิม [2]
+[huomenna] [sisamaassa] pakkasta on [M...N] [astetta]|[1] อุณหภูมิ [3] [4] [2]
+[yolla] lampotila nousee|[1] อุณหภูมิสูงขึ้น
+[huomenna] [sisamaassa] pakkanen on [hieman kireampaa]|[1] ความหนาว [3] [2]
+[huomenna] [rannikolla] on pikkupakkasta|[1] [2] อุณหภูมิต่ำกว่าศูนย์เล็กน้อย
+rannikolla noin [N] [astetta]|ประมาณ [1] [2] บริเวณชายฝั่ง
+rannikolla vajaat [N] [astetta]|เกือบ [1] [2] บริเวณชายฝั่ง
+rannikolla vahan yli [N] [astetta]|เกิน [1] [2] เล็กน้อยบริเวณชายฝั่ง
+rannikolla [M...N] [astetta]|[1] [2] บริเวณชายฝั่ง
+rannikolla [N] asteen tienoilla|ประมาณ [1] องศาบริเวณชายฝั่ง
+rannikolla [N] asteen tuntumassa|ใกล้เคียง [1] องศาบริเวณชายฝั่ง
+rannikolla [suunnilleen sama]|[1] บริเวณชายฝั่ง
+[huomenna] [sisamaassa] [M...N] [astetta]|[1] [3] [4] [2]
+[huomenna] [sisamaassa] noin [N] [astetta]|[1] ประมาณ [3] [4] [2]
+[huomenna] [sisamaassa] [N] asteen tienoilla|[1] ประมาณ [3] องศา [2]
+[huomenna] [sisamaassa] [N] asteen tuntumassa|[1] ใกล้เคียง [3] องศา [2]
+[huomenna] [sisamaassa] lahella [N] [astetta]|[1] ใกล้เคียง [3] [4] [2]
+[huomenna] [sisamaassa] vajaat [N] [astetta]|[1] เกือบ [3] [4] [2]
+[huomenna] [sisamaassa] vahan yli [N] [astetta]|[1] เกิน [3] [4] เล็กน้อย [2]
+[huomenna] [sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|สภาพอากาศส่วนใหญ่ดี [2] [1], [3]
+[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta]|[1] [4] [5] [3] [2]
+[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4] [5] ซึ่งอาจเป็นน้ำแข็ง
+[huomenna] [sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4] [5] ซึ่งอาจเป็นน้ำแข็ง
+saa on poutainen|สภาพอากาศดี
+6-keskiyolla|เที่ยงคืนวันเสาร์
+5-keskiyolla|เที่ยงคืนวันศุกร์
+4-keskiyolla|เที่ยงคืนวันพฤหัสบดี
+3-keskiyolla|เที่ยงคืนวันพุธ
+2-keskiyolla|เที่ยงคืนวันอังคาร
+1-keskiyolla|เที่ยงคืนวันจันทร์
+[sisamaassa] alavilla mailla hallan vaara|ความเสี่ยงน้ำค้างแข็งในพื้นที่ลุ่ม [1]
+7-keskiyolla|เที่ยงคืนวันอาทิตย์
+[huomenna] [sisamaassa] [suunnilleen sama]|[1] [3] [2]
+7-iltapaivasta alkaen|ตั้งแต่ตอนบ่ายวันอาทิตย์
+6-iltapaivasta alkaen|ตั้งแต่ตอนบ่ายวันเสาร์
+5-iltapaivasta alkaen|ตั้งแต่ตอนบ่ายวันศุกร์
+4-iltapaivasta alkaen|ตั้งแต่ตอนบ่ายวันพฤหัสบดี
+3-iltapaivasta alkaen|ตั้งแต่ตอนบ่ายวันพุธ
+2-iltapaivasta alkaen|ตั้งแต่ตอนบ่ายวันอังคาร
+1-iltapaivasta alkaen|ตั้งแต่ตอนบ่ายวันจันทร์
+7-iltayosta alkaen|ตั้งแต่ช่วงค่ำวันอาทิตย์
+6-iltayosta alkaen|ตั้งแต่ช่วงค่ำวันเสาร์
+5-iltayosta alkaen|ตั้งแต่ช่วงค่ำวันศุกร์
+4-iltayosta alkaen|ตั้งแต่ช่วงค่ำวันพฤหัสบดี
+3-iltayosta alkaen|ตั้งแต่ช่วงค่ำวันพุธ
+2-iltayosta alkaen|ตั้งแต่ช่วงค่ำวันอังคาร
+1-iltayosta alkaen|ตั้งแต่ช่วงค่ำวันจันทร์
+7-aamuyosta alkaen|ตั้งแต่ช่วงเช้าตรู่วันอาทิตย์
+6-aamuyosta alkaen|ตั้งแต่ช่วงเช้าตรู่วันเสาร์
+5-aamuyosta alkaen|ตั้งแต่ช่วงเช้าตรู่วันศุกร์
+4-aamuyosta alkaen|ตั้งแต่ช่วงเช้าตรู่วันพฤหัสบดี
+3-aamuyosta alkaen|ตั้งแต่ช่วงเช้าตรู่วันพุธ
+2-aamuyosta alkaen|ตั้งแต่ช่วงเช้าตรู่วันอังคาร
+1-aamuyosta alkaen|ตั้งแต่ช่วงเช้าตรู่วันจันทร์
+7-keskiyosta alkaen|ตั้งแต่เที่ยงคืนวันอาทิตย์
+6-keskiyosta alkaen|ตั้งแต่เที่ยงคืนวันเสาร์
+5-keskiyosta alkaen|ตั้งแต่เที่ยงคืนวันศุกร์
+4-keskiyosta alkaen|ตั้งแต่เที่ยงคืนวันพฤหัสบดี
+3-keskiyosta alkaen|ตั้งแต่เที่ยงคืนวันพุธ
+2-keskiyosta alkaen|ตั้งแต่เที่ยงคืนวันอังคาร
+1-keskiyosta alkaen|ตั้งแต่เที่ยงคืนวันจันทร์
+1 hehtopascal|หนึ่งเฮกโตปาสคาล
+0 hehtopascalia|ศูนย์เฮกโตปาสคาล
+1 prosentti|หนึ่งเปอร์เซ็นต์
+0 prosenttia|ศูนย์เปอร์เซ็นต์
+1 millimetri|หนึ่งมิลลิเมตร
+0 millimetria|ศูนย์มิลลิเมตร
+1 metri sekunnissa|หนึ่งเมตร/วินาที
+0 metria sekunnissa|ศูนย์เมตร/วินาที
+1 aste|หนึ่งองศา
+0 astetta|ศูนย์องศา
+ranta- tai lumisadetta|ลูกเห็บหรือหิมะ
+lumi- tai rantasadetta|หิมะหรือลูกเห็บ
+lumi- tai vesisadetta|หิมะหรือฝน
+vesi- tai lumisadetta|ฝนหรือหิมะ
+ranta- tai vesisadetta|ลูกเห็บหรือฝน
+vesi- tai rantasadetta|ฝนหรือลูกเห็บ
+ranta- tai vesikuuroja|ลูกเห็บหรือฝนตกเป็นห่า
+vesi- tai rantakuuroja|ฝนหรือลูกเห็บตกเป็นห่า
+vesi- tai lumikuuroja|ฝนหรือหิมะตกเป็นห่า
+lumi- tai vesikuuroja|หิมะหรือฝนตกเป็นห่า
+[huomenna] [sisamaassa] pakkanen on [N] asteen tuntumassa|[1] อุณหภูมิใกล้เคียง [3] องศา [2]
+[huomenna] [sisamaassa] saa on poutainen|สภาพอากาศดี [2] [1]
+[huomenna] [sisamaassa] pakkanen on [N] asteen tienoilla|อุณหภูมิประมาณ [3] องศา [2] [1]
+[huomenna] [sisamaassa] pakkanen on lahella [N] [astetta]|[1] อุณหภูมิใกล้เคียง [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on vahan yli [N] [astetta]|[1] อุณหภูมิเกิน [3] [4] เล็กน้อย [2]
+[huomenna] [sisamaassa] pakkasta on vajaat [N] [astetta]|[1] อุณหภูมิเกือบ [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on noin [N] [astetta]|[1] อุณหภูมิประมาณ [3] [4] [2]
+[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|[1] สภาพอากาศแปรปรวนจากมีเมฆบางส่วนถึงมีเมฆมากและอากาศดี [2]
+[huomenna] [sisamaassa] saa on [selkea] ja poutainen|[1] สภาพอากาศ [3] และอากาศดี [2]
+[iltapaivalla] saa poutaantuu|สภาพอากาศดีขึ้น [1]
+todennakoisesti myos ukkostaa|มีแนวโน้มมีฟ้าร้อง
+mahdollisesti myos ukkostaa|อาจมีฟ้าร้องด้วย
+paikoin myos ukkostaa|ฟ้าร้องในบางพื้นที่
+paikoin voi myos ukkostaa|อาจมีฟ้าร้องในบางพื้นที่
+myos ukkosta esiintyy|มีฟ้าร้องด้วย
+[iltapaivasta alkaen] [pilvistyvaa]|[2] [1]
+[iltapaivalla] saa poutaantuu ja on [selkea]|สภาพอากาศดีขึ้นและ [2] [1]
+[lampotila] on [suunnilleen sama]|[1] ประมาณเท่าเดิม
+[lampotila] on [M...N] [astetta]|[1] [2] [3]
+[lampotila] on noin [N] [astetta]|[1] ประมาณ [2] [3]
+[lampotila] on [N] asteen tienoilla|[1] ประมาณ [2] องศา
+[lampotila] on [N] asteen tuntumassa|[1] ใกล้เคียง [2] องศา
+[lampotila] on lahella [N] [astetta]|[1] ใกล้เคียง [2] [3]
+[lampotila] on vajaat [N] [astetta]|[1] เกือบ [2] [3]
+[lampotila] on vahan yli [N] [astetta]|[1] เกิน [2] [3] เล็กน้อย
+saa on [poikkeuksellisen] [kylmaa]|สภาพอากาศ [1] [2]
+[sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|สภาพอากาศส่วนใหญ่ดี [1], [2]
+[sisamaassa] saa on poutainen|สภาพอากาศดี [1]
+[sisamaassa] [paikoin] [heikkoa] [sadetta]|[3] [4] [2] [1]
+[sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4] ซึ่งอาจเป็นน้ำแข็ง
+[sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4] ซึ่งอาจเป็นน้ำแข็ง
+[paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] ซึ่งอาจเป็นน้ำแข็ง
+[paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] ซึ่งอาจเป็นน้ำแข็ง
+[paikoin] [heikkoa] [sadetta]|[1] [2] [3]
+[paikoin] sumua|หมอก [1]
+[sisamaassa] [paikoin] sumua|หมอก [2] [1]
+[huomenna] sumua|[1] หมอก
+[sisamaassa] sumua|หมอก [1]
+[huomenna] [paikoin] sumua|[1] [2] หมอก
+[huomenna] [sisamaassa] sumua|[1] [2] หมอก
+[huomenna] [sisamaassa] sumua, joka voi olla sakeaa|[1] อาจมีหมอกหนาแน่น [2]
+[paikoin] sumua, joka voi olla sakeaa|[1] อาจมีหมอกหนาแน่น
+[sisamaassa] sumua, joka voi olla sakeaa|อาจมีหมอกหนาแน่น [1]
+[sisamaassa] [paikoin] sumua, joka voi olla sakeaa|อาจมีหมอกหนาแน่น [2] [1]
+[huomenna] [paikoin] sumua, joka voi olla sakeaa|[1] อาจมีหมอกหนาแน่น [2]
+[huomenna] sumua, joka voi olla sakeaa|[1] อาจมีหมอกหนาแน่น
+[huomenna] [paikoin] [heikkoa] [sadetta]|[1] [3] [4] [2]
+[paikoin] [sadetta]|[2] [1]
+[huomenna] [sisamaassa] [heikkoa] [sadetta]|[1] [3] [4] [2]
+[sisamaassa] [heikkoa] [sadetta]|[2] [3] [1]
+[huomenna] [heikkoa] [sadetta]|[1] [2] [3]
+[sisamaassa] [sadetta]|[2] [1]
+[sisamaassa] [paikoin] [sadetta]|[3] [2] [1]
+[huomenna] [sadetta]|[1] [2]
+[huomenna] [paikoin] [sadetta]|[1] [3] [2]
+[huomenna] [sisamaassa] [sadetta]|[1] [3] [2]
+[huomenna] [sisamaassa] [paikoin] [sadetta]|[1] [4] [3] [2]
+[huomenna] saa on poutainen|สภาพอากาศดี [1]
+[huomenna] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|สภาพอากาศส่วนใหญ่ดี [1], [2]
+[sisamaassa] saa vaihtelee puolipilvisesta pilviseen|สภาพอากาศแปรปรวนจากมีเมฆบางส่วนถึงมีเมฆมาก [1]
+[huomenna] saa vaihtelee puolipilvisesta pilviseen|[1] สภาพอากาศแปรปรวนจากมีเมฆบางส่วนถึงมีเมฆมาก
+[sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|สภาพอากาศแปรปรวนจากมีเมฆบางส่วนถึงมีเมฆมากและอากาศดี [1]
+[huomenna] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|[1] สภาพอากาศแปรปรวนจากมีเมฆบางส่วนถึงมีเมฆมากและอากาศดี
+[sisamaassa] saa on [selkea]|สภาพอากาศ [2] [1]
+[huomenna] saa on [selkea]|[1] สภาพอากาศ [2]
+[sisamaassa] saa on [selkea] ja poutainen|สภาพอากาศ [2] และอากาศดี [1]
+[huomenna] saa on [selkea] ja poutainen|[1] สภาพอากาศ [2] และอากาศดี
+[huomenna] [sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4] ซึ่งอาจเป็นน้ำแข็ง
+[huomenna] [sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4] ซึ่งอาจเป็นน้ำแข็ง
+[huomenna] [sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4] ซึ่งอาจเป็นน้ำแข็ง
+[huomenna] [sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4] ซึ่งอาจเป็นน้ำแข็ง
+[huomenna] [sisamaassa] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] ซึ่งอาจเป็นน้ำแข็ง
+[huomenna] [sisamaassa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] ซึ่งอาจเป็นน้ำแข็ง
+[heikkoa] [sadetta]|[1] [2]
+[sadetta], joka voi olla jaatavaa|[1] ซึ่งอาจเป็นน้ำแข็ง
+[heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] ซึ่งอาจเป็นน้ำแข็ง
+[paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] ซึ่งอาจเป็นน้ำแข็ง
+[sisamaassa] [sadetta], joka voi olla jaatavaa|[1] [2] ซึ่งอาจเป็นน้ำแข็ง
+[sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] ซึ่งอาจเป็นน้ำแข็ง
+[sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3] ซึ่งอาจเป็นน้ำแข็ง
+[huomenna] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4] ซึ่งอาจเป็นน้ำแข็ง
+[huomenna] [sadetta], joka voi olla jaatavaa|[1] [2] ซึ่งอาจเป็นน้ำแข็ง
+[huomenna] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] ซึ่งอาจเป็นน้ำแข็ง
+[huomenna] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3] ซึ่งอาจเป็นน้ำแข็ง
+[sadekuuroja], jotka voivat olla jaatavia|[1] ซึ่งอาจเป็นน้ำแข็ง
+[heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] ซึ่งอาจเป็นน้ำแข็ง
+[paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] ซึ่งอาจเป็นน้ำแข็ง
+[sisamaassa] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] ซึ่งอาจเป็นน้ำแข็ง
+[sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] ซึ่งอาจเป็นน้ำแข็ง
+[sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] ซึ่งอาจเป็นน้ำแข็ง
+[huomenna] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] ซึ่งอาจเป็นน้ำแข็ง
+[huomenna] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] ซึ่งอาจเป็นน้ำแข็ง
+[huomenna] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] ซึ่งอาจเป็นน้ำแข็ง
+[huomenna] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4] ซึ่งอาจเป็นน้ำแข็ง
+[iltapaivalla] [rannikolla] pakkanen on erittain purevaa|น้ำค้างแข็งรุนแรงมาก [2] [1]
+[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan kylmemmalta|ลมทำให้รู้สึกหนาวขึ้น [2] [1]
+[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta|ลมทำให้รู้สึกเย็นขึ้น [2] [1]
+saa on hyvin tuulinen|สภาพอากาศมีลมแรงมาก
+saa on [iltapaivalla] [rannikolla] [tuulinen]|สภาพอากาศ [3] [2] [1]
+[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1] [2] [1]
+pakkasta on vahan yli [N] [astetta]|อุณหภูมิต่ำกว่าศูนย์เกิน [1] [2] เล็กน้อย
+pakkasta on vajaat [N] [astetta]|อุณหภูมิต่ำกว่าศูนย์เกือบ [1] [2]
+pakkanen on lahella [N] [astetta]|อุณหภูมิใกล้เคียง [1] [2]
+pakkanen on [N] asteen tienoilla|อุณหภูมิประมาณ [1] องศา
+pakkanen on [N] asteen tuntumassa|อุณหภูมิใกล้เคียง [1] องศา
+pakkasta on noin [N] [astetta]|อุณหภูมิประมาณ [1] [2]
+pakkasta on [M...N] [astetta]|อุณหภูมิ [1] [2]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen|สภาพอากาศดีขึ้นหลังหิมะตก [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on selkea|สภาพอากาศดีขึ้นและแจ่มใสหลังฝนละออง [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on selkea|สภาพอากาศดีขึ้นและแจ่มใสหลังลูกเห็บ [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on selkea|สภาพอากาศดีขึ้นและแจ่มใสหลังหิมะตก [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on selkea|สภาพอากาศดีขึ้นและแจ่มใสหลังฝน [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja vaihtelee puolipilvisesta pilviseen|สภาพอากาศดีขึ้นและแปรปรวนจากมีเมฆบางส่วนถึงมีเมฆมากหลังฝนละออง [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja vaihtelee puolipilvisesta pilviseen|สภาพอากาศดีขึ้นและแปรปรวนจากมีเมฆบางส่วนถึงมีเมฆมากหลังลูกเห็บ [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja vaihtelee puolipilvisesta pilviseen|สภาพอากาศดีขึ้นและแปรปรวนจากมีเมฆบางส่วนถึงมีเมฆมากหลังหิมะตก [1]
+6-keskiyohon asti|จนถึงเที่ยงคืนวันเสาร์
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja vaihtelee puolipilvisesta pilviseen|สภาพอากาศดีขึ้นและแปรปรวนจากมีเมฆบางส่วนถึงมีเมฆมากหลังฝน [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen|สภาพอากาศดีขึ้นหลังฝนละออง [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen|สภาพอากาศดีขึ้นหลังลูกเห็บ [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen|สภาพอากาศดีขึ้นหลังฝน [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on pilvinen|สภาพอากาศดีขึ้นและมีเมฆมากหลังฝน [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on pilvinen|สภาพอากาศดีขึ้นและมีเมฆมากหลังหิมะตก [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on pilvinen|สภาพอากาศดีขึ้นและมีเมฆมากหลังลูกเห็บ [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on pilvinen|สภาพอากาศดีขึ้นและมีเมฆมากหลังฝนละออง [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on verrattain pilvinen|สภาพอากาศดีขึ้นและมีเมฆค่อนข้างมากหลังฝนละออง [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on verrattain pilvinen|สภาพอากาศดีขึ้นและมีเมฆค่อนข้างมากหลังฝน [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on verrattain pilvinen|สภาพอากาศดีขึ้นและมีเมฆค่อนข้างมากหลังหิมะตก [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on verrattain pilvinen|สภาพอากาศดีขึ้นและมีเมฆค่อนข้างมากหลังลูกเห็บ [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on puolipilvinen|สภาพอากาศดีขึ้นและมีเมฆบางส่วนหลังฝน [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on puolipilvinen|สภาพอากาศดีขึ้นและมีเมฆบางส่วนหลังหิมะตก [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on puolipilvinen|สภาพอากาศดีขึ้นและมีเมฆบางส่วนหลังลูกเห็บ [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on puolipilvinen|สภาพอากาศดีขึ้นและมีเมฆบางส่วนหลังฝนละออง [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on melko selkea|สภาพอากาศดีขึ้นและค่อนข้างแจ่มใสหลังฝน [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on melko selkea|สภาพอากาศดีขึ้นและค่อนข้างแจ่มใสหลังหิมะตก [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on melko selkea|สภาพอากาศดีขึ้นและค่อนข้างแจ่มใสหลังลูกเห็บ [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on melko selkea|สภาพอากาศดีขึ้นและค่อนข้างแจ่มใสหลังฝนละออง [1]
+[rannikolla] on [tuulista]|มีลม [2] [1]
+[iltapaivalla] on [tuulista]|มีลม [2] [1]
+[rannikolla] tuuli saa saan tuntumaan kylmemmalta|ลมทำให้รู้สึกหนาวขึ้น [1]
+[iltapaivalla] tuuli saa saan tuntumaan kylmemmalta|ลมทำให้รู้สึกหนาวขึ้น [1]
+[rannikolla] tuuli saa saan tuntumaan viileammalta|ลมทำให้รู้สึกเย็นขึ้น [1]
+[iltapaivalla] tuuli saa saan tuntumaan viileammalta|ลมทำให้รู้สึกเย็นขึ้น [1]
+[rannikolla] pakkanen on erittain purevaa|น้ำค้างแข็งรุนแรงมาก [1]
+[iltapaivalla] pakkanen on erittain purevaa|น้ำค้างแข็งรุนแรงมาก [1]
+[rannikolla] pakkanen on purevaa|น้ำค้างแข็งรุนแรง [1]
+[iltapaivalla] pakkanen on purevaa|น้ำค้างแข็งรุนแรง [1]
+saa on ajankohtaan nahden tavanomaista lampimampaa|อากาศอุ่นกว่าปกติสำหรับช่วงนี้
+[huomenna] pakkasta on [M...N] [astetta]|[1] อุณหภูมิ [2] [3]
+[huomenna] pakkasta on noin [N] [astetta]|[1] อุณหภูมิประมาณ [2] [3]
+[huomenna] pakkanen on [hieman kireampaa]|[1] ความหนาว [2]
+[huomenna] pakkasta on vahan yli [N] [astetta]|[1] อุณหภูมิต่ำกว่าศูนย์เกิน [2] [3] เล็กน้อย
+[huomenna] pakkasta on vajaat [N] [astetta]|[1] อุณหภูมิต่ำกว่าศูนย์เกือบ [2] [3]
+[huomenna] pakkanen on lahella [N] [astetta]|[1] อุณหภูมิใกล้เคียง [2] [3]
+[huomenna] pakkanen on [N] asteen tuntumassa|[1] อุณหภูมิใกล้เคียง [2] องศา
+[huomenna] pakkanen on [N] asteen tienoilla|[1] อุณหภูมิประมาณ [2] องศา
+[sisamaassa] pakkasta on [M...N] [astetta]|อุณหภูมิ [2] [3] [1]
+[sisamaassa] pakkasta on noin [N] [astetta]|อุณหภูมิประมาณ [2] [3] [1]
+[sisamaassa] pakkanen on [hieman kireampaa]|ความหนาว [2] [1]
+[sisamaassa] pakkasta on vahan yli [N] [astetta]|อุณหภูมิต่ำกว่าศูนย์เกิน [2] [3] เล็กน้อย [1]
+[sisamaassa] pakkanen on lahella [N] [astetta]|อุณหภูมิใกล้เคียง [2] [3] [1]
+[sisamaassa] pakkasta on vajaat [N] [astetta]|อุณหภูมิต่ำกว่าศูนย์เกือบ [2] [3] [1]
+[sisamaassa] pakkanen on [N] asteen tuntumassa|อุณหภูมิใกล้เคียง [2] องศา [1]
+[sisamaassa] pakkanen on [N] asteen tienoilla|อุณหภูมิประมาณ [2] องศา [1]
+[sisamaassa] [lampotila] on [suunnilleen sama]|[2] ประมาณเท่าเดิม [1]
+[sisamaassa] [lampotila] on [M...N] [astetta]|[2] [3] [4] [1]
+[sisamaassa] [lampotila] on noin [N] [astetta]|[2] ประมาณ [3] [4] [1]
+[sisamaassa] [lampotila] on [N] asteen tienoilla|[2] ประมาณ [3] องศา [1]
+[sisamaassa] [lampotila] on [N] asteen tuntumassa|[2] ใกล้เคียง [3] องศา [1]
+[sisamaassa] [lampotila] on lahella [N] [astetta]|[2] ใกล้เคียง [3] [4] [1]
+[sisamaassa] [lampotila] on vajaat [N] [astetta]|[2] เกือบ [3] [4] [1]
+[sisamaassa] [lampotila] on vahan yli [N] [astetta]|[2] เกิน [3] [4] เล็กน้อย [1]
+[huomenna] [lampotila] on [suunnilleen sama]|[1] [2] ประมาณเท่าเดิม
+[huomenna] [lampotila] on [M...N] [astetta]|[1] [2] [3] [4]
+[huomenna] [lampotila] on noin [N] [astetta]|[1] [2] ประมาณ [3] [4]
+[huomenna] [lampotila] on [N] asteen tienoilla|[1] [2] ประมาณ [3] องศา
+[huomenna] [lampotila] on [N] asteen tuntumassa|[1] [2] ใกล้เคียง [3] องศา
+[huomenna] [lampotila] on lahella [N] [astetta]|[1] [2] ใกล้เคียง [3] [4]
+[huomenna] [lampotila] on vajaat [N] [astetta]|[1] [2] เกือบ [3] [4]
+2-keskiyohon asti|จนถึงเที่ยงคืนวันอังคาร
+[huomenna] [lampotila] on vahan yli [N] [astetta]|[1] [2] เกิน [3] [4] เล็กน้อย
+[rannikolla] on pikkupakkasta|อุณหภูมิต่ำกว่าศูนย์เล็กน้อย [1]
+[huomenna] on pikkupakkasta|[1] อุณหภูมิต่ำกว่าศูนย์เล็กน้อย
+[sisamaassa] [M...N] [astetta]|[2] [3] [1]
+[huomenna] [M...N] [astetta]|[1] [2] [3]
+[sisamaassa] [suunnilleen sama]|[2] [1]
+[huomenna] [suunnilleen sama]|[1] [2]
+[sisamaassa] noin [N] [astetta]|ประมาณ [2] [3] [1]
+[huomenna] noin [N] [astetta]|[1] ประมาณ [2] [3]
+[sisamaassa] [N] asteen tienoilla|ประมาณ [2] องศา [1]
+[huomenna] [N] asteen tienoilla|[1] ใกล้เคียง [2] องศา
+[sisamaassa] [N] asteen tuntumassa|ใกล้เคียง [2] องศา [1]
+[huomenna] [N] asteen tuntumassa|[1] ใกล้เคียง [2] องศา
+[sisamaassa] lahella [N] [astetta]|ใกล้เคียง [2] [3] [1]
+[huomenna] lahella [N] [astetta]|[1] ใกล้เคียง [2] [3]
+[sisamaassa] vahan yli [N] [astetta]|เกิน [2] [3] เล็กน้อย [1]
+[huomenna] vahan yli [N] [astetta]|[1] เกิน [2] [3] เล็กน้อย
+[sisamaassa] vajaat [N] [astetta]|เกือบ [2] [3] [1]
+[huomenna] vajaat [N] [astetta]|[1] เกือบ [2] [3]
+[1-na] saa on ajankohtaan nahden tavanomaista lampimampaa|[1] อากาศอุ่นกว่าปกติสำหรับช่วงนี้
+asteen(tienoilla)|องศา
+asteen(tuntumassa)|องศา
+[N] [asteen] tienoilla|ประมาณ [1] [2]
+[N] [asteen] tuntumassa|ใกล้เคียง [1] [2]
+[sisamaassa] [N] [asteen] tuntumassa|ใกล้เคียง [2] [3] [1]
+[sisamaassa] [lampotila] on [N] [asteen] tuntumassa|[2] ใกล้เคียง [3] [4] [1]
+[sisamaassa] pakkanen on [N] [asteen] tuntumassa|อุณหภูมิใกล้เคียง [2] [3] [1]
+[lampotila] on [N] [asteen] tuntumassa|[1] ใกล้เคียง [2] [3]
+[huomenna] [sisamaassa] [N] [asteen] tuntumassa|[1] ใกล้เคียง [3] [4] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tuntumassa|[1] [3] ใกล้เคียง [4] [5] [2]
+[huomenna] [sisamaassa] pakkanen on [N] [asteen] tuntumassa|[1] อุณหภูมิใกล้เคียง [3] [4] [2]
+[huomenna] [N] [asteen] tuntumassa|[1] ใกล้เคียง [2] [3]
+[huomenna] [lampotila] on [N] [asteen] tuntumassa|[1] [2] ใกล้เคียง [3] [4]
+[huomenna] pakkanen on [N] [asteen] tuntumassa|[1] อุณหภูมิใกล้เคียง [2] [3]
+rannikolla [N] [asteen] tuntumassa|ใกล้เคียง [1] [2] บริเวณชายฝั่ง
+pakkanen on [N] [asteen] tuntumassa|อุณหภูมิใกล้เคียง [1] [2]
+[sisamaassa] [N] [asteen] tienoilla|ประมาณ [2] [3] [1]
+[sisamaassa] [lampotila] on [N] [asteen] tienoilla|[2] ประมาณ [3] [4] [1]
+[sisamaassa] pakkanen on [N] [asteen] tienoilla|อุณหภูมิประมาณ [2] [3] [1]
+[lampotila] on [N] [asteen] tienoilla|[1] ประมาณ [2] [3]
+[huomenna] [sisamaassa] [N] [asteen] tienoilla|[1] ประมาณ [3] [4] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tienoilla|[1] [3] ประมาณ [4] [5] [2]
+[huomenna] [sisamaassa] pakkanen on [N] [asteen] tienoilla|อุณหภูมิประมาณ [3] [4] [2] [1]
+[huomenna] [N] [asteen] tienoilla|[1] ใกล้เคียง [2] [3]
+[huomenna] [lampotila] on [N] [asteen] tienoilla|[1] [2] ประมาณ [3] [4]
+[huomenna] pakkanen on [N] [asteen] tienoilla|[1] อุณหภูมิประมาณ [2] [3]
+rannikolla [N] [asteen] tienoilla|ประมาณ [1] [2] บริเวณชายฝั่ง
+pakkanen on [N] [asteen] tienoilla|อุณหภูมิประมาณ [1] [2]
+saa vaihtelee puolipilvisesta pilviseen ja on poutainen|สภาพอากาศแปรปรวนจากมีเมฆบางส่วนถึงมีเมฆมากและอากาศดี
+saa on [selkea] ja poutainen|สภาพอากาศ [1] และอากาศดี
+[alueella] saa on ajankohtaan nahden tavanomaista lampimampaa|อากาศอุ่นกว่าปกติสำหรับช่วงนี้ [1]
+[1-na] [alueella] saa on ajankohtaan nahden tavanomaista lampimampaa|[1] อากาศอุ่นกว่าปกติสำหรับช่วงนี้ [2]
+[alueella] [saa lampenee]|[2] [1]
+[1-na] [alueella] [saa lampenee]|[3] [1] [2]
+[alueella] saa on [poikkeuksellisen] [kylmaa]|สภาพอากาศ [2] [3] [1]
+[1-na] [alueella] saa on [poikkeuksellisen] [kylmaa]|สภาพอากาศ [3] [4] [2] [1]
+yon alin|อุณหภูมิต่ำสุดคืน
+[1-na] [alueella] saa lauhtuu|[1] อากาศอ่อนโยนลง [2]
+[alueella] saa lauhtuu|อากาศอ่อนโยนลง [1]
+[1-na] saa lauhtuu|[1] อากาศอ่อนโยนลง
+[1-na] [alueella] saa on edelleen lauhaa|[1] อากาศยังคงอ่อนโยน [2]
+[alueella] saa on edelleen lauhaa|อากาศยังคงอ่อนโยน [1]
+[1-na] saa on edelleen lauhaa|[1] อากาศยังคงอ่อนโยน
+[alueella] pakkanen kiristyy|น้ำค้างแข็งรุนแรงขึ้น [1]
+[1-na] pakkanen kiristyy|[1] น้ำค้างแข็งรุนแรงขึ้น
+[1-na] [alueella] pakkanen kiristyy|[1] น้ำค้างแข็งรุนแรงขึ้น [2]
+[alueella] kirea pakkanen jatkuu|ความหนาวเย็นรุนแรงยังคงอยู่ [1]
+[1-na] kirea pakkanen jatkuu|[1] ความหนาวเย็นรุนแรงยังคงอยู่
+[1-na] [alueella] kirea pakkanen jatkuu|[1] ความหนาวเย็นรุนแรงยังคงอยู่ [2]
+[alueella] pakkanen hellittaa|ความเย็นเริ่มคลาย [1]
+[1-na] pakkanen hellittaa|[1] ความเย็นเริ่มคลาย
+[1-na] [alueella] pakkanen hellittaa|[1] ความเย็นเริ่มคลาย [2]
+[alueella] kirea pakkanen heikkenee|ความหนาวเย็นรุนแรงลดลง [1]
+[1-na] kirea pakkanen heikkenee|[1] ความหนาวเย็นรุนแรงลดลง
+[1-na] [alueella] kirea pakkanen heikkenee|[1] ความหนาวเย็นรุนแรงลดลง [2]
+[alueella] pakkanen heikkenee|น้ำค้างแข็งลดลง [1]
+[1-na] pakkanen heikkenee|[1] น้ำค้างแข็งลดลง
+[1-na] [alueella] pakkanen heikkenee|[1] น้ำค้างแข็งลดลง [2]
+[alueella] saa on helteista|อากาศร้อนมาก [1]
+[1-na] saa on helteista|[1] อากาศร้อนมาก
+[1-na] [alueella] saa on helteista|[1] อากาศร้อนมาก [2]
+[alueella] saa muuttuu helteiseksi|อากาศกลายเป็นอากาศร้อน [1]
+[1-na] saa muuttuu helteiseksi|[1] อากาศกลายเป็นอากาศร้อน
+[1-na] [alueella] saa muuttuu helteiseksi|[1] อากาศกลายเป็นอากาศร้อน [2]
+[alueella] helteinen saa jatkuu|อากาศร้อนยังคงอยู่ [1]
+[1-na] helteinen saa jatkuu|[1] อากาศร้อนยังคงอยู่
+[1-na] [alueella] helteinen saa jatkuu|[1] อากาศร้อนยังคงอยู่ [2]
+[alueella] saa viilenee huomattavasti|อากาศเย็นลงอย่างมาก [1]
+[1-na] saa viilenee huomattavasti|[1] อากาศเย็นลงอย่างมาก
+[1-na] [alueella] saa viilenee huomattavasti|[1] อากาศเย็นลงอย่างมาก [2]
+[alueella] saa viilenee vahan|อากาศเย็นลงเล็กน้อย [1]
+[1-na] saa viilenee vahan|[1] อากาศเย็นลงเล็กน้อย
+[1-na] [alueella] saa viilenee vahan|[1] อากาศเย็นลงเล็กน้อย [2]
+[alueella] saa viilenee|อากาศเย็นลง [1]
+[1-na] saa viilenee|[1] อากาศเย็นลง
+[1-na] [alueella] saa viilenee|[1] อากาศเย็นลง [2]
+[alueella] viilea saa jatkuu|อากาศเย็นยังคงอยู่ [1]
+[1-na] viilea saa jatkuu|[1] อากาศเย็นยังคงอยู่
+[1-na] [alueella] viilea saa jatkuu|[1] อากาศเย็นยังคงอยู่ [2]
+[alueella] kolea saa jatkuu|อากาศหนาวเย็นยังคงอยู่ [1]
+[1-na] kolea saa jatkuu|[1] อากาศหนาวเย็นยังคงอยู่
+[1-na] [alueella] kolea saa jatkuu|[1] อากาศหนาวเย็นยังคงอยู่ [2]
+[alueella] saa lampenee huomattavasti|อากาศอุ่นขึ้นอย่างมาก [1]
+[1-na] saa lampenee huomattavasti|[1] อากาศอุ่นขึ้นอย่างมาก
+[1-na] [alueella] saa lampenee huomattavasti|[1] อากาศอุ่นขึ้นอย่างมาก [2]
+[alueella] saa lampenee vahan|อากาศอุ่นขึ้นเล็กน้อย [1]
+[1-na] saa lampenee vahan|[1] อากาศอุ่นขึ้นเล็กน้อย
+[1-na] [alueella] saa lampenee vahan|[1] อากาศอุ่นขึ้นเล็กน้อย [2]
+[alueella] saa lampenee|อากาศอุ่นขึ้น [1]
+[1-na] saa lampenee|[1] อากาศอุ่นขึ้น
+[1-na] [alueella] saa lampenee|[1] อากาศอุ่นขึ้น [2]
+7-keskiyolla ja aamuyolla|เที่ยงคืนและช่วงเช้าตรู่วันอาทิตย์
+6-keskiyolla ja aamuyolla|เที่ยงคืนและช่วงเช้าตรู่วันเสาร์
+5-keskiyolla ja aamuyolla|เที่ยงคืนและช่วงเช้าตรู่วันศุกร์
+4-keskiyolla ja aamuyolla|เที่ยงคืนและช่วงเช้าตรู่วันพฤหัสบดี
+3-keskiyolla ja aamuyolla|เที่ยงคืนและช่วงเช้าตรู่วันพุธ
+2-keskiyolla ja aamuyolla|เที่ยงคืนและช่วงเช้าตรู่วันอังคาร
+1-keskiyolla ja aamuyolla|เที่ยงคืนและช่วงเช้าตรู่วันจันทร์
+[huomenna] yksittaiset vesikuurot mahdollisia|[1] อาจมีฝนประปราย
+[huomenna] yksittaiset vesi- tai rantakuurot mahdollisia|[1] อาจมีฝนหรือลูกเห็บประปราย
+[huomenna] yksittaiset vesi- tai lumikuurot mahdollisia|[1] อาจมีฝนหรือหิมะประปราย
+[huomenna] yksittaiset sadekuurot mahdollisia|[1] อาจมีฝนประปราย
+[huomenna] yksittaiset rantakuurot mahdollisia|[1] อาจมีลูกเห็บประปราย
+[huomenna] yksittaiset ranta- tai vesikuurot mahdollisia|[1] อาจมีลูกเห็บหรือฝนประปราย
+[huomenna] yksittaiset lumikuurot mahdollisia|[1] อาจมีหิมะประปราย
+[huomenna] yksittaiset lumi- tai rantakuurot mahdollisia|[1] อาจมีหิมะหรือลูกเห็บประปราย
+[huomenna] [sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia|อาจมีหิมะหรือลูกเห็บประปราย [2] [1]
+[huomenna] [sisamaassa] yksittaiset lumikuurot mahdollisia|อาจมีหิมะประปราย [2] [1]
+[huomenna] [sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia|อาจมีลูกเห็บหรือฝนประปราย [2] [1]
+[huomenna] [sisamaassa] yksittaiset rantakuurot mahdollisia|อาจมีลูกเห็บประปราย [2] [1]
+[huomenna] [sisamaassa] yksittaiset sadekuurot mahdollisia|อาจมีฝนประปราย [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia|อาจมีฝนหรือหิมะประปราย [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia|อาจมีฝนหรือลูกเห็บประปราย [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesikuurot mahdollisia|อาจมีฝนประปราย [2] [1]
+[sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia|อาจมีลูกเห็บหรือฝนประปราย [1]
+[sisamaassa] yksittaiset rantakuurot mahdollisia|อาจมีลูกเห็บประปราย [1]
+[sisamaassa] yksittaiset sadekuurot mahdollisia|อาจมีฝนประปราย [1]
+1-keskiyohon asti|จนถึงเที่ยงคืนวันจันทร์
+[sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia|อาจมีฝนหรือหิมะประปราย [1]
+[sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia|อาจมีฝนหรือลูกเห็บประปราย [1]
+[sisamaassa] yksittaiset vesikuurot mahdollisia|อาจมีฝนประปราย [1]
+[sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia|[1] อาจมีหิมะหรือลูกเห็บประปราย
+[sisamaassa] yksittaiset lumikuurot mahdollisia|อาจมีหิมะประปราย [1]
+[sisamaassa] on [hieman lauhempaa]|อากาศ [2] [1]
+[huomenna] on [hieman lauhempaa]|[1] อากาศ [2]
+[huomenna] [sisamaassa] on [hieman lauhempaa]|[1] อากาศ [3] [2]
+[lampotila] [M...N] [astetta]|[1] [2] [3]
+paivan ylin|อุณหภูมิสูงสุดกลางวัน
+[lampotila] [suunnilleen sama]|[1] [2]
+[lampotila] vahan yli [N] [astetta]|[1] เกิน [2] [3] เล็กน้อย
+[lampotila] vajaat [N] [astetta]|[1] เกือบ [2] [3]
+[lampotila] lahella [N] [astetta]|[1] ใกล้เคียง [2] [3]
+[lampotila] [N] [asteen] tuntumassa|[1] ใกล้เคียง [2] [3]
+[lampotila] [N] [asteen] tienoilla|[1] ประมาณ [2] [3]
+[lampotila] noin [N] [astetta]|[1] ประมาณ [2] [3]
+luoteeseen|ไปทิศตะวันตกเฉียงเหนือ
+lounaaseen|ไปทิศตะวันตกเฉียงใต้
+kaakkoon|ไปทิศตะวันออกเฉียงใต้
+koilliseen|ไปทิศตะวันออกเฉียงเหนือ
+lanteen|ไปทิศตะวันตก
+itaan|ไปทิศตะวันออก
+etelaan|ไปทิศใต้
+pohjoiseen|ไปทิศเหนือ
+[iltapaivalla] tuuli kaantyy [etelaan] ja voimistuu edelleen|[1] ลมเปลี่ยนทิศ [2] และแรงขึ้นต่อไป
+[pohjoistuulta] [m...n] [metria sekunnissa], joka muuttuu [iltapaivalla] vaihtelevaksi|[1] [2] [3] ซึ่งกลายเป็นแปรปรวน [4]
+vahitellen|ค่อยๆ
+[pohjoistuulta] [m...n] [metria sekunnissa], joka kaantyy [iltapaivalla] [etelaan]|[1] [2] [3] ซึ่งเปลี่ยนทิศ [5] [4]
+[iltapaivalla] tuuli kaantyy [etelaan]|ลมเปลี่ยนทิศ [2] [1]
+suunnaltaan vaihtelevaa tuulta|ลมแปรปรวน
+latvia:lle|สำหรับ Latvia
+astetta (n...0)|องศา
+1- ja 2-valille|ไปทิศเหนือถึงตะวันออกเฉียงเหนือ
+3- ja 2-valille|ไปทิศตะวันออกถึงตะวันออกเฉียงเหนือ
+3- ja 4-valille|ไปทิศตะวันออกถึงตะวันออกเฉียงใต้
+5- ja 4-valille|ไปทิศใต้ถึงตะวันออกเฉียงใต้
+5- ja 6-valille|ไปทิศใต้ถึงตะวันตกเฉียงใต้
+7- ja 6-valille|ไปทิศตะวันตกถึงตะวันตกเฉียงใต้
+7- ja 8-valille|ไปทิศตะวันตกถึงตะวันตกเฉียงเหนือ
+1- ja 8-valille|ไปทิศเหนือถึงตะวันตกเฉียงเหนือ
+[huomenna] [etelatuulta]|[1] [2]
+ivalo:lle|สำหรับ Ivalo
+pieksamaki:lle|สำหรับ Pieksämäki
+[iltapaivalla] [etelaan] kaantyvaa tuulta|ลมเปลี่ยนทิศ [2] [1]
+heikkenevaa tuulta|ลมอ่อนกำลัง
+8-puolelle|ส่วนใหญ่ทิศตะวันตกเฉียงเหนือ
+7-puolelle|ส่วนใหญ่ทิศตะวันตก
+6-puolelle|ส่วนใหญ่ทิศตะวันตกเฉียงใต้
+5-puolelle|ส่วนใหญ่ทิศใต้
+4-puolelle|ส่วนใหญ่ทิศตะวันออกเฉียงใต้
+3-puolelle|ส่วนใหญ่ทิศตะวันออก
+2-puolelle|ส่วนใหญ่ทิศตะวันออกเฉียงเหนือ
+1-puolelle|ส่วนใหญ่ทิศเหนือ
+tuuli muuttuu vaihtelevaksi|ลมกลายเป็นแปรปรวน
+[iltapaivalla] tuuli muuttuu vaihtelevaksi|ลมกลายเป็นแปรปรวน [1]
+[iltapaivalla] [etelatuulta]|[2] [1]
+astetta (1)|องศา
+astetta (0)|องศา
+astetta (4)|องศา
+astetta (3)|องศา
+astetta (n...(mod 10=1))|องศา
+astetta (n...4)|องศา
+astetta (n...3)|องศา
+astetta (n...2)|องศา
+astetta (n...1)|องศา
+astetta (2)|องศา
+aallonkorkeus on enimmillaan [N] [metria]|ความสูงคลื่นสูงสุด [1] [2]
+latgale:lle|สำหรับ Latgale region
+vidzeme:lle|สำหรับ Vidzeme region
+zemgale:lle|สำหรับ Zemgale region
+kurzeme:lle|สำหรับ Kurzeme region
+rigaregion:lle|สำหรับ Lielriga region
+tuuli kaantyy|ลมเปลี่ยนทิศ
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta]|[2] [3] [4] [1]
+[iltapaivalla] [nopeasti] [heikkenevaa tuulta]|[2] [3] [1]
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi|ลมกลายเป็นแปรปรวนชั่วคราว [1]
+[iltapaivalla] tuuli heikkenee ja muuttuu vaihtelevaksi|[1] ลมอ่อนกำลังและกลายเป็นแปรปรวน
+astetta (m...n)|องศา
+astetta (n)|องศา
+[iltapaivalla] tuuli heikkenee ja kaantyy [etelaan]|[1] ลมอ่อนกำลังและเปลี่ยนทิศ [2]
+keskipaivasta|ตั้งแต่เที่ยงวัน
+[iltapaivalla] tuuli voimistuu ja kaantyy [etelaan]|[1] ลมแรงขึ้นและเปลี่ยนทิศ [2]
+[iltapaivalla] tuuli voimistuu ja muuttuu vaihtelevaksi|ลมแรงขึ้นและกลายเป็นแปรปรวน [1]
+voimistuvaa tuulta|ลมแรงขึ้น
+kovimmillaan|ถึง
+nopeasti|รวดเร็ว
+[iltapaivalla] tuuli muuttuu vaihtelevaksi ja heikkenee edelleen|[1] ลมกลายเป็นแปรปรวนและอ่อนกำลังต่อไป
+[iltapaivalla] [heikkenevaa tuulta]|[1] [2]
+[iltapaivalla] [heikkenevaa] [etelatuulta]|[1] [2] [3]
+[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] [2] อ่อนกำลังและกลายเป็นแปรปรวน
+[iltapaivalla] [pohjoistuuli] heikkenee ja kaantyy [etelaan]|[1] [2] อ่อนกำลังและเปลี่ยนทิศ [3]
+1- ja 8-valista tuulta|ลมทิศเหนือถึงตะวันตกเฉียงเหนือ
+7- ja 8-valista tuulta|ลมทิศตะวันตกถึงตะวันตกเฉียงเหนือ
+7- ja 6-valista tuulta|ลมทิศตะวันตกถึงตะวันตกเฉียงใต้
+5- ja 6-valista tuulta|ลมทิศใต้ถึงตะวันตกเฉียงใต้
+5- ja 4-valista tuulta|ลมทิศใต้ถึงตะวันออกเฉียงใต้
+3- ja 4-valista tuulta|ลมทิศตะวันออกถึงตะวันออกเฉียงใต้
+3- ja 2-valista tuulta|ลมทิศตะวันออกถึงตะวันออกเฉียงเหนือ
+1- ja 2-valista tuulta|ลมทิศเหนือถึงตะวันออกเฉียงเหนือ
+1- ja 8-valinen tuuli|ลมทิศเหนือถึงตะวันตกเฉียงเหนือ
+7- ja 8-valinen tuuli|ลมทิศตะวันตกถึงตะวันตกเฉียงเหนือ
+7- ja 6-valinen tuuli|ลมทิศตะวันตกถึงตะวันตกเฉียงใต้
+5- ja 6-valinen tuuli|ลมทิศใต้ถึงตะวันตกเฉียงใต้
+5- ja 4-valinen tuuli|ลมทิศใต้ถึงตะวันออกเฉียงใต้
+3- ja 4-valinen tuuli|ลมทิศตะวันออกถึงตะวันออกเฉียงใต้
+3- ja 2-valinen tuuli|ลมทิศตะวันออกถึงตะวันออกเฉียงเหนือ
+1- ja 2-valinen tuuli|ลมทิศเหนือถึงตะวันออกเฉียงเหนือ
+8-puoleinen tuuli|ลมทิศตะวันตกเฉียงเหนือเป็นส่วนใหญ่
+7-puoleinen tuuli|ลมทิศตะวันตกเป็นส่วนใหญ่
+6-puoleinen tuuli|ลมทิศตะวันตกเฉียงใต้เป็นส่วนใหญ่
+5-puoleinen tuuli|ลมทิศใต้เป็นส่วนใหญ่
+4-puoleinen tuuli|ลมทิศตะวันออกเฉียงใต้เป็นส่วนใหญ่
+3-puoleinen tuuli|ลมทิศตะวันออกเป็นส่วนใหญ่
+2-puoleinen tuuli|ลมทิศตะวันออกเฉียงเหนือเป็นส่วนใหญ่
+1-puoleinen tuuli|ลมทิศเหนือเป็นส่วนใหญ่
+8-tuuli|ลมทิศตะวันตกเฉียงเหนือ
+7-tuuli|ลมทิศตะวันตก
+6-tuuli|ลมทิศตะวันตกเฉียงใต้
+5-tuuli|ลมทิศใต้
+4-tuuli|ลมทิศตะวันออกเฉียงใต้
+3-tuuli|ลมทิศตะวันออก
+2-tuuli|ลมทิศตะวันออกเฉียงเหนือ
+1-tuuli|ลมทิศเหนือ
+suunnaltaan vaihteleva tuuli|ลมแปรปรวน
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja heikkenee edelleen|[1] ลมกลายเป็นแปรปรวนชั่วคราวและอ่อนกำลังต่อไป
+[iltapaivalla] tuuli heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] ลมอ่อนกำลังและกลายเป็นแปรปรวนชั่วคราว
+[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] อ่อนกำลังและกลายเป็นแปรปรวนชั่วคราว
+iltapaivasta|ตั้งแต่ตอนบ่าย
+[iltapaivalla] [etelatuuli] alkaa heiketa [nopeasti]|[1] [2] เริ่มอ่อนกำลัง [3]
+illasta|ตั้งแต่ตอนเย็น
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantya [etelaan]|[1] [2] เริ่มอ่อนกำลังและเปลี่ยนทิศ [3]
+astetta (mod 10=1)|องศา
+aste|องศา
+nolla|ศูนย์
+asteen(tienoilla (mod 10=1))|องศา
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [pohjoiseen]|[1] [2] [3] [4] ซึ่งเปลี่ยนทิศ [5]
+[iltapaivalla] edelleen [heikkenevaa] [pohjoistuulta]|[1] [3] อ่อนกำลังต่อไป [2]
+hehtopascalia (mod 10=1)|เฮกโตปาสคาล
+prosenttia (mod 10=1)|เปอร์เซ็นต์
+millimetria (mod 10=1)|มิลลิเมตร
+metria sekunnissa (mod 10=1)|เมตร/วินาที
+4 astetta|4 องศา
+3 astetta|3 องศา
+2 astetta|2 องศา
+puuskittaista [etelatuulta]|ลมกระโชก [1]
+aallonkorkeus on alle [N] [metria]|ความสูงคลื่นน้อยกว่า [1] [2]
+aallonkorkeus on [N...M] [metria]|ความสูงคลื่น [1] [2]
+aallonkorkeus on noin [N] [metria]|ความสูงคลื่นประมาณ [1] [2]
+asteen(tuntumassa (mod 10=1))|องศา
+astetta(noin 0)|องศา
+astetta(noin 4)|องศา
+astetta(noin 3)|องศา
+astetta(noin 2)|องศา
+astetta(noin 1)|องศา
+astetta(noin (mod 10=1))|องศา
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[1] [2] เริ่มอ่อนกำลังและเปลี่ยนทิศ [3]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantya [etelaan]|[1] [2] เริ่มแรงขึ้นและเปลี่ยนทิศ [3]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantyy [etelaan]|[1] [2] เริ่มแรงขึ้นและเปลี่ยนทิศ [3]
+[iltapaivalla] [pohjoistuuli] voimistuu ja kaantyy [etelaan]|[1] [2] แรงขึ้นและเปลี่ยนทิศ [3]
+[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi|[1] [2] แรงขึ้นและกลายเป็นแปรปรวน
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja voimistuu edelleen|[1] ลมกลายเป็นแปรปรวนชั่วคราวและแรงขึ้นต่อไป
+[iltapaivalla] tuuli muuttuu vaihtelevaksi ja voimistuu edelleen|ลมกลายเป็นแปรปรวนและแรงขึ้นต่อไป [1]
+[iltapaivalla] tuuli voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] ลมแรงขึ้นและกลายเป็นแปรปรวนชั่วคราว
+iltayosta|ตั้งแต่ช่วงค่ำ
+keskiyosta|ตั้งแต่เที่ยงคืน
+[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa heiketa|[1] [2] [3] ซึ่งเริ่มอ่อนกำลัง
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [illalla] [pohjoiseen]|[1] [2] [3] [4] ซึ่งเปลี่ยนทิศ [6] [5]
+yosta|ตั้งแต่คืนนี้
+[iltapaivalla] [pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] เริ่มอ่อนกำลัง [3] และเปลี่ยนทิศ [5] [4]
+[ip] [p-tuulta] [m...n] [m/s], joka alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] [3] [4] ซึ่งเริ่มอ่อนกำลัง [5] และเปลี่ยนทิศ [7] [6]
+[iltapaivalla] [etelatuuli] heikkenee [nopeasti]|[2] อ่อนกำลัง [3] [1]
+[iltapaivalla] [pohjoistuuli] heikkenee edelleen|[2] อ่อนกำลังต่อไป [1]
+[iltapaivalla] sade voi olla runsasta|ฝนอาจตกหนัก [1]
+1-asti|จนถึงวันจันทร์
+2-asti|จนถึงวันอังคาร
+3-asti|จนถึงวันพุธ
+4-asti|จนถึงวันพฤหัสบดี
+6-asti|จนถึงวันศุกร์
+5-asti|จนถึงวันเสาร์
+7-asti|จนถึงวันอาทิตย์
+yohon asti|จนถึงคืน
+aamuun asti|จนถึงเช้า
+aamupaivaan asti|จนถึงช่วงสาย
+keskipaivaan asti|จนถึงเที่ยงวัน
+iltapaivaan asti|จนถึงตอนบ่าย
+iltaan asti|จนถึงตอนเย็น
+iltayohon asti|จนถึงช่วงค่ำ
+keskiyohon asti|จนถึงเที่ยงคืน
+huomiseen asti|จนถึงพรุ่งนี้
+1-aamupaivaan asti|จนถึงช่วงสายวันจันทร์
+2-aamupaivaan asti|จนถึงช่วงสายวันอังคาร
+3-aamupaivaan asti|จนถึงช่วงสายวันพุธ
+4-aamupaivaan asti|จนถึงช่วงสายวันพฤหัสบดี
+5-aamupaivaan asti|จนถึงช่วงสายวันศุกร์
+6-aamupaivaan asti|จนถึงช่วงสายวันเสาร์
+7-aamupaivaan asti|จนถึงช่วงสายวันอาทิตย์
+1-aamuun asti|จนถึงเช้าวันจันทร์
+2-aamuun asti|จนถึงเช้าวันอังคาร
+3-aamuun asti|จนถึงเช้าวันพุธ
+4-aamuun asti|จนถึงเช้าวันพฤหัสบดี
+5-aamuun asti|จนถึงเช้าวันศุกร์
+6-aamuun asti|จนถึงเช้าวันเสาร์
+7-aamuun asti|จนถึงเช้าวันอาทิตย์
+1-iltaan asti|จนถึงตอนเย็นวันจันทร์
+2-iltaan asti|จนถึงตอนเย็นวันอังคาร
+3-iltaan asti|จนถึงตอนเย็นวันพุธ
+4-iltaan asti|จนถึงตอนเย็นวันพฤหัสบดี
+5-iltaan asti|จนถึงตอนเย็นวันศุกร์
+6-iltaan asti|จนถึงตอนเย็นวันเสาร์
+7-iltaan asti|จนถึงตอนเย็นวันอาทิตย์
+1-vastaiseen yohon asti|จนถึงคืนวันจันทร์
+2-vastaiseen yohon asti|จนถึงคืนวันอังคาร
+3-vastaiseen yohon asti|จนถึงคืนวันพุธ
+4-vastaiseen yohon asti|จนถึงคืนวันพฤหัสบดี
+5-vastaiseen yohon asti|จนถึงคืนวันศุกร์
+6-vastaiseen yohon asti|จนถึงคืนวันเสาร์
+7-vastaiseen yohon asti|จนถึงคืนวันอาทิตย์
+huomisaamuun asti|จนถึงเช้าพรุ่งนี้
+huomisaamupaivaan asti|จนถึงช่วงสายพรุ่งนี้
+huomisiltaan asti|จนถึงตอนเย็นพรุ่งนี้
+7-iltapaivaan asti|จนถึงตอนบ่ายวันศุกร์
+6-iltapaivaan asti|จนถึงตอนบ่ายวันเสาร์
+5-iltapaivaan asti|จนถึงตอนบ่ายวันศุกร์
+4-iltapaivaan asti|จนถึงตอนบ่ายวันพฤหัสบดี
+3-iltapaivaan asti|จนถึงตอนบ่ายวันพุธ
+2-iltapaivaan asti|จนถึงตอนบ่ายวันอังคาร
+1-iltapaivaan asti|จนถึงตอนบ่ายวันจันทร์
+7-iltayohon asti|จนถึงช่วงค่ำวันอาทิตย์
+6-iltayohon asti|จนถึงช่วงค่ำวันเสาร์
+5-iltayohon asti|จนถึงช่วงค่ำวันศุกร์
+4-iltayohon asti|จนถึงช่วงค่ำวันพฤหัสบดี
+3-iltayohon asti|จนถึงช่วงค่ำวันพุธ
+2-iltayohon asti|จนถึงช่วงค่ำวันอังคาร
+1-iltayohon asti|จนถึงช่วงค่ำวันจันทร์
+7-keskiyohon asti|จนถึงเที่ยงคืนวันอาทิตย์
+5-keskiyohon asti|จนถึงเที่ยงคืนวันศุกร์
+4-keskiyohon asti|จนถึงเที่ยงคืนวันพฤหัสบดี
+3-keskiyohon asti|จนถึงเที่ยงคืนวันพุธ
+[iltapaivalla] [pohjoistuuli] voimistuu edelleen|[2] แรงขึ้นต่อไป [1]
+[ip] [p-tuulta] [m...n] [m/s], joka alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] [3] [4] ซึ่งเริ่มแรงขึ้น [5] และเปลี่ยนทิศ [7] [6]
+[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa voimistua|[1] [2] [3] ซึ่งเริ่มแรงขึ้น
+aamuyohon asti|จนถึงช่วงเช้าตรู่
+7-aamuyohon asti|จนถึงช่วงเช้าตรู่วันอาทิตย์
+6-aamuyohon asti|จนถึงช่วงเช้าตรู่วันเสาร์
+5-aamuyohon asti|จนถึงช่วงเช้าตรู่วันศุกร์
+4-aamuyohon asti|จนถึงช่วงเช้าตรู่วันพฤหัสบดี
+3-aamuyohon asti|จนถึงช่วงเช้าตรู่วันพุธ
+2-aamuyohon asti|จนถึงช่วงเช้าตรู่วันอังคาร
+1-aamuyohon asti|จนถึงช่วงเช้าตรู่วันจันทร์
+[iltapaivalla] kuurot voivat olla voimakkaita|ฝนอาจตกหนัก [1]
+B3N:lle|สำหรับ Northern Sea of Bothnia
+[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] ลมเริ่มอ่อนกำลังและกลายเป็นแปรปรวน
+[iltapaivalla] tuuli alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] ลมเริ่มอ่อนกำลังและกลายเป็นแปรปรวนชั่วคราว
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] เริ่มอ่อนกำลังและกลายเป็นแปรปรวน
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] เริ่มอ่อนกำลังและกลายเป็นแปรปรวนชั่วคราว
+inari_utsjoki:lle|สำหรับ Inari และ Utsjoki
+ita_finnmark:lle|สำหรับ Eastern Finnmark
+lansi_finnmark:lle|สำหรับ Western Finnmark
+pohjois_ruotsi:lle|สำหรับ Northern Sweden
+kasivarsi:lle|สำหรับ Käsivarsi
+kova|แรง
+voimakas|แรงมาก
+heikkenee|อ่อนกำลัง
+kuola:lle|สำหรับ Kola Peninsula
+[voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen|[1] เปลี่ยนทิศ [2] และอ่อนกำลังต่อไป
+[voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]|[1] อ่อนกำลังและเปลี่ยนทิศ [2]
+[voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[1] เริ่มอ่อนกำลังและเปลี่ยนทิศ [2]
+[voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] อ่อนกำลังและกลายเป็นแปรปรวน
+[voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] เริ่มอ่อนกำลังและกลายเป็นแปรปรวน
+[voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] เริ่มอ่อนกำลังและกลายเป็นแปรปรวนชั่วคราว
+[voimakas pohjoistuuli] heikkenee edelleen|[1] อ่อนกำลังต่อไป
+[voimakas pohjoistuuli] alkaa heiketa [nopeasti]|[1] เริ่มอ่อนกำลัง [2]
+[voimakas pohjoistuuli] heikkenee [nopeasti]|[1] อ่อนกำลัง [2]
+[voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] อ่อนกำลังและกลายเป็นแปรปรวนชั่วคราว
+voimakas 3- ja 4-valinen tuuli|ลมทิศตะวันออกถึงตะวันออกเฉียงใต้แรง
+voimakas 4-tuuli|ลมทิศตะวันออกเฉียงใต้แรง
+voimakas 4-puoleinen tuuli|ลมทิศตะวันออกเฉียงใต้เป็นส่วนใหญ่แรง
+voimakas 5- ja 4-valinen tuuli|ลมทิศใต้ถึงตะวันออกเฉียงใต้แรง
+voimakas 5-tuuli|ลมทิศใต้แรง
+voimakas 5-puoleinen tuuli|ลมทิศใต้เป็นส่วนใหญ่แรง
+voimakas 5- ja 6-valinen tuuli|ลมทิศใต้ถึงตะวันตกเฉียงใต้แรง
+voimakas 6-tuuli|ลมทิศตะวันตกเฉียงใต้แรง
+voimakas 6-puoleinen tuuli|ลมทิศตะวันตกเฉียงใต้เป็นส่วนใหญ่แรง
+voimakas 7- ja 6-valinen tuuli|ลมทิศตะวันตกถึงตะวันตกเฉียงใต้แรง
+voimakas 7-tuuli|ลมทิศตะวันตกแรง
+voimakas 7-puoleinen tuuli|ลมทิศตะวันตกเป็นส่วนใหญ่แรง
+voimakas 7- ja 8-valinen tuuli|ลมทิศตะวันตกถึงตะวันตกเฉียงเหนือแรง
+voimakas 8-tuuli|ลมทิศตะวันตกเฉียงเหนือแรง
+voimakas 8-puoleinen tuuli|ลมทิศตะวันตกเฉียงเหนือเป็นส่วนใหญ่แรง
+voimakas 1- ja 8-valinen tuuli|ลมทิศเหนือถึงตะวันตกเฉียงเหนือแรง
+voimakas tuuli|ลมพายุ
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti]|[2] อ่อนกำลัง [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee edelleen|[2] อ่อนกำลังต่อไป [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa [nopeasti]|[2] เริ่มอ่อนกำลัง [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[2] เริ่มอ่อนกำลังและกลายเป็นแปรปรวนชั่วคราว [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[2] อ่อนกำลังและกลายเป็นแปรปรวนชั่วคราว [1]
+voimakas 2-puoleinen tuuli|ลมทิศตะวันออกเฉียงเหนือเป็นส่วนใหญ่แรง
+voimakas 3-puoleinen tuuli|ลมทิศตะวันออกเป็นส่วนใหญ่แรง
+voimakas 3-tuuli|ลมทิศตะวันออกแรง
+voimakas 1-tuuli|ลมทิศเหนือแรง
+voimakas 1-puoleinen tuuli|ลมทิศเหนือเป็นส่วนใหญ่แรง
+voimakas 3- ja 2-valinen tuuli|ลมทิศตะวันออกถึงตะวันออกเฉียงเหนือแรง
+voimakas 2-tuuli|ลมทิศตะวันออกเฉียงเหนือแรง
+voimakas 1- ja 2-valinen tuuli|ลมทิศเหนือถึงตะวันออกเฉียงเหนือแรง
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[2] เริ่มอ่อนกำลังและกลายเป็นแปรปรวน [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[2] อ่อนกำลังและกลายเป็นแปรปรวน [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[2] เริ่มอ่อนกำลังและเปลี่ยนทิศ [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]|[2] อ่อนกำลังและเปลี่ยนทิศ [3] [1]
+tiepiiri-o4:lle|สำหรับเขตถนน Oulu ภาคเหนือในแผ่นดิน
+[iltapaivalla] [voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen|[2] เปลี่ยนทิศ [3] และอ่อนกำลังต่อไป [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]|[2] อ่อนกำลัง [3] [1] และเปลี่ยนทิศ [5] [4]
+[etelatuuli] alkaa voimistua [nopeasti]|[1] เริ่มแรงขึ้น [2]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] เริ่มแรงขึ้นและกลายเป็นแปรปรวน
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] ลมเริ่มแรงขึ้นและกลายเป็นแปรปรวนชั่วคราว
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] ลมเริ่มแรงขึ้นและกลายเป็นแปรปรวน
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[2] อ่อนกำลัง [3] [1] และเปลี่ยนทิศ [4]
+[pohjoistuuli] heikkenee [nopeasti]|[1] อ่อนกำลัง [2]
+[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]|[1] อ่อนกำลัง [2] และเปลี่ยนทิศ [4] [3]
+[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[1] อ่อนกำลัง [2] และเปลี่ยนทิศ [3]
+[pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] อ่อนกำลังและกลายเป็นแปรปรวน
+[etelatuuli] alkaa heiketa [nopeasti]|[1] เริ่มอ่อนกำลัง [2]
+[pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] อ่อนกำลังและกลายเป็นแปรปรวนชั่วคราว
+[pohjoistuuli] alkaa heiketa ja kaantya [etelaan]|[1] เริ่มอ่อนกำลังและเปลี่ยนทิศ [2]
+[pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] เริ่มอ่อนกำลัง [2] และเปลี่ยนทิศ [4] [3]
+[etelatuuli] heikkenee [nopeasti]|[1] อ่อนกำลัง [2]
+[pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] เริ่มแรงขึ้นและกลายเป็นแปรปรวน
+[pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] เริ่มอ่อนกำลังและกลายเป็นแปรปรวนชั่วคราว
+[pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] เริ่มอ่อนกำลังและกลายเป็นแปรปรวน
+1-keskipaivaan|จนถึงเที่ยงวันจันทร์
+2-keskipaivaan|จนถึงเที่ยงวันอังคาร
+3-keskipaivaan|จนถึงเที่ยงวันพุธ
+4-keskipaivaan|จนถึงเที่ยงวันพฤหัสบดี
+5-keskipaivaan|จนถึงเที่ยงวันศุกร์
+6-keskipaivaan|จนถึงเที่ยงวันเสาร์
+7-keskipaivaan|จนถึงเที่ยงวันอาทิตย์
+1-keskipaivasta|ตั้งแต่เที่ยงวันจันทร์
+2-keskipaivasta|ตั้งแต่เที่ยงวันอังคาร
+3-keskipaivasta|ตั้งแต่เที่ยงวันพุธ
+4-keskipaivasta|ตั้งแต่เที่ยงวันพฤหัสบดี
+5-keskipaivasta|ตั้งแต่เที่ยงวันศุกร์
+6-keskipaivasta|ตั้งแต่เที่ยงวันเสาร์
+7-keskipaivasta|ตั้งแต่เที่ยงวันอาทิตย์
+kemi-tornio:lle|สำหรับ Kemi-Tornio
+rovaniemen seutu:lle|สำหรับบริเวณ Rovaniemi
+tornionlaakso:lle|สำหรับ Torne Valley
+tunturi-lappi:lle|สำหรับ Tunturi-Lappi
+elyalue-epo:lle|สำหรับพื้นที่ ELY Southern Ostrobothnia
+elyalue-kas:lle|สำหรับพื้นที่ ELY Southeastern Finland
+elyalue-kes:lle|สำหรับพื้นที่ ELY Central Finland
+elyalue-lap:lle|สำหรับพื้นที่ ELY Lapland
+elyalue-pir:lle|สำหรับพื้นที่ ELY Pirkanmaa
+elyalue-pkp:lle|สำหรับพื้นที่ ELY Northern Ostrobothnia
+elyalue-pos:lle|สำหรับพื้นที่ ELY Northern Savo
+elyalue-uud:lle|สำหรับพื้นที่ ELY Uusimaa
+elyalue-var:lle|สำหรับพื้นที่ ELY Finland Proper
+tiepiiri-h1:lle|สำหรับ Southern Häme
+tiepiiri-h2:lle|สำหรับ Southern Päijänne-Häme
+tiepiiri-h3:lle|สำหรับ Southern Pirkanmaa
+tiepiiri-h4:lle|สำหรับ Northern Päijänne-Häme
+tiepiiri-h5:lle|สำหรับ Northern Pirkanmaa
+tiepiiri-k1:lle|สำหรับ Kymenmaa coastal region
+tiepiiri-k2:lle|สำหรับ Kymenmaa inland region
+tiepiiri-k3:lle|สำหรับ Southern Karelia
+tiepiiri-k4:lle|สำหรับ Southern Savo
+tiepiiri-ke1:lle|สำหรับ Central Finlands southern region
+tiepiiri-ke2:lle|สำหรับ Central Finlands northern region
+tiepiiri-l1:lle|สำหรับ Southwestern Lapland
+tiepiiri-l2:lle|สำหรับ Southeastern Lapland
+tiepiiri-l3:lle|สำหรับ Central Lapland
+tiepiiri-l4:lle|สำหรับ Northwestern Lapland
+tiepiiri-l5:lle|สำหรับ Northern Lapland
+tiepiiri-o1e:lle|สำหรับ Oulu southern coastal region
+tiepiiri-o1p:lle|สำหรับ Oulu northern coastal region
+tiepiiri-o2:lle|สำหรับ Oulu southern inland region
+tiepiiri-o3:lle|สำหรับ Kainuu
+tiepiiri-o5:lle|สำหรับ Koillismaa
+tiepiiri-s1:lle|สำหรับ Northern Karelia southern region
+tiepiiri-s2:lle|สำหรับ Northern Savo southern region
+[etelatuuli] voimistuu [nopeasti]|[1] แรงขึ้น [2]
+[iltapaivalla] [pohjoistuuli] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] ลมเริ่มแรงขึ้นและกลายเป็นแปรปรวนชั่วคราว
+[iltapaivalla] tuuli alkaa voimistua ja kaantyy [etelaan]|ลมเริ่มแรงขึ้นและเปลี่ยนทิศ [2] [1]
+[pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] เริ่มแรงขึ้น [2] และเปลี่ยนทิศ [4] [3]
+[pohjoistuuli] alkaa voimistua ja kaantya [etelaan]|[1] เริ่มแรงขึ้นและเปลี่ยนทิศ [2]
+[pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] เริ่มแรงขึ้นและกลายเป็นแปรปรวนชั่วคราว
+[pohjoistuuli] voimistuu [nopeasti]|[1] แรงขึ้น [2]
+[pohjoistuuli] voimistuu ja kaantyy [etelaan]|[1] แรงขึ้นและเปลี่ยนทิศ [2]
+[pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] แรงขึ้นและกลายเป็นแปรปรวนชั่วคราว
+[pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi|[1] แรงขึ้นและกลายเป็นแปรปรวน
+1-aamuyolla|ช่วงเช้าตรู่วันจันทร์
+tiepiiri-s3:lle|สำหรับ Northern Karelia central region
+tiepiiri-s4:lle|สำหรับ Northern Savo northern region
+tiepiiri-s5:lle|สำหรับ Northern Karelia northern region
+tiepiiri-t1:lle|สำหรับ Finland Proper coastal region
+tiepiiri-t2:lle|สำหรับ Finland Proper inland region
+tiepiiri-t3:lle|สำหรับ Finland Proper eastern region
+tiepiiri-t4:lle|สำหรับ Satakunta coastal region
+tiepiiri-t5:lle|สำหรับ Satakunta inland region
+tiepiiri-u1:lle|สำหรับ Western Uusimaa coastal region
+tiepiiri-u2:lle|สำหรับเขตนครหลวง
+tiepiiri-u3:lle|สำหรับ Eastern Uusimaa coastal region
+tiepiiri-u4:lle|สำหรับ Western Uusimaa inland region
+tiepiiri-u5:lle|สำหรับ Eastern Uusimaa inland region
+tiepiiri-v1:lle|สำหรับ Ostrobothnia southern coastal regions
+tiepiiri-v2:lle|สำหรับ Southern Ostrobothnia
+tiepiiri-v4:lle|สำหรับ Ostrobothnia northern coastal regions
+tiepiiri-v5:lle|สำหรับ Central Ostrobothnia
+[iltap] [nop] [heikken] [tuulta] [m...n] [m sek], joka kaantyy [illalla] [pohj]|[1] [2] [3] [4] [5] [6] ซึ่งเปลี่ยนทิศ [8] [7]
+[lampotila] vahan nollan alapuolella|[1] ต่ำกว่าศูนย์เล็กน้อย
+[lampotila] on vahan nollan alapuolella|[1] ต่ำกว่าศูนย์เล็กน้อย
+[huomenna] vahan nollan alapuolella|[1] ต่ำกว่าศูนย์เล็กน้อย
+[sismaassa] vahan nollan alapuolella|[1] ต่ำกว่าศูนย์เล็กน้อย
+[huomenna] [lampotila] on vahan nollan alapuolella|[1] [2] ต่ำกว่าศูนย์เล็กน้อย
+[sisamaassa] [lampotila] on vahan nollan alapuolella|[1] [2] ต่ำกว่าศูนย์เล็กน้อย
+[huomenna] [sisamaassa] vahan nollan alapuolella|[1] ต่ำกว่าศูนย์เล็กน้อย [2]
+[huomenna] [sisamaassa] [lampotila] on vahan nollan alapuolella|[1] [3] ต่ำกว่าศูนย์เล็กน้อย [2]
+rannikolla vahan nollan alapuolella|ต่ำกว่าศูนย์เล็กน้อยบริเวณชายฝั่ง
+muuten hyva nakyvyys|มีทัศนวิสัยดีโดยทั่วไป
+hyva nakyvyys|ทัศนวิสัยดี
+enimmakseen hyva nakyvyys|ทัศนวิสัยดีเป็นส่วนใหญ่
+yolla ja aamulla|กลางคืนและตอนเช้า
+aamulla ja paivalla|ตอนเช้าและตอนกลางวัน
+paivalla ja illalla|ตอนกลางวันและตอนเย็น
+illalla ja yolla|ตอนเย็นและกลางคืน
+1-keskipaivalla|เที่ยงวันวันจันทร์
+2-keskipaivalla|เที่ยงวันวันอังคาร
+3-keskipaivalla|เที่ยงวันวันพุธ
+4-keskipaivalla|เที่ยงวันวันพฤหัสบดี
+5-keskipaivalla|เที่ยงวันวันศุกร์
+6-keskipaivalla|เที่ยงวันวันเสาร์
+7-keskipaivalla|เที่ยงวันวันอาทิตย์
+ja huono nakyvyys|และทัศนวิสัยไม่ดี
+B2_B1S:lle|สำหรับ the Quark and Southern Bay of Bothnia
+B2_B1:lle|สำหรับ the Quark and Bay of Bothnia
+B3_B2_B1:lle|สำหรับ Sea of Bothnia, the Quark and Bay of Bothnia
+B3_B2:lle|สำหรับ Sea of Bothnia and the Quark
+B4E_B3:lle|สำหรับ Sea of Archipelago and Sea of Bothnia
+B4_B3:lle|สำหรับ Sea of Archipelago and Sea of Åland and Sea of Bothnia
+B7_B4:lle|สำหรับ Northern Baltic Proper, Sea of Archipelago and Sea of Åland
+B7_B4_B3:lle|สำหรับ Northern Baltic Proper, Sea of Archipelago and Sea of Åland and Sea of Bothnia
+B5W_B7:lle|สำหรับ Western Gulf of Finland and Northern Baltic Proper
+B5_B7:lle|สำหรับ Gulf of Finland and Northern Baltic Proper
+B3N_B2:lle|สำหรับ Northern Sea of Bothnia and the Quark
+vesi- tai tihkusadetta|ฝนหรือฝนละออง
+lumi- tai tihkusadetta|หิมะหรือฝนละออง
+ranta- tai tihkusadetta|ลูกเห็บหรือฝนละออง
+jaatavaa tihkusadetta|ฝนละอองน้ำแข็ง
+jotka muuttuvat lumikuuroiksi|ซึ่งเปลี่ยนเป็นหิมะตกเป็นห่า
+jotka muuttuvat rantakuuroiksi|ซึ่งเปลี่ยนเป็นลูกเห็บตกเป็นห่า
+[iltapaivalla] [etelatuuli] alkaa voimistua [nopeasti]|[1] [2] เริ่มแรงขึ้น [3]
+[iltapaivalla] [etelatuuli] voimistuu [nopeasti]|[2] แรงขึ้น [3] [1]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] เริ่มแรงขึ้น [3] และเปลี่ยนทิศ [5] [4]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] เริ่มแรงขึ้นและกลายเป็นแปรปรวนชั่วคราว
+4-aamuyolla ja aamulla|ช่วงเช้าตรู่และตอนเช้าวันพฤหัสบดี
+B5W_B7E_B4E:lle|สำหรับ Western Gulf of Finland, Eastern part of Northern Baltic Proper and Sea of Archipelago
+B5W_B7E:lle|สำหรับ Western Gulf of Finland and Eastern part of Northern Baltic Proper
+B7_B4_B3S:lle|สำหรับ Northern Baltic Proper, Sea of Archipelago and Sea of Åland and Southern Sea of Bothnia
+B7E_B4E_B3S:lle|สำหรับ Eastern part of Northern Baltic Proper, Sea of Archipelago and Southern Sea of Bothnia
+B7E_B4E:lle|สำหรับ Eastern part of Northern Baltic Proper and Sea of Archipelago
+B7W_B4:lle|สำหรับ Western Gulf of Finland, Sea of Archipelago and Sea of Åland
+B7W_B4W_B3S:lle|สำหรับ Western Gulf of Finland, Sea of Åland and Southern Sea of Bothnia
+B7W_B4W:lle|สำหรับ Western Gulf of Finland and Sea of Åland
+[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] แรงขึ้นและกลายเป็นแปรปรวนชั่วคราว
+[iltapaivalla] tuuli kaantyy [etelaan] ja heikkenee edelleen|[1] ลมเปลี่ยนทิศ [2] และอ่อนกำลังต่อไป
+tuuli voimistuu|ลมแรงขึ้นเป็น
+B4_B3S:lle|สำหรับ Sea of Archipelago and Sea of Åland and Southern Sea of Bothnia
+aamupaivalla|ช่วงสาย
+huomisen keskipaivaan asti|จนถึงเที่ยงวันพรุ่งนี้
+huono nakyvyys|ทัศนวิสัยไม่ดี
+B1|Bay of Bothnia
+B2|the Quark
+B3|Sea of Bothnia
+B4|Sea of Archipelago and Sea of Åland
+B5|Gulf of Finland
+B6|Gulf of Riga
+B7|Northern Baltic Proper
+B8|Middle Baltic Proper
+B9|Southeastern Baltic Proper
+B10|Southern Baltic Proper
+B11|Arkona Sea
+B12|Öresund and the Belts
+B13|Kattegat
+B1N|Northern Bay of Bothnia
+B1S|Southern Bay of Bothnia
+B4E|Sea of Archipelago
+B4W|Sea of Åland
+B5E|Eastern Gulf of Finland
+B5W|Western Gulf of Finland
+B8E|Middle Baltic Proper
+B8W|Gotland Sea
+B10N|Öland Sea
+B10S|Bornholm Sea
+B2_B1S|the Quark and Southern Bay of Bothnia
+B2_B1|the Quark and Bay of Bothnia
+B3_B2_B1|Sea of Bothnia, the Quark and Bay of Bothnia
+B3_B2|Sea of Bothnia and the Quark
+B4E_B3|Sea of Archipelago and Sea of Bothnia
+B4_B3|Sea of Archipelago and Sea of Åland and Sea of Bothnia
+B7_B4|Northern Baltic Proper, Sea of Archipelago and Sea of Åland
+B7_B4_B3|Northern Baltic Proper, Sea of Archipelago and Sea of Åland and Sea of Bothnia
+B5W_B7|Western Gulf of Finland and Northern Baltic Proper
+B5_B7|Gulf of Finland and Northern Baltic Proper
+B3N_B2|Northern Sea of Bothnia and the Quark
+B3N|Northern Sea of Bothnia
+B3S|Southern Sea of Bothnia
+B4_B3S|Sea of Archipelago and Sea of Åland and Southern Sea of Bothnia
+B5W_B7E_B4E|Western Gulf of Finland, Eastern part of Northern Baltic Proper and Sea of Archipelago
+B5W_B7E|Western Gulf of Finland and Eastern part of Northern Baltic Proper
+B7_B4_B3S|Northern Baltic Proper, Sea of Archipelago and Sea of Åland and Southern Sea of Bothnia
+B7E_B4E_B3S|Eastern part of Northern Baltic Proper, Sea of Archipelago and Southern Sea of Bothnia
+B7E_B4E|Eastern part of Northern Baltic Proper and Sea of Archipelago
+B7E|Eastern part of Northern Baltic Proper
+B7W_B4W_B3S|Western Gulf of Finland, Sea of Åland and Southern Sea of Bothnia
+B7W_B4|Western Gulf of Finland, Sea of Archipelago and Sea of Åland
+B7W_B4W|Western Gulf of Finland and Sea of Åland
+B7W|Western part of Northern Baltic Proper

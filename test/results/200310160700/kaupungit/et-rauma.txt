@@ -1,0 +1,25 @@
+Rauma
+
+Ilmateade neljapäeval 7
+
+Ilmavaade homme õhtuni:
+
+Täna ja homme muutliku pilvisusega.
+Sademete tõenäosus on täna 20 protsenti, homme suurem.
+Täna loodetuul 4 meetrit sekundis, homme 7 meetrit sekundis.
+Päeva maksimaalne temperatuur on täna umbes 7 kraadi, homme ligikaudu sama.
+Öö minimaalne temperatuur on umbes 3 kraadi.
+Öökülma tõenäosus on reede ööl 30 protsenti.
+Madalaim suhteline niiskus on homme 80 protsenti.
+
+Ilmavaade reede õhtust teisipäeva hommikuni:
+
+Ilm on ebastabiilne.
+Päevane maksimaalne temperatuur on umbes 4 kraadi, öine minimaalne temperatuur umbes 1 kraad.
+
+Reede hommikust järgmise viie päeva ilm:
+
+Kesktemperatuur 2 kraadi.
+Keskmine maksimaalne temperatuur 4 kraadi.
+Keskmine minimaalne temperatuur 0 kraadi.
+Sademete kogus 10-20 millimeetrit.

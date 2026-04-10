@@ -1,0 +1,2148 @@
+o'clock|saa
+meri-lappi:lle|kwa Meri-Lappi
+pohjois-pohjanmaan itaosa:lle|kwa sehemu ya mashariki ya Northern Ostrobothnia
+pohjois-pohjanmaan lansiosa:lle|kwa sehemu ya magharibi ya Northern Ostrobothnia
+pohjanmaa ja etela-pohjanmaa:lle|kwa Ostrobothnia na Southern Ostrobothnia
+etela-lappi:lle|kwa Southern Lapland
+keski-lappi:lle|kwa Central Lapland
+utsjoki ja inari:lle|kwa Utsjoki na Inari
+finnmarkin lansiosa:lle|kwa sehemu ya magharibi ya Finnmark
+finnmarkin itaosa:lle|kwa sehemu ya mashariki ya Finnmark
+murmanskin alueen lansiosa:lle|kwa sehemu ya magharibi ya Murmansk Oblast
+pohjois-ruotsi:lle|kwa Northern Sweden
+[iltapaivalla] lumikuurot voivat olla sakeita|mvua ya theluji inaweza kuwa kali [1]
+[iltapaivalla] lumisade voi olla sakeaa|theluji inaweza kuwa kali [1]
+huomiseen iltapaivaan asti|hadi mchana wa kesho
+aamuyosta|asubuhi na mapema
+astetta(noin n)|nyuzi
+huomattavasti lampimampi|joto zaidi sana
+lampimampi|joto zaidi
+seuraava yo|usiku unaofuata
+seuraavana yona|usiku unaofuata
+on|ni
+ankaran hallan todennakoisyys|uwezekano wa baridi kali sana
+hallan todennakoisyys|uwezekano wa baridi kali
+7-vastaisena yona|usiku wa Jumapili
+6-vastaisena yona|usiku wa Jumamosi
+5-vastaisena yona|usiku wa Ijumaa
+4-vastaisena yona|usiku wa Alhamisi
+3-vastaisena yona|usiku wa Jumatano
+2-vastaisena yona|usiku wa Jumanne
+1-vastaisena yona|usiku wa Jumatatu
+sama|sawa
+hieman pienempi|kidogo ndogo zaidi
+hieman suurempi|kidogo kubwa zaidi
+pienempi|ndogo zaidi
+suurempi|kubwa zaidi
+alin suhteellinen kosteus|unyevu wa chini kabisa
+7-na|Jumapili
+6-na|Jumamosi
+5-na|Ijumaa
+4-na|Alhamisi
+3-na|Jumatano
+2-na|Jumanne
+1-na|Jumatatu
+odotettavissa|hali ya hewa inayotarajiwa
+7-illasta|kuanzia Jumapili jioni
+1-illasta|kuanzia Jumatatu jioni
+2-illasta|kuanzia Jumanne jioni
+3-illasta|kuanzia Jumatano jioni
+4-illasta|kuanzia Alhamisi jioni
+5-illasta|kuanzia Ijumaa jioni
+6-illasta|kuanzia Jumamosi jioni
+7-aamuun|hadi Jumapili asubuhi
+1-aamuun|hadi Jumatatu asubuhi
+2-aamuun|hadi Jumanne asubuhi
+3-aamuun|hadi Jumatano asubuhi
+4-aamuun|hadi Alhamisi asubuhi
+5-aamuun|hadi Ijumaa asubuhi
+6-aamuun|hadi Jumamosi asubuhi
+saa|hali ya hewa
+keskilampotila|joto la wastani
+keskimaarainen ylin lampotila|joto la juu la wastani
+keskimaarainen alin lampotila|joto la chini la wastani
+sadesumma|mvua jumla
+astetta|nyuzi
+millimetria|milimita
+1-aamusta|kuanzia Jumatatu asubuhi
+2-aamusta|kuanzia Jumanne asubuhi
+3-aamusta|kuanzia Jumatano asubuhi
+4-aamusta|kuanzia Alhamisi asubuhi
+5-aamusta|kuanzia Ijumaa asubuhi
+6-aamusta|kuanzia Jumamosi asubuhi
+7-aamusta|kuanzia Jumapili asubuhi
+alkavan|
+1-iltaan|hadi Jumatatu jioni
+2-vuorokauden saa|kwa siku mbili zijazo
+3-vuorokauden saa|kwa siku tatu zijazo
+4-vuorokauden saa|kwa siku nne zijazo
+5-vuorokauden saa|kwa siku tano zijazo
+6-vuorokauden saa|kwa siku sita zijazo
+7-vuorokauden saa|kwa siku saba zijazo
+8-vuorokauden saa|kwa siku nane zijazo
+9-vuorokauden saa|kwa siku tisa zijazo
+10-vuorokauden saa|kwa siku 10 zijazo
+1-keskipaivaan asti|hadi adhuhuri ya Jumatatu
+2-keskipaivaan asti|hadi adhuhuri ya Jumanne
+3-keskipaivaan asti|hadi adhuhuri ya Jumatano
+4-keskipaivaan asti|hadi adhuhuri ya Alhamisi
+5-keskipaivaan asti|hadi adhuhuri ya Ijumaa
+6-keskipaivaan asti|hadi adhuhuri ya Jumamosi
+7-keskipaivaan asti|hadi adhuhuri ya Jumapili
+yli|zaidi ya
+2-iltaan|hadi Jumanne jioni
+3-iltaan|hadi Jumatano jioni
+4-iltaan|hadi Alhamisi jioni
+5-iltaan|hadi Ijumaa jioni
+6-iltaan|hadi Jumamosi jioni
+7-iltaan|hadi Jumapili jioni
+monin paikoin enemman|zaidi sehemu nyingi
+paikoin enemman|zaidi sehemu fulani
+monin paikoin|sehemu nyingi
+paikoin|sehemu fulani
+asti|
+huomattavasti korkeampi|juu zaidi sana
+korkeampi|juu zaidi
+hieman korkeampi|kidogo juu zaidi
+suunnilleen sama|takriban sawa
+hieman alempi|kidogo chini zaidi
+alempi|chini zaidi
+huomattavasti alempi|chini zaidi sana
+noin|takriban
+seuraavana paivana|siku inayofuata
+paivan ylin lampotila|joto la juu la mchana
+yon alin lampotila|joto la chini la usiku
+paivien ylin lampotila|joto la juu la kila siku
+oiden alin lampotila|joto la chini la kila usiku
+paivalampotila|joto la mchana
+yolampotila|joto la usiku
+lopuksi|mwishowe
+8-suunnasta|kutoka kaskazini magharibi
+7-suunnasta|kutoka magharibi
+6-suunnasta|kutoka kusini magharibi
+5-suunnasta|kutoka kusini
+4-suunnasta|kutoka kusini mashariki
+3-suunnasta|kutoka mashariki
+2-suunnasta|kutoka kaskazini mashariki
+1-suunnasta|kutoka kaskazini
+8-suuntaan|kuelekea kaskazini magharibi
+7-suuntaan|kuelekea magharibi
+6-suuntaan|kuelekea kusini magharibi
+5-suuntaan|kuelekea kusini
+4-suuntaan|kuelekea kusini mashariki
+3-suuntaan|kuelekea mashariki
+2-suuntaan|kuelekea kaskazini mashariki
+1-suuntaan|kuelekea kaskazini
+alueen yli|juu ya eneo
+liikkuu|inahamia
+kosteammaksi|yenye unyevu zaidi
+kuivemmaksi|kavu zaidi
+muuttuu|inabadilika
+viilenee|inakuwa baridi zaidi
+lampenee|inakuwa joto zaidi
+sadealue|eneo la mvua
+leviaa|inaenea
+loittonee|inaondoka
+lahestyy|inakaribia
+laaja|kubwa
+korkeapaineen alue|eneo la shinikizo la juu
+matalapaineen alue|eneo la shinikizo la chini
+syvenee|inazidi kina
+korkeapaine|shinikizo la juu
+matalapaine|shinikizo la chini
+lampotila|joto
+m/s|m/s
+heikkoa|dhaifu
+kohtalaista|wastani
+navakkaa|nguvu kidogo
+kovaa|kali
+myrskya|dhoruba
+tuulta|upepo
+suunnaltaan vaihtelevaa|ubadilishaji
+1-tuulta|upepo wa kaskazini
+2-tuulta|upepo wa kaskazini mashariki
+3-tuulta|upepo wa mashariki
+4-tuulta|upepo wa kusini mashariki
+5-tuulta|upepo wa kusini
+6-tuulta|upepo wa kusini magharibi
+7-tuulta|upepo wa magharibi
+8-tuulta|upepo wa kaskazini magharibi
+yolla|usiku
+heikkenevaa|inapungua nguvu
+tuuli|upepo
+1-puoleista tuulta|upepo wa kaskazini hasa
+2-puoleista tuulta|upepo wa kaskazini mashariki hasa
+3-puoleista tuulta|upepo wa mashariki hasa
+4-puoleista tuulta|upepo wa kusini mashariki hasa
+5-puoleista tuulta|upepo wa kusini hasa
+6-puoleista tuulta|upepo wa kusini magharibi hasa
+7-puoleista tuulta|upepo wa magharibi hasa
+8-puoleista tuulta|upepo wa kaskazini magharibi hasa
+ajoittain lumisadetta|theluji mara kwa mara
+ajoittain sadetta|mvua mara kwa mara
+ajoittain ukkosta|radi mara kwa mara
+heikkoa sadetta|mvua dhaifu
+lumikuuroja|mvua ya theluji
+lumisadetta|theluji
+voimistuvaa|inaongeza nguvu
+vahvistuu|inaongeza nguvu
+uusimaa|Uusimaa
+mahdollisesti ukkosta|uwezekano wa radi
+paikoin ukkosta|radi sehemu fulani
+ukkosta|radi
+melko selkeaa|wazi kidogo
+miinus|minus
+pilvistyvaa|mawingu yanayoongezeka
+pilvista|mawingu
+poutaa|hali nzuri ya hewa
+puolipilvista|mawingu kidogo
+runsasta sadetta|mvua kali
+sadetta|mvua
+sakeaa lumisadetta|theluji kali
+sakeita lumikuuroja|mvua ya theluji kali
+selkenevaa|mawingu yanayopungua
+selkeaa|jua
+tai|au
+tuuli heikkenee|upepo unapungua nguvu hadi
+vaihtelevaa pilvisyytta|mawingu yanayobadilika
+vesisadetta|mvua
+voimakkaita kuuroja|mvua kali
+vahaisia kuuroja|mvua ndogo ndogo
+vahaista lumisadetta|theluji kidogo
+heikoksi|dhaifu
+kohtalaiseksi|wastani
+navakaksi|nguvu kidogo
+kovaksi|kali
+myrskyksi|dhoruba
+1-tuuleksi|upepo wa kaskazini
+2-tuuleksi|upepo wa kaskazini mashariki
+3-tuuleksi|upepo wa mashariki
+4-tuuleksi|upepo wa kusini mashariki
+5-tuuleksi|upepo wa kusini
+6-tuuleksi|upepo wa kusini magharibi
+7-tuuleksi|upepo wa magharibi
+8-tuuleksi|upepo wa kaskazini magharibi
+1-puoleiseksi tuuleksi|upepo wa kaskazini hasa
+2-puoleiseksi tuuleksi|upepo wa kaskazini mashariki hasa
+3-puoleiseksi tuuleksi|upepo wa mashariki hasa
+4-puoleiseksi tuuleksi|upepo wa kusini mashariki hasa
+5-puoleiseksi tuuleksi|upepo wa kusini hasa
+6-puoleiseksi tuuleksi|upepo wa kusini magharibi hasa
+7-puoleiseksi tuuleksi|upepo wa magharibi hasa
+8-puoleiseksi tuuleksi|upepo wa kaskazini magharibi hasa
+tuuli tyyntyy|upepo unakuwa wa utulivu
+tyyneksi|utulivu
+tyynta|upepo wa utulivu
+viiva|hadi
+rantasadetta|mvua na theluji
+saa on epavakaista|hali ya hewa si ya kawaida
+lumi-|theluji-
+ranta-|mvua na theluji-
+vesi-|mvua-
+edelleen|inaendelea
+enimmakseen|hasa
+ajoittain sateista|mvua mara kwa mara
+paivalla|mchana
+hirmumyrskya|dhoruba kali
+hirmumyrskyksi|dhoruba kali
+saaennuste|ripoti ya hali ya hewa
+kello|
+aland:lle|kwa Åland Islands
+etela-karjala:lle|kwa Southern Karelia
+etela-pohjanmaa:lle|kwa Southern Ostrobothnia
+etela-savo:lle|kwa Southern Savonia
+hame:lle|kwa Tavastia
+kainuu:lle|kwa Kainuu
+keski-pohjanmaa:lle|kwa Central Ostrobothnia
+keski-suomi:lle|kwa Central Finland
+koillismaa:lle|kwa Koillismaa
+kymenlaakso:lle|kwa Kymenlaakso
+lansi-lappi:lle|kwa Western Lapland
+nyland:lle|kwa Uusimaa
+osterbotten:lle|kwa Ostrobothnia
+paijat-hame:lle|kwa Päijänne Tavastia
+pirkanmaa:lle|kwa Pirkanmaa
+pohjois-karjala:lle|kwa Northern Karelia
+pohjois-lappi:lle|kwa Northern Lapland
+pohjois-pohjanmaa:lle|kwa Northern Ostrobothnia
+pohjois-savo:lle|kwa Northern Savonia
+satakunta:lle|kwa Satakunta
+uusimaa:lle|kwa Uusimaa
+varsinais-suomi:lle|kwa Finland Proper
+huomattavasti suurempi|kubwa zaidi sana
+huomattavasti pienempi|ndogo zaidi sana
+rannikolla|pwani
+metria sekunnissa|mita kwa sekunde
+1-alkaen|kuanzia Jumatatu
+2-alkaen|kuanzia Jumanne
+3-alkaen|kuanzia Jumatano
+4-alkaen|kuanzia Alhamisi
+5-alkaen|kuanzia Ijumaa
+6-alkaen|kuanzia Jumamosi
+7-alkaen|kuanzia Jumapili
+tanaan|leo
+huomenna|kesho
+ylihuomenna|kesho kutwa
+ensi yona|usiku
+huomisaamuna|kesho asubuhi
+aamulla|asubuhi
+illalla|jioni
+iltapaivalla|mchana
+aamuyolla|baada ya usiku wa manane
+keskipaivalla|adhuhuri
+iltayolla|kabla ya usiku wa manane
+keskiyolla|usiku wa manane
+yosta alkaen|kuanzia usiku huu
+aamuyosta alkaen|kuanzia asubuhi na mapema
+aamusta alkaen|kuanzia asubuhi
+aamupaivasta alkaen|kuanzia kabla ya adhuhuri
+keskipaivasta alkaen|kuanzia adhuhuri
+iltapaivasta alkaen|kuanzia mchana
+illasta alkaen|kuanzia jioni
+iltayosta alkaen|kuanzia jioni ya manane
+keskiyosta alkaen|kuanzia usiku wa manane
+prosenttia|asilimia
+ajoittain|mara kwa mara
+1-na kello|Jumatatu
+2-na kello|Jumanne
+3-na kello|Jumatano
+4-na kello|Alhamisi
+5-na kello|Ijumaa
+6-na kello|Jumamosi
+7-na kello|Jumapili
+ei suuria muutoksia saassa|hakuna mabadiliko makubwa katika hali ya hewa
+saa selkenee|hali ya hewa inakuwa wazi
+saa muuttuu epavakaisemmaksi|hali ya hewa inakuwa isiyokuwa ya kawaida zaidi
+sateinen saa jatkuu|hali ya hewa ya mvua inaendelea
+epavakainen saa jatkuu|hali ya hewa isiyokuwa ya kawaida inaendelea
+saa lauhtuu|hali ya hewa inakuwa laini zaidi
+saa on enimmakseen poutaista|hali ya hewa ni nzuri hasa
+saa poutaantuu|hali ya hewa inakuwa nzuri
+saa muuttuu helteiseksi|hali ya hewa inakuwa ya joto kali
+saa lampenee|hali ya hewa inakuwa joto zaidi
+saa viilenee|hali ya hewa inakuwa baridi kidogo
+saa muuttuu koleaksi|hali ya hewa inakuwa baridi
+saa kylmenee|hali ya hewa inakuwa baridi zaidi
+helteinen saa jatkuu|hali ya hewa ya joto kali inaendelea
+lammin saa jatkuu|hali ya hewa ya joto inaendelea
+viilea saa jatkuu|hali ya hewa baridi kidogo inaendelea
+kolea saa jatkuu|hali ya hewa baridi inaendelea
+kylma saa jatkuu|hali ya hewa ya baridi inaendelea
+virtaa|inatiririka
+tilapaisesti|kwa muda
+lamminta|joto
+kylmaa|baridi
+viileaa|baridi kidogo
+viileampaa|baridi kidogo zaidi
+lampimampaa|joto zaidi
+kylmempaa|baridi zaidi
+hyvin|sana
+vahan|kidogo
+ilmaa|hewa
+Suomeen|Finland
+maan|ya nchi
+etelaosiin|maeneo ya kusini
+keskiosiin|maeneo ya kati
+pohjoisosiin|maeneo ya kaskazini
+itaosiin|maeneo ya mashariki
+lansiosiin|maeneo ya magharibi
+etela-|kusini-
+keski-|kati-
+pohjois-|kaskazini-
+ita-|mashariki-
+lansi-|magharibi-
+kuivempaa|kavu zaidi
+kosteampaa|yenye unyevu zaidi
+sadealueita|maeneo ya mvua
+Suomen yli|juu ya Finland
+Etela-Suomen yli|juu ya Finland Kusini
+Keski-Suomen yli|juu ya Finland ya Kati
+Pohjois-Suomen yli|juu ya Finland Kaskazini
+Ita-Suomen yli|juu ya Finland Mashariki
+Lansi-Suomen yli|juu ya Finland Magharibi
+Kaakkois-Suomen yli|juu ya Finland Kusini Mashariki
+uusi|mpya
+sateen todennakoisyys|uwezekano wa mvua
+kuurosateen todennakoisyys|uwezekano wa mvua ya haraka
+ukkosen todennakoisyys|uwezekano wa radi
+pakkanen jatkuu|baridi kali inaendelea
+pakkanen kiristyy|baridi kali inazidi
+pakkanen heikkenee|baridi kali inapungua
+kuuluu|ni sehemu ya
+sateineen|pamoja na mvua
+sadealueineen|pamoja na maeneo ya mvua
+hajanaisine sadealueineen|pamoja na maeneo ya mvua yaliyotawanyika
+Lounais-Suomen yli|juu ya Finland Kusini Magharibi
+saapuu|inakaribia
+saa muuttuu sateisemmaksi|hali ya hewa inakuwa ya mvua zaidi
+alue|eneo
+pohjanmaa:lle|kwa Ostrobothnia
+suomi:lle|kwa Finland
+aluksi|kwanza
+ahvenanmaa:lle|kwa Åland
+huomisesta alkaen|kuanzia kesho
+ja|na
+tiepiiri-hame:lle|kwa Tavastia road district
+tiepiiri-kaakkois-lappi:lle|kwa South Eastern Lapland
+tiepiiri-kaakkois-suomi:lle|kwa South Eastern Finlands road district
+tiepiiri-kasivarsi:lle|kwa North Western Lapland
+tiepiiri-keski-lappi:lle|kwa Central Lapland
+tiepiiri-keski-suomi:lle|kwa Central Finlands road district
+tiepiiri-lounais-lappi:lle|kwa South Western Lapland
+tiepiiri-oulu-ita:lle|kwa Oulu road districts eastern parts
+tiepiiri-oulu-lansi:lle|kwa Oulu road districts western parts
+tiepiiri-savo-karjala:lle|kwa Savonia-Karelia road district
+tiepiiri-turku:lle|kwa Turku road district
+tiepiiri-uusimaa:lle|kwa Uusimaa road district
+tiepiiri-vaasa:lle|kwa Vaasa road district
+tiepiiri-yla-lappi:lle|kwa Upper Lapland
+tienpintalampotila|joto la uso wa barabara
+ensimmaisen 12 tunnin sademaara|mvua jumla kwa masaa 12 ya kwanza
+ensimmaisen 12 tunnin sademaara|mvua jumla kwa masaa 12 ya kwanza
+seuraavan 12 tunnin|kwa masaa 12 yanayofuata
+seuraavan 24 tunnin sademaara|mvua jumla kwa masaa 24 yanayofuata
+tiet ovat|barabara ziko
+teilla on|barabara ziko
+jaisia|barafu
+osittain jaisia|barafu kidogo
+kuuraa|zimefunikwa na theluji ndogo
+sohjoa|zimefunikwa na theluji laini
+lunta|zimefunikwa na theluji
+markia|mvua
+kosteita|unyevu
+kuivia|kavu
+kuuraisia|zimefunikwa na theluji ndogo
+sohjoisia|zimefunikwa na theluji laini
+lumisia|zimefunikwa na theluji
+tiet ovat (sivulause)|
+yleisesti|kwa ujumla
+kanta-hame:lle|kwa Tavastia Proper
+ita-uusimaa:lle|kwa Eastern Uusimaa
+lappi:lle|kwa Lapland
+lapin-laani:lle|kwa jimbo la Lapland
+oulun-laani:lle|kwa jimbo la Oulu
+ita-suomen-laani:lle|kwa jimbo la Eastern Finland
+lansi-suomen-laani:lle|kwa jimbo la Western Finland
+etela-suomen-laani:lle|kwa jimbo la Southern Finland
+ahvenanmaan-laani:lle|kwa jimbo la Åland
+7-paivalla|Jumapili mchana
+2-aamuna|Jumanne asubuhi
+3-aamuna|Jumatano asubuhi
+4-aamuna|Alhamisi asubuhi
+5-aamuna|Ijumaa asubuhi
+6-aamuna|Jumamosi asubuhi
+7-aamuna|Jumapili asubuhi
+1-aamupaivasta alkaen|kuanzia Jumatatu kabla ya adhuhuri
+2-aamupaivasta alkaen|kuanzia Jumanne kabla ya adhuhuri
+3-aamupaivasta alkaen|kuanzia Jumatano kabla ya adhuhuri
+4-aamupaivasta alkaen|kuanzia Alhamisi kabla ya adhuhuri
+5-aamupaivasta alkaen|kuanzia Ijumaa kabla ya adhuhuri
+6-aamupaivasta alkaen|kuanzia Jumamosi kabla ya adhuhuri
+1-aamusta alkaen|kuanzia Jumatatu asubuhi
+2-aamusta alkaen|kuanzia Jumanne asubuhi
+3-aamusta alkaen|kuanzia Jumatano asubuhi
+4-aamusta alkaen|kuanzia Alhamisi asubuhi
+5-aamusta alkaen|kuanzia Ijumaa asubuhi
+6-aamusta alkaen|kuanzia Jumamosi asubuhi
+7-aamusta alkaen|kuanzia Jumapili asubuhi
+1-iltana|Jumatatu jioni
+2-iltana|Jumanne jioni
+3-iltana|Jumatano jioni
+4-iltana|Alhamisi jioni
+5-iltana|Ijumaa jioni
+6-iltana|Jumamosi jioni
+7-iltana|Jumapili jioni
+1-illasta alkaen|kuanzia Jumatatu jioni
+2-illasta alkaen|kuanzia Jumanne jioni
+3-illasta alkaen|kuanzia Jumatano jioni
+4-illasta alkaen|kuanzia Alhamisi jioni
+5-illasta alkaen|kuanzia Ijumaa jioni
+6-illasta alkaen|kuanzia Jumamosi jioni
+7-illasta alkaen|kuanzia Jumapili jioni
+1-paivalla|Jumatatu mchana
+2-paivalla|Jumanne mchana
+3-paivalla|Jumatano mchana
+4-paivalla|Alhamisi mchana
+5-paivalla|Ijumaa mchana
+6-paivalla|Jumamosi mchana
+1-vastaisesta yosta alkaen|kuanzia usiku wa Jumatatu
+2-vastaisesta yosta alkaen|kuanzia usiku wa Jumanne
+3-vastaisesta yosta alkaen|kuanzia usiku wa Jumatano
+4-vastaisesta yosta alkaen|kuanzia usiku wa Alhamisi
+5-vastaisesta yosta alkaen|kuanzia usiku wa Ijumaa
+6-vastaisesta yosta alkaen|kuanzia usiku wa Jumamosi
+7-vastaisesta yosta alkaen|kuanzia usiku wa Jumapili
+huomisaamusta alkaen|kuanzia kesho asubuhi
+huomisaamupaivasta alkaen|kuanzia kesho kabla ya adhuhuri
+huomisillasta alkaen|kuanzia kesho jioni
+huomenna paivalla|kesho mchana
+huomisiltana|kesho jioni
+1-aamuna|Jumatatu asubuhi
+7-aamupaivasta alkaen|kuanzia Jumapili kabla ya adhuhuri
+B1:lle|kwa Ghuba ya Bothnia
+B2:lle|kwa the Quark
+B3:lle|kwa Sea of Bothnia
+B4:lle|kwa Sea of Archipelago na Sea of Åland
+B5:lle|kwa Ghuba ya Finland
+B6:lle|kwa Ghuba ya Riga
+B7:lle|kwa Bahari ya Baltic Kaskazini
+B8:lle|kwa Middle Baltic Proper
+B9:lle|kwa Southeastern Baltic Proper
+B10:lle|kwa Southern Baltic Proper
+B11:lle|kwa Arkona Sea
+B12:lle|kwa Öresund na the Belts
+B13:lle|kwa Kattegat
+B1N:lle|kwa Northern Bay of Bothnia
+B1S:lle|kwa Southern Bay of Bothnia
+B4E:lle|kwa Sea of Archipelago
+B4W:lle|kwa Sea of Åland
+B5E:lle|kwa Eastern Gulf of Finland
+B5W:lle|kwa Western Gulf of Finland
+B8E:lle|kwa Middle Baltic Proper
+B8W:lle|kwa Gotland Sea
+B10N:lle|kwa Öland Sea
+B10S:lle|kwa Bornholm Sea
+osittain jaisiksi|barafu kidogo
+kuuraisiksi|zimefunikwa na theluji ndogo
+keli on|hali ya barabara ni
+tienpinnat muuttuvat|uso wa barabara utakuwa
+jaisiksi|barafu
+pakkasliukkautta|itelezi kutokana na baridi kali
+rannasta ja liukkaista|imezorotiwa na uso wa barabara wenye itelezi na mvua na theluji
+tieto puuttuu|data hazipatikani
+liukkaiksi jaatavasta sateesta|itelezi kutokana na mvua ya barafu
+rannasta ja osittain liukkaista|imezorotiwa na uso wa barabara wenye itelezi kidogo na mvua na theluji
+sateesta ja osittain liukkaista|imezorotiwa na uso wa barabara wenye itelezi kidogo na mvua
+sateesta ja liukkaista|imezorotiwa na uso wa barabara wenye itelezi na mvua
+normaali|kawaida
+aanekoski:lle|kwa Äänekoski
+aetsa:lle|kwa Äetsä
+ahtari:lle|kwa Ähtäri
+alaharma:lle|kwa Alahärmä
+alajarvi:lle|kwa Alajärvi
+alastaro:lle|kwa Alastaro
+alavieska:lle|kwa Alavieska
+alavus:lle|kwa Alavus
+anjalankoski:lle|kwa Anjalankoski
+artjarvi:lle|kwa Artjärvi
+asikkala:lle|kwa Asikkala
+askainen:lle|kwa Askainen
+askola:lle|kwa Askola
+aura:lle|kwa Aura
+brando:lle|kwa Brändö
+dragsfjard:lle|kwa Dragsfjärd
+eckero:lle|kwa Eckerö
+elimaki:lle|kwa Elimäki
+enonkoski:lle|kwa Enonkoski
+enontekio:lle|kwa Enontekiö
+eno:lle|kwa Eno
+espoo:lle|kwa Espoo
+eurajoki:lle|kwa Eurajoki
+eura:lle|kwa Eura
+evijarvi:lle|kwa Evijärvi
+finstrom:lle|kwa Finström
+foglo:lle|kwa Föglö
+forssa:lle|kwa Forssa
+geta:lle|kwa Geta
+haapajarvi:lle|kwa Haapajärvi
+haapavesi:lle|kwa Haapavesi
+hailuoto:lle|kwa Hailuoto
+halikko:lle|kwa Halikko
+halsua:lle|kwa Halsua
+hameenkoski:lle|kwa Hämeenkoski
+hameenkyro:lle|kwa Hämeenkyrö
+hameenlinna:lle|kwa Hämeenlinna
+hamina:lle|kwa Hamina
+hammarland:lle|kwa Hammarland
+hankasalmi:lle|kwa Hankasalmi
+hanko:lle|kwa Hanko
+harjavalta:lle|kwa Harjavalta
+B3S:lle|kwa Southern Sea of Bothnia
+B7E:lle|kwa Eastern part of Northern Baltic Proper
+B7W:lle|kwa Western part of Northern Baltic Proper
+hartola:lle|kwa Hartola
+hattula:lle|kwa Hattula
+hauho:lle|kwa Hauho
+haukipudas:lle|kwa Haukipudas
+haukivuori:lle|kwa Haukivuori
+hausjarvi:lle|kwa Hausjärvi
+heinavesi:lle|kwa Heinävesi
+heinola:lle|kwa Heinola
+helsinki:lle|kwa Helsinki
+himanka:lle|kwa Himanka
+hirvensalmi:lle|kwa Hirvensalmi
+hollola:lle|kwa Hollola
+honkajoki:lle|kwa Honkajoki
+houtskari:lle|kwa Houtskari
+huittinen:lle|kwa Huittinen
+humppila:lle|kwa Humppila
+hyrynsalmi:lle|kwa Hyrynsalmi
+hyvinkaa:lle|kwa Hyvinkää
+iisalmi:lle|kwa Iisalmi
+ii:lle|kwa Ii
+iitti:lle|kwa Iitti
+ikaalinen:lle|kwa Ikaalinen
+ilmajoki:lle|kwa Ilmajoki
+ilomantsi:lle|kwa Ilomantsi
+imatra:lle|kwa Imatra
+inari:lle|kwa Inari
+inio:lle|kwa Iniö
+inkoo:lle|kwa Inkoo
+isojoki:lle|kwa Isojoki
+isokyro:lle|kwa Isokyrö
+jaala:lle|kwa Jaala
+jalasjarvi:lle|kwa Jalasjärvi
+jamijarvi:lle|kwa Jämijärvi
+jamsankoski:lle|kwa Jämsänkoski
+jamsa:lle|kwa Jämsä
+janakkala:lle|kwa Janakkala
+jarvenpaa:lle|kwa Järvenpää
+joensuu:lle|kwa Joensuu
+jokioinen:lle|kwa Jokioinen
+jomala:lle|kwa Jomala
+joroinen:lle|kwa Joroinen
+joutsa:lle|kwa Joutsa
+joutseno:lle|kwa Joutseno
+juankoski:lle|kwa Juankoski
+jurva:lle|kwa Jurva
+juuka:lle|kwa Juuka
+juupajoki:lle|kwa Juupajoki
+juva:lle|kwa Juva
+jyvaskylan_mlk:lle|kwa Jyväskylän_mlk
+jyvaskyla:lle|kwa Jyväskylä
+kaarina:lle|kwa Kaarina
+kaavi:lle|kwa Kaavi
+kajaani:lle|kwa Kajaani
+kalajoki:lle|kwa Kalajoki
+kalvia:lle|kwa Kälviä
+kalvola:lle|kwa Kalvola
+kangasala:lle|kwa Kangasala
+kangasniemi:lle|kwa Kangasniemi
+kankaanpaa:lle|kwa Kankaanpää
+kannonkoski:lle|kwa Kannonkoski
+kannus:lle|kwa Kannus
+karijoki:lle|kwa Karijoki
+karjaa:lle|kwa Karjaa
+karjalohja:lle|kwa Karjalohja
+karkkila:lle|kwa Karkkila
+karkola:lle|kwa Kärkölä
+karsamaki:lle|kwa Kärsämäki
+karstula:lle|kwa Karstula
+karttula:lle|kwa Karttula
+karvia:lle|kwa Karvia
+kaskinen:lle|kwa Kaskinen
+kauhajoki:lle|kwa Kauhajoki
+kauhava:lle|kwa Kauhava
+kauniainen:lle|kwa Kauniainen
+kaustinen:lle|kwa Kaustinen
+keitele:lle|kwa Keitele
+kemijarvi:lle|kwa Kemijärvi
+keminmaa:lle|kwa Keminmaa
+kemio:lle|kwa Kemiö
+kemi:lle|kwa Kemi
+kempele:lle|kwa Kempele
+kerava:lle|kwa Kerava
+kerimaki:lle|kwa Kerimäki
+kesalahti:lle|kwa Kesälahti
+kestila:lle|kwa Kestilä
+keuruu:lle|kwa Keuruu
+kihnio:lle|kwa Kihniö
+kiikala:lle|kwa Kiikala
+kiikoinen:lle|kwa Kiikoinen
+kiiminki:lle|kwa Kiiminki
+kinnula:lle|kwa Kinnula
+kirkkonummi:lle|kwa Kirkkonummi
+kisko:lle|kwa Kisko
+kitee:lle|kwa Kitee
+kittila:lle|kwa Kittilä
+kiukainen:lle|kwa Kiukainen
+kiuruvesi:lle|kwa Kiuruvesi
+kivijarvi:lle|kwa Kivijärvi
+kodisjoki:lle|kwa Kodisjoki
+kokar:lle|kwa Kökar
+kokemaki:lle|kwa Kokemäki
+kokkola:lle|kwa Kokkola
+kolari:lle|kwa Kolari
+konnevesi:lle|kwa Konnevesi
+kontiolahti:lle|kwa Kontiolahti
+korpilahti:lle|kwa Korpilahti
+korppoo:lle|kwa Korppoo
+korsnas:lle|kwa Korsnäs
+kortesjarvi:lle|kwa Kortesjärvi
+koski_tl:lle|kwa Koski
+kotka:lle|kwa Kotka
+kouvola:lle|kwa Kouvola
+koylio:lle|kwa Köyliö
+kristiinankaupunki:lle|kwa Kristiinankaupunki
+kronoby:lle|kwa Kronoby
+kuhmalahti:lle|kwa Kuhmalahti
+kuhmoinen:lle|kwa Kuhmoinen
+kuhmo:lle|kwa Kuhmo
+kuivaniemi:lle|kwa Kuivaniemi
+kumlinge:lle|kwa Kumlinge
+kuopio:lle|kwa Kuopio
+kuortane:lle|kwa Kuortane
+kurikka:lle|kwa Kurikka
+kuru:lle|kwa Kuru
+kustavi:lle|kwa Kustavi
+kuusamo:lle|kwa Kuusamo
+kuusankoski:lle|kwa Kuusankoski
+kuusjoki:lle|kwa Kuusjoki
+kylmakoski:lle|kwa Kylmäkoski
+kyyjarvi:lle|kwa Kyyjärvi
+lahti:lle|kwa Lahti
+laihia:lle|kwa Laihia
+laitila:lle|kwa Laitila
+lammi:lle|kwa Lammi
+langelmaki:lle|kwa Längelmäki
+lapinjarvi:lle|kwa Lapinjärvi
+lapinlahti:lle|kwa Lapinlahti
+lappajarvi:lle|kwa Lappajärvi
+lappeenranta:lle|kwa Lappeenranta
+lapin kuntaan:lle|kwa Lappi
+lapua:lle|kwa Lapua
+larsmo:lle|kwa Larsmo
+laukaa:lle|kwa Laukaa
+lavia:lle|kwa Lavia
+lehtimaki:lle|kwa Lehtimäki
+leivonmaki:lle|kwa Leivonmäki
+lemi:lle|kwa Lemi
+lemland:lle|kwa Lemland
+lempaala:lle|kwa Lempäälä
+lemu:lle|kwa Lemu
+leppavirta:lle|kwa Leppävirta
+lestijarvi:lle|kwa Lestijärvi
+lieksa:lle|kwa Lieksa
+lieto:lle|kwa Lieto
+liljendal:lle|kwa Liljendal
+liminka:lle|kwa Liminka
+liperi:lle|kwa Liperi
+lohja:lle|kwa Lohja
+lohtaja:lle|kwa Lohtaja
+loimaa:lle|kwa Loimaa
+loppi:lle|kwa Loppi
+loviisa:lle|kwa Loviisa
+luhanka:lle|kwa Luhanka
+lumijoki:lle|kwa Lumijoki
+lumparland:lle|kwa Lumparland
+luopioinen:lle|kwa Luopioinen
+luumaki:lle|kwa Luumäki
+luvia:lle|kwa Luvia
+maalahti:lle|kwa Maalahti
+maaninka:lle|kwa Maaninka
+maarianhamina:lle|kwa Maarianhamina
+maksamaa:lle|kwa Maksamaa
+mantsala:lle|kwa Mäntsälä
+mantta:lle|kwa Mänttä
+mantyharju:lle|kwa Mäntyharju
+marttila:lle|kwa Marttila
+masku:lle|kwa Masku
+mellila:lle|kwa Mellilä
+merijarvi:lle|kwa Merijärvi
+merikarvia:lle|kwa Merikarvia
+merimasku:lle|kwa Merimasku
+miehikkala:lle|kwa Miehikkälä
+mietoinen:lle|kwa Mietoinen
+mikkeli:lle|kwa Mikkeli
+mouhijarvi:lle|kwa Mouhijärvi
+muhos:lle|kwa Muhos
+multia:lle|kwa Multia
+muonio:lle|kwa Muonio
+mustasaari:lle|kwa Mustasaari
+muurame:lle|kwa Muurame
+muurla:lle|kwa Muurla
+mynamaki:lle|kwa Mynämäki
+myrskyla:lle|kwa Myrskylä
+naantali:lle|kwa Naantali
+nakkila:lle|kwa Nakkila
+narpio:lle|kwa Närpiö
+nastola:lle|kwa Nastola
+nauvo:lle|kwa Nauvo
+nilsia:lle|kwa Nilsiä
+nivala:lle|kwa Nivala
+nokia:lle|kwa Nokia
+noormarkku:lle|kwa Noormarkku
+nousiainen:lle|kwa Nousiainen
+nummipusula:lle|kwa Nummi-Pusula
+nurmes:lle|kwa Nurmes
+nurmijarvi:lle|kwa Nurmijärvi
+nurmo:lle|kwa Nurmo
+oravainen:lle|kwa Oravainen
+orimattila:lle|kwa Orimattila
+oripaa:lle|kwa Oripää
+orivesi:lle|kwa Orivesi
+oulainen:lle|kwa Oulainen
+oulunsalo:lle|kwa Oulunsalo
+oulu:lle|kwa Oulu
+outokumpu:lle|kwa Outokumpu
+padasjoki:lle|kwa Padasjoki
+paimio:lle|kwa Paimio
+palkane:lle|kwa Pälkäne
+paltamo:lle|kwa Paltamo
+parainen:lle|kwa Parainen
+parikkala:lle|kwa Parikkala
+parkano:lle|kwa Parkano
+pedersoren_kunta:lle|kwa Pedersöre
+pelkosenniemi:lle|kwa Pelkosenniemi
+pello:lle|kwa Pello
+perho:lle|kwa Perho
+pernaja:lle|kwa Pernaja
+pernio:lle|kwa Perniö
+pertteli:lle|kwa Pertteli
+pertunmaa:lle|kwa Pertunmaa
+petajavesi:lle|kwa Petäjävesi
+pieksanmaa:lle|kwa Pieksänmaa
+pielavesi:lle|kwa Pielavesi
+pietarsaari:lle|kwa Pietarsaari
+pihtipudas:lle|kwa Pihtipudas
+piikkio:lle|kwa Piikkiö
+piippola:lle|kwa Piippola
+pirkkala:lle|kwa Pirkkala
+pohja:lle|kwa Pohja
+polvijarvi:lle|kwa Polvijärvi
+pomarkku:lle|kwa Pomarkku
+pori:lle|kwa Pori
+pornainen:lle|kwa Pornainen
+porvoo:lle|kwa Porvoo
+posio:lle|kwa Posio
+poytya:lle|kwa Pöytyä
+pudasjarvi:lle|kwa Pudasjärvi
+pukkila:lle|kwa Pukkila
+pulkkila:lle|kwa Pulkkila
+punkaharju:lle|kwa Punkaharju
+punkalaidun:lle|kwa Punkalaidun
+puolanka:lle|kwa Puolanka
+puumala:lle|kwa Puumala
+pyhajarvi:lle|kwa Pyhäjärvi
+pyhajoki:lle|kwa Pyhäjoki
+pyhanta:lle|kwa Pyhäntä
+pyharanta:lle|kwa Pyhäranta
+pyhaselka:lle|kwa Pyhäselkä
+pyhtaa:lle|kwa Pyhtää
+pylkonmaki:lle|kwa Pylkönmäki
+raahe:lle|kwa Raahe
+raakkyla:lle|kwa Rääkkylä
+raisio:lle|kwa Raisio
+rantasalmi:lle|kwa Rantasalmi
+rantsila:lle|kwa Rantsila
+ranua:lle|kwa Ranua
+rauma:lle|kwa Rauma
+rautalampi:lle|kwa Rautalampi
+rautavaara:lle|kwa Rautavaara
+rautjarvi:lle|kwa Rautjärvi
+reisjarvi:lle|kwa Reisjärvi
+renko:lle|kwa Renko
+riihimaki:lle|kwa Riihimäki
+ristiina:lle|kwa Ristiina
+ristijarvi:lle|kwa Ristijärvi
+rovaniemen_mlk:lle|kwa Rovaniemen_mlk
+rovaniemi:lle|kwa Rovaniemi
+ruokolahti:lle|kwa Ruokolahti
+ruotsinpyhtaa:lle|kwa Ruotsinpyhtää
+ruovesi:lle|kwa Ruovesi
+rusko:lle|kwa Rusko
+ruukki:lle|kwa Ruukki
+rymattyla:lle|kwa Rymättylä
+saarijarvi:lle|kwa Saarijärvi
+sakyla:lle|kwa Säkylä
+salla:lle|kwa Salla
+salo:lle|kwa Salo
+saltvik:lle|kwa Saltvik
+sammatti:lle|kwa Sammatti
+sarkisalo:lle|kwa Särkisalo
+sauvo:lle|kwa Sauvo
+savitaipale:lle|kwa Savitaipale
+savonlinna:lle|kwa Savonlinna
+savonranta:lle|kwa Savonranta
+savukoski:lle|kwa Savukoski
+seinajoki:lle|kwa Seinäjoki
+sievi:lle|kwa Sievi
+siikainen:lle|kwa Siikainen
+siikajoki:lle|kwa Siikajoki
+siilinjarvi:lle|kwa Siilinjärvi
+simo:lle|kwa Simo
+sipoo:lle|kwa Sipoo
+siuntio:lle|kwa Siuntio
+sodankyla:lle|kwa Sodankylä
+soini:lle|kwa Soini
+somero:lle|kwa Somero
+sonkajarvi:lle|kwa Sonkajärvi
+sotkamo:lle|kwa Sotkamo
+sottunga:lle|kwa Sottunga
+sulkava:lle|kwa Sulkava
+sumiainen:lle|kwa Sumiainen
+sund:lle|kwa Sund
+suodenniemi:lle|kwa Suodenniemi
+suolahti:lle|kwa Suolahti
+suomenniemi:lle|kwa Suomenniemi
+suomusjarvi:lle|kwa Suomusjärvi
+suomussalmi:lle|kwa Suomussalmi
+suonenjoki:lle|kwa Suonenjoki
+sysma:lle|kwa Sysmä
+taipalsaari:lle|kwa Taipalsaari
+taivalkoski:lle|kwa Taivalkoski
+taivassalo:lle|kwa Taivassalo
+tammela:lle|kwa Tammela
+tammisaari:lle|kwa Tammisaari
+tampere:lle|kwa Tampere
+tarvasjoki:lle|kwa Tarvasjoki
+tervola:lle|kwa Tervola
+tervo:lle|kwa Tervo
+teuva:lle|kwa Teuva
+tohmajarvi:lle|kwa Tohmajärvi
+toholampi:lle|kwa Toholampi
+toijala:lle|kwa Toijala
+toivakka:lle|kwa Toivakka
+tornio:lle|kwa Tornio
+toysa:lle|kwa Töysä
+turku:lle|kwa Turku
+tuulos:lle|kwa Tuulos
+tuusniemi:lle|kwa Tuusniemi
+tuusula:lle|kwa Tuusula
+tyrnava:lle|kwa Tyrnävä
+ullava:lle|kwa Ullava
+ulvila:lle|kwa Ulvila
+urjala:lle|kwa Urjala
+utajarvi:lle|kwa Utajärvi
+utsjoki:lle|kwa Utsjoki
+uurainen:lle|kwa Uurainen
+uusikaarlepyy:lle|kwa Uusikaarlepyy
+uusikaupunki:lle|kwa Uusikaupunki
+vaala:lle|kwa Vaala
+vaasa:lle|kwa Vaasa
+vahakyro:lle|kwa Vähäkyrö
+vahto:lle|kwa Vahto
+valkeakoski:lle|kwa Valkeakoski
+valkeala:lle|kwa Valkeala
+valtimo:lle|kwa Valtimo
+vammala:lle|kwa Vammala
+vampula:lle|kwa Vampula
+vantaa:lle|kwa Vantaa
+vardo:lle|kwa Vårdö
+varkaus:lle|kwa Varkaus
+varpaisjarvi:lle|kwa Varpaisjärvi
+vastanfjard:lle|kwa Västanfjärd
+vehmaa:lle|kwa Vehmaa
+velkua:lle|kwa Velkua
+vesanto:lle|kwa Vesanto
+vesilahti:lle|kwa Vesilahti
+veteli:lle|kwa Veteli
+vierema:lle|kwa Vieremä
+vihanti:lle|kwa Vihanti
+vihti:lle|kwa Vihti
+viiala:lle|kwa Viiala
+viitasaari:lle|kwa Viitasaari
+viljakkala:lle|kwa Viljakkala
+vilppula:lle|kwa Vilppula
+vimpeli:lle|kwa Vimpeli
+virolahti:lle|kwa Virolahti
+virrat:lle|kwa Virrat
+voyri:lle|kwa Vöyri
+vuolijoki:lle|kwa Vuolijoki
+ylamaa:lle|kwa Ylämaa
+ylane:lle|kwa Yläne
+yliharma:lle|kwa Ylihärmä
+yliii:lle|kwa Yli-Ii
+ylikiiminki:lle|kwa Ylikiiminki
+ylistaro:lle|kwa Ylistaro
+ylitornio:lle|kwa Ylitornio
+ylivieska:lle|kwa Ylivieska
+ylojarvi:lle|kwa Ylöjärvi
+ypaja:lle|kwa Ypäjä
+poudan todennakoisyys|uwezekano wa kutokuwa na mvua
+metsapaloindeksi|kiwango cha hatari ya moto wa msitu
+haihdunta on erittain huono|uvukizi ni dhaifu sana
+haihdunta on huono|uvukizi ni dhaifu
+haihdunta on tyydyttava|uvukizi ni wa wastani
+haihdunta on hyva|uvukizi ni mzuri
+haihdunta on erinomainen|uvukizi ni mzuri sana
+metsapalovaroitus on voimassa|onyo la moto wa msitu lipo
+metsapalovaroitus ei ole voimassa|onyo la moto wa msitu halipo
+luoto:lle|kwa Luoto
+kruunupyy:lle|kwa Kruunupyy
+1-aamulla|Jumatatu asubuhi
+2-aamulla|Jumanne asubuhi
+3-aamulla|Jumatano asubuhi
+4-aamulla|Alhamisi asubuhi
+5-aamulla|Ijumaa asubuhi
+6-aamulla|Jumamosi asubuhi
+7-aamulla|Jumapili asubuhi
+1-aamupaivalla|Jumatatu kabla ya adhuhuri
+2-aamupaivalla|Jumanne kabla ya adhuhuri
+3-aamupaivalla|Jumatano kabla ya adhuhuri
+4-aamupaivalla|Alhamisi kabla ya adhuhuri
+5-aamupaivalla|Ijumaa kabla ya adhuhuri
+6-aamupaivalla|Jumamosi kabla ya adhuhuri
+7-aamupaivalla|Jumapili kabla ya adhuhuri
+1-iltapaivalla|Jumatatu mchana
+2-iltapaivalla|Jumanne mchana
+3-iltapaivalla|Jumatano mchana
+4-iltapaivalla|Alhamisi mchana
+5-iltapaivalla|Ijumaa mchana
+6-iltapaivalla|Jumamosi mchana
+7-iltapaivalla|Jumapili mchana
+1-illalla|Jumatatu jioni
+2-illalla|Jumanne jioni
+3-illalla|Jumatano jioni
+4-illalla|Alhamisi jioni
+5-illalla|Ijumaa jioni
+6-illalla|Jumamosi jioni
+7-illalla|Jumapili jioni
+kastepiste|kiwango cha umande
+suhteellinen kosteus|unyevu wa hewa
+hehtopascalia|hektopascali
+paine|shinikizo
+keli muuttuu|hali ya barabara inabadilika
+lumisateen takia|kwa sababu ya theluji
+haukivesi:lle|kwa Haukivesi
+kallavesi:lle|kwa Kallavesi
+malaren:lle|kwa Mälaren
+pihlajavesi:lle|kwa Pihlajavesi
+suur-saimaa:lle|kwa Saimaa
+vanern:lle|kwa Vänern
+tie on muuttumassa|uso wa barabara unabadilika
+keli huononee|hali ya barabara inazorota
+vaikeuttaa liikennetta|inazuia usafiri
+kuuraiseksi|zimefunikwa na theluji ndogo
+marka|mvua
+lumisateen takia|kwa sababu ya theluji
+pakkasliukkaus|itelezi kutokana na baridi kali
+voimakas puuskainen tuuli|upepo mkali wa vipande vipande
+lumipyry|dhoruba ya theluji
+kelin nopea huononeminen|kuzorota haraka kwa hali ya barabara
+rantasade jaiselle|mvua na theluji kwenye uso wa barafu
+jaiseksi vesisateesta johtuen|barafu kwa sababu ya mvua
+alijaahtynyt sade|mvua ya barafu
+jaiseksi tai osittain jaiseksi|barafu au kidogo barafu
+runsas lumisade|theluji kali
+tienpinta muuttuu|uso wa barabara unabadilika
+ukkoskuurot todennakoisia|mvua ya radi inatarajiwa
+ukkoskuurot paikoin mahdollisia|mvua ya radi inawezekana sehemu fulani
+pohjoispohjanmeri:lle|kwa Northern North Sea
+etelapohjanmeri:lle|kwa Southern North Sea
+biskaja:lle|kwa Biscay
+uusimaa_ita-uusim:lle|kwa Uusimaa
+paakaupunkiseutu:lle|kwa Helsinki Metropolitan Area
+kaakkois-suomi:lle|kwa Southeast Finland
+ita-lappi:lle|kwa Eastern Lapland
+pohjois-pohjanmaa-itaosa:lle|kwa Eastern part of Northern Ostrobothnia
+pohjois-pohjanmaa-lansiosa:lle|kwa Western part of Northern Ostrobothia
+merilappi:lle|kwa Merilappi
+pohjanmaa-etela-pohjanmaa:lle|kwa Ostrobothnia na Southern Ostrobothnia
+marka tienpinta muuttuu|uso wa barabara mvua unabadilika
+alle|chini ya
+yksi millimetri|milimita moja
+lahella [1] astetta|karibu na [1] nyuzi
+[1] asteen tienoilla|takriban [1] nyuzi
+kello [1]|saa [1]
+1-na kello [1]|Jumatatu saa [1]
+2-na kello [1]|Jumanne saa [1]
+3-na kello [1]|Jumatano saa [1]
+4-na kello [1]|Alhamisi saa [1]
+5-na kello [1]|Ijumaa saa [1]
+6-na kello [1]|Jumamosi saa [1]
+7-na kello [1]|Jumapili saa [1]
+[1] asteen tuntumassa|karibu na [1] nyuzi
+ita-suomi:lle|kwa Eastern Finland
+itainen-uusimaa:lle|kwa Eastern Uusimaa
+koleaa|baridi
+lantinen-uusimaa:lle|kwa Western Uusimaa
+lounais-suomi:lle|kwa Southwestern Finland
+pohjois-suomi:lle|kwa Northern Finland
+pikkupakkasta|joto kidogo chini ya sifuri
+yksittaiset vesikuurot mahdollisia|labda mvua za haraka mara kwa mara
+yksittaiset vesi- tai rantakuurot mahdollisia|labda mvua za haraka au mvua na theluji mara kwa mara
+yksittaiset vesi- tai lumikuurot mahdollisia|labda mvua za haraka au theluji mara kwa mara
+yksittaiset sadekuurot mahdollisia|labda mvua za haraka mara kwa mara
+yksittaiset rantakuurot mahdollisia|labda mvua na theluji za haraka mara kwa mara
+yksittaiset ranta- tai vesikuurot mahdollisia|labda mvua na theluji au mvua za haraka mara kwa mara
+yksittaiset lumikuurot mahdollisia|labda mvua ya theluji za haraka mara kwa mara
+yksittaiset lumi- tai rantakuurot mahdollisia|labda theluji au mvua na theluji za haraka mara kwa mara
+vahan plussan puolella|kidogo juu ya sifuri
+voimakkaita vesikuuroja|mvua kali za haraka
+voimakkaita sadekuuroja|mvua kali za haraka
+vesikuuroja|mvua za haraka
+vajaat|karibu
+verrattain pilvinen|mawingu ya wastani
+vaihtelee puolipilvisesta pilviseen|inabadilika kati ya mawingu kidogo na mawingu
+tuulinen|yenye upepo
+tuulista|yenye upepo
+tuuli saa saan tuntumaan viileammalta|upepo unafanya hali ya hewa ihisi baridi kidogo zaidi
+tuuli saa saan tuntumaan kylmemmalta|upepo unafanya hali ya hewa ihisi baridi zaidi
+tuntumassa|karibu na
+tihkusadetta|mvua nyepesi
+tienoilla|takriban
+saa on helteista|hali ya hewa ni ya joto kali sana
+saa on edelleen lauhaa|hali ya hewa bado ni laini
+sumua|ukungu
+sisamaassa|bara
+selkea|wazi
+sakeita|mnene
+sakeaa|mnene
+sadekuuroja|mvua za haraka
+sade alkaa|mvua inaanza
+saadaan|inapatikana
+rantakuuroja|mvua na theluji za haraka
+runsasta vesisadetta|mvua kali
+runsaita|kali
+puolipilvinen|mawingu kidogo
+poutainen|nzuri
+poikkeuksellisen|kwa njia ya kipekee
+pohjoisesta|kutoka kaskazini
+pohjoisesta alkaen|kuanzia kaskazini
+pilvinen|mawingu
+pieni ukkosen todennakoisyys|uwezekano mdogo wa radi
+pakkasta|baridi kali
+pakkanen|baridi kali
+pakkanen on purevaa|baridi kali inaumiza
+pakkanen on erittain purevaa|baridi kali inaumiza sana
+pakkanen hellittaa|baridi kali inaanza kupungua
+paikkeilla|karibu na
+nollan tienoilla|karibu na sifuri
+melko selkea|wazi kidogo
+mahdollisesti|labda
+lannesta|kutoka magharibi
+lannesta alkaen|kuanzia magharibi
+lampotila nousee|joto linaongezeka
+lahella|karibu na
+luoteesta|kutoka kaskazini magharibi
+luoteesta alkaen|kuanzia kaskazini magharibi
+lounaasta|kutoka kusini magharibi
+lounaasta alkaen|kuanzia kusini magharibi
+leutoa|hewa ya wastani
+koillisesta|kutoka kaskazini mashariki
+koillisesta alkaen|kuanzia kaskazini mashariki
+kirea|kali
+kirea pakkanen jatkuu|baridi kali inaendelea
+kaakosta|kutoka kusini mashariki
+kaakosta alkaen|kuanzia kusini mashariki
+jaatavaa vesisadetta|mvua ya barafu
+jotka voivat olla jaatavia|ambazo zinaweza kuwa za barafu
+joka voi olla sakeaa|ambayo inaweza kuwa mnene
+joka voi olla jaatavaa|ambayo inaweza kuwa ya barafu
+joka voi olla ankaraa|ambayo inaweza kuwa kali
+joka muuttuu vesisateeksi|ambayo inabadilika kuwa mvua
+joka muuttuu tihkusateeksi|ambayo inabadilika kuwa mvua nyepesi
+joka muuttuu rantasateeksi|ambayo inabadilika kuwa mvua na theluji
+joka muuttuu lumisateeksi|ambayo inabadilika kuwa theluji
+idasta|kutoka mashariki
+idasta alkaen|kuanzia mashariki
+huomattavasti|sana
+hieman lauhempaa|laini kidogo zaidi
+hieman kylmempaa|baridi kidogo zaidi
+hieman kireampaa|kali kidogo zaidi
+hieman heikompaa|dhaifu kidogo zaidi
+heikkoja|dhaifu
+heikkoja vesikuuroja|mvua dhaifu za haraka
+heikkoja sadekuuroja|mvua dhaifu za haraka
+heikkoa vesisadetta|mvua dhaifu
+harvinaisen|kwa njia nadra
+hallan vaara|hatari ya baridi kali
+hallaa|baridi kali
+etelasta|kutoka kusini
+etelasta alkaen|kuanzia kusini
+asteen|nyuzi
+alueen pohjoisosassa|kaskazini mwa eneo
+alueen lansiosassa|magharibi mwa eneo
+alueen luoteisosassa|kaskazini magharibi mwa eneo
+alueen lounaisosassa|kusini magharibi mwa eneo
+alueen koillisosassa|kaskazini mashariki mwa eneo
+alueen kaakkoisosassa|kusini mashariki mwa eneo
+alueen itaosassa|mashariki mwa eneo
+alueen etelaosassa|kusini mwa eneo
+alavilla mailla|maeneo ya chini
+myohemmin|baadaye
+[1-na] saa on [poikkeuksellisen] [kylmaa]|hali ya hewa ni [2] [3] [1]
+[1-na] [saa lampenee]|[2] [1]
+kirea pakkanen heikkenee|baridi kali inapungua nguvu
+saa lampenee huomattavasti|hali ya hewa inakuwa joto zaidi sana
+saa lampenee vahan|hali ya hewa inakuwa joto zaidi kidogo
+saa viilenee huomattavasti|hali ya hewa inakuwa baridi zaidi sana
+saa viilenee vahan|hali ya hewa inakuwa baridi zaidi kidogo
+[iltapaivalla] saa poutaantuu ja vaihtelee puolipilvisesta pilviseen|hali ya hewa inakuwa nzuri na inabadilika kati ya mawingu kidogo na mawingu [1]
+empty_string|
+[rannikolla] [paikoin] hallaa, joka voi olla ankaraa|labda baridi kali [2] [1]
+[rannikolla] mahdollisesti hallaa|labda baridi kali [1]
+[sisamaassa] hallan vaara|hatari ya baridi kali [1]
+[rannikolla] [paikoin] hallaa|baridi kali [2] [1]
+aamusta|kuanzia asubuhi
+[huomenna] [sisamaassa] [paikoin] sumua, joka voi olla sakeaa|[1] labda ukungu mnene [3] [2]
+[huomenna] [sisamaassa] [paikoin] sumua|[1] ukungu [3] [2]
+keskiyolla ja aamuyolla|usiku wa manane na baada ya usiku wa manane
+iltayolla ja keskiyolla|kabla ya usiku wa manane na usiku wa manane
+aamuyolla ja aamulla|baada ya usiku wa manane na asubuhi
+illalla ja iltayolla|jioni na kabla ya usiku wa manane
+iltapaivalla ja illalla|mchana na jioni
+aamulla ja aamupaivalla|asubuhi na kabla ya adhuhuri
+7-iltapaivalla ja illalla|Jumapili mchana na jioni
+6-iltapaivalla ja illalla|Jumamosi mchana na jioni
+5-iltapaivalla ja illalla|Ijumaa mchana na jioni
+4-iltapaivalla ja illalla|Alhamisi mchana na jioni
+3-iltapaivalla ja illalla|Jumatano mchana na jioni
+2-iltapaivalla ja illalla|Jumanne mchana na jioni
+1-iltapaivalla ja illalla|Jumatatu mchana na jioni
+7-aamulla ja aamupaivalla|Jumapili asubuhi na kabla ya adhuhuri
+6-aamulla ja aamupaivalla|Jumamosi asubuhi na kabla ya adhuhuri
+5-aamulla ja aamupaivalla|Ijumaa asubuhi na kabla ya adhuhuri
+4-aamulla ja aamupaivalla|Alhamisi asubuhi na kabla ya adhuhuri
+3-aamulla ja aamupaivalla|Jumatano asubuhi na kabla ya adhuhuri
+2-aamulla ja aamupaivalla|Jumanne asubuhi na kabla ya adhuhuri
+1-aamulla ja aamupaivalla|Jumatatu asubuhi na kabla ya adhuhuri
+7-illalla ja iltayolla|Jumapili jioni na kabla ya usiku wa manane
+6-illalla ja iltayolla|Jumamosi jioni na kabla ya usiku wa manane
+5-illalla ja iltayolla|Ijumaa jioni na kabla ya usiku wa manane
+4-illalla ja iltayolla|Alhamisi jioni na kabla ya usiku wa manane
+3-illalla ja iltayolla|Jumatano jioni na kabla ya usiku wa manane
+2-illalla ja iltayolla|Jumanne jioni na kabla ya usiku wa manane
+1-illalla ja iltayolla|Jumatatu jioni na kabla ya usiku wa manane
+aamupaivasta|kuanzia kabla ya adhuhuri
+7-iltayolla|Jumapili kabla ya usiku wa manane
+6-iltayolla|Jumamosi kabla ya usiku wa manane
+5-iltayolla|Ijumaa kabla ya usiku wa manane
+4-iltayolla|Alhamisi kabla ya usiku wa manane
+3-iltayolla|Jumatano kabla ya usiku wa manane
+2-iltayolla|Jumanne kabla ya usiku wa manane
+1-iltayolla|Jumatatu kabla ya usiku wa manane
+[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen|[1] hali ya hewa ni mawingu kidogo au mawingu [2]
+[huomenna] [sisamaassa] saa on [selkea]|[1] hali ya hewa ni [3] [2]
+hyvin tuulinen|yenye upepo sana
+hyvin tuulista|yenye upepo sana
+[iltapaivalla] [rannikolla] pakkanen on purevaa|baridi kali inaumiza [2] [1]
+7-aamuyolla|Jumapili asubuhi na mapema
+6-aamuyolla|Jumamosi asubuhi na mapema
+5-aamuyolla|Ijumaa asubuhi na mapema
+4-aamuyolla|Alhamisi asubuhi na mapema
+3-aamuyolla|Jumatano asubuhi na mapema
+2-aamuyolla|Jumanne asubuhi na mapema
+2-aamuyolla ja aamulla|Jumanne asubuhi na mapema na asubuhi
+3-aamuyolla ja aamulla|Jumatano asubuhi na mapema na asubuhi
+5-aamuyolla ja aamulla|Ijumaa asubuhi na mapema na asubuhi
+6-aamuyolla ja aamulla|Jumamosi asubuhi na mapema na asubuhi
+7-aamuyolla ja aamulla|Jumapili asubuhi na mapema na asubuhi
+1-aamuyolla ja aamulla|Jumatatu asubuhi na mapema na asubuhi
+saa on tuulinen|hali ya hewa ni yenye upepo
+[iltapaivalla] [rannikolla] on [tuulista]|[1] kuna [3] [2]
+rannikolla lahella [N] [astetta]|karibu na [1] [2] pwani
+[huomenna] [sisamaassa] [lampotila] on vahan yli [N] [astetta]|[1] [3] ni kidogo zaidi ya [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on vajaat [N] [astetta]|[1] [3] ni karibu [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on lahella [N] [astetta]|[1] [3] ni karibu na [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] asteen tuntumassa|[1] [3] ni karibu na [4] nyuzi [2]
+[huomenna] [sisamaassa] [lampotila] on [N] asteen tienoilla|[1] [3] ni takriban [4] nyuzi [2]
+[huomenna] [sisamaassa] [lampotila] on noin [N] [astetta]|[1] [3] ni takriban [4] [5] [2]
+[huomenna] [sisamaassa] [lampotila] on [M...N] [astetta]|[1] [3] ni [4] [5] [2]
+[yolla] on [hieman kylmempaa]|ni [2] [1]
+[huomenna] [sisamaassa] [lampotila] on [suunnilleen sama]|[1] [3] ni [4] [2]
+[huomenna] [sisamaassa] pakkasta on [M...N] [astetta]|[1] joto ni [3] [4] [2]
+[yolla] lampotila nousee|joto linaongezeka [1]
+[huomenna] [sisamaassa] pakkanen on [hieman kireampaa]|[1] baridi kali ni [3] [2]
+[huomenna] [rannikolla] on pikkupakkasta|[1] [2] joto ni kidogo chini ya sifuri
+rannikolla noin [N] [astetta]|takriban [1] [2] pwani
+rannikolla vajaat [N] [astetta]|karibu [1] [2] pwani
+rannikolla vahan yli [N] [astetta]|kidogo zaidi ya [1] [2] pwani
+rannikolla [M...N] [astetta]|[1] [2] pwani
+rannikolla [N] asteen tienoilla|takriban [1] nyuzi pwani
+rannikolla [N] asteen tuntumassa|karibu na [1] nyuzi pwani
+rannikolla [suunnilleen sama]|[1] pwani
+[huomenna] [sisamaassa] [M...N] [astetta]|[1] [3] [4] [2]
+[huomenna] [sisamaassa] noin [N] [astetta]|[1] takriban [3] [4] [2]
+[huomenna] [sisamaassa] [N] asteen tienoilla|[1] takriban [3] nyuzi [2]
+[huomenna] [sisamaassa] [N] asteen tuntumassa|[1] karibu na [3] nyuzi [2]
+[huomenna] [sisamaassa] lahella [N] [astetta]|[1] karibu na [3] [4] [2]
+[huomenna] [sisamaassa] vajaat [N] [astetta]|[1] karibu [3] [4] [2]
+[huomenna] [sisamaassa] vahan yli [N] [astetta]|[1] kidogo zaidi ya [3] [4] [2]
+[huomenna] [sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|hali ya hewa ni nzuri hasa [2] [1], [3]
+[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta]|[1] [4] [5] [3] [2]
+[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4] [5], ambayo inaweza kuwa ya barafu
+[huomenna] [sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4] [5], ambazo zinaweza kuwa za barafu
+saa on poutainen|hali ya hewa ni nzuri
+6-keskiyolla|Jumamosi usiku wa manane
+5-keskiyolla|Ijumaa usiku wa manane
+4-keskiyolla|Alhamisi usiku wa manane
+3-keskiyolla|Jumatano usiku wa manane
+2-keskiyolla|Jumanne usiku wa manane
+1-keskiyolla|Jumatatu usiku wa manane
+[sisamaassa] alavilla mailla hallan vaara|hatari ya baridi kali maeneo ya chini [1]
+7-keskiyolla|Jumapili usiku wa manane
+[huomenna] [sisamaassa] [suunnilleen sama]|[1] [3] [2]
+7-iltapaivasta alkaen|kuanzia Jumapili mchana
+6-iltapaivasta alkaen|kuanzia Jumamosi mchana
+5-iltapaivasta alkaen|kuanzia Ijumaa mchana
+4-iltapaivasta alkaen|kuanzia Alhamisi mchana
+3-iltapaivasta alkaen|kuanzia Jumatano mchana
+2-iltapaivasta alkaen|kuanzia Jumanne mchana
+1-iltapaivasta alkaen|kuanzia Jumatatu mchana
+7-iltayosta alkaen|kuanzia Jumapili jioni ya manane
+6-iltayosta alkaen|kuanzia Jumamosi jioni ya manane
+5-iltayosta alkaen|kuanzia Ijumaa jioni ya manane
+4-iltayosta alkaen|kuanzia Alhamisi jioni ya manane
+3-iltayosta alkaen|kuanzia Jumatano jioni ya manane
+2-iltayosta alkaen|kuanzia Jumanne jioni ya manane
+1-iltayosta alkaen|kuanzia Jumatatu jioni ya manane
+7-aamuyosta alkaen|kuanzia Jumapili asubuhi na mapema
+6-aamuyosta alkaen|kuanzia Jumamosi asubuhi na mapema
+5-aamuyosta alkaen|kuanzia Ijumaa asubuhi na mapema
+4-aamuyosta alkaen|kuanzia Alhamisi asubuhi na mapema
+3-aamuyosta alkaen|kuanzia Jumatano asubuhi na mapema
+2-aamuyosta alkaen|kuanzia Jumanne asubuhi na mapema
+1-aamuyosta alkaen|kuanzia Jumatatu asubuhi na mapema
+7-keskiyosta alkaen|kuanzia Jumapili usiku wa manane
+6-keskiyosta alkaen|kuanzia Jumamosi usiku wa manane
+5-keskiyosta alkaen|kuanzia Ijumaa usiku wa manane
+4-keskiyosta alkaen|kuanzia Alhamisi usiku wa manane
+3-keskiyosta alkaen|kuanzia Jumatano usiku wa manane
+2-keskiyosta alkaen|kuanzia Jumanne usiku wa manane
+1-keskiyosta alkaen|kuanzia Jumatatu usiku wa manane
+1 hehtopascal|hektopascali moja
+0 hehtopascalia|hektopascali sifuri
+1 prosentti|asilimia moja
+0 prosenttia|asilimia sifuri
+1 millimetri|milimita moja
+0 millimetria|milimita sifuri
+1 metri sekunnissa|mita moja kwa sekunde
+0 metria sekunnissa|mita sifuri kwa sekunde
+1 aste|nyuzi moja
+0 astetta|nyuzi sifuri
+ranta- tai lumisadetta|mvua na theluji au theluji
+lumi- tai rantasadetta|theluji au mvua na theluji
+lumi- tai vesisadetta|theluji au mvua
+vesi- tai lumisadetta|mvua au theluji
+ranta- tai vesisadetta|mvua na theluji au mvua
+vesi- tai rantasadetta|mvua au mvua na theluji
+ranta- tai vesikuuroja|mvua na theluji au mvua za haraka
+vesi- tai rantakuuroja|mvua au mvua na theluji za haraka
+vesi- tai lumikuuroja|mvua au theluji za haraka
+lumi- tai vesikuuroja|theluji au mvua za haraka
+[huomenna] [sisamaassa] pakkanen on [N] asteen tuntumassa|[1] joto ni karibu na [3] nyuzi [2]
+[huomenna] [sisamaassa] saa on poutainen|hali ya hewa ni nzuri [2] [1]
+[huomenna] [sisamaassa] pakkanen on [N] asteen tienoilla|joto ni takriban [3] nyuzi [2] [1]
+[huomenna] [sisamaassa] pakkanen on lahella [N] [astetta]|[1] joto ni karibu na [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on vahan yli [N] [astetta]|[1] joto ni kidogo chini ya [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on vajaat [N] [astetta]|[1] joto ni karibu [3] [4] [2]
+[huomenna] [sisamaassa] pakkasta on noin [N] [astetta]|[1] joto ni takriban [3] [4] [2]
+[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|[1] hali ya hewa ni mawingu kidogo au mawingu na nzuri [2]
+[huomenna] [sisamaassa] saa on [selkea] ja poutainen|[1] hali ya hewa ni [3] na nzuri [2]
+[iltapaivalla] saa poutaantuu|hali ya hewa inakuwa nzuri [1]
+todennakoisesti myos ukkostaa|radi pia inatarajiwa
+mahdollisesti myos ukkostaa|radi kidogo pia inawezekana
+paikoin myos ukkostaa|radi pia inatokea sehemu fulani
+paikoin voi myos ukkostaa|radi pia inawezekana sehemu fulani
+myos ukkosta esiintyy|radi kidogo pia inatokea
+[iltapaivasta alkaen] [pilvistyvaa]|[2] [1]
+[iltapaivalla] saa poutaantuu ja on [selkea]|hali ya hewa inakuwa nzuri na ni [2] [1]
+[lampotila] on [suunnilleen sama]|[1] ni [2]
+[lampotila] on [M...N] [astetta]|[1] ni [2] [3]
+[lampotila] on noin [N] [astetta]|[1] ni takriban [2] [3]
+[lampotila] on [N] asteen tienoilla|[1] ni takriban [2] nyuzi
+[lampotila] on [N] asteen tuntumassa|[1] ni karibu na [2] nyuzi
+[lampotila] on lahella [N] [astetta]|[1] ni karibu na [2] [3]
+[lampotila] on vajaat [N] [astetta]|[1] ni karibu [2] [3]
+[lampotila] on vahan yli [N] [astetta]|[1] ni kidogo zaidi ya [2] [3]
+saa on [poikkeuksellisen] [kylmaa]|hali ya hewa ni [1] [2]
+[sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|hali ya hewa ni nzuri hasa [1], [2]
+[sisamaassa] saa on poutainen|hali ya hewa ni nzuri [1]
+[sisamaassa] [paikoin] [heikkoa] [sadetta]|[3] [4] [2] [1]
+[sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4], ambayo inaweza kuwa ya barafu
+[sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4], ambazo zinaweza kuwa za barafu
+[paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], ambazo zinaweza kuwa za barafu
+[paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3], ambayo inaweza kuwa ya barafu
+[paikoin] [heikkoa] [sadetta]|[1] [2] [3]
+[paikoin] sumua|ukungu [1]
+[sisamaassa] [paikoin] sumua|ukungu [2] [1]
+[huomenna] sumua|[1] ukungu
+[sisamaassa] sumua|ukungu [1]
+[huomenna] [paikoin] sumua|[1] [2] ukungu
+[huomenna] [sisamaassa] sumua|[1] [2] ukungu
+[huomenna] [sisamaassa] sumua, joka voi olla sakeaa|[1] labda ukungu mnene [2]
+[paikoin] sumua, joka voi olla sakeaa|[1] labda ukungu mnene
+[sisamaassa] sumua, joka voi olla sakeaa|labda ukungu mnene [1]
+[sisamaassa] [paikoin] sumua, joka voi olla sakeaa|labda ukungu mnene [2] [1]
+[huomenna] [paikoin] sumua, joka voi olla sakeaa|[1] labda ukungu mnene [2]
+[huomenna] sumua, joka voi olla sakeaa|[1] labda ukungu mnene
+[huomenna] [paikoin] [heikkoa] [sadetta]|[1] [3] [4] [2]
+[paikoin] [sadetta]|[2] [1]
+[huomenna] [sisamaassa] [heikkoa] [sadetta]|[1] [3] [4] [2]
+[sisamaassa] [heikkoa] [sadetta]|[2] [3] [1]
+[huomenna] [heikkoa] [sadetta]|[1] [2] [3]
+[sisamaassa] [sadetta]|[2] [1]
+[sisamaassa] [paikoin] [sadetta]|[3] [2] [1]
+[huomenna] [sadetta]|[1] [2]
+[huomenna] [paikoin] [sadetta]|[1] [3] [2]
+[huomenna] [sisamaassa] [sadetta]|[1] [3] [2]
+[huomenna] [sisamaassa] [paikoin] [sadetta]|[1] [4] [3] [2]
+[huomenna] saa on poutainen|hali ya hewa ni nzuri [1]
+[huomenna] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]|hali ya hewa ni nzuri hasa [1], [2]
+[sisamaassa] saa vaihtelee puolipilvisesta pilviseen|hali ya hewa ni mawingu kidogo au mawingu [1]
+[huomenna] saa vaihtelee puolipilvisesta pilviseen|[1] hali ya hewa ni mawingu kidogo au mawingu
+[sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|hali ya hewa ni mawingu kidogo au mawingu na nzuri [1]
+[huomenna] saa vaihtelee puolipilvisesta pilviseen ja on poutainen|[1] hali ya hewa ni mawingu kidogo au mawingu na nzuri
+[sisamaassa] saa on [selkea]|hali ya hewa ni [2] [1]
+[huomenna] saa on [selkea]|[1] hali ya hewa ni [2]
+[sisamaassa] saa on [selkea] ja poutainen|hali ya hewa ni [2] na nzuri [1]
+[huomenna] saa on [selkea] ja poutainen|[1] hali ya hewa ni [2] na nzuri
+[huomenna] [sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4], ambayo inaweza kuwa ya barafu
+[huomenna] [sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4], ambazo zinaweza kuwa za barafu
+[huomenna] [sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4], ambazo zinaweza kuwa za barafu
+[huomenna] [sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4], ambayo inaweza kuwa ya barafu
+[huomenna] [sisamaassa] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], ambazo zinaweza kuwa za barafu
+[huomenna] [sisamaassa] [sadetta], joka voi olla jaatavaa|[1] [2] [3], ambayo inaweza kuwa ya barafu
+[heikkoa] [sadetta]|[1] [2]
+[sadetta], joka voi olla jaatavaa|[1], ambayo inaweza kuwa ya barafu
+[heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2], ambayo inaweza kuwa ya barafu
+[paikoin] [sadetta], joka voi olla jaatavaa|[1] [2], ambayo inaweza kuwa ya barafu
+[sisamaassa] [sadetta], joka voi olla jaatavaa|[1] [2], ambayo inaweza kuwa ya barafu
+[sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3], ambayo inaweza kuwa ya barafu
+[sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3], ambayo inaweza kuwa ya barafu
+[huomenna] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3] [4], ambayo inaweza kuwa ya barafu
+[huomenna] [sadetta], joka voi olla jaatavaa|[1] [2], ambayo inaweza kuwa ya barafu
+[huomenna] [heikkoa] [sadetta], joka voi olla jaatavaa|[1] [2] [3], ambayo inaweza kuwa ya barafu
+[huomenna] [paikoin] [sadetta], joka voi olla jaatavaa|[1] [2] [3], ambayo inaweza kuwa ya barafu
+[sadekuuroja], jotka voivat olla jaatavia|[1], ambazo zinaweza kuwa za barafu
+[heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2], ambazo zinaweza kuwa za barafu
+[paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2], ambazo zinaweza kuwa za barafu
+[sisamaassa] [sadekuuroja], jotka voivat olla jaatavia|[1] [2], ambazo zinaweza kuwa za barafu
+[sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], ambazo zinaweza kuwa za barafu
+[sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], ambazo zinaweza kuwa za barafu
+[huomenna] [sadekuuroja], jotka voivat olla jaatavia|[1] [2], ambazo zinaweza kuwa za barafu
+[huomenna] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], ambazo zinaweza kuwa za barafu
+[huomenna] [paikoin] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3], ambazo zinaweza kuwa za barafu
+[huomenna] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia|[1] [2] [3] [4], ambazo zinaweza kuwa za barafu
+[iltapaivalla] [rannikolla] pakkanen on erittain purevaa|baridi kali inaumiza sana [2] [1]
+[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan kylmemmalta|upepo unafanya hali ya hewa ihisi baridi zaidi [2] [1]
+[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta|upepo unafanya hali ya hewa ihisi baridi kidogo zaidi [2] [1]
+saa on hyvin tuulinen|hali ya hewa ni yenye upepo sana
+saa on [iltapaivalla] [rannikolla] [tuulinen]|ni [3] [2] [1]
+[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1] [2] [1]
+pakkasta on vahan yli [N] [astetta]|joto ni kidogo chini ya [1] [2]
+pakkasta on vajaat [N] [astetta]|joto ni karibu [1] [2]
+pakkanen on lahella [N] [astetta]|joto ni karibu na [1] [2]
+pakkanen on [N] asteen tienoilla|joto ni takriban [1] nyuzi
+pakkanen on [N] asteen tuntumassa|joto ni karibu na [1] nyuzi
+pakkasta on noin [N] [astetta]|joto ni takriban [1] [2]
+pakkasta on [M...N] [astetta]|joto ni [1] 2]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen|hali ya hewa inakuwa nzuri [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on selkea|hali ya hewa inakuwa nzuri na ni wazi [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on selkea|hali ya hewa inakuwa nzuri na ni wazi [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on selkea|hali ya hewa inakuwa nzuri na ni wazi [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on selkea|hali ya hewa inakuwa nzuri na ni wazi [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja vaihtelee puolipilvisesta pilviseen|hali ya hewa inakuwa nzuri na inabadilika kati ya mawingu kidogo na mawingu [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja vaihtelee puolipilvisesta pilviseen|hali ya hewa inakuwa nzuri na inabadilika kati ya mawingu kidogo na mawingu [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja vaihtelee puolipilvisesta pilviseen|hali ya hewa inakuwa nzuri na inabadilika kati ya mawingu kidogo na mawingu [1]
+6-keskiyohon asti|hadi Jumamosi usiku wa manane
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja vaihtelee puolipilvisesta pilviseen|hali ya hewa inakuwa nzuri na inabadilika kati ya mawingu kidogo na mawingu [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen|hali ya hewa inakuwa nzuri [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen|hali ya hewa inakuwa nzuri [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen|hali ya hewa inakuwa nzuri [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on pilvinen|hali ya hewa inakuwa nzuri na ni mawingu [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on pilvinen|hali ya hewa inakuwa nzuri na ni mawingu [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on pilvinen|hali ya hewa inakuwa nzuri na ni mawingu [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on pilvinen|hali ya hewa inakuwa nzuri na ni mawingu [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on verrattain pilvinen|hali ya hewa inakuwa nzuri na ni mawingu ya wastani [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on verrattain pilvinen|hali ya hewa inakuwa nzuri na ni mawingu ya wastani [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on verrattain pilvinen|hali ya hewa inakuwa nzuri na ni mawingu ya wastani [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on verrattain pilvinen|hali ya hewa inakuwa nzuri na ni mawingu ya wastani [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on puolipilvinen|hali ya hewa inakuwa nzuri na ni mawingu kidogo [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on puolipilvinen|hali ya hewa inakuwa nzuri na ni mawingu kidogo [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on puolipilvinen|hali ya hewa inakuwa nzuri na ni mawingu kidogo [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on puolipilvinen|hali ya hewa inakuwa nzuri na ni mawingu kidogo [1]
+[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on melko selkea|hali ya hewa inakuwa nzuri na ni wazi kidogo [1]
+[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on melko selkea|hali ya hewa inakuwa nzuri na ni wazi kidogo [1]
+[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on melko selkea|hali ya hewa inakuwa nzuri na ni wazi kidogo [1]
+[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on melko selkea|hali ya hewa inakuwa nzuri na ni wazi kidogo [1]
+[rannikolla] on [tuulista]|ni [2] [1]
+[iltapaivalla] on [tuulista]|ni [2] [1]
+[rannikolla] tuuli saa saan tuntumaan kylmemmalta|upepo unafanya hali ya hewa ihisi baridi zaidi [1]
+[iltapaivalla] tuuli saa saan tuntumaan kylmemmalta|upepo unafanya hali ya hewa ihisi baridi zaidi [1]
+[rannikolla] tuuli saa saan tuntumaan viileammalta|upepo unafanya hali ya hewa ihisi baridi kidogo zaidi [1]
+[iltapaivalla] tuuli saa saan tuntumaan viileammalta|upepo unafanya hali ya hewa ihisi baridi kidogo zaidi [1]
+[rannikolla] pakkanen on erittain purevaa|baridi kali inaumiza sana [1]
+[iltapaivalla] pakkanen on erittain purevaa|baridi kali inaumiza sana [1]
+[rannikolla] pakkanen on purevaa|baridi kali inaumiza [1]
+[iltapaivalla] pakkanen on purevaa|baridi kali inaumiza [1]
+saa on ajankohtaan nahden tavanomaista lampimampaa|hali ya hewa ni joto zaidi kuliko kawaida
+[huomenna] pakkasta on [M...N] [astetta]|[1] joto ni [2] [3]
+[huomenna] pakkasta on noin [N] [astetta]|[1] joto ni takriban [2] [3]
+[huomenna] pakkanen on [hieman kireampaa]|[1] baridi kali ni [2]
+[huomenna] pakkasta on vahan yli [N] [astetta]|[1] joto ni kidogo chini ya [2] [3]
+[huomenna] pakkasta on vajaat [N] [astetta]|[1] joto ni karibu [2] [3]
+[huomenna] pakkanen on lahella [N] [astetta]|[1] joto ni karibu na [2] [3]
+[huomenna] pakkanen on [N] asteen tuntumassa|[1] joto ni karibu na [2] nyuzi
+[huomenna] pakkanen on [N] asteen tienoilla|[1] joto ni takriban [2] nyuzi
+[sisamaassa] pakkasta on [M...N] [astetta]|joto ni [2] [3] [1]
+[sisamaassa] pakkasta on noin [N] [astetta]|joto ni takriban [2] [3] [1]
+[sisamaassa] pakkanen on [hieman kireampaa]|baridi kali ni [2] [1]
+[sisamaassa] pakkasta on vahan yli [N] [astetta]|joto ni kidogo chini ya [2] [3] [1]
+[sisamaassa] pakkanen on lahella [N] [astetta]|joto ni karibu na [2] [3] [1]
+[sisamaassa] pakkasta on vajaat [N] [astetta]|joto ni karibu [2] [3] [1]
+[sisamaassa] pakkanen on [N] asteen tuntumassa|joto ni karibu na [2] nyuzi [1]
+[sisamaassa] pakkanen on [N] asteen tienoilla|joto ni takriban [2] nyuzi [1]
+[sisamaassa] [lampotila] on [suunnilleen sama]|[2] ni [3] [1]
+[sisamaassa] [lampotila] on [M...N] [astetta]|[2] ni [3] [4] [1]
+[sisamaassa] [lampotila] on noin [N] [astetta]|[2] ni takriban [3] [4] [1]
+[sisamaassa] [lampotila] on [N] asteen tienoilla|[2] ni takriban [3] nyuzi [1]
+[sisamaassa] [lampotila] on [N] asteen tuntumassa|[2] ni karibu na [3] nyuzi [1]
+[sisamaassa] [lampotila] on lahella [N] [astetta]|[2] ni karibu na [3] [1]
+[sisamaassa] [lampotila] on vajaat [N] [astetta]|[2] ni karibu [3] [4] [1]
+[sisamaassa] [lampotila] on vahan yli [N] [astetta]|[2] ni kidogo zaidi ya [3] [4] [1]
+[huomenna] [lampotila] on [suunnilleen sama]|[1] [2] ni [3]
+[huomenna] [lampotila] on [M...N] [astetta]|[1] [2] ni [3] [4]
+[huomenna] [lampotila] on noin [N] [astetta]|[1] [2] ni takriban [3] [4]
+[huomenna] [lampotila] on [N] asteen tienoilla|[1] [2] ni takriban [3] nyuzi
+[huomenna] [lampotila] on [N] asteen tuntumassa|[1] [2] ni karibu na [3] nyuzi
+[huomenna] [lampotila] on lahella [N] [astetta]|[1] [2] ni karibu na [3]
+[huomenna] [lampotila] on vajaat [N] [astetta]|[1] [2] ni karibu [3] [4]
+2-keskiyohon asti|hadi Jumanne usiku wa manane
+[huomenna] [lampotila] on vahan yli [N] [astetta]|[1] [2] ni kidogo zaidi ya [3] [4]
+[rannikolla] on pikkupakkasta|joto ni kidogo chini ya sifuri [1]
+[huomenna] on pikkupakkasta|[1] joto ni kidogo chini ya sifuri
+[sisamaassa] [M...N] [astetta]|[2] [3] [1]
+[huomenna] [M...N] [astetta]|[1] [2] [3]
+[sisamaassa] [suunnilleen sama]|[2] [1]
+[huomenna] [suunnilleen sama]|[1] [2]
+[sisamaassa] noin [N] [astetta]|takriban [2] [3] [1]
+[huomenna] noin [N] [astetta]|[1] takriban [2] [3]
+[sisamaassa] [N] asteen tienoilla|takriban [2] nyuzi [1]
+[huomenna] [N] asteen tienoilla|[1] karibu na [2] nyuzi
+[sisamaassa] [N] asteen tuntumassa|karibu na [2] nyuzi [1]
+[huomenna] [N] asteen tuntumassa|[1] karibu na [2] nyuzi
+[sisamaassa] lahella [N] [astetta]|karibu na [2] [3] [1]
+[huomenna] lahella [N] [astetta]|[1] karibu na [2] [3]
+[sisamaassa] vahan yli [N] [astetta]|kidogo zaidi ya [2] [3] [1]
+[huomenna] vahan yli [N] [astetta]|[1] kidogo zaidi ya [2] [3]
+[sisamaassa] vajaat [N] [astetta]|karibu [2] [3] [1]
+[huomenna] vajaat [N] [astetta]|[1] karibu [2] [3]
+[1-na] saa on ajankohtaan nahden tavanomaista lampimampaa|[1] hali ya hewa ni joto zaidi kuliko kawaida
+asteen(tienoilla)|nyuzi
+asteen(tuntumassa)|nyuzi
+[N] [asteen] tienoilla|takriban [1] [2]
+[N] [asteen] tuntumassa|karibu na [1] [2]
+[sisamaassa] [N] [asteen] tuntumassa|karibu na [2] [3] [1]
+[sisamaassa] [lampotila] on [N] [asteen] tuntumassa|[2] ni karibu na [3] [4] [1]
+[sisamaassa] pakkanen on [N] [asteen] tuntumassa|joto ni karibu na [2] [3] [1]
+[lampotila] on [N] [asteen] tuntumassa|[1] ni karibu na [2] [3]
+[huomenna] [sisamaassa] [N] [asteen] tuntumassa|[1] karibu na [3] [4] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tuntumassa|[1] [3] ni karibu na [4] [5] [2]
+[huomenna] [sisamaassa] pakkanen on [N] [asteen] tuntumassa|[1] joto ni karibu na [3] [4] [2]
+[huomenna] [N] [asteen] tuntumassa|[1] karibu na [2] [3]
+[huomenna] [lampotila] on [N] [asteen] tuntumassa|[1] [2] ni karibu na [3] [4]
+[huomenna] pakkanen on [N] [asteen] tuntumassa|[1] joto ni karibu na [2] [3]
+rannikolla [N] [asteen] tuntumassa|karibu na [1] [2] pwani
+pakkanen on [N] [asteen] tuntumassa|joto ni karibu na [1] [2]
+[sisamaassa] [N] [asteen] tienoilla|takriban [2] [3] [1]
+[sisamaassa] [lampotila] on [N] [asteen] tienoilla|[2] ni takriban [3] [4] [1]
+[sisamaassa] pakkanen on [N] [asteen] tienoilla|joto ni takriban [2] [3] [1]
+[lampotila] on [N] [asteen] tienoilla|[1] ni takriban [2] [3]
+[huomenna] [sisamaassa] [N] [asteen] tienoilla|[1] takriban [3] [4] [2]
+[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tienoilla|[1] [3] ni takriban [4] [5] [2]
+[huomenna] [sisamaassa] pakkanen on [N] [asteen] tienoilla|joto ni takriban [3] [4] [2] [1]
+[huomenna] [N] [asteen] tienoilla|[1] karibu na [2] [3]
+[huomenna] [lampotila] on [N] [asteen] tienoilla|[1] [2] ni takriban [3] [4]
+[huomenna] pakkanen on [N] [asteen] tienoilla|[1] joto ni takriban [2] [3]
+rannikolla [N] [asteen] tienoilla|takriban [1] [2] pwani
+pakkanen on [N] [asteen] tienoilla|joto ni takriban [1] [2]
+saa vaihtelee puolipilvisesta pilviseen ja on poutainen|hali ya hewa ni mawingu kidogo au mawingu na nzuri
+saa on [selkea] ja poutainen|hali ya hewa ni [1] na nzuri
+[alueella] saa on ajankohtaan nahden tavanomaista lampimampaa|hali ya hewa ni joto zaidi kuliko kawaida [1]
+[1-na] [alueella] saa on ajankohtaan nahden tavanomaista lampimampaa|[1] hali ya hewa ni joto zaidi kuliko kawaida [2]
+[alueella] [saa lampenee]|[2] [1]
+[1-na] [alueella] [saa lampenee]|[3] [1] [2]
+[alueella] saa on [poikkeuksellisen] [kylmaa]|hali ya hewa ni [2] [3] [1]
+[1-na] [alueella] saa on [poikkeuksellisen] [kylmaa]|hali ya hewa ni [3] [4] [2] [1]
+yon alin|kiwango cha chini cha usiku
+[1-na] [alueella] saa lauhtuu|[1] hali ya hewa inakuwa laini zaidi [2]
+[alueella] saa lauhtuu|hali ya hewa inakuwa laini zaidi [1]
+[1-na] saa lauhtuu|[1] hali ya hewa inakuwa laini zaidi
+[1-na] [alueella] saa on edelleen lauhaa|[1] hali ya hewa bado ni laini [2]
+[alueella] saa on edelleen lauhaa|hali ya hewa bado ni laini [1]
+[1-na] saa on edelleen lauhaa|[1] hali ya hewa bado ni laini
+[alueella] pakkanen kiristyy|baridi kali inazidi [1]
+[1-na] pakkanen kiristyy|[1] baridi kali inazidi
+[1-na] [alueella] pakkanen kiristyy|[1] baridi kali inazidi [2]
+[alueella] kirea pakkanen jatkuu|baridi kali inaendelea [1]
+[1-na] kirea pakkanen jatkuu|[1] baridi kali inaendelea
+[1-na] [alueella] kirea pakkanen jatkuu|[1] baridi kali inaendelea [2]
+[alueella] pakkanen hellittaa|baridi kali inaanza kupungua [1]
+[1-na] pakkanen hellittaa|[1] baridi kali inaanza kupungua
+[1-na] [alueella] pakkanen hellittaa|[1] baridi kali inaanza kupungua [2]
+[alueella] kirea pakkanen heikkenee|baridi kali inapungua nguvu [1]
+[1-na] kirea pakkanen heikkenee|[1] baridi kali inapungua nguvu
+[1-na] [alueella] kirea pakkanen heikkenee|[1] baridi kali inapungua nguvu [2]
+[alueella] pakkanen heikkenee|baridi kali inapungua [1]
+[1-na] pakkanen heikkenee|[1] baridi kali inapungua
+[1-na] [alueella] pakkanen heikkenee|[1] baridi kali inapungua [2]
+[alueella] saa on helteista|hali ya hewa ni ya joto kali sana [1]
+[1-na] saa on helteista|[1] hali ya hewa ni ya joto kali sana
+[1-na] [alueella] saa on helteista|[1] hali ya hewa ni ya joto kali sana [2]
+[alueella] saa muuttuu helteiseksi|hali ya hewa inakuwa ya joto kali [1]
+[1-na] saa muuttuu helteiseksi|[1] hali ya hewa inakuwa ya joto kali
+[1-na] [alueella] saa muuttuu helteiseksi|[1] hali ya hewa inakuwa ya joto kali [2]
+[alueella] helteinen saa jatkuu|hali ya hewa ya joto kali inaendelea [1]
+[1-na] helteinen saa jatkuu|[1] hali ya hewa ya joto kali inaendelea
+[1-na] [alueella] helteinen saa jatkuu|[1] hali ya hewa ya joto kali inaendelea [2]
+[alueella] saa viilenee huomattavasti|hali ya hewa inakuwa baridi zaidi sana [1]
+[1-na] saa viilenee huomattavasti|[1] hali ya hewa inakuwa baridi zaidi sana
+[1-na] [alueella] saa viilenee huomattavasti|[1] hali ya hewa inakuwa baridi zaidi sana [2]
+[alueella] saa viilenee vahan|hali ya hewa inakuwa baridi zaidi kidogo [1]
+[1-na] saa viilenee vahan|[1] hali ya hewa inakuwa baridi zaidi kidogo
+[1-na] [alueella] saa viilenee vahan|[1] hali ya hewa inakuwa baridi zaidi kidogo [2]
+[alueella] saa viilenee|hali ya hewa inakuwa baridi kidogo [1]
+[1-na] saa viilenee|[1] hali ya hewa inakuwa baridi kidogo
+[1-na] [alueella] saa viilenee|[1] hali ya hewa inakuwa baridi kidogo [2]
+[alueella] viilea saa jatkuu|hali ya hewa baridi kidogo inaendelea [1]
+[1-na] viilea saa jatkuu|[1] hali ya hewa baridi kidogo inaendelea
+[1-na] [alueella] viilea saa jatkuu|[1] hali ya hewa baridi kidogo inaendelea [2]
+[alueella] kolea saa jatkuu|hali ya hewa baridi inaendelea [1]
+[1-na] kolea saa jatkuu|[1] hali ya hewa baridi inaendelea
+[1-na] [alueella] kolea saa jatkuu|[1] hali ya hewa baridi inaendelea [2]
+[alueella] saa lampenee huomattavasti|hali ya hewa inakuwa joto zaidi sana [1]
+[1-na] saa lampenee huomattavasti|[1] hali ya hewa inakuwa joto zaidi sana
+[1-na] [alueella] saa lampenee huomattavasti|[1] hali ya hewa inakuwa joto zaidi sana [2]
+[alueella] saa lampenee vahan|hali ya hewa inakuwa joto zaidi kidogo [1]
+[1-na] saa lampenee vahan|[1] hali ya hewa inakuwa joto zaidi kidogo
+[1-na] [alueella] saa lampenee vahan|[1] hali ya hewa inakuwa joto zaidi kidogo [2]
+[alueella] saa lampenee|hali ya hewa inakuwa joto zaidi [1]
+[1-na] saa lampenee|[1] hali ya hewa inakuwa joto zaidi
+[1-na] [alueella] saa lampenee|[1] hali ya hewa inakuwa joto zaidi [2]
+7-keskiyolla ja aamuyolla|Jumapili usiku wa manane na baada ya usiku wa manane
+6-keskiyolla ja aamuyolla|Jumamosi usiku wa manane na baada ya usiku wa manane
+5-keskiyolla ja aamuyolla|Ijumaa usiku wa manane na baada ya usiku wa manane
+4-keskiyolla ja aamuyolla|Alhamisi usiku wa manane na baada ya usiku wa manane
+3-keskiyolla ja aamuyolla|Jumatano usiku wa manane na baada ya usiku wa manane
+2-keskiyolla ja aamuyolla|Jumanne usiku wa manane na baada ya usiku wa manane
+1-keskiyolla ja aamuyolla|Jumatatu usiku wa manane na baada ya usiku wa manane
+[huomenna] yksittaiset vesikuurot mahdollisia|[1] labda mvua za haraka mara kwa mara
+[huomenna] yksittaiset vesi- tai rantakuurot mahdollisia|[1] labda mvua za haraka au mvua na theluji mara kwa mara
+[huomenna] yksittaiset vesi- tai lumikuurot mahdollisia|[1] labda mvua za haraka au theluji mara kwa mara
+[huomenna] yksittaiset sadekuurot mahdollisia|[1] labda mvua za haraka mara kwa mara
+[huomenna] yksittaiset rantakuurot mahdollisia|[1] labda mvua na theluji za haraka mara kwa mara
+[huomenna] yksittaiset ranta- tai vesikuurot mahdollisia|[1] labda mvua na theluji au mvua za haraka mara kwa mara
+[huomenna] yksittaiset lumikuurot mahdollisia|[1] labda mvua ya theluji za haraka mara kwa mara
+[huomenna] yksittaiset lumi- tai rantakuurot mahdollisia|[1] labda theluji au mvua na theluji za haraka mara kwa mara
+[huomenna] [sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia|labda theluji au mvua na theluji za haraka mara kwa mara [2] [1]
+[huomenna] [sisamaassa] yksittaiset lumikuurot mahdollisia|labda mvua ya theluji za haraka mara kwa mara [2] [1]
+[huomenna] [sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia|labda mvua na theluji au mvua za haraka mara kwa mara [2] [1]
+[huomenna] [sisamaassa] yksittaiset rantakuurot mahdollisia|labda mvua na theluji za haraka mara kwa mara [2] [1]
+[huomenna] [sisamaassa] yksittaiset sadekuurot mahdollisia|labda mvua za haraka mara kwa mara [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia|labda mvua za haraka au theluji mara kwa mara [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia|labda mvua za haraka au mvua na theluji mara kwa mara [2] [1]
+[huomenna] [sisamaassa] yksittaiset vesikuurot mahdollisia|labda mvua za haraka mara kwa mara [2] [1]
+[sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia|labda mvua na theluji au mvua za haraka mara kwa mara [1]
+[sisamaassa] yksittaiset rantakuurot mahdollisia|labda mvua na theluji za haraka mara kwa mara [1]
+[sisamaassa] yksittaiset sadekuurot mahdollisia|labda mvua za haraka mara kwa mara [1]
+1-keskiyohon asti|hadi Jumatatu usiku wa manane
+[sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia|labda mvua za haraka au theluji mara kwa mara [1]
+[sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia|labda mvua za haraka au mvua na theluji mara kwa mara [1]
+[sisamaassa] yksittaiset vesikuurot mahdollisia|labda mvua za haraka mara kwa mara [1]
+[sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia|[1] labda theluji au mvua na theluji za haraka mara kwa mara
+[sisamaassa] yksittaiset lumikuurot mahdollisia|labda mvua ya theluji za haraka mara kwa mara [1]
+[sisamaassa] on [hieman lauhempaa]|ni [2] [1]
+[huomenna] on [hieman lauhempaa]|[1] ni [2]
+[huomenna] [sisamaassa] on [hieman lauhempaa]|[1] ni [3] [2]
+[lampotila] [M...N] [astetta]|[1] [2] [3]
+paivan ylin|kiwango cha juu cha mchana
+[lampotila] [suunnilleen sama]|[1] [2]
+[lampotila] vahan yli [N] [astetta]|[1] kidogo zaidi ya [2] [3]
+[lampotila] vajaat [N] [astetta]|[1] karibu [2] [3]
+[lampotila] lahella [N] [astetta]|[1] karibu na [2] [3]
+[lampotila] [N] [asteen] tuntumassa|[1] karibu na [2] [3]
+[lampotila] [N] [asteen] tienoilla|[1] takriban [2] [3]
+[lampotila] noin [N] [astetta]|[1] takriban [2] [3]
+luoteeseen|kuelekea kaskazini magharibi
+lounaaseen|kuelekea kusini magharibi
+kaakkoon|kuelekea kusini mashariki
+koilliseen|kuelekea kaskazini mashariki
+lanteen|kuelekea magharibi
+itaan|kuelekea mashariki
+etelaan|kuelekea kusini
+pohjoiseen|kuelekea kaskazini
+[iltapaivalla] tuuli kaantyy [etelaan] ja voimistuu edelleen|[1] upepo unageuka [2] na unaendelea kuongeza nguvu
+[pohjoistuulta] [m...n] [metria sekunnissa], joka muuttuu [iltapaivalla] vaihtelevaksi|[1] [2] [3], ambao unakuwa wa ubadilishaji [4]
+vahitellen|polepole
+[pohjoistuulta] [m...n] [metria sekunnissa], joka kaantyy [iltapaivalla] [etelaan]|[1] [2] [3], ambao unageuka [5] [4]
+[iltapaivalla] tuuli kaantyy [etelaan]|upepo unageuka [2] [1]
+suunnaltaan vaihtelevaa tuulta|upepo wa ubadilishaji
+latvia:lle|kwa Latvia
+astetta (n...0)|nyuzi
+1- ja 2-valille|kaskazini hadi kaskazini mashariki
+3- ja 2-valille|mashariki hadi kaskazini mashariki
+3- ja 4-valille|mashariki hadi kusini mashariki
+5- ja 4-valille|kusini hadi kusini mashariki
+5- ja 6-valille|kusini hadi kusini magharibi
+7- ja 6-valille|magharibi hadi kusini magharibi
+7- ja 8-valille|magharibi hadi kaskazini magharibi
+1- ja 8-valille|kaskazini hadi kaskazini magharibi
+[huomenna] [etelatuulta]|[1] [2]
+ivalo:lle|kwa Ivalo
+pieksamaki:lle|kwa Pieksämäki
+[iltapaivalla] [etelaan] kaantyvaa tuulta|upepo unageuka [2] [1]
+heikkenevaa tuulta|upepo unaopungua nguvu
+8-puolelle|hasa kaskazini magharibi
+7-puolelle|hasa magharibi
+6-puolelle|hasa kusini magharibi
+5-puolelle|hasa kusini
+4-puolelle|hasa kusini mashariki
+3-puolelle|hasa mashariki
+2-puolelle|hasa kaskazini mashariki
+1-puolelle|hasa kaskazini
+tuuli muuttuu vaihtelevaksi|upepo unakuwa wa ubadilishaji
+[iltapaivalla] tuuli muuttuu vaihtelevaksi|upepo unakuwa wa ubadilishaji [1]
+[iltapaivalla] [etelatuulta]|[2] [1]
+astetta (1)|nyuzi
+astetta (0)|nyuzi
+astetta (4)|nyuzi
+astetta (3)|nyuzi
+astetta (n...(mod 10=1))|nyuzi
+astetta (n...4)|nyuzi
+astetta (n...3)|nyuzi
+astetta (n...2)|nyuzi
+astetta (n...1)|nyuzi
+astetta (2)|nyuzi
+aallonkorkeus on enimmillaan [N] [metria]|urefu wa mawimbi ni [1] [2] hadi
+latgale:lle|kwa Latgale region
+vidzeme:lle|kwa Vidzeme region
+zemgale:lle|kwa Zemgale region
+kurzeme:lle|kwa Kurzeme region
+rigaregion:lle|kwa Lielriga region
+tuuli kaantyy|upepo unageuka
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta]|[2] [3] [4] [1]
+[iltapaivalla] [nopeasti] [heikkenevaa tuulta]|[2] [3] [1]
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi|upepo unakuwa wa ubadilishaji kwa muda [1]
+[iltapaivalla] tuuli heikkenee ja muuttuu vaihtelevaksi|[1] upepo unapungua nguvu na unakuwa wa ubadilishaji
+astetta (m...n)|nyuzi
+astetta (n)|nyuzi
+[iltapaivalla] tuuli heikkenee ja kaantyy [etelaan]|[1] upepo unapungua nguvu na unageuka [2]
+keskipaivasta|kuanzia adhuhuri
+[iltapaivalla] tuuli voimistuu ja kaantyy [etelaan]|[1] upepo unaongeza nguvu na unageuka [2]
+[iltapaivalla] tuuli voimistuu ja muuttuu vaihtelevaksi|upepo unaongeza nguvu na unakuwa wa ubadilishaji [1]
+voimistuvaa tuulta|upepo unaongeza nguvu
+kovimmillaan|hadi
+nopeasti|haraka
+[iltapaivalla] tuuli muuttuu vaihtelevaksi ja heikkenee edelleen|[1] upepo unakuwa wa ubadilishaji na unaendelea kupungua nguvu
+[iltapaivalla] [heikkenevaa tuulta]|[1] [2]
+[iltapaivalla] [heikkenevaa] [etelatuulta]|[1] [2] [3]
+[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] [2] unapungua nguvu na unakuwa wa ubadilishaji
+[iltapaivalla] [pohjoistuuli] heikkenee ja kaantyy [etelaan]|[1] [2] unapungua nguvu na unageuka [3]
+1- ja 8-valista tuulta|upepo wa kaskazini hadi kaskazini magharibi
+7- ja 8-valista tuulta|upepo wa magharibi hadi kaskazini magharibi
+7- ja 6-valista tuulta|upepo wa magharibi hadi kusini magharibi
+5- ja 6-valista tuulta|upepo wa kusini hadi kusini magharibi
+5- ja 4-valista tuulta|upepo wa kusini hadi kusini mashariki
+3- ja 4-valista tuulta|upepo wa mashariki hadi kusini mashariki
+3- ja 2-valista tuulta|upepo wa mashariki hadi kaskazini mashariki
+1- ja 2-valista tuulta|upepo wa kaskazini hadi kaskazini mashariki
+1- ja 8-valinen tuuli|upepo wa kaskazini hadi kaskazini magharibi
+7- ja 8-valinen tuuli|upepo wa magharibi hadi kaskazini magharibi
+7- ja 6-valinen tuuli|upepo wa magharibi hadi kusini magharibi
+5- ja 6-valinen tuuli|upepo wa kusini hadi kusini magharibi
+5- ja 4-valinen tuuli|upepo wa kusini hadi kusini mashariki
+3- ja 4-valinen tuuli|upepo wa mashariki hadi kusini mashariki
+3- ja 2-valinen tuuli|upepo wa mashariki hadi kaskazini mashariki
+1- ja 2-valinen tuuli|upepo wa kaskazini hadi kaskazini mashariki
+8-puoleinen tuuli|upepo wa kaskazini magharibi hasa
+7-puoleinen tuuli|upepo wa magharibi hasa
+6-puoleinen tuuli|upepo wa kusini magharibi hasa
+5-puoleinen tuuli|upepo wa kusini hasa
+4-puoleinen tuuli|upepo wa kusini mashariki hasa
+3-puoleinen tuuli|upepo wa mashariki hasa
+2-puoleinen tuuli|upepo wa kaskazini mashariki hasa
+1-puoleinen tuuli|upepo wa kaskazini hasa
+8-tuuli|upepo wa kaskazini magharibi
+7-tuuli|upepo wa magharibi
+6-tuuli|upepo wa kusini magharibi
+5-tuuli|upepo wa kusini
+4-tuuli|upepo wa kusini mashariki
+3-tuuli|upepo wa mashariki
+2-tuuli|upepo wa kaskazini mashariki
+1-tuuli|upepo wa kaskazini
+suunnaltaan vaihteleva tuuli|upepo wa ubadilishaji
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja heikkenee edelleen|[1] upepo unakuwa wa ubadilishaji kwa muda na unaendelea kupungua nguvu
+[iltapaivalla] tuuli heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] upepo unapungua nguvu na unakuwa wa ubadilishaji kwa muda
+[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1]  [2] unapungua nguvu na unakuwa wa ubadilishaji kwa muda
+iltapaivasta|kuanzia mchana
+[iltapaivalla] [etelatuuli] alkaa heiketa [nopeasti]|[1] [2] unaanza kupungua nguvu [3]
+illasta|kuanzia jioni
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantya [etelaan]|[1] [2] unaanza kupungua nguvu na kugeuka [3]
+astetta (mod 10=1)|nyuzi
+aste|nyuzi
+nolla|sifuri
+asteen(tienoilla (mod 10=1))|nyuzi
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [pohjoiseen]|[1] [2] [3] [4], ambao unageuka [5]
+[iltapaivalla] edelleen [heikkenevaa] [pohjoistuulta]|[1] [3] unaendelea kupungua [2]
+hehtopascalia (mod 10=1)|hektopascali
+prosenttia (mod 10=1)|asilimia
+millimetria (mod 10=1)|milimita
+metria sekunnissa (mod 10=1)|mita kwa sekunde
+4 astetta|nyuzi 4
+3 astetta|nyuzi 3
+2 astetta|nyuzi 2
+puuskittaista [etelatuulta]|[1] ya vipande vipande
+aallonkorkeus on alle [N] [metria]|urefu wa mawimbi ni chini ya [1] [2]
+aallonkorkeus on [N...M] [metria]|urefu wa mawimbi ni [1] [2]
+aallonkorkeus on noin [N] [metria]|urefu wa mawimbi ni takriban [1] [2]
+asteen(tuntumassa (mod 10=1))|nyuzi
+astetta(noin 0)|nyuzi
+astetta(noin 4)|nyuzi
+astetta(noin 3)|nyuzi
+astetta(noin 2)|nyuzi
+astetta(noin 1)|nyuzi
+astetta(noin (mod 10=1))|nyuzi
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[1] [2] unaanza kupungua nguvu na unageuka [3]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantya [etelaan]|[1] [2] unaanza kuongeza nguvu na kugeuka [3]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantyy [etelaan]|[1] [2] unaanza kuongeza nguvu na unageuka [3]
+[iltapaivalla] [pohjoistuuli] voimistuu ja kaantyy [etelaan]|[1] [2] unaongeza nguvu na unageuka [3]
+[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi|[1] [2] unaongeza nguvu na unakuwa wa ubadilishaji
+[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja voimistuu edelleen|[1] upepo unakuwa wa ubadilishaji kwa muda na unaendelea kuongeza nguvu
+[iltapaivalla] tuuli muuttuu vaihtelevaksi ja voimistuu edelleen|upepo unakuwa wa ubadilishaji na unaendelea kuongeza nguvu [1]
+[iltapaivalla] tuuli voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] upepo unaendelea kuongeza nguvu na unakuwa wa ubadilishaji kwa muda
+iltayosta|kuanzia jioni ya manane
+keskiyosta|kuanzia usiku wa manane
+[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa heiketa|[1] [2] [3], ambao unaanza kupungua nguvu
+[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [illalla] [pohjoiseen]|[1] [2] [3] [4], ambao unageuka [6] [5]
+yosta|kuanzia usiku huu
+[iltapaivalla] [pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] unaanza kupungua nguvu [3] na unageuka [5] [4]
+[ip] [p-tuulta] [m...n] [m/s], joka alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] [3] [4], ambao unaanza kupungua nguvu [5] na unageuka [7] [6]
+[iltapaivalla] [etelatuuli] heikkenee [nopeasti]|[2] unapungua nguvu [3] [1]
+[iltapaivalla] [pohjoistuuli] heikkenee edelleen|[2] unaendelea kupungua nguvu [1]
+[iltapaivalla] sade voi olla runsasta|mvua inaweza kuwa kali [1]
+1-asti|hadi Jumatatu
+2-asti|hadi Jumanne
+3-asti|hadi Jumatano
+4-asti|hadi Alhamisi
+6-asti|hadi Ijumaa
+5-asti|hadi Jumamosi
+7-asti|hadi Jumapili
+yohon asti|hadi usiku
+aamuun asti|hadi asubuhi
+aamupaivaan asti|hadi kabla ya adhuhuri
+keskipaivaan asti|hadi adhuhuri
+iltapaivaan asti|hadi mchana
+iltaan asti|hadi jioni
+iltayohon asti|hadi jioni ya manane
+keskiyohon asti|hadi usiku wa manane
+huomiseen asti|hadi kesho
+1-aamupaivaan asti|hadi Jumatatu kabla ya adhuhuri
+2-aamupaivaan asti|hadi Jumanne kabla ya adhuhuri
+3-aamupaivaan asti|hadi Jumatano kabla ya adhuhuri
+4-aamupaivaan asti|hadi Alhamisi kabla ya adhuhuri
+5-aamupaivaan asti|hadi Ijumaa kabla ya adhuhuri
+6-aamupaivaan asti|hadi Jumamosi kabla ya adhuhuri
+7-aamupaivaan asti|hadi Jumapili kabla ya adhuhuri
+1-aamuun asti|hadi Jumatatu asubuhi
+2-aamuun asti|hadi Jumanne asubuhi
+3-aamuun asti|hadi Jumatano asubuhi
+4-aamuun asti|hadi Alhamisi asubuhi
+5-aamuun asti|hadi Ijumaa asubuhi
+6-aamuun asti|hadi Jumamosi asubuhi
+7-aamuun asti|hadi Jumapili asubuhi
+1-iltaan asti|hadi Jumatatu jioni
+2-iltaan asti|hadi Jumanne jioni
+3-iltaan asti|hadi Jumatano jioni
+4-iltaan asti|hadi Alhamisi jioni
+5-iltaan asti|hadi Ijumaa jioni
+6-iltaan asti|hadi Jumamosi jioni
+7-iltaan asti|hadi Jumapili jioni
+1-vastaiseen yohon asti|hadi usiku wa Jumatatu
+2-vastaiseen yohon asti|hadi usiku wa Jumanne
+3-vastaiseen yohon asti|hadi usiku wa Jumatano
+4-vastaiseen yohon asti|hadi usiku wa Alhamisi
+5-vastaiseen yohon asti|hadi usiku wa Ijumaa
+6-vastaiseen yohon asti|hadi usiku wa Jumamosi
+7-vastaiseen yohon asti|hadi usiku wa Jumapili
+huomisaamuun asti|hadi kesho asubuhi
+huomisaamupaivaan asti|hadi kesho kabla ya adhuhuri
+huomisiltaan asti|hadi kesho jioni
+7-iltapaivaan asti|hadi Ijumaa mchana
+6-iltapaivaan asti|hadi Jumamosi mchana
+5-iltapaivaan asti|hadi Ijumaa mchana
+4-iltapaivaan asti|hadi Alhamisi mchana
+3-iltapaivaan asti|hadi Jumatano mchana
+2-iltapaivaan asti|hadi Jumanne mchana
+1-iltapaivaan asti|hadi Jumatatu mchana
+7-iltayohon asti|hadi Jumapili jioni ya manane
+6-iltayohon asti|hadi Jumamosi jioni ya manane
+5-iltayohon asti|hadi Ijumaa jioni ya manane
+4-iltayohon asti|hadi Alhamisi jioni ya manane
+3-iltayohon asti|hadi Jumatano jioni ya manane
+2-iltayohon asti|hadi Jumanne jioni ya manane
+1-iltayohon asti|hadi Jumatatu jioni ya manane
+7-keskiyohon asti|hadi Jumapili usiku wa manane
+5-keskiyohon asti|hadi Ijumaa usiku wa manane
+4-keskiyohon asti|hadi Alhamisi usiku wa manane
+3-keskiyohon asti|hadi Jumatano usiku wa manane
+[iltapaivalla] [pohjoistuuli] voimistuu edelleen|[2] unaendelea kuongeza nguvu [1]
+[ip] [p-tuulta] [m...n] [m/s], joka alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] [3] [4], ambao unaanza kuongeza nguvu [5] na unageuka [7] [6]
+[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa voimistua|[1] [2] [3], ambao unaanza kuongeza nguvu
+aamuyohon asti|hadi asubuhi na mapema
+7-aamuyohon asti|hadi Jumapili asubuhi na mapema
+6-aamuyohon asti|hadi Jumamosi asubuhi na mapema
+5-aamuyohon asti|hadi Ijumaa asubuhi na mapema
+4-aamuyohon asti|hadi Alhamisi asubuhi na mapema
+3-aamuyohon asti|hadi Jumatano asubuhi na mapema
+2-aamuyohon asti|hadi Jumanne asubuhi na mapema
+1-aamuyohon asti|hadi Jumatatu asubuhi na mapema
+[iltapaivalla] kuurot voivat olla voimakkaita|mvua za haraka zinaweza kuwa kali [1]
+B3N:lle|kwa Northern Sea of Bothnia
+[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] unaanza kupungua nguvu na unakuwa wa ubadilishaji
+[iltapaivalla] tuuli alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] unaanza kupungua nguvu na unakuwa wa ubadilishaji kwa muda
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] unaanza kupungua nguvu na unakuwa wa ubadilishaji
+[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] unaanza kupungua nguvu na unakuwa wa ubadilishaji kwa muda
+inari_utsjoki:lle|kwa Inari na Utsjoki
+ita_finnmark:lle|kwa Eastern Finnmark
+lansi_finnmark:lle|kwa Western Finnmark
+pohjois_ruotsi:lle|kwa Northern Sweden
+kasivarsi:lle|kwa Käsivarsi
+kova|kali
+voimakas|kali sana
+heikkenee|inapungua nguvu
+kuola:lle|kwa Kola Peninsula
+[voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen|[1] unageuka [2] na unaendelea kupungua nguvu
+[voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]|[1] unapungua nguvu na unageuka [2]
+[voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[1] unaanza kupungua nguvu na unageuka [2]
+[voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] unapungua nguvu na unakuwa wa ubadilishaji
+[voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] unaanza kupungua nguvu na unakuwa wa ubadilishaji
+[voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] unaanza kupungua nguvu na unakuwa wa ubadilishaji kwa muda
+[voimakas pohjoistuuli] heikkenee edelleen|[1] unaendelea kupungua nguvu
+[voimakas pohjoistuuli] alkaa heiketa [nopeasti]|[1] unaanza kupungua nguvu [2]
+[voimakas pohjoistuuli] heikkenee [nopeasti]|[1] unapungua nguvu [2]
+[voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] unapungua nguvu na unakuwa wa ubadilishaji kwa muda
+voimakas 3- ja 4-valinen tuuli|upepo kali wa mashariki hadi kusini mashariki
+voimakas 4-tuuli|upepo kali wa kusini mashariki
+voimakas 4-puoleinen tuuli|upepo kali wa kusini mashariki hasa
+voimakas 5- ja 4-valinen tuuli|upepo kali wa kusini hadi kusini mashariki
+voimakas 5-tuuli|upepo kali wa kusini
+voimakas 5-puoleinen tuuli|upepo kali wa kusini hasa
+voimakas 5- ja 6-valinen tuuli|upepo kali wa kusini hadi kusini magharibi
+voimakas 6-tuuli|upepo kali wa kusini magharibi
+voimakas 6-puoleinen tuuli|upepo kali wa kusini magharibi hasa
+voimakas 7- ja 6-valinen tuuli|upepo kali wa magharibi hadi kusini magharibi
+voimakas 7-tuuli|upepo kali wa magharibi
+voimakas 7-puoleinen tuuli|upepo kali wa magharibi hasa
+voimakas 7- ja 8-valinen tuuli|upepo kali wa magharibi hadi kaskazini magharibi
+voimakas 8-tuuli|upepo kali wa kaskazini magharibi
+voimakas 8-puoleinen tuuli|upepo kali wa kaskazini magharibi hasa
+voimakas 1- ja 8-valinen tuuli|upepo kali wa kaskazini hadi kaskazini magharibi
+voimakas tuuli|upepo wa dhoruba
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti]|[2] unapungua nguvu [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee edelleen|[2] unaendelea kupungua nguvu [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa [nopeasti]|[2] unaanza kupungua nguvu [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[2] unaanza kupungua nguvu na unakuwa wa ubadilishaji kwa muda [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[2] unapungua nguvu na unakuwa wa ubadilishaji kwa muda [1]
+voimakas 2-puoleinen tuuli|upepo kali wa kaskazini mashariki hasa
+voimakas 3-puoleinen tuuli|upepo kali wa mashariki hasa
+voimakas 3-tuuli|upepo kali wa mashariki
+voimakas 1-tuuli|upepo kali wa kaskazini
+voimakas 1-puoleinen tuuli|upepo kali wa kaskazini hasa
+voimakas 3- ja 2-valinen tuuli|upepo kali wa mashariki hadi kaskazini mashariki
+voimakas 2-tuuli|upepo kali wa kaskazini mashariki
+voimakas 1- ja 2-valinen tuuli|upepo kali wa kaskazini hadi kaskazini mashariki
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[2] unaanza kupungua nguvu na unakuwa wa ubadilishaji [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[2] unapungua nguvu na unakuwa wa ubadilishaji [1]
+[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]|[2] unaanza kupungua nguvu na unageuka [3] [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]|[2] unapungua nguvu na unageuka [3] [1]
+tiepiiri-o4:lle|kwa Oulu northern inland region
+[iltapaivalla] [voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen|[2] unageuka [3] na unaendelea kupungua nguvu [1]
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]|[2] unapungua nguvu [3] [1] na unageuka [5] [4]
+[etelatuuli] alkaa voimistua [nopeasti]|[1] unaanza kuongeza nguvu [2]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] unaanza kuongeza nguvu na unakuwa wa ubadilishaji
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] upepo unaanza kuongeza nguvu na unakuwa wa ubadilishaji kwa muda
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] unaanza kuongeza nguvu na unakuwa wa ubadilishaji
+[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[2] unapungua nguvu [3]  [1] na unageuka [4]
+[pohjoistuuli] heikkenee [nopeasti]|[1] unapungua nguvu [2]
+[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]|[1] unapungua nguvu [2] na unageuka [4] [3]
+[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[1] unapungua nguvu [2] na unageuka [3]
+[pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi|[1] unapungua nguvu na unakuwa wa ubadilishaji
+[etelatuuli] alkaa heiketa [nopeasti]|[1] unaanza kupungua nguvu [2]
+[pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi|[1] unapungua nguvu na unakuwa wa ubadilishaji kwa muda
+[pohjoistuuli] alkaa heiketa ja kaantya [etelaan]|[1] unaanza kupungua nguvu na kugeuka [2]
+[pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]|[1] unaanza kupungua nguvu [2] na unageuka [4] [3]
+[etelatuuli] heikkenee [nopeasti]|[1] unapungua nguvu [2]
+[pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] unaanza kupungua nguvu na unakuwa wa ubadilishaji
+[pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] unaanza kupungua nguvu na unakuwa wa ubadilishaji kwa muda
+[pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] unaanza kupungua nguvu na unakuwa wa ubadilishaji
+1-keskipaivaan|hadi Jumatatu adhuhuri
+2-keskipaivaan|hadi Jumanne adhuhuri
+3-keskipaivaan|hadi Jumatano adhuhuri
+4-keskipaivaan|hadi Alhamisi adhuhuri
+5-keskipaivaan|hadi Ijumaa adhuhuri
+6-keskipaivaan|hadi Jumamosi adhuhuri
+7-keskipaivaan|hadi Jumapili adhuhuri
+1-keskipaivasta|kuanzia Jumatatu adhuhuri
+2-keskipaivasta|kuanzia Jumanne adhuhuri
+3-keskipaivasta|kuanzia Jumatano adhuhuri
+4-keskipaivasta|kuanzia Alhamisi adhuhuri
+5-keskipaivasta|kuanzia Ijumaa adhuhuri
+6-keskipaivasta|kuanzia Jumamosi adhuhuri
+7-keskipaivasta|kuanzia Jumapili adhuhuri
+kemi-tornio:lle|kwa Kemi-Tornio
+rovaniemen seutu:lle|kwa Rovaniemi area
+tornionlaakso:lle|kwa Torne Valley
+tunturi-lappi:lle|kwa Tunturi-Lappi
+elyalue-epo:lle|kwa Southern Ostrobothnia ELY-area
+elyalue-kas:lle|kwa Southeastern Finlands ELY-area
+elyalue-kes:lle|kwa Central Finlands ELY-area
+elyalue-lap:lle|kwa Laplands ELY-area
+elyalue-pir:lle|kwa Pirkanmaa ELY-area
+elyalue-pkp:lle|kwa Northern Ostrobothnia ELY-area
+elyalue-pos:lle|kwa Northern Savo ELY-area
+elyalue-uud:lle|kwa Uusimaa ELY-area
+elyalue-var:lle|kwa Finland Proper ELY-area
+tiepiiri-h1:lle|kwa Southern Häme
+tiepiiri-h2:lle|kwa Southern Päijänne-Häme
+tiepiiri-h3:lle|kwa Southern Pirkanmaa
+tiepiiri-h4:lle|kwa Northern Päijänne-Häme
+tiepiiri-h5:lle|kwa Northern Pirkanmaa
+tiepiiri-k1:lle|kwa Kymenmaa coastal region
+tiepiiri-k2:lle|kwa Kymenmaa inland region
+tiepiiri-k3:lle|kwa Southern Karelia
+tiepiiri-k4:lle|kwa Southern Savo
+tiepiiri-ke1:lle|kwa Central Finlands southern region
+tiepiiri-ke2:lle|kwa Central Finlands northern region
+tiepiiri-l1:lle|kwa Southwestern Lapland
+tiepiiri-l2:lle|kwa Southeastern Lapland
+tiepiiri-l3:lle|kwa Central Lapland
+tiepiiri-l4:lle|kwa Northwestern Lapland
+tiepiiri-l5:lle|kwa Northern Lapland
+tiepiiri-o1e:lle|kwa Oulu southern coastal region
+tiepiiri-o1p:lle|kwa Oulu northern coastal region
+tiepiiri-o2:lle|kwa Oulu southern inland region
+tiepiiri-o3:lle|kwa Kainuu
+tiepiiri-o5:lle|kwa Koillismaa
+tiepiiri-s1:lle|kwa Northern Karelia southern region
+tiepiiri-s2:lle|kwa Northern Savo southern region
+[etelatuuli] voimistuu [nopeasti]|[1] unaongeza nguvu [2]
+[iltapaivalla] [pohjoistuuli] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] unaanza kuongeza nguvu na unakuwa wa ubadilishaji kwa muda
+[iltapaivalla] tuuli alkaa voimistua ja kaantyy [etelaan]|upepo unaanza kuongeza nguvu na unageuka [2] [1]
+[pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] unaanza kuongeza nguvu [2] na unageuka [4] [3]
+[pohjoistuuli] alkaa voimistua ja kaantya [etelaan]|[1] unaanza kuongeza nguvu na kugeuka [2]
+[pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] unaanza kuongeza nguvu na unakuwa wa ubadilishaji kwa muda
+[pohjoistuuli] voimistuu [nopeasti]|[1] unaongeza nguvu [2]
+[pohjoistuuli] voimistuu ja kaantyy [etelaan]|[1] unaongeza nguvu na unageuka [2]
+[pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] unaongeza nguvu na unakuwa wa ubadilishaji kwa muda
+[pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi|[1] unaongeza nguvu na unakuwa wa ubadilishaji
+1-aamuyolla|Jumatatu asubuhi na mapema
+tiepiiri-s3:lle|kwa Northern Karelia central region
+tiepiiri-s4:lle|kwa Northern Savo northern region
+tiepiiri-s5:lle|kwa Northern Karelia northern region
+tiepiiri-t1:lle|kwa Finland Proper coastal region
+tiepiiri-t2:lle|kwa Finland Proper inland region
+tiepiiri-t3:lle|kwa Finland Proper eastern region
+tiepiiri-t4:lle|kwa Satakunta coastal region
+tiepiiri-t5:lle|kwa Satakunta inland region
+tiepiiri-u1:lle|kwa Western Uusimaa coastal region
+tiepiiri-u2:lle|kwa capitol city region
+tiepiiri-u3:lle|kwa Eastern Uusimaa coastal region
+tiepiiri-u4:lle|kwa Western Uusimaa inland region
+tiepiiri-u5:lle|kwa Eastern Uusimaa inland region
+tiepiiri-v1:lle|kwa Ostrobothnia southern coastal regions
+tiepiiri-v2:lle|kwa Southern Ostrobothnia
+tiepiiri-v4:lle|kwa Ostrobothnia northern coastal regions
+tiepiiri-v5:lle|kwa Central Ostrobothnia
+[iltap] [nop] [heikken] [tuulta] [m...n] [m sek], joka kaantyy [illalla] [pohj]|[1] [2] [3] [4] [5] [6], ambao unageuka [8] [7]
+[lampotila] vahan nollan alapuolella|[1] kidogo chini ya sifuri
+[lampotila] on vahan nollan alapuolella|[1] ni kidogo chini ya sifuri
+[huomenna] vahan nollan alapuolella|[1] kidogo chini ya sifuri
+[sismaassa] vahan nollan alapuolella|[1] kidogo chini ya sifuri
+[huomenna] [lampotila] on vahan nollan alapuolella|[1] [2] ni kidogo chini ya sifuri
+[sisamaassa] [lampotila] on vahan nollan alapuolella|[1] [2] ni kidogo chini ya sifuri
+[huomenna] [sisamaassa] vahan nollan alapuolella|[1] kidogo chini ya sifuri [2]
+[huomenna] [sisamaassa] [lampotila] on vahan nollan alapuolella|[1] [3] ni kidogo chini ya sifuri [2]
+rannikolla vahan nollan alapuolella|kidogo chini ya sifuri pwani
+muuten hyva nakyvyys|vinginevyo mwonekano mzuri
+hyva nakyvyys|mwonekano mzuri
+enimmakseen hyva nakyvyys|mwonekano mzuri hasa
+yolla ja aamulla|usiku na asubuhi
+aamulla ja paivalla|asubuhi na mchana
+paivalla ja illalla|mchana na jioni
+illalla ja yolla|jioni na usiku
+1-keskipaivalla|Jumatatu adhuhuri
+2-keskipaivalla|Jumanne adhuhuri
+3-keskipaivalla|Jumatano adhuhuri
+4-keskipaivalla|Alhamisi adhuhuri
+5-keskipaivalla|Ijumaa adhuhuri
+6-keskipaivalla|Jumamosi adhuhuri
+7-keskipaivalla|Jumapili adhuhuri
+ja huono nakyvyys|na mwonekano mbaya
+B2_B1S:lle|kwa the Quark na Southern Bay of Bothnia
+B2_B1:lle|kwa the Quark na Bay of Bothnia
+B3_B2_B1:lle|kwa Sea of Bothnia, the Quark na Bay of Bothnia
+B3_B2:lle|kwa Sea of Bothnia na the Quark
+B4E_B3:lle|kwa Sea of Archipelago na Sea of Bothnia
+B4_B3:lle|kwa Sea of Archipelago na Sea of Åland na Sea of Bothnia
+B7_B4:lle|kwa Bahari ya Baltic Kaskazini, Sea of Archipelago na Sea of Åland
+B7_B4_B3:lle|kwa Bahari ya Baltic Kaskazini, Sea of Archipelago na Sea of Åland na Sea of Bothnia
+B5W_B7:lle|kwa Western Gulf of Finland na Bahari ya Baltic Kaskazini
+B5_B7:lle|kwa Ghuba ya Finland na Bahari ya Baltic Kaskazini
+B3N_B2:lle|kwa Northern Sea of Bothnia na the Quark
+vesi- tai tihkusadetta|mvua au mvua nyepesi
+lumi- tai tihkusadetta|theluji au mvua nyepesi
+ranta- tai tihkusadetta|mvua na theluji au mvua nyepesi
+jaatavaa tihkusadetta|mvua nyepesi ya barafu
+jotka muuttuvat lumikuuroiksi|ambazo zinageuka mvua ya theluji
+jotka muuttuvat rantakuuroiksi|ambazo zinageuka mvua na theluji
+[iltapaivalla] [etelatuuli] alkaa voimistua [nopeasti]|[1] [2] unaanza kuongeza nguvu [3]
+[iltapaivalla] [etelatuuli] voimistuu [nopeasti]|[2] unaongeza nguvu [3] [1]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]|[1] [2] unaanza kuongeza nguvu [3] na unageuka [5] [4]
+[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] unaanza kuongeza nguvu na unakuwa wa ubadilishaji kwa muda
+4-aamuyolla ja aamulla|Alhamisi asubuhi na mapema na asubuhi
+B5W_B7E_B4E:lle|kwa Western Gulf of Finland, Eastern part of Northern Baltic Proper na Sea of Archipelago
+B5W_B7E:lle|kwa Western Gulf of Finland na Eastern part of Northern Baltic Proper
+B7_B4_B3S:lle|kwa Bahari ya Baltic Kaskazini, Sea of Archipelago na Sea of Åland na Southern Sea of Bothnia
+B7E_B4E_B3S:lle|kwa Eastern part of Northern Baltic Proper, Sea of Archipelago na Southern Sea of Bothnia
+B7E_B4E:lle|kwa Eastern part of Northern Baltic Proper na Sea of Archipelago
+B7W_B4:lle|kwa Western Gulf of Finland, Sea of Archipelago na Sea of Åland
+B7W_B4W_B3S:lle|kwa Western Gulf of Finland, Sea of Åland na Southern Sea of Bothnia
+B7W_B4W:lle|kwa Western Gulf of Finland na Sea of Åland
+[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] unaongeza nguvu na unakuwa wa ubadilishaji kwa muda
+[iltapaivalla] tuuli kaantyy [etelaan] ja heikkenee edelleen|[1] upepo unageuka [2] na unaendelea kupungua nguvu
+tuuli voimistuu|upepo unaongeza nguvu hadi
+B4_B3S:lle|kwa Sea of Archipelago na Sea of Åland na Southern Sea of Bothnia
+aamupaivalla|kabla ya adhuhuri
+huomisen keskipaivaan asti|hadi kesho adhuhuri
+huono nakyvyys|mwonekano mbaya
+B1|Ghuba ya Bothnia
+B2|the Quark
+B3|Sea of Bothnia
+B4|Sea of Archipelago na Sea of Åland
+B5|Ghuba ya Finland
+B6|Ghuba ya Riga
+B7|Bahari ya Baltic Kaskazini
+B8|Middle Baltic Proper
+B9|Southeastern Baltic Proper
+B10|Southern Baltic Proper
+B11|Arkona Sea
+B12|Öresund na the Belts
+B13|Kattegat
+B1N|Northern Bay of Bothnia
+B1S|Southern Bay of Bothnia
+B4E|Sea of Archipelago
+B4W|Sea of Åland
+B5E|Eastern Gulf of Finland
+B5W|Western Gulf of Finland
+B8E|Middle Baltic Proper
+B8W|Gotland Sea
+B10N|Öland Sea
+B10S|Bornholm Sea
+B2_B1S|the Quark na Southern Bay of Bothnia
+B2_B1|the Quark na Bay of Bothnia
+B3_B2_B1|Sea of Bothnia, the Quark na Bay of Bothnia
+B3_B2|Sea of Bothnia na the Quark
+B4E_B3|Sea of Archipelago na Sea of Bothnia
+B4_B3|Sea of Archipelago na Sea of Åland na Sea of Bothnia
+B7_B4|Bahari ya Baltic Kaskazini, Sea of Archipelago na Sea of Åland
+B7_B4_B3|Bahari ya Baltic Kaskazini, Sea of Archipelago na Sea of Åland na Sea of Bothnia
+B5W_B7|Western Gulf of Finland na Bahari ya Baltic Kaskazini
+B5_B7|Ghuba ya Finland na Bahari ya Baltic Kaskazini
+B3N_B2|Northern Sea of Bothnia na the Quark
+B3N|Northern Sea of Bothnia
+B3S|Southern Sea of Bothnia
+B4_B3S|Sea of Archipelago na Sea of Åland na Southern Sea of Bothnia
+B5W_B7E_B4E|Western Gulf of Finland, Eastern part of Northern Baltic Proper na Sea of Archipelago
+B5W_B7E|Western Gulf of Finland na Eastern part of Northern Baltic Proper
+B7_B4_B3S|Bahari ya Baltic Kaskazini, Sea of Archipelago na Sea of Åland na Southern Sea of Bothnia
+B7E_B4E_B3S|Eastern part of Northern Baltic Proper, Sea of Archipelago na Southern Sea of Bothnia
+B7E_B4E|Eastern part of Northern Baltic Proper na Sea of Archipelago
+B7E|Eastern part of Northern Baltic Proper
+B7W_B4W_B3S|Western Gulf of Finland, Sea of Åland na Southern Sea of Bothnia
+B7W_B4|Western Gulf of Finland, Sea of Archipelago na Sea of Åland
+B7W_B4W|Western Gulf of Finland na Sea of Åland
+B7W|Sehemu ya Kaskazini ya Bahari ya Baltic Kaskazini
+lumisateesta|inazidi kuwa mbaya kwa sababu ya theluji

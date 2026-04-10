@@ -1,0 +1,27 @@
+Oulu
+
+Ilmateade kolmapäeval 14
+
+Ilmavaade reede õhtuni:
+
+Homme pilves või muutliku pilvisusega.
+Reedel pärastlõunast alates kohati lumesadu.
+Sademete tõenäosus on homme 30 protsenti, järgmisel päeval märgatavalt suurem.
+Homme edelatuul 3 meetrit sekundis, reedel 5 meetrit sekundis.
+Päeva maksimaalne temperatuur on homme umbes 0 kraadi, järgmisel päeval ligikaudu sama.
+Öö minimaalne temperatuur on umbes -5 kraadi, reede ööl ligikaudu sama.
+Tugeva öökülma tõenäosus on neljapäeva ööl 90 protsenti, järgmisel ööl 80 protsenti.
+Madalaim suhteline niiskus on homme 60 protsenti, reedel veidi kõrgem.
+Sademete kogus on reedel umbes 2 millimeetrit.
+
+Ilmavaade reede õhtust teisipäeva hommikuni:
+
+Enamasti pilves või muutliku pilvisusega, vahelduv sademed.
+Päevane maksimaalne temperatuur on umbes -2 kraadi, öine minimaalne temperatuur umbes -6 kraadi.
+
+Neljapäeva hommikust järgmise viie päeva ilm:
+
+Kesktemperatuur -4 kraadi.
+Keskmine maksimaalne temperatuur -1 kraadi.
+Keskmine minimaalne temperatuur -6 kraadi.
+Sademete kogus 10-20 millimeetrit.

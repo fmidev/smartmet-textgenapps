@@ -1,0 +1,24 @@
+Ivalo
+
+Laporan cuaca hari Kamis 12
+
+Prakiraan cuaca hingga Sabtu malam:
+
+Hari ini cerah, besok dan hari Sabtu awan tidak menentu.
+Kemungkinan hujan adalah besok 20 persen, hari berikutnya sama.
+Angin selatan 3-4 meter per detik.
+Suhu maksimum siang hari adalah besok sekitar 3 derajat, hari berikutnya kira-kira sama.
+Suhu minimum malam hari adalah sekitar -8 derajat, malam Sabtu lebih tinggi.
+Kelembaban relatif terendah adalah besok 50 persen, hari Sabtu lebih tinggi.
+
+Prakiraan cuaca mulai Sabtu malam hingga Rabu pagi:
+
+Cuaca tidak stabil.
+Suhu maksimum harian adalah sekitar 1 derajat, suhu minimum malam sekitar -4 derajat.
+
+Mulai Jumat pagi untuk lima hari ke depan:
+
+Suhu rata-rata -1 derajat.
+Suhu maksimum rata-rata 2 derajat.
+Suhu minimum rata-rata -4 derajat.
+Total curah hujan 10-20 milimeter.

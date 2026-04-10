@@ -1,0 +1,27 @@
+Ivalo
+
+Laporan cuaca hari Kamis 7
+
+Prakiraan cuaca hingga besok malam:
+
+Hari ini berawan, mulai malam di beberapa tempat salju.
+Besok mulai menjelang siang cuaca cerah, berawan.
+Kemungkinan hujan adalah hari ini 70 persen, besok sama.
+Hari ini angin barat 3 meter per detik, besok 6 meter per detik.
+Suhu maksimum siang hari adalah hari ini sekitar 3 derajat, besok kira-kira sama.
+Suhu minimum malam hari adalah sekitar 2 derajat.
+Kemungkinan embun beku parah adalah malam Jumat 10 persen.
+Kelembaban relatif terendah adalah besok 80 persen.
+Total curah hujan adalah hari ini mulai pagi sekitar 3 milimeter, besok sekitar 4 milimeter.
+
+Prakiraan cuaca mulai Jumat malam hingga Selasa pagi:
+
+Cuaca tidak stabil.
+Suhu maksimum harian adalah sekitar -1 derajat, suhu minimum malam sekitar -4 derajat.
+
+Mulai Jumat pagi untuk lima hari ke depan:
+
+Suhu rata-rata -3 derajat.
+Suhu maksimum rata-rata -1 derajat.
+Suhu minimum rata-rata -4 derajat.
+Total curah hujan 2-5 milimeter.

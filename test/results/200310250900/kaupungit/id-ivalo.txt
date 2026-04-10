@@ -1,0 +1,26 @@
+Ivalo
+
+Laporan cuaca hari Sabtu 9
+
+Prakiraan cuaca hingga besok malam:
+
+Hari ini mulai siang di beberapa tempat salju ringan.
+Besok sebagian berawan.
+Kemungkinan hujan adalah hari ini 50 persen, besok lebih kecil.
+Hari ini angin utara 6 meter per detik, besok 3 meter per detik.
+Suhu maksimum siang hari adalah hari ini sekitar -5 derajat, besok kira-kira sama.
+Suhu minimum malam hari adalah sekitar -10 derajat.
+Kelembaban relatif terendah adalah besok 80 persen.
+Total curah hujan adalah hari ini mulai menjelang siang sekitar 1 milimeter.
+
+Prakiraan cuaca mulai Minggu malam hingga Kamis pagi:
+
+Cuaca tidak stabil.
+Suhu maksimum harian adalah sekitar -4 derajat, suhu minimum malam sekitar -9 derajat.
+
+Mulai Minggu pagi untuk lima hari ke depan:
+
+Suhu rata-rata -4 derajat.
+Suhu maksimum rata-rata -4 derajat.
+Suhu minimum rata-rata -8 derajat.
+Total curah hujan 5-10 milimeter.
