@@ -1397,7 +1397,7 @@ pakkanen on lahella [N] [astetta]|pakkanen on lähellä [1] [2]
 pakkanen on [N] asteen tienoilla|pakkanen on [1] asteen tienoilla
 pakkanen on [N] asteen tuntumassa|pakkanen on [1] asteen tuntumassa
 pakkasta on noin [N] [astetta]|pakkasta on noin [1] [2]
-pakkasta on [M...N] [astetta]|pakkasta on [1] 2]
+pakkasta on [M...N] [astetta]|pakkasta on [1] [2]
 [iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on selkea|[1] sää poutaantuu ja on selkeä
 [iltapaivalla] saa poutaantuu rantasateen jalkeen ja on selkea|[1] sää poutaantuu ja on selkeä
 [iltapaivalla] saa poutaantuu lumisateen jalkeen ja on selkea|[1] sää poutaantuu ja on selkeä
@@ -1445,7 +1445,7 @@ saa on ajankohtaan nahden tavanomaista lampimampaa|sää on tavanomaista lämpim
 [huomenna] pakkanen on lahella [N] [astetta]|[1] pakkanen on lähellä [2] [3]
 [huomenna] pakkanen on [N] asteen tuntumassa|[1] pakkanen on [2] asteen tuntumassa
 [huomenna] pakkanen on [N] asteen tienoilla|[1] pakkanen on [2] asteen tienoilla
-[sisamaassa] pakkasta on [M...N] [astetta]|[1] pakkasta on [2 [3]
+[sisamaassa] pakkasta on [M...N] [astetta]|[1] pakkasta on [2] [3]
 [sisamaassa] pakkasta on noin [N] [astetta]|[1] pakkasta on noin [2] [3]
 [sisamaassa] pakkanen on [hieman kireampaa]|[1] pakkanen on [2]
 [sisamaassa] pakkasta on vahan yli [N] [astetta]|[1] pakkasta on vähän yli [2] [3]

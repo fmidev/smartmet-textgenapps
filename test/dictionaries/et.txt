@@ -1411,7 +1411,7 @@ saa on [poikkeuksellisen] [kylmaa]|ilm on [1] [2]
 [iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta|tuul muudab ilma jahedamaks [2] [1]
 saa on hyvin tuulinen|ilm on väga tuuline
 saa on [iltapaivalla] [rannikolla] [tuulinen]|on [3] [2] [1]
-[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1] [2] [1]
+[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1] [2] [3]
 pakkasta on vahan yli [N] [astetta]|temperatuur on veidi alla [1] [2]
 pakkasta on vajaat [N] [astetta]|temperatuur on peaaegu [1] [2]
 pakkanen on lahella [N] [astetta]|temperatuur on lähedal [1] [2]
@@ -1480,7 +1480,7 @@ saa on ajankohtaan nahden tavanomaista lampimampaa|ilm on tavalisest soojema per
 [sisamaassa] [lampotila] on noin [N] [astetta]|[2] on umbes [3] [4] [1]
 [sisamaassa] [lampotila] on [N] asteen tienoilla|[2] on umbes [3] kraadi [1]
 [sisamaassa] [lampotila] on [N] asteen tuntumassa|[2] on lähedal [3] kraadile [1]
-[sisamaassa] [lampotila] on lahella [N] [astetta]|[2] on lähedal [3] [1]
+[sisamaassa] [lampotila] on lahella [N] [astetta]|[2] on lähedal [3] [4] [1]
 [sisamaassa] [lampotila] on vajaat [N] [astetta]|[2] on peaaegu [3] [4] [1]
 [sisamaassa] [lampotila] on vahan yli [N] [astetta]|[2] on veidi üle [3] [4] [1]
 [huomenna] [lampotila] on [suunnilleen sama]|[1] [2] on [3]
@@ -1488,7 +1488,7 @@ saa on ajankohtaan nahden tavanomaista lampimampaa|ilm on tavalisest soojema per
 [huomenna] [lampotila] on noin [N] [astetta]|[1] [2] on umbes [3] [4]
 [huomenna] [lampotila] on [N] asteen tienoilla|[1] [2] on umbes [3] kraadi
 [huomenna] [lampotila] on [N] asteen tuntumassa|[1] [2] on lähedal [3] kraadile
-[huomenna] [lampotila] on lahella [N] [astetta]|[1] [2] on lähedal [3]
+[huomenna] [lampotila] on lahella [N] [astetta]|[1] [2] on lähedal [3] [4]
 [huomenna] [lampotila] on vajaat [N] [astetta]|[1] [2] on peaaegu [3] [4]
 2-keskiyohon asti|teisipäeva südaöövani
 [huomenna] [lampotila] on vahan yli [N] [astetta]|[1] [2] on veidi üle [3] [4]
@@ -1881,7 +1881,7 @@ aamuyohon asti|varahommikuni
 1-aamuyohon asti|esmaspäeva varahommikuni
 [iltapaivalla] kuurot voivat olla voimakkaita|hoovihmad võivad olla tugevad [1]
 B3N:lle|jaoks Botnia lahe põhjaosa
-[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] hakkab nõrgenema ja muutub muutlikuks
+[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi|[1] hakkab nõrgenema ja muutub muutlikuks
 [iltapaivalla] tuuli alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] hakkab nõrgenema ja muutub ajutiselt muutlikuks
 [iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] hakkab nõrgenema ja muutub muutlikuks
 [iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] hakkab nõrgenema ja muutub ajutiselt muutlikuks
@@ -1944,7 +1944,7 @@ tiepiiri-o4:lle|jaoks Oulu põhjapoolne sisemaa piirkond
 [etelatuuli] alkaa voimistua [nopeasti]|[1] hakkab tugevnema [2]
 [iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] hakkab tugevnema ja muutub muutlikuks
 [iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] tuul hakkab tugevnema ja muutub ajutiselt muutlikuks
-[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] hakkab tugevnema ja muutub muutlikuks
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] hakkab tugevnema ja muutub muutlikuks
 [iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[2] nõrgeneb [3]  [1] ja pöördub [4]
 [pohjoistuuli] heikkenee [nopeasti]|[1] nõrgeneb [2]
 [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]|[1] nõrgeneb [2] ja pöördub [4] [3]

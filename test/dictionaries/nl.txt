@@ -2146,5 +2146,5 @@ B7W_B4|westelijk deel van de Golf van Finland, de Archipelagozee en Ålandzee
 B7W_B4W|westelijk deel van de Golf van Finland en de Ålandzee
 B7W|Westelijk deel van Noordelijke Oostzee
 [iltapaivalla] tuuli saa saan tuntumaan viileammalta|[1] doet de wind het weer koeler aanvoelen
-[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta|[1] doet de wind het weer koeler aanvoelen aan de kust
+[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta|[1] doet de wind het weer koeler aanvoelen [2]
 lumisateesta|slechter door sneeuwval

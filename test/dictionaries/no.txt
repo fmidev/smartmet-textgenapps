@@ -1284,7 +1284,7 @@ paikoin voi myos ukkostaa|lokalt muligens torden
 myos ukkosta esiintyy|også torden forekommer
 [iltapaivasta alkaen] [pilvistyvaa]|[1] [2]
 [iltapaivalla] saa poutaantuu ja vaihtelee puolipilvisesta pilviseen|[1] opphører nedbøren og skydekket sprekker opp
-[iltapaivalla] saa poutaantuu ja on [selkea]|[1] klarner været opp
+[iltapaivalla] saa poutaantuu ja on [selkea]|[1] klarner været opp og er [2]
 1-iltayosta alkaen|fra og med mandag natt
 [lampotila] on [suunnilleen sama]|[1] er [2]
 [lampotila] on [M...N] [astetta]|[1] er [2] [3]
@@ -1349,7 +1349,7 @@ pakkasta on vajaat [N] [astetta]|kulden er knappe [1] [2]
 pakkanen on lahella [N] [astetta]|kulden er nær [1] [2]
 pakkanen on [N] asteen tienoilla|kulden er omkring [1] grader
 pakkanen on [N] asteen tuntumassa|kulden er nær [1] grader
-pakkasta on noin [N] [astetta]|kulden er cirka [3] [4]
+pakkasta on noin [N] [astetta]|kulden er cirka [1] [2]
 pakkasta on [M...N] [astetta]|kulden er [1] [2]
 asteen(tienoilla)|grader
 [iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on selkea|[1] opphører yr og været klarner opp
@@ -1476,7 +1476,7 @@ saa on ajankohtaan nahden tavanomaista lampimampaa|det er varmere enn vanlig
 asteen(tuntumassa)|grad
 [N] [asteen] tienoilla|omkring [1] [2]
 [N] [asteen] tuntumassa|nær [1] [2]
-[sisamaassa] [N] [asteen] tuntumassa|[1] er [2] nær [3] [4]
+[sisamaassa] [N] [asteen] tuntumassa|[1] nær [2] [3]
 [sisamaassa] [lampotila] on [N] [asteen] tuntumassa|[1] er [2] nær [3] [4]
 [lampotila] on [N] [asteen] tuntumassa|[1] er nær [2] [3]
 [huomenna] [sisamaassa] [N] [asteen] tuntumassa|[1] nær [3] [4] [2]
@@ -1580,7 +1580,7 @@ uusimaa|Nyland
 [huomenna] [sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia|[1] er spredte byger av snø eller sludd mulige [2]
 [huomenna] [sisamaassa] yksittaiset lumikuurot mahdollisia|[1] er spredte snøbyger mulige [2]
 [huomenna] [sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia|[1] er spredte byger av snø eller sludd mulige [2]
-[huomenna] [sisamaassa] yksittaiset rantakuurot mahdollisia|[1] er spredte byger av sludd mulige []
+[huomenna] [sisamaassa] yksittaiset rantakuurot mahdollisia|[1] er spredte byger av sludd mulige [2]
 [huomenna] [sisamaassa] yksittaiset sadekuurot mahdollisia|[1] er spredte regnbyger mulige [2]
 [huomenna] [sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia|[1] er spredte byger av snø eller regn mulige [2]
 [huomenna] [sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia|[1] er spredte byger av regn eller sludd mulige [2]

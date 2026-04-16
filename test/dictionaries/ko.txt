@@ -1481,7 +1481,7 @@ saa on ajankohtaan nahden tavanomaista lampimampaa|날씨가 평년보다 분명
 [sisamaassa] [lampotila] on noin [N] [astetta]|[1] [2]이 약 [3][4]
 [sisamaassa] [lampotila] on [N] asteen tienoilla|[1] [2]이 약 [3]도
 [sisamaassa] [lampotila] on [N] asteen tuntumassa|[1] [2]이 약 [3]도
-[sisamaassa] [lampotila] on lahella [N] [astetta]|[1] [2]이 [3] 가까이
+[sisamaassa] [lampotila] on lahella [N] [astetta]|[1] [2]이 [3] [4] 가까이
 [sisamaassa] [lampotila] on vajaat [N] [astetta]|[1] [2]이 거의 [3][4]
 [sisamaassa] [lampotila] on vahan yli [N] [astetta]|[1] [2]이 [3][4] 소폭 초과
 [huomenna] [lampotila] on [suunnilleen sama]|[1] [2]이 [3]
@@ -1489,7 +1489,7 @@ saa on ajankohtaan nahden tavanomaista lampimampaa|날씨가 평년보다 분명
 [huomenna] [lampotila] on noin [N] [astetta]|[1] [2]이 약 [3][4]
 [huomenna] [lampotila] on [N] asteen tienoilla|[1] [2]이 약 [3]도
 [huomenna] [lampotila] on [N] asteen tuntumassa|[1] [2]이 약 [3]도
-[huomenna] [lampotila] on lahella [N] [astetta]|[1] [2]이 [3] 가까이
+[huomenna] [lampotila] on lahella [N] [astetta]|[1] [2]이 [3] [4] 가까이
 [huomenna] [lampotila] on vajaat [N] [astetta]|[1] [2]이 거의 [3][4]
 2-keskiyohon asti|화요일 자정까지
 [huomenna] [lampotila] on vahan yli [N] [astetta]|[1] [2]이 [3][4] 소폭 초과

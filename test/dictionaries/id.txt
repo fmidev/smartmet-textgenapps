@@ -1410,14 +1410,14 @@ saa on [poikkeuksellisen] [kylmaa]|cuaca adalah [1] [2]
 [iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta|angin membuat cuaca terasa lebih sejuk [2] [1]
 saa on hyvin tuulinen|cuaca sangat berangin
 saa on [iltapaivalla] [rannikolla] [tuulinen]|angin [3] [2] [1]
-[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1] [2] [1]
+[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1] [2] [3]
 pakkasta on vahan yli [N] [astetta]|suhu sedikit di bawah [1] [2]
 pakkasta on vajaat [N] [astetta]|suhu hampir [1] [2]
 pakkanen on lahella [N] [astetta]|suhu dekat [1] [2]
 pakkanen on [N] asteen tienoilla|suhu sekitar [1] derajat
 pakkanen on [N] asteen tuntumassa|suhu mendekati [1] derajat
 pakkasta on noin [N] [astetta]|suhu sekitar [1] [2]
-pakkasta on [M...N] [astetta]|suhu adalah [1] 2]
+pakkasta on [M...N] [astetta]|suhu adalah [1] [2]
 [iltapaivalla] saa poutaantuu lumisateen jalkeen|cuaca membaik [1]
 [iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on selkea|cuaca membaik dan cerah [1]
 [iltapaivalla] saa poutaantuu rantasateen jalkeen ja on selkea|cuaca membaik dan cerah [1]
@@ -1479,7 +1479,7 @@ saa on ajankohtaan nahden tavanomaista lampimampaa|cuaca jelas lebih hangat dari
 [sisamaassa] [lampotila] on noin [N] [astetta]|[2] sekitar [3] [4] [1]
 [sisamaassa] [lampotila] on [N] asteen tienoilla|[2] sekitar [3] derajat [1]
 [sisamaassa] [lampotila] on [N] asteen tuntumassa|[2] mendekati [3] derajat [1]
-[sisamaassa] [lampotila] on lahella [N] [astetta]|[2] dekat [3] [1]
+[sisamaassa] [lampotila] on lahella [N] [astetta]|[2] dekat [3] [4] [1]
 [sisamaassa] [lampotila] on vajaat [N] [astetta]|[2] hampir [3] [4] [1]
 [sisamaassa] [lampotila] on vahan yli [N] [astetta]|[2] sedikit di atas [3] [4] [1]
 [huomenna] [lampotila] on [suunnilleen sama]|[1] [2] adalah [3]
@@ -1487,7 +1487,7 @@ saa on ajankohtaan nahden tavanomaista lampimampaa|cuaca jelas lebih hangat dari
 [huomenna] [lampotila] on noin [N] [astetta]|[1] [2] sekitar [3] [4]
 [huomenna] [lampotila] on [N] asteen tienoilla|[1] [2] sekitar [3] derajat
 [huomenna] [lampotila] on [N] asteen tuntumassa|[1] [2] mendekati [3] derajat
-[huomenna] [lampotila] on lahella [N] [astetta]|[1] [2] dekat [3]
+[huomenna] [lampotila] on lahella [N] [astetta]|[1] [2] dekat [3] [4]
 [huomenna] [lampotila] on vajaat [N] [astetta]|[1] [2] hampir [3] [4]
 2-keskiyohon asti|hingga tengah malam Selasa
 [huomenna] [lampotila] on vahan yli [N] [astetta]|[1] [2] sedikit di atas [3] [4]
@@ -1880,7 +1880,7 @@ aamuyohon asti|hingga dini hari
 1-aamuyohon asti|hingga dini hari Senin
 [iltapaivalla] kuurot voivat olla voimakkaita|hujan bisa lebat [1]
 B3N:lle|untuk Laut Bothnia Utara
-[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] mulai melemah dan menjadi berubah-ubah
+[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi|[1] mulai melemah dan menjadi berubah-ubah
 [iltapaivalla] tuuli alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] mulai melemah dan menjadi sementara berubah-ubah
 [iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] mulai melemah dan menjadi berubah-ubah
 [iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] mulai melemah dan menjadi sementara berubah-ubah
@@ -1943,7 +1943,7 @@ tiepiiri-o4:lle|untuk kawasan pedalaman utara Oulu
 [etelatuuli] alkaa voimistua [nopeasti]|[1] mulai menguat [2]
 [iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] mulai menguat dan menjadi berubah-ubah
 [iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] angin mulai menguat dan menjadi sementara berubah-ubah
-[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] mulai menguat dan menjadi berubah-ubah
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] mulai menguat dan menjadi berubah-ubah
 [iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[2] melemah [3]  [1] dan berbalik [4]
 [pohjoistuuli] heikkenee [nopeasti]|[1] melemah [2]
 [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]|[1] melemah [2] dan berbalik [4] [3]

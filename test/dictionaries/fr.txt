@@ -1410,7 +1410,7 @@ saa on [poikkeuksellisen] [kylmaa]|le temps est [1] [2]
 [iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta|le vent rend le temps plus frais [2] [1]
 saa on hyvin tuulinen|le temps est très venteux
 saa on [iltapaivalla] [rannikolla] [tuulinen]|il est [3] [2] [1]
-[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1] [2] [1]
+[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1] [2] [3]
 pakkasta on vahan yli [N] [astetta]|la température est légèrement en dessous de [1] [2]
 pakkasta on vajaat [N] [astetta]|la température est presque [1] [2]
 pakkanen on lahella [N] [astetta]|la température est près de [1] [2]
@@ -1479,7 +1479,7 @@ saa on ajankohtaan nahden tavanomaista lampimampaa|le temps est nettement plus c
 [sisamaassa] [lampotila] on noin [N] [astetta]|la [2] est environ [3] [4] [1]
 [sisamaassa] [lampotila] on [N] asteen tienoilla|la [2] est environ [3] degrés [1]
 [sisamaassa] [lampotila] on [N] asteen tuntumassa|la [2] est proche de [3] degrés [1]
-[sisamaassa] [lampotila] on lahella [N] [astetta]|la [2] est près de [3] [1]
+[sisamaassa] [lampotila] on lahella [N] [astetta]|la [2] est près de [3] [4] [1]
 [sisamaassa] [lampotila] on vajaat [N] [astetta]|la [2] est presque [3] [4] [1]
 [sisamaassa] [lampotila] on vahan yli [N] [astetta]|la [2] est légèrement au-dessus de [3] [4] [1]
 [huomenna] [lampotila] on [suunnilleen sama]|[1] la [2] est [3]
@@ -1487,7 +1487,7 @@ saa on ajankohtaan nahden tavanomaista lampimampaa|le temps est nettement plus c
 [huomenna] [lampotila] on noin [N] [astetta]|[1] la [2] est environ [3] [4]
 [huomenna] [lampotila] on [N] asteen tienoilla|[1] la [2] est environ [3] degrés
 [huomenna] [lampotila] on [N] asteen tuntumassa|[1] la [2] est proche de [3] degrés
-[huomenna] [lampotila] on lahella [N] [astetta]|[1] la [2] est près de [3]
+[huomenna] [lampotila] on lahella [N] [astetta]|[1] la [2] est près de [3] [4]
 [huomenna] [lampotila] on vajaat [N] [astetta]|[1] la [2] est presque [3] [4]
 2-keskiyohon asti|jusqu'à mardi minuit
 [huomenna] [lampotila] on vahan yli [N] [astetta]|[1] la [2] est légèrement au-dessus de [3] [4]
@@ -1880,7 +1880,7 @@ aamuyohon asti|jusqu'aux premières heures
 1-aamuyohon asti|jusqu'à lundi aux premières heures
 [iltapaivalla] kuurot voivat olla voimakkaita|les averses peuvent être fortes [1]
 B3N:lle|pour le nord de la mer de Botnie
-[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] le vent commence à faiblir et devient variable
+[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi|[1] le vent commence à faiblir et devient variable
 [iltapaivalla] tuuli alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] le vent commence à faiblir et devient temporairement variable
 [iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] commence à faiblir et devient variable
 [iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] commence à faiblir et devient temporairement variable
@@ -1943,7 +1943,7 @@ tiepiiri-o4:lle|pour la région intérieure nord d'Oulu
 [etelatuuli] alkaa voimistua [nopeasti]|[1] commence à se renforcer [2]
 [iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] commence à se renforcer et devient variable
 [iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] le vent commence à se renforcer et devient temporairement variable
-[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] commence à se renforcer et devient variable
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] commence à se renforcer et devient variable
 [iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[2] faiblit [3]  [1] et tourne vers [4]
 [pohjoistuuli] heikkenee [nopeasti]|[1] faiblit [2]
 [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]|[1] faiblit [2] et tourne [4] vers [3]

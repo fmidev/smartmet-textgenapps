@@ -1411,7 +1411,7 @@ saa on [poikkeuksellisen] [kylmaa]|погода [1] [2]
 [iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta|ветер делает погоду ощущаемой более прохладной [2] [1]
 saa on hyvin tuulinen|погода очень ветреная
 saa on [iltapaivalla] [rannikolla] [tuulinen]|ветрено [3] [2] [1]
-[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1] [2] [1]
+[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1] [2] [3]
 pakkasta on vahan yli [N] [astetta]|температура немного ниже [1] [2]
 pakkasta on vajaat [N] [astetta]|температура почти [1] [2]
 pakkanen on lahella [N] [astetta]|температура около [1] [2]
@@ -1480,7 +1480,7 @@ saa on ajankohtaan nahden tavanomaista lampimampaa|погода значител
 [sisamaassa] [lampotila] on noin [N] [astetta]|[2] около [3] [4] [1]
 [sisamaassa] [lampotila] on [N] asteen tienoilla|[2] примерно [3] градусов [1]
 [sisamaassa] [lampotila] on [N] asteen tuntumassa|[2] близко к [3] градусам [1]
-[sisamaassa] [lampotila] on lahella [N] [astetta]|[2] около [3] [1]
+[sisamaassa] [lampotila] on lahella [N] [astetta]|[2] около [3] [4] [1]
 [sisamaassa] [lampotila] on vajaat [N] [astetta]|[2] почти [3] [4] [1]
 [sisamaassa] [lampotila] on vahan yli [N] [astetta]|[2] немного выше [3] [4] [1]
 [huomenna] [lampotila] on [suunnilleen sama]|[1] [2] [3]
@@ -1488,7 +1488,7 @@ saa on ajankohtaan nahden tavanomaista lampimampaa|погода значител
 [huomenna] [lampotila] on noin [N] [astetta]|[1] [2] около [3] [4]
 [huomenna] [lampotila] on [N] asteen tienoilla|[1] [2] примерно [3] градусов
 [huomenna] [lampotila] on [N] asteen tuntumassa|[1] [2] близко к [3] градусам
-[huomenna] [lampotila] on lahella [N] [astetta]|[1] [2] около [3]
+[huomenna] [lampotila] on lahella [N] [astetta]|[1] [2] около [3] [4]
 [huomenna] [lampotila] on vajaat [N] [astetta]|[1] [2] почти [3] [4]
 2-keskiyohon asti|до вторничной полуночи
 [huomenna] [lampotila] on vahan yli [N] [astetta]|[1] [2] немного выше [3] [4]
@@ -1881,7 +1881,7 @@ aamuyohon asti|до ранних часов
 1-aamuyohon asti|до ранних часов понедельника
 [iltapaivalla] kuurot voivat olla voimakkaita|шквалы могут быть сильными [1]
 B3N:lle|для Северного Ботнического моря
-[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] ветер начинает ослабевать и становится переменным
+[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi|[1] ветер начинает ослабевать и становится переменным
 [iltapaivalla] tuuli alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] ветер начинает ослабевать и временно становится переменным
 [iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi|[1] [2] начинает ослабевать и становится переменным
 [iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi|[1] [2] начинает ослабевать и временно становится переменным
@@ -1944,7 +1944,7 @@ tiepiiri-o4:lle|для северного внутреннего района О
 [etelatuuli] alkaa voimistua [nopeasti]|[1] начинает усиливаться [2]
 [iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] начинает усиливаться и становится переменным
 [iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi|[1] ветер начинает усиливаться и временно становится переменным
-[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] [2] начинает усиливаться и становится переменным
+[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi|[1] начинает усиливаться и становится переменным
 [iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]|[2] ослабевает [3] [1] и поворачивает [4]
 [pohjoistuuli] heikkenee [nopeasti]|[1] ослабевает [2]
 [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]|[1] ослабевает [2] и поворачивает [4] [3]

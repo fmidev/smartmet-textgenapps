@@ -995,6 +995,7 @@ hehtopascalia|百帕
 paine|气压
 keli muuttuu|路况变为
 lumisateen takia|因降雪
+lumisateesta|因降雪变差
 haukivesi:lle|豪基韦西地区
 kallavesi:lle|卡拉韦西地区
 malaren:lle|梅拉伦地区
@@ -1412,7 +1413,7 @@ saa on [poikkeuksellisen] [kylmaa]|天气[1][2]
 [iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta|[1][2]风使体感更凉爽
 saa on hyvin tuulinen|天气非常有风
 saa on [iltapaivalla] [rannikolla] [tuulinen]|[1][2]天气[3]
-[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1][2]霜冻刺骨
+[iltapaivalla] [rannikolla] [pakkanen on purevaa]|[1][2][3]
 pakkasta on vahan yli [N] [astetta]|严寒略高于[1][2]
 pakkasta on vajaat [N] [astetta]|严寒不足[1][2]
 pakkanen on lahella [N] [astetta]|严寒接近[1][2]
