@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 26.4.13
+Version: 26.4.17
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -33,7 +33,7 @@ BuildRequires: mysql++-devel
 BuildRequires: rpm-build
 BuildRequires: smartmet-library-calculator-devel >= 26.4.13
 BuildRequires: smartmet-library-newbase-devel >= 26.2.4
-BuildRequires: smartmet-library-textgen-devel >= 26.4.13
+BuildRequires: smartmet-library-textgen-devel >= 26.4.17
 BuildRequires: smartmet-library-macgyver-devel >= 26.4.13
 BuildRequires: zlib-devel
 Requires: %{smartmet_boost}-iostreams
@@ -50,7 +50,7 @@ Requires: mysql++
 Requires: smartmet-library-calculator >= 26.4.13
 Requires: smartmet-library-macgyver >= 26.4.13
 Requires: smartmet-library-newbase >= 26.2.4
-Requires: smartmet-library-textgen >= 26.4.13
+Requires: smartmet-library-textgen >= 26.4.17
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -86,6 +86,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_bindir}/qdtext
 
 %changelog
+* Fri Apr 17 2026 Mika Heiskanen <mika.heiskanen@fmi.fi> - 26.4.17-1.fmi
+- Updated RPM requirement, po dictionaries are now needed
+
 * Mon Apr 13 2026 Mika Heiskanen <mika.heiskanen@fmi.fi> - 26.4.13-1.fmi
 - Repackaged due to API changes
 
