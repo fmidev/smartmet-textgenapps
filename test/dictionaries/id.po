@@ -1,0 +1,6452 @@
+# SmartMet textgen dictionary: Indonesian (id)
+# Generated from id.txt by tools/txt_to_po.py
+#
+# Keywords are opaque identifiers and must not be translated.
+# Tokens in [brackets] are placeholders and must be kept as-is.
+msgid ""
+msgstr ""
+"Project-Id-Version: smartmet-library-textgen\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id\n"
+"X-SmartMet-Language-Name: Indonesian\n"
+"X-SmartMet-Full: no\n"
+
+msgid "o'clock"
+msgstr ""
+
+msgid "meri-lappi:lle"
+msgstr "untuk Meri-Lappi"
+
+msgid "pohjois-pohjanmaan itaosa:lle"
+msgstr "untuk Bagian Timur Ostrobothnia Utara"
+
+msgid "pohjois-pohjanmaan lansiosa:lle"
+msgstr "untuk Bagian Barat Ostrobothnia Utara"
+
+msgid "pohjanmaa ja etela-pohjanmaa:lle"
+msgstr "untuk Ostrobothnia dan Ostrobothnia Selatan"
+
+msgid "etela-lappi:lle"
+msgstr "untuk Lapland Selatan"
+
+msgid "keski-lappi:lle"
+msgstr "untuk Lapland Tengah"
+
+msgid "utsjoki ja inari:lle"
+msgstr "untuk Utsjoki dan Inari"
+
+msgid "finnmarkin lansiosa:lle"
+msgstr "untuk Bagian Barat Finnmark"
+
+msgid "finnmarkin itaosa:lle"
+msgstr "untuk Bagian Timur Finnmark"
+
+msgid "murmanskin alueen lansiosa:lle"
+msgstr "untuk Bagian Barat Oblast Murmansk"
+
+msgid "pohjois-ruotsi:lle"
+msgstr "untuk Swedia Utara"
+
+msgid "[iltapaivalla] lumikuurot voivat olla sakeita"
+msgstr "hujan salju bisa lebat [1]"
+
+msgid "[iltapaivalla] lumisade voi olla sakeaa"
+msgstr "salju bisa lebat [1]"
+
+msgid "huomiseen iltapaivaan asti"
+msgstr "hingga sore besok"
+
+msgid "aamuyosta"
+msgstr "dari dini hari"
+
+msgid "astetta(noin n)"
+msgstr "derajat"
+
+msgid "huomattavasti lampimampi"
+msgstr "jauh lebih hangat"
+
+msgid "lampimampi"
+msgstr "lebih hangat"
+
+msgid "seuraava yo"
+msgstr "malam berikutnya"
+
+msgid "seuraavana yona"
+msgstr "malam berikutnya"
+
+msgid "on"
+msgstr "adalah"
+
+msgid "ankaran hallan todennakoisyys"
+msgstr "kemungkinan embun beku parah"
+
+msgid "hallan todennakoisyys"
+msgstr "kemungkinan embun beku"
+
+msgid "7-vastaisena yona"
+msgstr "malam Minggu"
+
+msgid "6-vastaisena yona"
+msgstr "malam Sabtu"
+
+msgid "5-vastaisena yona"
+msgstr "malam Jumat"
+
+msgid "4-vastaisena yona"
+msgstr "malam Kamis"
+
+msgid "3-vastaisena yona"
+msgstr "malam Rabu"
+
+msgid "2-vastaisena yona"
+msgstr "malam Selasa"
+
+msgid "1-vastaisena yona"
+msgstr "malam Senin"
+
+msgid "sama"
+msgstr "sama"
+
+msgid "hieman pienempi"
+msgstr "sedikit lebih kecil"
+
+msgid "hieman suurempi"
+msgstr "sedikit lebih besar"
+
+msgid "pienempi"
+msgstr "lebih kecil"
+
+msgid "suurempi"
+msgstr "lebih besar"
+
+msgid "alin suhteellinen kosteus"
+msgstr "kelembaban relatif terendah"
+
+msgid "7-na"
+msgstr "hari Minggu"
+
+msgid "6-na"
+msgstr "hari Sabtu"
+
+msgid "5-na"
+msgstr "hari Jumat"
+
+msgid "4-na"
+msgstr "hari Kamis"
+
+msgid "3-na"
+msgstr "hari Rabu"
+
+msgid "2-na"
+msgstr "hari Selasa"
+
+msgid "1-na"
+msgstr "hari Senin"
+
+msgid "odotettavissa"
+msgstr "prakiraan cuaca"
+
+msgid "7-illasta"
+msgstr "mulai Minggu malam"
+
+msgid "1-illasta"
+msgstr "mulai Senin malam"
+
+msgid "2-illasta"
+msgstr "mulai Selasa malam"
+
+msgid "3-illasta"
+msgstr "mulai Rabu malam"
+
+msgid "4-illasta"
+msgstr "mulai Kamis malam"
+
+msgid "5-illasta"
+msgstr "mulai Jumat malam"
+
+msgid "6-illasta"
+msgstr "mulai Sabtu malam"
+
+msgid "7-aamuun"
+msgstr "hingga Minggu pagi"
+
+msgid "1-aamuun"
+msgstr "hingga Senin pagi"
+
+msgid "2-aamuun"
+msgstr "hingga Selasa pagi"
+
+msgid "3-aamuun"
+msgstr "hingga Rabu pagi"
+
+msgid "4-aamuun"
+msgstr "hingga Kamis pagi"
+
+msgid "5-aamuun"
+msgstr "hingga Jumat pagi"
+
+msgid "6-aamuun"
+msgstr "hingga Sabtu pagi"
+
+msgid "saa"
+msgstr "cuaca"
+
+msgid "keskilampotila"
+msgstr "suhu rata-rata"
+
+msgid "keskimaarainen ylin lampotila"
+msgstr "suhu maksimum rata-rata"
+
+msgid "keskimaarainen alin lampotila"
+msgstr "suhu minimum rata-rata"
+
+msgid "sadesumma"
+msgstr "total curah hujan"
+
+msgid "astetta"
+msgstr "derajat"
+
+msgid "millimetria"
+msgstr "milimeter"
+
+msgid "1-aamusta"
+msgstr "mulai Senin pagi"
+
+msgid "2-aamusta"
+msgstr "mulai Selasa pagi"
+
+msgid "3-aamusta"
+msgstr "mulai Rabu pagi"
+
+msgid "4-aamusta"
+msgstr "mulai Kamis pagi"
+
+msgid "5-aamusta"
+msgstr "mulai Jumat pagi"
+
+msgid "6-aamusta"
+msgstr "mulai Sabtu pagi"
+
+msgid "7-aamusta"
+msgstr "mulai Minggu pagi"
+
+msgid "alkavan"
+msgstr ""
+
+msgid "1-iltaan"
+msgstr "hingga Senin malam"
+
+msgid "2-vuorokauden saa"
+msgstr "untuk dua hari ke depan"
+
+msgid "3-vuorokauden saa"
+msgstr "untuk tiga hari ke depan"
+
+msgid "4-vuorokauden saa"
+msgstr "untuk empat hari ke depan"
+
+msgid "5-vuorokauden saa"
+msgstr "untuk lima hari ke depan"
+
+msgid "6-vuorokauden saa"
+msgstr "untuk enam hari ke depan"
+
+msgid "7-vuorokauden saa"
+msgstr "untuk tujuh hari ke depan"
+
+msgid "8-vuorokauden saa"
+msgstr "untuk delapan hari ke depan"
+
+msgid "9-vuorokauden saa"
+msgstr "untuk sembilan hari ke depan"
+
+msgid "10-vuorokauden saa"
+msgstr "untuk 10 hari ke depan"
+
+msgid "1-keskipaivaan asti"
+msgstr "hingga siang Senin"
+
+msgid "2-keskipaivaan asti"
+msgstr "hingga siang Selasa"
+
+msgid "3-keskipaivaan asti"
+msgstr "hingga siang Rabu"
+
+msgid "4-keskipaivaan asti"
+msgstr "hingga siang Kamis"
+
+msgid "5-keskipaivaan asti"
+msgstr "hingga siang Jumat"
+
+msgid "6-keskipaivaan asti"
+msgstr "hingga siang Sabtu"
+
+msgid "7-keskipaivaan asti"
+msgstr "hingga siang Minggu"
+
+msgid "yli"
+msgstr "di atas"
+
+msgid "2-iltaan"
+msgstr "hingga Selasa malam"
+
+msgid "3-iltaan"
+msgstr "hingga Rabu malam"
+
+msgid "4-iltaan"
+msgstr "hingga Kamis malam"
+
+msgid "5-iltaan"
+msgstr "hingga Jumat malam"
+
+msgid "6-iltaan"
+msgstr "hingga Sabtu malam"
+
+msgid "7-iltaan"
+msgstr "hingga Minggu malam"
+
+msgid "monin paikoin enemman"
+msgstr "lebih banyak di banyak tempat"
+
+msgid "paikoin enemman"
+msgstr "lebih banyak di beberapa tempat"
+
+msgid "monin paikoin"
+msgstr "di banyak tempat"
+
+msgid "paikoin"
+msgstr "di beberapa tempat"
+
+msgid "asti"
+msgstr ""
+
+msgid "huomattavasti korkeampi"
+msgstr "jauh lebih tinggi"
+
+msgid "korkeampi"
+msgstr "lebih tinggi"
+
+msgid "hieman korkeampi"
+msgstr "sedikit lebih tinggi"
+
+msgid "suunnilleen sama"
+msgstr "kira-kira sama"
+
+msgid "hieman alempi"
+msgstr "sedikit lebih rendah"
+
+msgid "alempi"
+msgstr "lebih rendah"
+
+msgid "huomattavasti alempi"
+msgstr "jauh lebih rendah"
+
+msgid "noin"
+msgstr "sekitar"
+
+msgid "seuraavana paivana"
+msgstr "hari berikutnya"
+
+msgid "paivan ylin lampotila"
+msgstr "suhu maksimum siang hari"
+
+msgid "yon alin lampotila"
+msgstr "suhu minimum malam hari"
+
+msgid "paivien ylin lampotila"
+msgstr "suhu maksimum harian"
+
+msgid "oiden alin lampotila"
+msgstr "suhu minimum malam"
+
+msgid "paivalampotila"
+msgstr "suhu siang hari"
+
+msgid "yolampotila"
+msgstr "suhu malam hari"
+
+msgid "lopuksi"
+msgstr "pada akhirnya"
+
+msgid "8-suunnasta"
+msgstr "dari barat laut"
+
+msgid "7-suunnasta"
+msgstr "dari barat"
+
+msgid "6-suunnasta"
+msgstr "dari barat daya"
+
+msgid "5-suunnasta"
+msgstr "dari selatan"
+
+msgid "4-suunnasta"
+msgstr "dari tenggara"
+
+msgid "3-suunnasta"
+msgstr "dari timur"
+
+msgid "2-suunnasta"
+msgstr "dari timur laut"
+
+msgid "1-suunnasta"
+msgstr "dari utara"
+
+msgid "8-suuntaan"
+msgstr "ke barat laut"
+
+msgid "7-suuntaan"
+msgstr "ke barat"
+
+msgid "6-suuntaan"
+msgstr "ke barat daya"
+
+msgid "5-suuntaan"
+msgstr "ke selatan"
+
+msgid "4-suuntaan"
+msgstr "ke tenggara"
+
+msgid "3-suuntaan"
+msgstr "ke timur"
+
+msgid "2-suuntaan"
+msgstr "ke timur laut"
+
+msgid "1-suuntaan"
+msgstr "ke utara"
+
+msgid "alueen yli"
+msgstr "di atas daerah"
+
+msgid "liikkuu"
+msgstr "bergerak"
+
+msgid "kosteammaksi"
+msgstr "lebih lembab"
+
+msgid "kuivemmaksi"
+msgstr "lebih kering"
+
+msgid "muuttuu"
+msgstr "berubah"
+
+msgid "viilenee"
+msgstr "menjadi lebih dingin"
+
+msgid "lampenee"
+msgstr "menjadi lebih hangat"
+
+msgid "sadealue"
+msgstr "daerah hujan"
+
+msgid "leviaa"
+msgstr "meluas"
+
+msgid "loittonee"
+msgstr "menjauh"
+
+msgid "lahestyy"
+msgstr "mendekat"
+
+msgid "laaja"
+msgstr "luas"
+
+msgid "korkeapaineen alue"
+msgstr "daerah tekanan tinggi"
+
+msgid "matalapaineen alue"
+msgstr "daerah tekanan rendah"
+
+msgid "syvenee"
+msgstr "semakin dalam"
+
+msgid "korkeapaine"
+msgstr "tekanan tinggi"
+
+msgid "matalapaine"
+msgstr "tekanan rendah"
+
+msgid "lampotila"
+msgstr "suhu"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "heikkoa"
+msgstr "lemah"
+
+msgid "kohtalaista"
+msgstr "sedang"
+
+msgid "navakkaa"
+msgstr "agak kencang"
+
+msgid "kovaa"
+msgstr "kencang"
+
+msgid "myrskya"
+msgstr "badai"
+
+msgid "tuulta"
+msgstr "angin"
+
+msgid "suunnaltaan vaihtelevaa"
+msgstr "berubah-ubah"
+
+msgid "1-tuulta"
+msgstr "angin utara"
+
+msgid "2-tuulta"
+msgstr "angin timur laut"
+
+msgid "3-tuulta"
+msgstr "angin timur"
+
+msgid "4-tuulta"
+msgstr "angin tenggara"
+
+msgid "5-tuulta"
+msgstr "angin selatan"
+
+msgid "6-tuulta"
+msgstr "angin barat daya"
+
+msgid "7-tuulta"
+msgstr "angin barat"
+
+msgid "8-tuulta"
+msgstr "angin barat laut"
+
+msgid "yolla"
+msgstr "malam hari"
+
+msgid "heikkenevaa"
+msgstr "melemah"
+
+msgid "tuuli"
+msgstr "angin"
+
+msgid "1-puoleista tuulta"
+msgstr "angin utara umumnya"
+
+msgid "2-puoleista tuulta"
+msgstr "angin timur laut umumnya"
+
+msgid "3-puoleista tuulta"
+msgstr "angin timur umumnya"
+
+msgid "4-puoleista tuulta"
+msgstr "angin tenggara umumnya"
+
+msgid "5-puoleista tuulta"
+msgstr "angin selatan umumnya"
+
+msgid "6-puoleista tuulta"
+msgstr "angin barat daya umumnya"
+
+msgid "7-puoleista tuulta"
+msgstr "angin barat umumnya"
+
+msgid "8-puoleista tuulta"
+msgstr "angin barat laut umumnya"
+
+msgid "ajoittain lumisadetta"
+msgstr "salju kadang-kadang"
+
+msgid "ajoittain sadetta"
+msgstr "hujan kadang-kadang"
+
+msgid "ajoittain ukkosta"
+msgstr "petir"
+
+msgid "heikkoa sadetta"
+msgstr "hujan lemah"
+
+msgid "lumikuuroja"
+msgstr "hujan salju"
+
+msgid "lumisadetta"
+msgstr "salju"
+
+msgid "voimistuvaa"
+msgstr "menguat"
+
+msgid "vahvistuu"
+msgstr "menguat"
+
+msgid "uusimaa"
+msgstr "Uusimaa"
+
+msgid "mahdollisesti ukkosta"
+msgstr "kemungkinan petir"
+
+msgid "paikoin ukkosta"
+msgstr "petir di beberapa tempat"
+
+msgid "ukkosta"
+msgstr "petir"
+
+msgid "melko selkeaa"
+msgstr "agak cerah"
+
+msgid "miinus"
+msgstr "minus"
+
+msgid "pilvistyvaa"
+msgstr "awan semakin tebal"
+
+msgid "pilvista"
+msgstr "berawan"
+
+msgid "poutaa"
+msgstr "cuaca cerah"
+
+msgid "puolipilvista"
+msgstr "sebagian berawan"
+
+msgid "runsasta sadetta"
+msgstr "hujan lebat"
+
+msgid "sadetta"
+msgstr "hujan"
+
+msgid "sakeaa lumisadetta"
+msgstr "salju lebat"
+
+msgid "sakeita lumikuuroja"
+msgstr "hujan salju lebat"
+
+msgid "selkenevaa"
+msgstr "awan berkurang"
+
+msgid "selkeaa"
+msgstr "cerah"
+
+msgid "tai"
+msgstr "atau"
+
+msgid "tuuli heikkenee"
+msgstr "angin melemah menjadi"
+
+msgid "vaihtelevaa pilvisyytta"
+msgstr "awan tidak menentu"
+
+msgid "vesisadetta"
+msgstr "hujan"
+
+msgid "voimakkaita kuuroja"
+msgstr "hujan lebat"
+
+msgid "vahaisia kuuroja"
+msgstr "hujan ringan"
+
+msgid "vahaista lumisadetta"
+msgstr "salju ringan"
+
+msgid "heikoksi"
+msgstr "lemah"
+
+msgid "kohtalaiseksi"
+msgstr "sedang"
+
+msgid "navakaksi"
+msgstr "agak kencang"
+
+msgid "kovaksi"
+msgstr "kencang"
+
+msgid "myrskyksi"
+msgstr "badai"
+
+msgid "1-tuuleksi"
+msgstr "angin utara"
+
+msgid "2-tuuleksi"
+msgstr "angin timur laut"
+
+msgid "3-tuuleksi"
+msgstr "angin timur"
+
+msgid "4-tuuleksi"
+msgstr "angin tenggara"
+
+msgid "5-tuuleksi"
+msgstr "angin selatan"
+
+msgid "6-tuuleksi"
+msgstr "angin barat daya"
+
+msgid "7-tuuleksi"
+msgstr "angin barat"
+
+msgid "8-tuuleksi"
+msgstr "angin barat laut"
+
+msgid "1-puoleiseksi tuuleksi"
+msgstr "angin utara umumnya"
+
+msgid "2-puoleiseksi tuuleksi"
+msgstr "angin timur laut umumnya"
+
+msgid "3-puoleiseksi tuuleksi"
+msgstr "angin timur umumnya"
+
+msgid "4-puoleiseksi tuuleksi"
+msgstr "angin tenggara umumnya"
+
+msgid "5-puoleiseksi tuuleksi"
+msgstr "angin selatan umumnya"
+
+msgid "6-puoleiseksi tuuleksi"
+msgstr "angin barat daya umumnya"
+
+msgid "7-puoleiseksi tuuleksi"
+msgstr "angin barat umumnya"
+
+msgid "8-puoleiseksi tuuleksi"
+msgstr "angin barat laut umumnya"
+
+msgid "tuuli tyyntyy"
+msgstr "angin menjadi tenang"
+
+msgid "tyyneksi"
+msgstr "tenang"
+
+msgid "tyynta"
+msgstr "angin tenang"
+
+msgid "viiva"
+msgstr "ke"
+
+msgid "rantasadetta"
+msgstr "hujan es"
+
+msgid "saa on epavakaista"
+msgstr "cuaca tidak stabil"
+
+msgid "lumi-"
+msgstr "salju"
+
+msgid "ranta-"
+msgstr "hujan es"
+
+msgid "vesi-"
+msgstr "hujan"
+
+msgid "edelleen"
+msgstr "berlanjut"
+
+msgid "enimmakseen"
+msgstr "sebagian besar"
+
+msgid "ajoittain sateista"
+msgstr "hujan kadang-kadang"
+
+msgid "paivalla"
+msgstr "siang hari"
+
+msgid "hirmumyrskya"
+msgstr "badai besar"
+
+msgid "hirmumyrskyksi"
+msgstr "badai besar"
+
+msgid "saaennuste"
+msgstr "laporan cuaca"
+
+msgid "kello"
+msgstr ""
+
+msgid "aland:lle"
+msgstr "untuk Kepulauan Åland"
+
+msgid "etela-karjala:lle"
+msgstr "untuk Karelia Selatan"
+
+msgid "etela-pohjanmaa:lle"
+msgstr "untuk Ostrobothnia Selatan"
+
+msgid "etela-savo:lle"
+msgstr "untuk Savonia Selatan"
+
+msgid "hame:lle"
+msgstr "untuk Tavastia"
+
+msgid "kainuu:lle"
+msgstr "untuk Kainuu"
+
+msgid "keski-pohjanmaa:lle"
+msgstr "untuk Ostrobothnia Tengah"
+
+msgid "keski-suomi:lle"
+msgstr "untuk Finlandia Tengah"
+
+msgid "koillismaa:lle"
+msgstr "untuk Koillismaa"
+
+msgid "kymenlaakso:lle"
+msgstr "untuk Kymenlaakso"
+
+msgid "lansi-lappi:lle"
+msgstr "untuk Lapland Barat"
+
+msgid "nyland:lle"
+msgstr "untuk Uusimaa"
+
+msgid "osterbotten:lle"
+msgstr "untuk Ostrobothnia"
+
+msgid "paijat-hame:lle"
+msgstr "untuk Päijänne Tavastia"
+
+msgid "pirkanmaa:lle"
+msgstr "untuk Pirkanmaa"
+
+msgid "pohjois-karjala:lle"
+msgstr "untuk Karelia Utara"
+
+msgid "pohjois-lappi:lle"
+msgstr "untuk Lapland Utara"
+
+msgid "pohjois-pohjanmaa:lle"
+msgstr "untuk Ostrobothnia Utara"
+
+msgid "pohjois-savo:lle"
+msgstr "untuk Savonia Utara"
+
+msgid "satakunta:lle"
+msgstr "untuk Satakunta"
+
+msgid "uusimaa:lle"
+msgstr "untuk Uusimaa"
+
+msgid "varsinais-suomi:lle"
+msgstr "untuk Finlandia Proper"
+
+msgid "huomattavasti suurempi"
+msgstr "jauh lebih besar"
+
+msgid "huomattavasti pienempi"
+msgstr "jauh lebih kecil"
+
+msgid "rannikolla"
+msgstr "di pesisir"
+
+msgid "metria sekunnissa"
+msgstr "meter per detik"
+
+msgid "1-alkaen"
+msgstr "mulai Senin"
+
+msgid "2-alkaen"
+msgstr "mulai Selasa"
+
+msgid "3-alkaen"
+msgstr "mulai Rabu"
+
+msgid "4-alkaen"
+msgstr "mulai Kamis"
+
+msgid "5-alkaen"
+msgstr "mulai Jumat"
+
+msgid "6-alkaen"
+msgstr "mulai Sabtu"
+
+msgid "7-alkaen"
+msgstr "mulai Minggu"
+
+msgid "tanaan"
+msgstr "hari ini"
+
+msgid "huomenna"
+msgstr "besok"
+
+msgid "ylihuomenna"
+msgstr "lusa"
+
+msgid "ensi yona"
+msgstr "malam hari"
+
+msgid "huomisaamuna"
+msgstr "besok pagi"
+
+msgid "aamulla"
+msgstr "pagi hari"
+
+msgid "illalla"
+msgstr "malam"
+
+msgid "iltapaivalla"
+msgstr "sore hari"
+
+msgid "aamuyolla"
+msgstr "lewat tengah malam"
+
+msgid "keskipaivalla"
+msgstr "siang hari"
+
+msgid "iltayolla"
+msgstr "sebelum tengah malam"
+
+msgid "keskiyolla"
+msgstr "tengah malam"
+
+msgid "yosta alkaen"
+msgstr "mulai malam ini"
+
+msgid "aamuyosta alkaen"
+msgstr "mulai dini hari"
+
+msgid "aamusta alkaen"
+msgstr "mulai pagi"
+
+msgid "aamupaivasta alkaen"
+msgstr "mulai menjelang siang"
+
+msgid "keskipaivasta alkaen"
+msgstr "mulai siang"
+
+msgid "iltapaivasta alkaen"
+msgstr "mulai sore"
+
+msgid "illasta alkaen"
+msgstr "mulai malam"
+
+msgid "iltayosta alkaen"
+msgstr "mulai larut malam"
+
+msgid "keskiyosta alkaen"
+msgstr "mulai tengah malam"
+
+msgid "prosenttia"
+msgstr "persen"
+
+msgid "ajoittain"
+msgstr "kadang-kadang"
+
+msgid "1-na kello"
+msgstr "hari Senin"
+
+msgid "2-na kello"
+msgstr "hari Selasa"
+
+msgid "3-na kello"
+msgstr "hari Rabu"
+
+msgid "4-na kello"
+msgstr "hari Kamis"
+
+msgid "5-na kello"
+msgstr "hari Jumat"
+
+msgid "6-na kello"
+msgstr "hari Sabtu"
+
+msgid "7-na kello"
+msgstr "hari Minggu"
+
+msgid "ei suuria muutoksia saassa"
+msgstr "tidak ada perubahan signifikan dalam cuaca"
+
+msgid "saa selkenee"
+msgstr "cuaca menjadi cerah"
+
+msgid "saa muuttuu epavakaisemmaksi"
+msgstr "cuaca menjadi lebih tidak stabil"
+
+msgid "sateinen saa jatkuu"
+msgstr "cuaca hujan berlanjut"
+
+msgid "epavakainen saa jatkuu"
+msgstr "cuaca tidak stabil berlanjut"
+
+msgid "saa lauhtuu"
+msgstr "cuaca menjadi lebih ringan"
+
+msgid "saa on enimmakseen poutaista"
+msgstr "cuaca sebagian besar cerah"
+
+msgid "saa poutaantuu"
+msgstr "cuaca membaik"
+
+msgid "saa muuttuu helteiseksi"
+msgstr "cuaca menjadi panas"
+
+msgid "saa lampenee"
+msgstr "cuaca menjadi lebih hangat"
+
+msgid "saa viilenee"
+msgstr "cuaca menjadi lebih sejuk"
+
+msgid "saa muuttuu koleaksi"
+msgstr "cuaca menjadi dingin menusuk"
+
+msgid "saa kylmenee"
+msgstr "cuaca menjadi lebih dingin"
+
+msgid "helteinen saa jatkuu"
+msgstr "cuaca panas berlanjut"
+
+msgid "lammin saa jatkuu"
+msgstr "cuaca hangat berlanjut"
+
+msgid "viilea saa jatkuu"
+msgstr "cuaca sejuk berlanjut"
+
+msgid "kolea saa jatkuu"
+msgstr "cuaca dingin menusuk berlanjut"
+
+msgid "kylma saa jatkuu"
+msgstr "cuaca dingin berlanjut"
+
+msgid "virtaa"
+msgstr "mengalir"
+
+msgid "tilapaisesti"
+msgstr "sementara"
+
+msgid "lamminta"
+msgstr "hangat"
+
+msgid "kylmaa"
+msgstr "dingin"
+
+msgid "viileaa"
+msgstr "sejuk"
+
+msgid "viileampaa"
+msgstr "lebih sejuk"
+
+msgid "lampimampaa"
+msgstr "lebih hangat"
+
+msgid "kylmempaa"
+msgstr "lebih dingin"
+
+msgid "hyvin"
+msgstr "banyak"
+
+msgid "vahan"
+msgstr "sedikit"
+
+msgid "ilmaa"
+msgstr "udara"
+
+msgid "Suomeen"
+msgstr "ke Finlandia"
+
+msgid "maan"
+msgstr "negara"
+
+msgid "etelaosiin"
+msgstr "bagian selatan"
+
+msgid "keskiosiin"
+msgstr "bagian tengah"
+
+msgid "pohjoisosiin"
+msgstr "bagian utara"
+
+msgid "itaosiin"
+msgstr "bagian timur"
+
+msgid "lansiosiin"
+msgstr "bagian barat"
+
+msgid "etela-"
+msgstr "selatan"
+
+msgid "keski-"
+msgstr "tengah"
+
+msgid "pohjois-"
+msgstr "utara"
+
+msgid "ita-"
+msgstr "timur"
+
+msgid "lansi-"
+msgstr "barat"
+
+msgid "kuivempaa"
+msgstr "lebih kering"
+
+msgid "kosteampaa"
+msgstr "lebih lembab"
+
+msgid "sadealueita"
+msgstr "daerah hujan"
+
+msgid "Suomen yli"
+msgstr "di atas Finlandia"
+
+msgid "Etela-Suomen yli"
+msgstr "di atas Finlandia Selatan"
+
+msgid "Keski-Suomen yli"
+msgstr "di atas Finlandia Tengah"
+
+msgid "Pohjois-Suomen yli"
+msgstr "di atas Finlandia Utara"
+
+msgid "Ita-Suomen yli"
+msgstr "di atas Finlandia Timur"
+
+msgid "Lansi-Suomen yli"
+msgstr "di atas Finlandia Barat"
+
+msgid "Kaakkois-Suomen yli"
+msgstr "di atas Finlandia Tenggara"
+
+msgid "uusi"
+msgstr "baru"
+
+msgid "sateen todennakoisyys"
+msgstr "kemungkinan hujan"
+
+msgid "kuurosateen todennakoisyys"
+msgstr "kemungkinan hujan lebat"
+
+msgid "ukkosen todennakoisyys"
+msgstr "kemungkinan petir"
+
+msgid "pakkanen jatkuu"
+msgstr "embun beku berlanjut"
+
+msgid "pakkanen kiristyy"
+msgstr "embun beku semakin kuat"
+
+msgid "pakkanen heikkenee"
+msgstr "embun beku melemah"
+
+msgid "kuuluu"
+msgstr "termasuk"
+
+msgid "sateineen"
+msgstr "dengan hujan"
+
+msgid "sadealueineen"
+msgstr "dengan daerah hujan"
+
+msgid "hajanaisine sadealueineen"
+msgstr "dengan daerah hujan tersebar"
+
+msgid "Lounais-Suomen yli"
+msgstr "di atas Finlandia Barat Daya"
+
+msgid "saapuu"
+msgstr "mendekat"
+
+msgid "saa muuttuu sateisemmaksi"
+msgstr "cuaca menjadi lebih hujan"
+
+msgid "alue"
+msgstr "daerah"
+
+msgid "pohjanmaa:lle"
+msgstr "untuk Ostrobothnia"
+
+msgid "suomi:lle"
+msgstr "untuk Finlandia"
+
+msgid "aluksi"
+msgstr "pada awalnya"
+
+msgid "ahvenanmaa:lle"
+msgstr "untuk Åland"
+
+msgid "huomisesta alkaen"
+msgstr "mulai besok"
+
+msgid "ja"
+msgstr "dan"
+
+msgid "tiepiiri-hame:lle"
+msgstr "untuk distrik jalan Tavastia"
+
+msgid "tiepiiri-kaakkois-lappi:lle"
+msgstr "untuk Lapland Tenggara"
+
+msgid "tiepiiri-kaakkois-suomi:lle"
+msgstr "untuk distrik jalan Finlandia Tenggara"
+
+msgid "tiepiiri-kasivarsi:lle"
+msgstr "untuk Lapland Barat Laut"
+
+msgid "tiepiiri-keski-lappi:lle"
+msgstr "untuk Lapland Tengah"
+
+msgid "tiepiiri-keski-suomi:lle"
+msgstr "untuk distrik jalan Finlandia Tengah"
+
+msgid "tiepiiri-lounais-lappi:lle"
+msgstr "untuk Lapland Barat Daya"
+
+msgid "tiepiiri-oulu-ita:lle"
+msgstr "untuk bagian timur distrik jalan Oulu"
+
+msgid "tiepiiri-oulu-lansi:lle"
+msgstr "untuk bagian barat distrik jalan Oulu"
+
+msgid "tiepiiri-savo-karjala:lle"
+msgstr "untuk distrik jalan Savonia-Karelia"
+
+msgid "tiepiiri-turku:lle"
+msgstr "untuk distrik jalan Turku"
+
+msgid "tiepiiri-uusimaa:lle"
+msgstr "untuk distrik jalan Uusimaa"
+
+msgid "tiepiiri-vaasa:lle"
+msgstr "untuk distrik jalan Vaasa"
+
+msgid "tiepiiri-yla-lappi:lle"
+msgstr "untuk Lapland Atas"
+
+msgid "tienpintalampotila"
+msgstr "suhu permukaan jalan"
+
+msgid "ensimmaisen 12 tunnin sademaara"
+msgstr "total curah hujan 12 jam pertama"
+
+msgid "seuraavan 12 tunnin"
+msgstr "untuk 12 jam berikutnya"
+
+msgid "seuraavan 24 tunnin sademaara"
+msgstr "total curah hujan 24 jam ke depan"
+
+msgid "tiet ovat"
+msgstr "jalan"
+
+msgid "teilla on"
+msgstr "jalan"
+
+msgid "jaisia"
+msgstr "berlapis es"
+
+msgid "osittain jaisia"
+msgstr "sebagian berlapis es"
+
+msgid "kuuraa"
+msgstr "tertutup embun beku"
+
+msgid "sohjoa"
+msgstr "tertutup salju basah"
+
+msgid "lunta"
+msgstr "tertutup salju"
+
+msgid "markia"
+msgstr "basah"
+
+msgid "kosteita"
+msgstr "lembab"
+
+msgid "kuivia"
+msgstr "kering"
+
+msgid "kuuraisia"
+msgstr "tertutup embun beku"
+
+msgid "sohjoisia"
+msgstr "tertutup salju basah"
+
+msgid "lumisia"
+msgstr "tertutup salju"
+
+msgid "tiet ovat (sivulause)"
+msgstr ""
+
+msgid "yleisesti"
+msgstr "umumnya"
+
+msgid "kanta-hame:lle"
+msgstr "untuk Tavastia Proper"
+
+msgid "ita-uusimaa:lle"
+msgstr "untuk Uusimaa Timur"
+
+msgid "lappi:lle"
+msgstr "untuk Lapland"
+
+msgid "lapin-laani:lle"
+msgstr "untuk provinsi Lapland"
+
+msgid "oulun-laani:lle"
+msgstr "untuk provinsi Oulu"
+
+msgid "ita-suomen-laani:lle"
+msgstr "untuk provinsi Finlandia Timur"
+
+msgid "lansi-suomen-laani:lle"
+msgstr "untuk provinsi Finlandia Barat"
+
+msgid "etela-suomen-laani:lle"
+msgstr "untuk provinsi Finlandia Selatan"
+
+msgid "ahvenanmaan-laani:lle"
+msgstr "untuk provinsi Åland"
+
+msgid "7-paivalla"
+msgstr "hari Minggu siang"
+
+msgid "2-aamuna"
+msgstr "Selasa pagi"
+
+msgid "3-aamuna"
+msgstr "Rabu pagi"
+
+msgid "4-aamuna"
+msgstr "Kamis pagi"
+
+msgid "5-aamuna"
+msgstr "Jumat pagi"
+
+msgid "6-aamuna"
+msgstr "Sabtu pagi"
+
+msgid "7-aamuna"
+msgstr "Minggu pagi"
+
+msgid "1-aamupaivasta alkaen"
+msgstr "mulai menjelang siang Senin"
+
+msgid "2-aamupaivasta alkaen"
+msgstr "mulai menjelang siang Selasa"
+
+msgid "3-aamupaivasta alkaen"
+msgstr "mulai menjelang siang Rabu"
+
+msgid "4-aamupaivasta alkaen"
+msgstr "mulai menjelang siang Kamis"
+
+msgid "5-aamupaivasta alkaen"
+msgstr "mulai menjelang siang Jumat"
+
+msgid "6-aamupaivasta alkaen"
+msgstr "mulai menjelang siang Sabtu"
+
+msgid "1-aamusta alkaen"
+msgstr "mulai Senin pagi"
+
+msgid "2-aamusta alkaen"
+msgstr "mulai Selasa pagi"
+
+msgid "3-aamusta alkaen"
+msgstr "mulai Rabu pagi"
+
+msgid "4-aamusta alkaen"
+msgstr "mulai Kamis pagi"
+
+msgid "5-aamusta alkaen"
+msgstr "mulai Jumat pagi"
+
+msgid "6-aamusta alkaen"
+msgstr "mulai Sabtu pagi"
+
+msgid "7-aamusta alkaen"
+msgstr "mulai Minggu pagi"
+
+msgid "1-iltana"
+msgstr "Senin malam"
+
+msgid "2-iltana"
+msgstr "Selasa malam"
+
+msgid "3-iltana"
+msgstr "Rabu malam"
+
+msgid "4-iltana"
+msgstr "Kamis malam"
+
+msgid "5-iltana"
+msgstr "Jumat malam"
+
+msgid "6-iltana"
+msgstr "Sabtu malam"
+
+msgid "7-iltana"
+msgstr "Minggu malam"
+
+msgid "1-illasta alkaen"
+msgstr "mulai Senin malam"
+
+msgid "2-illasta alkaen"
+msgstr "mulai Selasa malam"
+
+msgid "3-illasta alkaen"
+msgstr "mulai Rabu malam"
+
+msgid "4-illasta alkaen"
+msgstr "mulai Kamis malam"
+
+msgid "5-illasta alkaen"
+msgstr "mulai Jumat malam"
+
+msgid "6-illasta alkaen"
+msgstr "mulai Sabtu malam"
+
+msgid "7-illasta alkaen"
+msgstr "mulai Minggu malam"
+
+msgid "1-paivalla"
+msgstr "hari Senin siang"
+
+msgid "2-paivalla"
+msgstr "hari Selasa siang"
+
+msgid "3-paivalla"
+msgstr "hari Rabu siang"
+
+msgid "4-paivalla"
+msgstr "hari Kamis siang"
+
+msgid "5-paivalla"
+msgstr "hari Jumat siang"
+
+msgid "6-paivalla"
+msgstr "hari Sabtu siang"
+
+msgid "1-vastaisesta yosta alkaen"
+msgstr "mulai malam Senin"
+
+msgid "2-vastaisesta yosta alkaen"
+msgstr "mulai malam Selasa"
+
+msgid "3-vastaisesta yosta alkaen"
+msgstr "mulai malam Rabu"
+
+msgid "4-vastaisesta yosta alkaen"
+msgstr "mulai malam Kamis"
+
+msgid "5-vastaisesta yosta alkaen"
+msgstr "mulai malam Jumat"
+
+msgid "6-vastaisesta yosta alkaen"
+msgstr "mulai malam Sabtu"
+
+msgid "7-vastaisesta yosta alkaen"
+msgstr "mulai malam Minggu"
+
+msgid "huomisaamusta alkaen"
+msgstr "mulai besok pagi"
+
+msgid "huomisaamupaivasta alkaen"
+msgstr "mulai besok menjelang siang"
+
+msgid "huomisillasta alkaen"
+msgstr "mulai besok malam"
+
+msgid "huomenna paivalla"
+msgstr "besok siang"
+
+msgid "huomisiltana"
+msgstr "besok malam"
+
+msgid "1-aamuna"
+msgstr "Senin pagi"
+
+msgid "7-aamupaivasta alkaen"
+msgstr "mulai menjelang siang Minggu"
+
+msgid "B1:lle"
+msgstr "untuk Teluk Bothnia"
+
+msgid "B2:lle"
+msgstr "untuk Kvarken"
+
+msgid "B3:lle"
+msgstr "untuk Laut Bothnia"
+
+msgid "B4:lle"
+msgstr "untuk Laut Kepulauan dan Laut Åland"
+
+msgid "B5:lle"
+msgstr "untuk Teluk Finlandia"
+
+msgid "B6:lle"
+msgstr "untuk Teluk Riga"
+
+msgid "B7:lle"
+msgstr "untuk Baltik Utara"
+
+msgid "B8:lle"
+msgstr "untuk Baltik Tengah"
+
+msgid "B9:lle"
+msgstr "untuk Baltik Proper Tenggara"
+
+msgid "B10:lle"
+msgstr "untuk Baltik Selatan"
+
+msgid "B11:lle"
+msgstr "untuk Laut Arkona"
+
+msgid "B12:lle"
+msgstr "untuk Öresund dan Selat"
+
+msgid "B13:lle"
+msgstr "untuk Kattegat"
+
+msgid "B1N:lle"
+msgstr "untuk Teluk Bothnia Utara"
+
+msgid "B1S:lle"
+msgstr "untuk Teluk Bothnia Selatan"
+
+msgid "B4E:lle"
+msgstr "untuk Laut Kepulauan"
+
+msgid "B4W:lle"
+msgstr "untuk Laut Åland"
+
+msgid "B5E:lle"
+msgstr "untuk Teluk Finlandia Timur"
+
+msgid "B5W:lle"
+msgstr "untuk Teluk Finlandia Barat"
+
+msgid "B8E:lle"
+msgstr "untuk Baltik Tengah"
+
+msgid "B8W:lle"
+msgstr "untuk Laut Gotland"
+
+msgid "B10N:lle"
+msgstr "untuk Laut Öland"
+
+msgid "B10S:lle"
+msgstr "untuk Laut Bornholm"
+
+msgid "osittain jaisiksi"
+msgstr "sebagian berlapis es"
+
+msgid "kuuraisiksi"
+msgstr "tertutup embun beku"
+
+msgid "keli on"
+msgstr "kondisi jalan adalah"
+
+msgid "tienpinnat muuttuvat"
+msgstr "permukaan jalan akan"
+
+msgid "jaisiksi"
+msgstr "berlapis es"
+
+msgid "pakkasliukkautta"
+msgstr "licin karena embun beku"
+
+msgid "rannasta ja liukkaista"
+msgstr "diperlemah oleh permukaan jalan licin dan hujan es"
+
+msgid "tieto puuttuu"
+msgstr "data tidak tersedia"
+
+msgid "liukkaiksi jaatavasta sateesta"
+msgstr "licin karena hujan beku"
+
+msgid "rannasta ja osittain liukkaista"
+msgstr "diperlemah oleh permukaan jalan sebagian licin dan hujan es"
+
+msgid "sateesta ja osittain liukkaista"
+msgstr "diperlemah oleh permukaan jalan sebagian licin dan hujan"
+
+msgid "sateesta ja liukkaista"
+msgstr "diperlemah oleh permukaan jalan licin dan hujan"
+
+msgid "normaali"
+msgstr "normal"
+
+msgid "aanekoski:lle"
+msgstr "untuk Äänekoski"
+
+msgid "aetsa:lle"
+msgstr "untuk Äetsä"
+
+msgid "ahtari:lle"
+msgstr "untuk Ähtäri"
+
+msgid "alaharma:lle"
+msgstr "untuk Alahärmä"
+
+msgid "alajarvi:lle"
+msgstr "untuk Alajärvi"
+
+msgid "alastaro:lle"
+msgstr "untuk Alastaro"
+
+msgid "alavieska:lle"
+msgstr "untuk Alavieska"
+
+msgid "alavus:lle"
+msgstr "untuk Alavus"
+
+msgid "anjalankoski:lle"
+msgstr "untuk Anjalankoski"
+
+msgid "artjarvi:lle"
+msgstr "untuk Artjärvi"
+
+msgid "asikkala:lle"
+msgstr "untuk Asikkala"
+
+msgid "askainen:lle"
+msgstr "untuk Askainen"
+
+msgid "askola:lle"
+msgstr "untuk Askola"
+
+msgid "aura:lle"
+msgstr "untuk Aura"
+
+msgid "brando:lle"
+msgstr "untuk Brändö"
+
+msgid "dragsfjard:lle"
+msgstr "untuk Dragsfjärd"
+
+msgid "eckero:lle"
+msgstr "untuk Eckerö"
+
+msgid "elimaki:lle"
+msgstr "untuk Elimäki"
+
+msgid "enonkoski:lle"
+msgstr "untuk Enonkoski"
+
+msgid "enontekio:lle"
+msgstr "untuk Enontekiö"
+
+msgid "eno:lle"
+msgstr "untuk Eno"
+
+msgid "espoo:lle"
+msgstr "untuk Espoo"
+
+msgid "eurajoki:lle"
+msgstr "untuk Eurajoki"
+
+msgid "eura:lle"
+msgstr "untuk Eura"
+
+msgid "evijarvi:lle"
+msgstr "untuk Evijärvi"
+
+msgid "finstrom:lle"
+msgstr "untuk Finström"
+
+msgid "foglo:lle"
+msgstr "untuk Föglö"
+
+msgid "forssa:lle"
+msgstr "untuk Forssa"
+
+msgid "geta:lle"
+msgstr "untuk Geta"
+
+msgid "haapajarvi:lle"
+msgstr "untuk Haapajärvi"
+
+msgid "haapavesi:lle"
+msgstr "untuk Haapavesi"
+
+msgid "hailuoto:lle"
+msgstr "untuk Hailuoto"
+
+msgid "halikko:lle"
+msgstr "untuk Halikko"
+
+msgid "halsua:lle"
+msgstr "untuk Halsua"
+
+msgid "hameenkoski:lle"
+msgstr "untuk Hämeenkoski"
+
+msgid "hameenkyro:lle"
+msgstr "untuk Hämeenkyrö"
+
+msgid "hameenlinna:lle"
+msgstr "untuk Hämeenlinna"
+
+msgid "hamina:lle"
+msgstr "untuk Hamina"
+
+msgid "hammarland:lle"
+msgstr "untuk Hammarland"
+
+msgid "hankasalmi:lle"
+msgstr "untuk Hankasalmi"
+
+msgid "hanko:lle"
+msgstr "untuk Hanko"
+
+msgid "harjavalta:lle"
+msgstr "untuk Harjavalta"
+
+msgid "B3S:lle"
+msgstr "untuk Laut Bothnia Selatan"
+
+msgid "B7E:lle"
+msgstr "untuk Bagian Timur Baltik Utara"
+
+msgid "B7W:lle"
+msgstr "untuk Bagian Barat Baltik Utara"
+
+msgid "hartola:lle"
+msgstr "untuk Hartola"
+
+msgid "hattula:lle"
+msgstr "untuk Hattula"
+
+msgid "hauho:lle"
+msgstr "untuk Hauho"
+
+msgid "haukipudas:lle"
+msgstr "untuk Haukipudas"
+
+msgid "haukivuori:lle"
+msgstr "untuk Haukivuori"
+
+msgid "hausjarvi:lle"
+msgstr "untuk Hausjärvi"
+
+msgid "heinavesi:lle"
+msgstr "untuk Heinävesi"
+
+msgid "heinola:lle"
+msgstr "untuk Heinola"
+
+msgid "helsinki:lle"
+msgstr "untuk Helsinki"
+
+msgid "himanka:lle"
+msgstr "untuk Himanka"
+
+msgid "hirvensalmi:lle"
+msgstr "untuk Hirvensalmi"
+
+msgid "hollola:lle"
+msgstr "untuk Hollola"
+
+msgid "honkajoki:lle"
+msgstr "untuk Honkajoki"
+
+msgid "houtskari:lle"
+msgstr "untuk Houtskari"
+
+msgid "huittinen:lle"
+msgstr "untuk Huittinen"
+
+msgid "humppila:lle"
+msgstr "untuk Humppila"
+
+msgid "hyrynsalmi:lle"
+msgstr "untuk Hyrynsalmi"
+
+msgid "hyvinkaa:lle"
+msgstr "untuk Hyvinkää"
+
+msgid "iisalmi:lle"
+msgstr "untuk Iisalmi"
+
+msgid "ii:lle"
+msgstr "untuk Ii"
+
+msgid "iitti:lle"
+msgstr "untuk Iitti"
+
+msgid "ikaalinen:lle"
+msgstr "untuk Ikaalinen"
+
+msgid "ilmajoki:lle"
+msgstr "untuk Ilmajoki"
+
+msgid "ilomantsi:lle"
+msgstr "untuk Ilomantsi"
+
+msgid "imatra:lle"
+msgstr "untuk Imatra"
+
+msgid "inari:lle"
+msgstr "untuk Inari"
+
+msgid "inio:lle"
+msgstr "untuk Iniö"
+
+msgid "inkoo:lle"
+msgstr "untuk Inkoo"
+
+msgid "isojoki:lle"
+msgstr "untuk Isojoki"
+
+msgid "isokyro:lle"
+msgstr "untuk Isokyrö"
+
+msgid "jaala:lle"
+msgstr "untuk Jaala"
+
+msgid "jalasjarvi:lle"
+msgstr "untuk Jalasjärvi"
+
+msgid "jamijarvi:lle"
+msgstr "untuk Jämijärvi"
+
+msgid "jamsankoski:lle"
+msgstr "untuk Jämsänkoski"
+
+msgid "jamsa:lle"
+msgstr "untuk Jämsä"
+
+msgid "janakkala:lle"
+msgstr "untuk Janakkala"
+
+msgid "jarvenpaa:lle"
+msgstr "untuk Järvenpää"
+
+msgid "joensuu:lle"
+msgstr "untuk Joensuu"
+
+msgid "jokioinen:lle"
+msgstr "untuk Jokioinen"
+
+msgid "jomala:lle"
+msgstr "untuk Jomala"
+
+msgid "joroinen:lle"
+msgstr "untuk Joroinen"
+
+msgid "joutsa:lle"
+msgstr "untuk Joutsa"
+
+msgid "joutseno:lle"
+msgstr "untuk Joutseno"
+
+msgid "juankoski:lle"
+msgstr "untuk Juankoski"
+
+msgid "jurva:lle"
+msgstr "untuk Jurva"
+
+msgid "juuka:lle"
+msgstr "untuk Juuka"
+
+msgid "juupajoki:lle"
+msgstr "untuk Juupajoki"
+
+msgid "juva:lle"
+msgstr "untuk Juva"
+
+msgid "jyvaskylan_mlk:lle"
+msgstr "untuk Jyväskylän_mlk"
+
+msgid "jyvaskyla:lle"
+msgstr "untuk Jyväskylä"
+
+msgid "kaarina:lle"
+msgstr "untuk Kaarina"
+
+msgid "kaavi:lle"
+msgstr "untuk Kaavi"
+
+msgid "kajaani:lle"
+msgstr "untuk Kajaani"
+
+msgid "kalajoki:lle"
+msgstr "untuk Kalajoki"
+
+msgid "kalvia:lle"
+msgstr "untuk Kälviä"
+
+msgid "kalvola:lle"
+msgstr "untuk Kalvola"
+
+msgid "kangasala:lle"
+msgstr "untuk Kangasala"
+
+msgid "kangasniemi:lle"
+msgstr "untuk Kangasniemi"
+
+msgid "kankaanpaa:lle"
+msgstr "untuk Kankaanpää"
+
+msgid "kannonkoski:lle"
+msgstr "untuk Kannonkoski"
+
+msgid "kannus:lle"
+msgstr "untuk Kannus"
+
+msgid "karijoki:lle"
+msgstr "untuk Karijoki"
+
+msgid "karjaa:lle"
+msgstr "untuk Karjaa"
+
+msgid "karjalohja:lle"
+msgstr "untuk Karjalohja"
+
+msgid "karkkila:lle"
+msgstr "untuk Karkkila"
+
+msgid "karkola:lle"
+msgstr "untuk Kärkölä"
+
+msgid "karsamaki:lle"
+msgstr "untuk Kärsämäki"
+
+msgid "karstula:lle"
+msgstr "untuk Karstula"
+
+msgid "karttula:lle"
+msgstr "untuk Karttula"
+
+msgid "karvia:lle"
+msgstr "untuk Karvia"
+
+msgid "kaskinen:lle"
+msgstr "untuk Kaskinen"
+
+msgid "kauhajoki:lle"
+msgstr "untuk Kauhajoki"
+
+msgid "kauhava:lle"
+msgstr "untuk Kauhava"
+
+msgid "kauniainen:lle"
+msgstr "untuk Kauniainen"
+
+msgid "kaustinen:lle"
+msgstr "untuk Kaustinen"
+
+msgid "keitele:lle"
+msgstr "untuk Keitele"
+
+msgid "kemijarvi:lle"
+msgstr "untuk Kemijärvi"
+
+msgid "keminmaa:lle"
+msgstr "untuk Keminmaa"
+
+msgid "kemio:lle"
+msgstr "untuk Kemiö"
+
+msgid "kemi:lle"
+msgstr "untuk Kemi"
+
+msgid "kempele:lle"
+msgstr "untuk Kempele"
+
+msgid "kerava:lle"
+msgstr "untuk Kerava"
+
+msgid "kerimaki:lle"
+msgstr "untuk Kerimäki"
+
+msgid "kesalahti:lle"
+msgstr "untuk Kesälahti"
+
+msgid "kestila:lle"
+msgstr "untuk Kestilä"
+
+msgid "keuruu:lle"
+msgstr "untuk Keuruu"
+
+msgid "kihnio:lle"
+msgstr "untuk Kihniö"
+
+msgid "kiikala:lle"
+msgstr "untuk Kiikala"
+
+msgid "kiikoinen:lle"
+msgstr "untuk Kiikoinen"
+
+msgid "kiiminki:lle"
+msgstr "untuk Kiiminki"
+
+msgid "kinnula:lle"
+msgstr "untuk Kinnula"
+
+msgid "kirkkonummi:lle"
+msgstr "untuk Kirkkonummi"
+
+msgid "kisko:lle"
+msgstr "untuk Kisko"
+
+msgid "kitee:lle"
+msgstr "untuk Kitee"
+
+msgid "kittila:lle"
+msgstr "untuk Kittilä"
+
+msgid "kiukainen:lle"
+msgstr "untuk Kiukainen"
+
+msgid "kiuruvesi:lle"
+msgstr "untuk Kiuruvesi"
+
+msgid "kivijarvi:lle"
+msgstr "untuk Kivijärvi"
+
+msgid "kodisjoki:lle"
+msgstr "untuk Kodisjoki"
+
+msgid "kokar:lle"
+msgstr "untuk Kökar"
+
+msgid "kokemaki:lle"
+msgstr "untuk Kokemäki"
+
+msgid "kokkola:lle"
+msgstr "untuk Kokkola"
+
+msgid "kolari:lle"
+msgstr "untuk Kolari"
+
+msgid "konnevesi:lle"
+msgstr "untuk Konnevesi"
+
+msgid "kontiolahti:lle"
+msgstr "untuk Kontiolahti"
+
+msgid "korpilahti:lle"
+msgstr "untuk Korpilahti"
+
+msgid "korppoo:lle"
+msgstr "untuk Korppoo"
+
+msgid "korsnas:lle"
+msgstr "untuk Korsnäs"
+
+msgid "kortesjarvi:lle"
+msgstr "untuk Kortesjärvi"
+
+msgid "koski_tl:lle"
+msgstr "untuk Koski"
+
+msgid "kotka:lle"
+msgstr "untuk Kotka"
+
+msgid "kouvola:lle"
+msgstr "untuk Kouvola"
+
+msgid "koylio:lle"
+msgstr "untuk Köyliö"
+
+msgid "kristiinankaupunki:lle"
+msgstr "untuk Kristiinankaupunki"
+
+msgid "kronoby:lle"
+msgstr "untuk Kronoby"
+
+msgid "kuhmalahti:lle"
+msgstr "untuk Kuhmalahti"
+
+msgid "kuhmoinen:lle"
+msgstr "untuk Kuhmoinen"
+
+msgid "kuhmo:lle"
+msgstr "untuk Kuhmo"
+
+msgid "kuivaniemi:lle"
+msgstr "untuk Kuivaniemi"
+
+msgid "kumlinge:lle"
+msgstr "untuk Kumlinge"
+
+msgid "kuopio:lle"
+msgstr "untuk Kuopio"
+
+msgid "kuortane:lle"
+msgstr "untuk Kuortane"
+
+msgid "kurikka:lle"
+msgstr "untuk Kurikka"
+
+msgid "kuru:lle"
+msgstr "untuk Kuru"
+
+msgid "kustavi:lle"
+msgstr "untuk Kustavi"
+
+msgid "kuusamo:lle"
+msgstr "untuk Kuusamo"
+
+msgid "kuusankoski:lle"
+msgstr "untuk Kuusankoski"
+
+msgid "kuusjoki:lle"
+msgstr "untuk Kuusjoki"
+
+msgid "kylmakoski:lle"
+msgstr "untuk Kylmäkoski"
+
+msgid "kyyjarvi:lle"
+msgstr "untuk Kyyjärvi"
+
+msgid "lahti:lle"
+msgstr "untuk Lahti"
+
+msgid "laihia:lle"
+msgstr "untuk Laihia"
+
+msgid "laitila:lle"
+msgstr "untuk Laitila"
+
+msgid "lammi:lle"
+msgstr "untuk Lammi"
+
+msgid "langelmaki:lle"
+msgstr "untuk Längelmäki"
+
+msgid "lapinjarvi:lle"
+msgstr "untuk Lapinjärvi"
+
+msgid "lapinlahti:lle"
+msgstr "untuk Lapinlahti"
+
+msgid "lappajarvi:lle"
+msgstr "untuk Lappajärvi"
+
+msgid "lappeenranta:lle"
+msgstr "untuk Lappeenranta"
+
+msgid "lapin kuntaan:lle"
+msgstr "untuk Lappi"
+
+msgid "lapua:lle"
+msgstr "untuk Lapua"
+
+msgid "larsmo:lle"
+msgstr "untuk Larsmo"
+
+msgid "laukaa:lle"
+msgstr "untuk Laukaa"
+
+msgid "lavia:lle"
+msgstr "untuk Lavia"
+
+msgid "lehtimaki:lle"
+msgstr "untuk Lehtimäki"
+
+msgid "leivonmaki:lle"
+msgstr "untuk Leivonmäki"
+
+msgid "lemi:lle"
+msgstr "untuk Lemi"
+
+msgid "lemland:lle"
+msgstr "untuk Lemland"
+
+msgid "lempaala:lle"
+msgstr "untuk Lempäälä"
+
+msgid "lemu:lle"
+msgstr "untuk Lemu"
+
+msgid "leppavirta:lle"
+msgstr "untuk Leppävirta"
+
+msgid "lestijarvi:lle"
+msgstr "untuk Lestijärvi"
+
+msgid "lieksa:lle"
+msgstr "untuk Lieksa"
+
+msgid "lieto:lle"
+msgstr "untuk Lieto"
+
+msgid "liljendal:lle"
+msgstr "untuk Liljendal"
+
+msgid "liminka:lle"
+msgstr "untuk Liminka"
+
+msgid "liperi:lle"
+msgstr "untuk Liperi"
+
+msgid "lohja:lle"
+msgstr "untuk Lohja"
+
+msgid "lohtaja:lle"
+msgstr "untuk Lohtaja"
+
+msgid "loimaa:lle"
+msgstr "untuk Loimaa"
+
+msgid "loppi:lle"
+msgstr "untuk Loppi"
+
+msgid "loviisa:lle"
+msgstr "untuk Loviisa"
+
+msgid "luhanka:lle"
+msgstr "untuk Luhanka"
+
+msgid "lumijoki:lle"
+msgstr "untuk Lumijoki"
+
+msgid "lumparland:lle"
+msgstr "untuk Lumparland"
+
+msgid "luopioinen:lle"
+msgstr "untuk Luopioinen"
+
+msgid "luumaki:lle"
+msgstr "untuk Luumäki"
+
+msgid "luvia:lle"
+msgstr "untuk Luvia"
+
+msgid "maalahti:lle"
+msgstr "untuk Maalahti"
+
+msgid "maaninka:lle"
+msgstr "untuk Maaninka"
+
+msgid "maarianhamina:lle"
+msgstr "untuk Maarianhamina"
+
+msgid "maksamaa:lle"
+msgstr "untuk Maksamaa"
+
+msgid "mantsala:lle"
+msgstr "untuk Mäntsälä"
+
+msgid "mantta:lle"
+msgstr "untuk Mänttä"
+
+msgid "mantyharju:lle"
+msgstr "untuk Mäntyharju"
+
+msgid "marttila:lle"
+msgstr "untuk Marttila"
+
+msgid "masku:lle"
+msgstr "untuk Masku"
+
+msgid "mellila:lle"
+msgstr "untuk Mellilä"
+
+msgid "merijarvi:lle"
+msgstr "untuk Merijärvi"
+
+msgid "merikarvia:lle"
+msgstr "untuk Merikarvia"
+
+msgid "merimasku:lle"
+msgstr "untuk Merimasku"
+
+msgid "miehikkala:lle"
+msgstr "untuk Miehikkälä"
+
+msgid "mietoinen:lle"
+msgstr "untuk Mietoinen"
+
+msgid "mikkeli:lle"
+msgstr "untuk Mikkeli"
+
+msgid "mouhijarvi:lle"
+msgstr "untuk Mouhijärvi"
+
+msgid "muhos:lle"
+msgstr "untuk Muhos"
+
+msgid "multia:lle"
+msgstr "untuk Multia"
+
+msgid "muonio:lle"
+msgstr "untuk Muonio"
+
+msgid "mustasaari:lle"
+msgstr "untuk Mustasaari"
+
+msgid "muurame:lle"
+msgstr "untuk Muurame"
+
+msgid "muurla:lle"
+msgstr "untuk Muurla"
+
+msgid "mynamaki:lle"
+msgstr "untuk Mynämäki"
+
+msgid "myrskyla:lle"
+msgstr "untuk Myrskylä"
+
+msgid "naantali:lle"
+msgstr "untuk Naantali"
+
+msgid "nakkila:lle"
+msgstr "untuk Nakkila"
+
+msgid "narpio:lle"
+msgstr "untuk Närpiö"
+
+msgid "nastola:lle"
+msgstr "untuk Nastola"
+
+msgid "nauvo:lle"
+msgstr "untuk Nauvo"
+
+msgid "nilsia:lle"
+msgstr "untuk Nilsiä"
+
+msgid "nivala:lle"
+msgstr "untuk Nivala"
+
+msgid "nokia:lle"
+msgstr "untuk Nokia"
+
+msgid "noormarkku:lle"
+msgstr "untuk Noormarkku"
+
+msgid "nousiainen:lle"
+msgstr "untuk Nousiainen"
+
+msgid "nummipusula:lle"
+msgstr "untuk Nummi-Pusula"
+
+msgid "nurmes:lle"
+msgstr "untuk Nurmes"
+
+msgid "nurmijarvi:lle"
+msgstr "untuk Nurmijärvi"
+
+msgid "nurmo:lle"
+msgstr "untuk Nurmo"
+
+msgid "oravainen:lle"
+msgstr "untuk Oravainen"
+
+msgid "orimattila:lle"
+msgstr "untuk Orimattila"
+
+msgid "oripaa:lle"
+msgstr "untuk Oripää"
+
+msgid "orivesi:lle"
+msgstr "untuk Orivesi"
+
+msgid "oulainen:lle"
+msgstr "untuk Oulainen"
+
+msgid "oulunsalo:lle"
+msgstr "untuk Oulunsalo"
+
+msgid "oulu:lle"
+msgstr "untuk Oulu"
+
+msgid "outokumpu:lle"
+msgstr "untuk Outokumpu"
+
+msgid "padasjoki:lle"
+msgstr "untuk Padasjoki"
+
+msgid "paimio:lle"
+msgstr "untuk Paimio"
+
+msgid "palkane:lle"
+msgstr "untuk Pälkäne"
+
+msgid "paltamo:lle"
+msgstr "untuk Paltamo"
+
+msgid "parainen:lle"
+msgstr "untuk Parainen"
+
+msgid "parikkala:lle"
+msgstr "untuk Parikkala"
+
+msgid "parkano:lle"
+msgstr "untuk Parkano"
+
+msgid "pedersoren_kunta:lle"
+msgstr "untuk Pedersöre"
+
+msgid "pelkosenniemi:lle"
+msgstr "untuk Pelkosenniemi"
+
+msgid "pello:lle"
+msgstr "untuk Pello"
+
+msgid "perho:lle"
+msgstr "untuk Perho"
+
+msgid "pernaja:lle"
+msgstr "untuk Pernaja"
+
+msgid "pernio:lle"
+msgstr "untuk Perniö"
+
+msgid "pertteli:lle"
+msgstr "untuk Pertteli"
+
+msgid "pertunmaa:lle"
+msgstr "untuk Pertunmaa"
+
+msgid "petajavesi:lle"
+msgstr "untuk Petäjävesi"
+
+msgid "pieksanmaa:lle"
+msgstr "untuk Pieksänmaa"
+
+msgid "pielavesi:lle"
+msgstr "untuk Pielavesi"
+
+msgid "pietarsaari:lle"
+msgstr "untuk Pietarsaari"
+
+msgid "pihtipudas:lle"
+msgstr "untuk Pihtipudas"
+
+msgid "piikkio:lle"
+msgstr "untuk Piikkiö"
+
+msgid "piippola:lle"
+msgstr "untuk Piippola"
+
+msgid "pirkkala:lle"
+msgstr "untuk Pirkkala"
+
+msgid "pohja:lle"
+msgstr "untuk Pohja"
+
+msgid "polvijarvi:lle"
+msgstr "untuk Polvijärvi"
+
+msgid "pomarkku:lle"
+msgstr "untuk Pomarkku"
+
+msgid "pori:lle"
+msgstr "untuk Pori"
+
+msgid "pornainen:lle"
+msgstr "untuk Pornainen"
+
+msgid "porvoo:lle"
+msgstr "untuk Porvoo"
+
+msgid "posio:lle"
+msgstr "untuk Posio"
+
+msgid "poytya:lle"
+msgstr "untuk Pöytyä"
+
+msgid "pudasjarvi:lle"
+msgstr "untuk Pudasjärvi"
+
+msgid "pukkila:lle"
+msgstr "untuk Pukkila"
+
+msgid "pulkkila:lle"
+msgstr "untuk Pulkkila"
+
+msgid "punkaharju:lle"
+msgstr "untuk Punkaharju"
+
+msgid "punkalaidun:lle"
+msgstr "untuk Punkalaidun"
+
+msgid "puolanka:lle"
+msgstr "untuk Puolanka"
+
+msgid "puumala:lle"
+msgstr "untuk Puumala"
+
+msgid "pyhajarvi:lle"
+msgstr "untuk Pyhäjärvi"
+
+msgid "pyhajoki:lle"
+msgstr "untuk Pyhäjoki"
+
+msgid "pyhanta:lle"
+msgstr "untuk Pyhäntä"
+
+msgid "pyharanta:lle"
+msgstr "untuk Pyhäranta"
+
+msgid "pyhaselka:lle"
+msgstr "untuk Pyhäselkä"
+
+msgid "pyhtaa:lle"
+msgstr "untuk Pyhtää"
+
+msgid "pylkonmaki:lle"
+msgstr "untuk Pylkönmäki"
+
+msgid "raahe:lle"
+msgstr "untuk Raahe"
+
+msgid "raakkyla:lle"
+msgstr "untuk Rääkkylä"
+
+msgid "raisio:lle"
+msgstr "untuk Raisio"
+
+msgid "rantasalmi:lle"
+msgstr "untuk Rantasalmi"
+
+msgid "rantsila:lle"
+msgstr "untuk Rantsila"
+
+msgid "ranua:lle"
+msgstr "untuk Ranua"
+
+msgid "rauma:lle"
+msgstr "untuk Rauma"
+
+msgid "rautalampi:lle"
+msgstr "untuk Rautalampi"
+
+msgid "rautavaara:lle"
+msgstr "untuk Rautavaara"
+
+msgid "rautjarvi:lle"
+msgstr "untuk Rautjärvi"
+
+msgid "reisjarvi:lle"
+msgstr "untuk Reisjärvi"
+
+msgid "renko:lle"
+msgstr "untuk Renko"
+
+msgid "riihimaki:lle"
+msgstr "untuk Riihimäki"
+
+msgid "ristiina:lle"
+msgstr "untuk Ristiina"
+
+msgid "ristijarvi:lle"
+msgstr "untuk Ristijärvi"
+
+msgid "rovaniemen_mlk:lle"
+msgstr "untuk Rovaniemen_mlk"
+
+msgid "rovaniemi:lle"
+msgstr "untuk Rovaniemi"
+
+msgid "ruokolahti:lle"
+msgstr "untuk Ruokolahti"
+
+msgid "ruotsinpyhtaa:lle"
+msgstr "untuk Ruotsinpyhtää"
+
+msgid "ruovesi:lle"
+msgstr "untuk Ruovesi"
+
+msgid "rusko:lle"
+msgstr "untuk Rusko"
+
+msgid "ruukki:lle"
+msgstr "untuk Ruukki"
+
+msgid "rymattyla:lle"
+msgstr "untuk Rymättylä"
+
+msgid "saarijarvi:lle"
+msgstr "untuk Saarijärvi"
+
+msgid "sakyla:lle"
+msgstr "untuk Säkylä"
+
+msgid "salla:lle"
+msgstr "untuk Salla"
+
+msgid "salo:lle"
+msgstr "untuk Salo"
+
+msgid "saltvik:lle"
+msgstr "untuk Saltvik"
+
+msgid "sammatti:lle"
+msgstr "untuk Sammatti"
+
+msgid "sarkisalo:lle"
+msgstr "untuk Särkisalo"
+
+msgid "sauvo:lle"
+msgstr "untuk Sauvo"
+
+msgid "savitaipale:lle"
+msgstr "untuk Savitaipale"
+
+msgid "savonlinna:lle"
+msgstr "untuk Savonlinna"
+
+msgid "savonranta:lle"
+msgstr "untuk Savonranta"
+
+msgid "savukoski:lle"
+msgstr "untuk Savukoski"
+
+msgid "seinajoki:lle"
+msgstr "untuk Seinäjoki"
+
+msgid "sievi:lle"
+msgstr "untuk Sievi"
+
+msgid "siikainen:lle"
+msgstr "untuk Siikainen"
+
+msgid "siikajoki:lle"
+msgstr "untuk Siikajoki"
+
+msgid "siilinjarvi:lle"
+msgstr "untuk Siilinjärvi"
+
+msgid "simo:lle"
+msgstr "untuk Simo"
+
+msgid "sipoo:lle"
+msgstr "untuk Sipoo"
+
+msgid "siuntio:lle"
+msgstr "untuk Siuntio"
+
+msgid "sodankyla:lle"
+msgstr "untuk Sodankylä"
+
+msgid "soini:lle"
+msgstr "untuk Soini"
+
+msgid "somero:lle"
+msgstr "untuk Somero"
+
+msgid "sonkajarvi:lle"
+msgstr "untuk Sonkajärvi"
+
+msgid "sotkamo:lle"
+msgstr "untuk Sotkamo"
+
+msgid "sottunga:lle"
+msgstr "untuk Sottunga"
+
+msgid "sulkava:lle"
+msgstr "untuk Sulkava"
+
+msgid "sumiainen:lle"
+msgstr "untuk Sumiainen"
+
+msgid "sund:lle"
+msgstr "untuk Sund"
+
+msgid "suodenniemi:lle"
+msgstr "untuk Suodenniemi"
+
+msgid "suolahti:lle"
+msgstr "untuk Suolahti"
+
+msgid "suomenniemi:lle"
+msgstr "untuk Suomenniemi"
+
+msgid "suomusjarvi:lle"
+msgstr "untuk Suomusjärvi"
+
+msgid "suomussalmi:lle"
+msgstr "untuk Suomussalmi"
+
+msgid "suonenjoki:lle"
+msgstr "untuk Suonenjoki"
+
+msgid "sysma:lle"
+msgstr "untuk Sysmä"
+
+msgid "taipalsaari:lle"
+msgstr "untuk Taipalsaari"
+
+msgid "taivalkoski:lle"
+msgstr "untuk Taivalkoski"
+
+msgid "taivassalo:lle"
+msgstr "untuk Taivassalo"
+
+msgid "tammela:lle"
+msgstr "untuk Tammela"
+
+msgid "tammisaari:lle"
+msgstr "untuk Tammisaari"
+
+msgid "tampere:lle"
+msgstr "untuk Tampere"
+
+msgid "tarvasjoki:lle"
+msgstr "untuk Tarvasjoki"
+
+msgid "tervola:lle"
+msgstr "untuk Tervola"
+
+msgid "tervo:lle"
+msgstr "untuk Tervo"
+
+msgid "teuva:lle"
+msgstr "untuk Teuva"
+
+msgid "tohmajarvi:lle"
+msgstr "untuk Tohmajärvi"
+
+msgid "toholampi:lle"
+msgstr "untuk Toholampi"
+
+msgid "toijala:lle"
+msgstr "untuk Toijala"
+
+msgid "toivakka:lle"
+msgstr "untuk Toivakka"
+
+msgid "tornio:lle"
+msgstr "untuk Tornio"
+
+msgid "toysa:lle"
+msgstr "untuk Töysä"
+
+msgid "turku:lle"
+msgstr "untuk Turku"
+
+msgid "tuulos:lle"
+msgstr "untuk Tuulos"
+
+msgid "tuusniemi:lle"
+msgstr "untuk Tuusniemi"
+
+msgid "tuusula:lle"
+msgstr "untuk Tuusula"
+
+msgid "tyrnava:lle"
+msgstr "untuk Tyrnävä"
+
+msgid "ullava:lle"
+msgstr "untuk Ullava"
+
+msgid "ulvila:lle"
+msgstr "untuk Ulvila"
+
+msgid "urjala:lle"
+msgstr "untuk Urjala"
+
+msgid "utajarvi:lle"
+msgstr "untuk Utajärvi"
+
+msgid "utsjoki:lle"
+msgstr "untuk Utsjoki"
+
+msgid "uurainen:lle"
+msgstr "untuk Uurainen"
+
+msgid "uusikaarlepyy:lle"
+msgstr "untuk Uusikaarlepyy"
+
+msgid "uusikaupunki:lle"
+msgstr "untuk Uusikaupunki"
+
+msgid "vaala:lle"
+msgstr "untuk Vaala"
+
+msgid "vaasa:lle"
+msgstr "untuk Vaasa"
+
+msgid "vahakyro:lle"
+msgstr "untuk Vähäkyrö"
+
+msgid "vahto:lle"
+msgstr "untuk Vahto"
+
+msgid "valkeakoski:lle"
+msgstr "untuk Valkeakoski"
+
+msgid "valkeala:lle"
+msgstr "untuk Valkeala"
+
+msgid "valtimo:lle"
+msgstr "untuk Valtimo"
+
+msgid "vammala:lle"
+msgstr "untuk Vammala"
+
+msgid "vampula:lle"
+msgstr "untuk Vampula"
+
+msgid "vantaa:lle"
+msgstr "untuk Vantaa"
+
+msgid "vardo:lle"
+msgstr "untuk Vårdö"
+
+msgid "varkaus:lle"
+msgstr "untuk Varkaus"
+
+msgid "varpaisjarvi:lle"
+msgstr "untuk Varpaisjärvi"
+
+msgid "vastanfjard:lle"
+msgstr "untuk Västanfjärd"
+
+msgid "vehmaa:lle"
+msgstr "untuk Vehmaa"
+
+msgid "velkua:lle"
+msgstr "untuk Velkua"
+
+msgid "vesanto:lle"
+msgstr "untuk Vesanto"
+
+msgid "vesilahti:lle"
+msgstr "untuk Vesilahti"
+
+msgid "veteli:lle"
+msgstr "untuk Veteli"
+
+msgid "vierema:lle"
+msgstr "untuk Vieremä"
+
+msgid "vihanti:lle"
+msgstr "untuk Vihanti"
+
+msgid "vihti:lle"
+msgstr "untuk Vihti"
+
+msgid "viiala:lle"
+msgstr "untuk Viiala"
+
+msgid "viitasaari:lle"
+msgstr "untuk Viitasaari"
+
+msgid "viljakkala:lle"
+msgstr "untuk Viljakkala"
+
+msgid "vilppula:lle"
+msgstr "untuk Vilppula"
+
+msgid "vimpeli:lle"
+msgstr "untuk Vimpeli"
+
+msgid "virolahti:lle"
+msgstr "untuk Virolahti"
+
+msgid "virrat:lle"
+msgstr "untuk Virrat"
+
+msgid "voyri:lle"
+msgstr "untuk Vöyri"
+
+msgid "vuolijoki:lle"
+msgstr "untuk Vuolijoki"
+
+msgid "ylamaa:lle"
+msgstr "untuk Ylämaa"
+
+msgid "ylane:lle"
+msgstr "untuk Yläne"
+
+msgid "yliharma:lle"
+msgstr "untuk Ylihärmä"
+
+msgid "yliii:lle"
+msgstr "untuk Yli-Ii"
+
+msgid "ylikiiminki:lle"
+msgstr "untuk Ylikiiminki"
+
+msgid "ylistaro:lle"
+msgstr "untuk Ylistaro"
+
+msgid "ylitornio:lle"
+msgstr "untuk Ylitornio"
+
+msgid "ylivieska:lle"
+msgstr "untuk Ylivieska"
+
+msgid "ylojarvi:lle"
+msgstr "untuk Ylöjärvi"
+
+msgid "ypaja:lle"
+msgstr "untuk Ypäjä"
+
+msgid "poudan todennakoisyys"
+msgstr "kemungkinan tidak hujan"
+
+msgid "metsapaloindeksi"
+msgstr "indeks peringatan kebakaran hutan"
+
+msgid "haihdunta on erittain huono"
+msgstr "evaporasi sangat lemah"
+
+msgid "haihdunta on huono"
+msgstr "evaporasi lemah"
+
+msgid "haihdunta on tyydyttava"
+msgstr "evaporasi cukup"
+
+msgid "haihdunta on hyva"
+msgstr "evaporasi baik"
+
+msgid "haihdunta on erinomainen"
+msgstr "evaporasi sangat baik"
+
+msgid "metsapalovaroitus on voimassa"
+msgstr "peringatan kebakaran hutan berlaku"
+
+msgid "metsapalovaroitus ei ole voimassa"
+msgstr "peringatan kebakaran hutan tidak berlaku"
+
+msgid "luoto:lle"
+msgstr "untuk Luoto"
+
+msgid "kruunupyy:lle"
+msgstr "untuk Kruunupyy"
+
+msgid "1-aamulla"
+msgstr "Senin pagi"
+
+msgid "2-aamulla"
+msgstr "Selasa pagi"
+
+msgid "3-aamulla"
+msgstr "Rabu pagi"
+
+msgid "4-aamulla"
+msgstr "Kamis pagi"
+
+msgid "5-aamulla"
+msgstr "Jumat pagi"
+
+msgid "6-aamulla"
+msgstr "Sabtu pagi"
+
+msgid "7-aamulla"
+msgstr "Minggu pagi"
+
+msgid "1-aamupaivalla"
+msgstr "Senin menjelang siang"
+
+msgid "2-aamupaivalla"
+msgstr "Selasa menjelang siang"
+
+msgid "3-aamupaivalla"
+msgstr "Rabu menjelang siang"
+
+msgid "4-aamupaivalla"
+msgstr "Kamis menjelang siang"
+
+msgid "5-aamupaivalla"
+msgstr "Jumat menjelang siang"
+
+msgid "6-aamupaivalla"
+msgstr "Sabtu menjelang siang"
+
+msgid "7-aamupaivalla"
+msgstr "Minggu menjelang siang"
+
+msgid "1-iltapaivalla"
+msgstr "Senin sore"
+
+msgid "2-iltapaivalla"
+msgstr "Selasa sore"
+
+msgid "3-iltapaivalla"
+msgstr "Rabu sore"
+
+msgid "4-iltapaivalla"
+msgstr "Kamis sore"
+
+msgid "5-iltapaivalla"
+msgstr "Jumat sore"
+
+msgid "6-iltapaivalla"
+msgstr "Sabtu sore"
+
+msgid "7-iltapaivalla"
+msgstr "Minggu sore"
+
+msgid "1-illalla"
+msgstr "Senin malam"
+
+msgid "2-illalla"
+msgstr "Selasa malam"
+
+msgid "3-illalla"
+msgstr "Rabu malam"
+
+msgid "4-illalla"
+msgstr "Kamis malam"
+
+msgid "5-illalla"
+msgstr "Jumat malam"
+
+msgid "6-illalla"
+msgstr "Sabtu malam"
+
+msgid "7-illalla"
+msgstr "Minggu malam"
+
+msgid "kastepiste"
+msgstr "titik embun"
+
+msgid "suhteellinen kosteus"
+msgstr "kelembaban relatif"
+
+msgid "hehtopascalia"
+msgstr "hektopaskal"
+
+msgid "paine"
+msgstr "tekanan"
+
+msgid "keli muuttuu"
+msgstr "kondisi jalan berubah"
+
+msgid "lumisateen takia"
+msgstr "lebih buruk karena salju"
+
+msgid "haukivesi:lle"
+msgstr "untuk Haukivesi"
+
+msgid "kallavesi:lle"
+msgstr "untuk Kallavesi"
+
+msgid "malaren:lle"
+msgstr "untuk Mälaren"
+
+msgid "pihlajavesi:lle"
+msgstr "untuk Pihlajavesi"
+
+msgid "suur-saimaa:lle"
+msgstr "untuk Saimaa"
+
+msgid "vanern:lle"
+msgstr "untuk Vänern"
+
+msgid "tie on muuttumassa"
+msgstr "permukaan jalan sedang berubah"
+
+msgid "keli huononee"
+msgstr "kondisi jalan memburuk"
+
+msgid "vaikeuttaa liikennetta"
+msgstr "menghambat lalu lintas"
+
+msgid "kuuraiseksi"
+msgstr "tertutup embun beku"
+
+msgid "marka"
+msgstr "basah"
+
+msgid "pakkasliukkaus"
+msgstr "licin karena embun beku"
+
+msgid "voimakas puuskainen tuuli"
+msgstr "angin kencang bertiup kencang"
+
+msgid "lumipyry"
+msgstr "badai salju"
+
+msgid "kelin nopea huononeminen"
+msgstr "kondisi jalan memburuk cepat"
+
+msgid "rantasade jaiselle"
+msgstr "hujan es ke permukaan jalan berlapis es"
+
+msgid "jaiseksi vesisateesta johtuen"
+msgstr "berlapis es karena hujan"
+
+msgid "alijaahtynyt sade"
+msgstr "hujan super dingin"
+
+msgid "jaiseksi tai osittain jaiseksi"
+msgstr "berlapis es atau sebagian berlapis es"
+
+msgid "runsas lumisade"
+msgstr "salju lebat"
+
+msgid "tienpinta muuttuu"
+msgstr "permukaan jalan berubah"
+
+msgid "ukkoskuurot todennakoisia"
+msgstr "hujan badai petir kemungkinan"
+
+msgid "ukkoskuurot paikoin mahdollisia"
+msgstr "hujan badai petir mungkin di beberapa tempat"
+
+msgid "pohjoispohjanmeri:lle"
+msgstr "untuk Laut Utara Utara"
+
+msgid "etelapohjanmeri:lle"
+msgstr "untuk Laut Utara Selatan"
+
+msgid "biskaja:lle"
+msgstr "untuk Biscay"
+
+msgid "uusimaa_ita-uusim:lle"
+msgstr "untuk Uusimaa"
+
+msgid "paakaupunkiseutu:lle"
+msgstr "untuk Kawasan Metropolitan Helsinki"
+
+msgid "kaakkois-suomi:lle"
+msgstr "untuk Finlandia Tenggara"
+
+msgid "ita-lappi:lle"
+msgstr "untuk Lapland Timur"
+
+msgid "pohjois-pohjanmaa-itaosa:lle"
+msgstr "untuk Bagian Timur Ostrobothnia Utara"
+
+msgid "pohjois-pohjanmaa-lansiosa:lle"
+msgstr "untuk Bagian Barat Ostrobothnia Utara"
+
+msgid "merilappi:lle"
+msgstr "untuk Merilappi"
+
+msgid "pohjanmaa-etela-pohjanmaa:lle"
+msgstr "untuk Ostrobothnia dan Ostrobothnia Selatan"
+
+msgid "marka tienpinta muuttuu"
+msgstr "permukaan jalan basah berubah menjadi"
+
+msgid "alle"
+msgstr "di bawah"
+
+msgid "yksi millimetri"
+msgstr "satu milimeter"
+
+msgid "lahella [1] astetta"
+msgstr "sekitar [1] derajat"
+
+msgid "[1] asteen tienoilla"
+msgstr "sekitar [1] derajat"
+
+msgid "kello [1]"
+msgstr "[1]"
+
+msgid "1-na kello [1]"
+msgstr "hari Senin [1]"
+
+msgid "2-na kello [1]"
+msgstr "hari Selasa[1]"
+
+msgid "3-na kello [1]"
+msgstr "hari Rabu [1]"
+
+msgid "4-na kello [1]"
+msgstr "hari Kamis [1]"
+
+msgid "5-na kello [1]"
+msgstr "hari Jumat [1]"
+
+msgid "6-na kello [1]"
+msgstr "hari Sabtu [1]"
+
+msgid "7-na kello [1]"
+msgstr "hari Minggu [1]"
+
+msgid "[1] asteen tuntumassa"
+msgstr "mendekati [1] derajat"
+
+msgid "ita-suomi:lle"
+msgstr "untuk Finlandia Timur"
+
+msgid "itainen-uusimaa:lle"
+msgstr "untuk Uusimaa Timur"
+
+msgid "koleaa"
+msgstr "dingin menusuk"
+
+msgid "lantinen-uusimaa:lle"
+msgstr "untuk Uusimaa Barat"
+
+msgid "lounais-suomi:lle"
+msgstr "untuk Finlandia Barat Daya"
+
+msgid "pohjois-suomi:lle"
+msgstr "untuk Finlandia Utara"
+
+msgid "pikkupakkasta"
+msgstr "suhu sedikit di bawah nol"
+
+msgid "yksittaiset vesikuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan"
+
+msgid "yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan atau hujan es"
+
+msgid "yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan atau hujan salju"
+
+msgid "yksittaiset sadekuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan"
+
+msgid "yksittaiset rantakuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan es"
+
+msgid "yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan es atau hujan"
+
+msgid "yksittaiset lumikuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan salju"
+
+msgid "yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan salju atau hujan es"
+
+msgid "vahan plussan puolella"
+msgstr "sedikit di atas nol"
+
+msgid "voimakkaita vesikuuroja"
+msgstr "hujan deras"
+
+msgid "voimakkaita sadekuuroja"
+msgstr "hujan deras kuat"
+
+msgid "vesikuuroja"
+msgstr "hujan"
+
+msgid "vajaat"
+msgstr "hampir"
+
+msgid "verrattain pilvinen"
+msgstr "cukup berawan"
+
+msgid "vaihtelee puolipilvisesta pilviseen"
+msgstr "bervariasi dari sebagian berawan hingga berawan"
+
+msgid "tuulinen"
+msgstr "berangin"
+
+msgid "tuulista"
+msgstr "berangin"
+
+msgid "tuuli saa saan tuntumaan viileammalta"
+msgstr "angin membuat cuaca terasa lebih sejuk"
+
+msgid "tuuli saa saan tuntumaan kylmemmalta"
+msgstr "angin membuat cuaca terasa lebih dingin"
+
+msgid "tuntumassa"
+msgstr "mendekati"
+
+msgid "tihkusadetta"
+msgstr "gerimis"
+
+msgid "tienoilla"
+msgstr "sekitar"
+
+msgid "saa on helteista"
+msgstr "cuaca sangat panas"
+
+msgid "saa on edelleen lauhaa"
+msgstr "cuaca masih ringan"
+
+msgid "sumua"
+msgstr "kabut"
+
+msgid "sisamaassa"
+msgstr "di pedalaman"
+
+msgid "selkea"
+msgstr "cerah"
+
+msgid "sakeita"
+msgstr "tebal"
+
+msgid "sakeaa"
+msgstr "tebal"
+
+msgid "sadekuuroja"
+msgstr "hujan"
+
+msgid "sade alkaa"
+msgstr "hujan mulai"
+
+msgid "saadaan"
+msgstr "diperoleh"
+
+msgid "rantakuuroja"
+msgstr "hujan es"
+
+msgid "runsasta vesisadetta"
+msgstr "hujan lebat"
+
+msgid "runsaita"
+msgstr "lebat"
+
+msgid "puolipilvinen"
+msgstr "sebagian berawan"
+
+msgid "poutainen"
+msgstr "cerah"
+
+msgid "poikkeuksellisen"
+msgstr "luar biasa"
+
+msgid "pohjoisesta"
+msgstr "dari utara"
+
+msgid "pohjoisesta alkaen"
+msgstr "mulai dari utara"
+
+msgid "pilvinen"
+msgstr "berawan"
+
+msgid "pieni ukkosen todennakoisyys"
+msgstr "kemungkinan kecil petir"
+
+msgid "pakkasta"
+msgstr "dingin"
+
+msgid "pakkanen"
+msgstr "embun beku"
+
+msgid "pakkanen on purevaa"
+msgstr "embun beku menggigit"
+
+msgid "pakkanen on erittain purevaa"
+msgstr "embun beku sangat menggigit"
+
+msgid "pakkanen hellittaa"
+msgstr "dingin mulai mereda"
+
+msgid "paikkeilla"
+msgstr "sekitar"
+
+msgid "nollan tienoilla"
+msgstr "sekitar nol"
+
+msgid "melko selkea"
+msgstr "cukup cerah"
+
+msgid "mahdollisesti"
+msgstr "mungkin"
+
+msgid "lannesta"
+msgstr "dari barat"
+
+msgid "lannesta alkaen"
+msgstr "mulai dari barat"
+
+msgid "lampotila nousee"
+msgstr "suhu naik"
+
+msgid "lahella"
+msgstr "dekat"
+
+msgid "luoteesta"
+msgstr "dari barat laut"
+
+msgid "luoteesta alkaen"
+msgstr "mulai dari barat laut"
+
+msgid "lounaasta"
+msgstr "dari barat daya"
+
+msgid "lounaasta alkaen"
+msgstr "mulai dari barat daya"
+
+msgid "leutoa"
+msgstr "ringan"
+
+msgid "koillisesta"
+msgstr "dari timur laut"
+
+msgid "koillisesta alkaen"
+msgstr "mulai dari timur laut"
+
+msgid "kirea"
+msgstr "intens"
+
+msgid "kirea pakkanen jatkuu"
+msgstr "dingin intens berlanjut"
+
+msgid "kaakosta"
+msgstr "dari tenggara"
+
+msgid "kaakosta alkaen"
+msgstr "mulai dari tenggara"
+
+msgid "jaatavaa vesisadetta"
+msgstr "hujan beku"
+
+msgid "jotka voivat olla jaatavia"
+msgstr "yang mungkin membeku"
+
+msgid "joka voi olla sakeaa"
+msgstr "yang mungkin tebal"
+
+msgid "joka voi olla jaatavaa"
+msgstr "yang mungkin membeku"
+
+msgid "joka voi olla ankaraa"
+msgstr "yang mungkin parah"
+
+msgid "joka muuttuu vesisateeksi"
+msgstr "yang berubah menjadi hujan"
+
+msgid "joka muuttuu tihkusateeksi"
+msgstr "yang berubah menjadi gerimis"
+
+msgid "joka muuttuu rantasateeksi"
+msgstr "yang berubah menjadi hujan es"
+
+msgid "joka muuttuu lumisateeksi"
+msgstr "yang berubah menjadi salju"
+
+msgid "idasta"
+msgstr "dari timur"
+
+msgid "idasta alkaen"
+msgstr "mulai dari timur"
+
+msgid "huomattavasti"
+msgstr "secara signifikan"
+
+msgid "hieman lauhempaa"
+msgstr "sedikit lebih ringan"
+
+msgid "hieman kylmempaa"
+msgstr "sedikit lebih dingin"
+
+msgid "hieman kireampaa"
+msgstr "sedikit lebih intens"
+
+msgid "hieman heikompaa"
+msgstr "sedikit lebih lemah"
+
+msgid "heikkoja"
+msgstr "lemah"
+
+msgid "heikkoja vesikuuroja"
+msgstr "hujan lemah"
+
+msgid "heikkoja sadekuuroja"
+msgstr "hujan lemah"
+
+msgid "heikkoa vesisadetta"
+msgstr "hujan lemah"
+
+msgid "harvinaisen"
+msgstr "luar biasa"
+
+msgid "hallan vaara"
+msgstr "bahaya embun beku"
+
+msgid "hallaa"
+msgstr "embun beku"
+
+msgid "etelasta"
+msgstr "dari selatan"
+
+msgid "etelasta alkaen"
+msgstr "mulai dari selatan"
+
+msgid "asteen"
+msgstr "derajat"
+
+msgid "alueen pohjoisosassa"
+msgstr "di utara"
+
+msgid "alueen lansiosassa"
+msgstr "di barat"
+
+msgid "alueen luoteisosassa"
+msgstr "di barat laut"
+
+msgid "alueen lounaisosassa"
+msgstr "di barat daya"
+
+msgid "alueen koillisosassa"
+msgstr "di timur laut"
+
+msgid "alueen kaakkoisosassa"
+msgstr "di tenggara"
+
+msgid "alueen itaosassa"
+msgstr "di timur"
+
+msgid "alueen etelaosassa"
+msgstr "di selatan"
+
+msgid "alavilla mailla"
+msgstr "di dataran rendah"
+
+msgid "myohemmin"
+msgstr "kemudian"
+
+msgid "[1-na] saa on [poikkeuksellisen] [kylmaa]"
+msgstr "cuaca adalah [2] [3] [1]"
+
+msgid "[1-na] [saa lampenee]"
+msgstr "[2] [1]"
+
+msgid "kirea pakkanen heikkenee"
+msgstr "dingin intens melemah"
+
+msgid "saa lampenee huomattavasti"
+msgstr "cuaca menghangat secara signifikan"
+
+msgid "saa lampenee vahan"
+msgstr "cuaca sedikit menghangat"
+
+msgid "saa viilenee huomattavasti"
+msgstr "cuaca mendingin secara signifikan"
+
+msgid "saa viilenee vahan"
+msgstr "cuaca sedikit mendingin"
+
+msgid "[iltapaivalla] saa poutaantuu ja vaihtelee puolipilvisesta pilviseen"
+msgstr "cuaca membaik dan bervariasi dari sebagian berawan hingga berawan [1]"
+
+msgid "empty_string"
+msgstr ""
+
+msgid "[rannikolla] [paikoin] hallaa, joka voi olla ankaraa"
+msgstr "mungkin embun beku parah [2] [1]"
+
+msgid "[rannikolla] mahdollisesti hallaa"
+msgstr "mungkin embun beku [1]"
+
+msgid "[sisamaassa] hallan vaara"
+msgstr "risiko embun beku [1]"
+
+msgid "[rannikolla] [paikoin] hallaa"
+msgstr "embun beku [2] [1]"
+
+msgid "aamusta"
+msgstr "dari pagi"
+
+msgid "[huomenna] [sisamaassa] [paikoin] sumua, joka voi olla sakeaa"
+msgstr "[1] mungkin kabut tebal [3] [2]"
+
+msgid "[huomenna] [sisamaassa] [paikoin] sumua"
+msgstr "[1] kabut [3] [2]"
+
+msgid "keskiyolla ja aamuyolla"
+msgstr "tengah malam dan lewat tengah malam"
+
+msgid "iltayolla ja keskiyolla"
+msgstr "sebelum tengah malam dan tengah malam"
+
+msgid "aamuyolla ja aamulla"
+msgstr "lewat tengah malam dan pagi hari"
+
+msgid "illalla ja iltayolla"
+msgstr "malam dan sebelum tengah malam"
+
+msgid "iltapaivalla ja illalla"
+msgstr "sore dan malam"
+
+msgid "aamulla ja aamupaivalla"
+msgstr "pagi dan menjelang siang"
+
+msgid "7-iltapaivalla ja illalla"
+msgstr "Minggu sore dan malam"
+
+msgid "6-iltapaivalla ja illalla"
+msgstr "Sabtu sore dan malam"
+
+msgid "5-iltapaivalla ja illalla"
+msgstr "Jumat sore dan malam"
+
+msgid "4-iltapaivalla ja illalla"
+msgstr "Kamis sore dan malam"
+
+msgid "3-iltapaivalla ja illalla"
+msgstr "Rabu sore dan malam"
+
+msgid "2-iltapaivalla ja illalla"
+msgstr "Selasa sore dan malam"
+
+msgid "1-iltapaivalla ja illalla"
+msgstr "Senin sore dan malam"
+
+msgid "7-aamulla ja aamupaivalla"
+msgstr "Minggu pagi dan menjelang siang"
+
+msgid "6-aamulla ja aamupaivalla"
+msgstr "Sabtu pagi dan menjelang siang"
+
+msgid "5-aamulla ja aamupaivalla"
+msgstr "Jumat pagi dan menjelang siang"
+
+msgid "4-aamulla ja aamupaivalla"
+msgstr "Kamis pagi dan menjelang siang"
+
+msgid "3-aamulla ja aamupaivalla"
+msgstr "Rabu pagi dan menjelang siang"
+
+msgid "2-aamulla ja aamupaivalla"
+msgstr "Selasa pagi dan menjelang siang"
+
+msgid "1-aamulla ja aamupaivalla"
+msgstr "Senin pagi dan menjelang siang"
+
+msgid "7-illalla ja iltayolla"
+msgstr "Minggu malam dan sebelum tengah malam"
+
+msgid "6-illalla ja iltayolla"
+msgstr "Sabtu malam dan sebelum tengah malam"
+
+msgid "5-illalla ja iltayolla"
+msgstr "Jumat malam dan sebelum tengah malam"
+
+msgid "4-illalla ja iltayolla"
+msgstr "Kamis malam dan sebelum tengah malam"
+
+msgid "3-illalla ja iltayolla"
+msgstr "Rabu malam dan sebelum tengah malam"
+
+msgid "2-illalla ja iltayolla"
+msgstr "Selasa malam dan sebelum tengah malam"
+
+msgid "1-illalla ja iltayolla"
+msgstr "Senin malam dan sebelum tengah malam"
+
+msgid "aamupaivasta"
+msgstr "dari menjelang siang"
+
+msgid "7-iltayolla"
+msgstr "Minggu sebelum tengah malam"
+
+msgid "6-iltayolla"
+msgstr "Sabtu sebelum tengah malam"
+
+msgid "5-iltayolla"
+msgstr "Jumat sebelum tengah malam"
+
+msgid "4-iltayolla"
+msgstr "Kamis sebelum tengah malam"
+
+msgid "3-iltayolla"
+msgstr "Rabu sebelum tengah malam"
+
+msgid "2-iltayolla"
+msgstr "Selasa sebelum tengah malam"
+
+msgid "1-iltayolla"
+msgstr "Senin sebelum tengah malam"
+
+msgid "[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen"
+msgstr "[1] cuaca sebagian berawan atau berawan [2]"
+
+msgid "[huomenna] [sisamaassa] saa on [selkea]"
+msgstr "[1] cuaca adalah [3] [2]"
+
+msgid "hyvin tuulinen"
+msgstr "sangat berangin"
+
+msgid "hyvin tuulista"
+msgstr "sangat berangin"
+
+msgid "[iltapaivalla] [rannikolla] pakkanen on purevaa"
+msgstr "embun beku menggigit [2] [1]"
+
+msgid "7-aamuyolla"
+msgstr "Minggu dini hari"
+
+msgid "6-aamuyolla"
+msgstr "Sabtu dini hari"
+
+msgid "5-aamuyolla"
+msgstr "Jumat dini hari"
+
+msgid "4-aamuyolla"
+msgstr "Kamis dini hari"
+
+msgid "3-aamuyolla"
+msgstr "Rabu dini hari"
+
+msgid "2-aamuyolla"
+msgstr "Selasa dini hari"
+
+msgid "2-aamuyolla ja aamulla"
+msgstr "Selasa dini hari dan pagi"
+
+msgid "3-aamuyolla ja aamulla"
+msgstr "Rabu dini hari dan pagi"
+
+msgid "5-aamuyolla ja aamulla"
+msgstr "Jumat dini hari dan pagi"
+
+msgid "6-aamuyolla ja aamulla"
+msgstr "Sabtu dini hari dan pagi"
+
+msgid "7-aamuyolla ja aamulla"
+msgstr "Minggu dini hari dan pagi"
+
+msgid "1-aamuyolla ja aamulla"
+msgstr "Senin dini hari dan pagi"
+
+msgid "saa on tuulinen"
+msgstr "cuaca berangin"
+
+msgid "[iltapaivalla] [rannikolla] on [tuulista]"
+msgstr "[1] angin [3] [2]"
+
+msgid "rannikolla lahella [N] [astetta]"
+msgstr "dekat [1] [2] di pesisir"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on vahan yli [N] [astetta]"
+msgstr "[1] [3] sedikit di atas [4] [5] [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on vajaat [N] [astetta]"
+msgstr "[1] [3] hampir [4] [5] [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on lahella [N] [astetta]"
+msgstr "[1] [3] dekat [4] [5] [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] asteen tuntumassa"
+msgstr "[1] [3] mendekati [4] derajat [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] asteen tienoilla"
+msgstr "[1] [3] sekitar [4] derajat [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on noin [N] [astetta]"
+msgstr "[1] [3] sekitar [4] [5] [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [M...N] [astetta]"
+msgstr "[1] [3] adalah [4] [5] [2]"
+
+msgid "[yolla] on [hieman kylmempaa]"
+msgstr "[2] [1]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [suunnilleen sama]"
+msgstr "[1] [3] adalah [4] [2]"
+
+msgid "[huomenna] [sisamaassa] pakkasta on [M...N] [astetta]"
+msgstr "[1] suhu adalah [3] [4] [2]"
+
+msgid "[yolla] lampotila nousee"
+msgstr "suhu naik [1]"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [hieman kireampaa]"
+msgstr "[1] dingin adalah [3] [2]"
+
+msgid "[huomenna] [rannikolla] on pikkupakkasta"
+msgstr "[1] [2] suhu sedikit di bawah nol"
+
+msgid "rannikolla noin [N] [astetta]"
+msgstr "sekitar [1] [2] di pesisir"
+
+msgid "rannikolla vajaat [N] [astetta]"
+msgstr "hampir [1] [2] di pesisir"
+
+msgid "rannikolla vahan yli [N] [astetta]"
+msgstr "sedikit di atas [1] [2] di pesisir"
+
+msgid "rannikolla [M...N] [astetta]"
+msgstr "[1] [2] di pesisir"
+
+msgid "rannikolla [N] asteen tienoilla"
+msgstr "sekitar [1] derajat di pesisir"
+
+msgid "rannikolla [N] asteen tuntumassa"
+msgstr "mendekati [1] derajat di pesisir"
+
+msgid "rannikolla [suunnilleen sama]"
+msgstr "[1] di pesisir"
+
+msgid "[huomenna] [sisamaassa] [M...N] [astetta]"
+msgstr "[1] [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] noin [N] [astetta]"
+msgstr "[1] sekitar [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] [N] asteen tienoilla"
+msgstr "[1] sekitar [3] derajat [2]"
+
+msgid "[huomenna] [sisamaassa] [N] asteen tuntumassa"
+msgstr "[1] mendekati [3] derajat [2]"
+
+msgid "[huomenna] [sisamaassa] lahella [N] [astetta]"
+msgstr "[1] dekat [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] vajaat [N] [astetta]"
+msgstr "[1] hampir [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] vahan yli [N] [astetta]"
+msgstr "[1] sedikit di atas [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]"
+msgstr "cuaca sebagian besar cerah [2] [1], [3]"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta]"
+msgstr "[1] [4] [5] [3] [2]"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3] [4] [5], yang mungkin membeku"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3] [4] [5], yang mungkin membeku"
+
+msgid "saa on poutainen"
+msgstr "cuaca cerah"
+
+msgid "6-keskiyolla"
+msgstr "Sabtu tengah malam"
+
+msgid "5-keskiyolla"
+msgstr "Jumat tengah malam"
+
+msgid "4-keskiyolla"
+msgstr "Kamis tengah malam"
+
+msgid "3-keskiyolla"
+msgstr "Rabu tengah malam"
+
+msgid "2-keskiyolla"
+msgstr "Selasa tengah malam"
+
+msgid "1-keskiyolla"
+msgstr "Senin tengah malam"
+
+msgid "[sisamaassa] alavilla mailla hallan vaara"
+msgstr "risiko embun beku di dataran rendah [1]"
+
+msgid "7-keskiyolla"
+msgstr "Minggu tengah malam"
+
+msgid "[huomenna] [sisamaassa] [suunnilleen sama]"
+msgstr "[1] [3] [2]"
+
+msgid "7-iltapaivasta alkaen"
+msgstr "mulai Minggu sore"
+
+msgid "6-iltapaivasta alkaen"
+msgstr "mulai Sabtu sore"
+
+msgid "5-iltapaivasta alkaen"
+msgstr "mulai Jumat sore"
+
+msgid "4-iltapaivasta alkaen"
+msgstr "mulai Kamis sore"
+
+msgid "3-iltapaivasta alkaen"
+msgstr "mulai Rabu sore"
+
+msgid "2-iltapaivasta alkaen"
+msgstr "mulai Selasa sore"
+
+msgid "1-iltapaivasta alkaen"
+msgstr "mulai Senin sore"
+
+msgid "7-iltayosta alkaen"
+msgstr "mulai Minggu larut malam"
+
+msgid "6-iltayosta alkaen"
+msgstr "mulai Sabtu larut malam"
+
+msgid "5-iltayosta alkaen"
+msgstr "mulai Jumat larut malam"
+
+msgid "4-iltayosta alkaen"
+msgstr "mulai Kamis larut malam"
+
+msgid "3-iltayosta alkaen"
+msgstr "mulai Rabu larut malam"
+
+msgid "2-iltayosta alkaen"
+msgstr "mulai Selasa larut malam"
+
+msgid "1-iltayosta alkaen"
+msgstr "mulai Senin larut malam"
+
+msgid "7-aamuyosta alkaen"
+msgstr "mulai dini hari Minggu"
+
+msgid "6-aamuyosta alkaen"
+msgstr "mulai dini hari Sabtu"
+
+msgid "5-aamuyosta alkaen"
+msgstr "mulai dini hari Jumat"
+
+msgid "4-aamuyosta alkaen"
+msgstr "mulai dini hari Kamis"
+
+msgid "3-aamuyosta alkaen"
+msgstr "mulai dini hari Rabu"
+
+msgid "2-aamuyosta alkaen"
+msgstr "mulai dini hari Selasa"
+
+msgid "1-aamuyosta alkaen"
+msgstr "mulai dini hari Senin"
+
+msgid "7-keskiyosta alkaen"
+msgstr "mulai tengah malam Minggu"
+
+msgid "6-keskiyosta alkaen"
+msgstr "mulai tengah malam Sabtu"
+
+msgid "5-keskiyosta alkaen"
+msgstr "mulai tengah malam Jumat"
+
+msgid "4-keskiyosta alkaen"
+msgstr "mulai tengah malam Kamis"
+
+msgid "3-keskiyosta alkaen"
+msgstr "mulai tengah malam Rabu"
+
+msgid "2-keskiyosta alkaen"
+msgstr "mulai tengah malam Selasa"
+
+msgid "1-keskiyosta alkaen"
+msgstr "mulai tengah malam Senin"
+
+msgid "1 hehtopascal"
+msgstr "satu hektopaskal"
+
+msgid "0 hehtopascalia"
+msgstr "nol hektopaskal"
+
+msgid "1 prosentti"
+msgstr "satu persen"
+
+msgid "0 prosenttia"
+msgstr "nol persen"
+
+msgid "1 millimetri"
+msgstr "satu milimeter"
+
+msgid "0 millimetria"
+msgstr "nol milimeter"
+
+msgid "1 metri sekunnissa"
+msgstr "satu meter per detik"
+
+msgid "0 metria sekunnissa"
+msgstr "nol meter per detik"
+
+msgid "1 aste"
+msgstr "satu derajat"
+
+msgid "0 astetta"
+msgstr "nol derajat"
+
+msgid "ranta- tai lumisadetta"
+msgstr "hujan es atau salju"
+
+msgid "lumi- tai rantasadetta"
+msgstr "salju atau hujan es"
+
+msgid "lumi- tai vesisadetta"
+msgstr "salju atau hujan"
+
+msgid "vesi- tai lumisadetta"
+msgstr "hujan atau salju"
+
+msgid "ranta- tai vesisadetta"
+msgstr "hujan es atau hujan"
+
+msgid "vesi- tai rantasadetta"
+msgstr "hujan atau hujan es"
+
+msgid "ranta- tai vesikuuroja"
+msgstr "hujan es atau hujan"
+
+msgid "vesi- tai rantakuuroja"
+msgstr "hujan atau hujan es"
+
+msgid "vesi- tai lumikuuroja"
+msgstr "hujan atau hujan salju"
+
+msgid "lumi- tai vesikuuroja"
+msgstr "hujan salju atau hujan"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] asteen tuntumassa"
+msgstr "[1] suhu mendekati [3] derajat [2]"
+
+msgid "[huomenna] [sisamaassa] saa on poutainen"
+msgstr "cuaca cerah [2] [1]"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] asteen tienoilla"
+msgstr "suhu sekitar [3] derajat [2] [1]"
+
+msgid "[huomenna] [sisamaassa] pakkanen on lahella [N] [astetta]"
+msgstr "[1] suhu dekat [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] pakkasta on vahan yli [N] [astetta]"
+msgstr "[1] suhu sedikit di atas [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] pakkasta on vajaat [N] [astetta]"
+msgstr "[1] suhu hampir [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] pakkasta on noin [N] [astetta]"
+msgstr "[1] suhu sekitar [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "[1] cuaca sebagian berawan atau berawan dan cerah [2]"
+
+msgid "[huomenna] [sisamaassa] saa on [selkea] ja poutainen"
+msgstr "[1] cuaca adalah [3] dan cerah [2]"
+
+msgid "[iltapaivalla] saa poutaantuu"
+msgstr "cuaca membaik [1]"
+
+msgid "todennakoisesti myos ukkostaa"
+msgstr "petir juga kemungkinan"
+
+msgid "mahdollisesti myos ukkostaa"
+msgstr "mungkin ada beberapa petir"
+
+msgid "paikoin myos ukkostaa"
+msgstr "di beberapa tempat ada petir"
+
+msgid "paikoin voi myos ukkostaa"
+msgstr "di beberapa tempat mungkin ada petir"
+
+msgid "myos ukkosta esiintyy"
+msgstr "ada beberapa petir"
+
+msgid "[iltapaivasta alkaen] [pilvistyvaa]"
+msgstr "[2] [1]"
+
+msgid "[iltapaivalla] saa poutaantuu ja on [selkea]"
+msgstr "cuaca membaik dan adalah [2] [1]"
+
+msgid "[lampotila] on [suunnilleen sama]"
+msgstr "[1] adalah [2]"
+
+msgid "[lampotila] on [M...N] [astetta]"
+msgstr "[1] adalah [2] [3]"
+
+msgid "[lampotila] on noin [N] [astetta]"
+msgstr "[1] sekitar [2] [3]"
+
+msgid "[lampotila] on [N] asteen tienoilla"
+msgstr "[1] sekitar [2] derajat"
+
+msgid "[lampotila] on [N] asteen tuntumassa"
+msgstr "[1] mendekati [2] derajat"
+
+msgid "[lampotila] on lahella [N] [astetta]"
+msgstr "[1] dekat [2] [3]"
+
+msgid "[lampotila] on vajaat [N] [astetta]"
+msgstr "[1] hampir [2] [3]"
+
+msgid "[lampotila] on vahan yli [N] [astetta]"
+msgstr "[1] sedikit di atas [2] [3]"
+
+msgid "saa on [poikkeuksellisen] [kylmaa]"
+msgstr "cuaca adalah [1] [2]"
+
+msgid "[sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]"
+msgstr "cuaca sebagian besar cerah [1], [2]"
+
+msgid "[sisamaassa] saa on poutainen"
+msgstr "cuaca cerah [1]"
+
+msgid "[sisamaassa] [paikoin] [heikkoa] [sadetta]"
+msgstr "[3] [4] [2] [1]"
+
+msgid "[sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3] [4], yang mungkin membeku"
+
+msgid "[sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3] [4], yang mungkin membeku"
+
+msgid "[paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], yang mungkin membeku"
+
+msgid "[paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], yang mungkin membeku"
+
+msgid "[paikoin] [heikkoa] [sadetta]"
+msgstr "[1] [2] [3]"
+
+msgid "[paikoin] sumua"
+msgstr "kabut [1]"
+
+msgid "[sisamaassa] [paikoin] sumua"
+msgstr "kabut [2] [1]"
+
+msgid "[huomenna] sumua"
+msgstr "[1] kabut"
+
+msgid "[sisamaassa] sumua"
+msgstr "kabut [1]"
+
+msgid "[huomenna] [paikoin] sumua"
+msgstr "[1] [2] kabut"
+
+msgid "[huomenna] [sisamaassa] sumua"
+msgstr "[1] [2] kabut"
+
+msgid "[huomenna] [sisamaassa] sumua, joka voi olla sakeaa"
+msgstr "[1] mungkin kabut tebal [2]"
+
+msgid "[paikoin] sumua, joka voi olla sakeaa"
+msgstr "[1] mungkin kabut tebal"
+
+msgid "[sisamaassa] sumua, joka voi olla sakeaa"
+msgstr "mungkin kabut tebal [1]"
+
+msgid "[sisamaassa] [paikoin] sumua, joka voi olla sakeaa"
+msgstr "mungkin kabut tebal [2] [1]"
+
+msgid "[huomenna] [paikoin] sumua, joka voi olla sakeaa"
+msgstr "[1] mungkin kabut tebal [2]"
+
+msgid "[huomenna] sumua, joka voi olla sakeaa"
+msgstr "[1] mungkin kabut tebal"
+
+msgid "[huomenna] [paikoin] [heikkoa] [sadetta]"
+msgstr "[1] [3] [4] [2]"
+
+msgid "[paikoin] [sadetta]"
+msgstr "[2] [1]"
+
+msgid "[huomenna] [sisamaassa] [heikkoa] [sadetta]"
+msgstr "[1] [3] [4] [2]"
+
+msgid "[sisamaassa] [heikkoa] [sadetta]"
+msgstr "[2] [3] [1]"
+
+msgid "[huomenna] [heikkoa] [sadetta]"
+msgstr "[1] [2] [3]"
+
+msgid "[sisamaassa] [sadetta]"
+msgstr "[2] [1]"
+
+msgid "[sisamaassa] [paikoin] [sadetta]"
+msgstr "[3] [2] [1]"
+
+msgid "[huomenna] [sadetta]"
+msgstr "[1] [2]"
+
+msgid "[huomenna] [paikoin] [sadetta]"
+msgstr "[1] [3] [2]"
+
+msgid "[huomenna] [sisamaassa] [sadetta]"
+msgstr "[1] [3] [2]"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [sadetta]"
+msgstr "[1] [4] [3] [2]"
+
+msgid "[huomenna] saa on poutainen"
+msgstr "cuaca cerah [1]"
+
+msgid "[huomenna] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]"
+msgstr "cuaca sebagian besar cerah [1], [2]"
+
+msgid "[sisamaassa] saa vaihtelee puolipilvisesta pilviseen"
+msgstr "cuaca sebagian berawan atau berawan [1]"
+
+msgid "[huomenna] saa vaihtelee puolipilvisesta pilviseen"
+msgstr "[1] cuaca sebagian berawan atau berawan"
+
+msgid "[sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "cuaca sebagian berawan atau berawan dan cerah [1]"
+
+msgid "[huomenna] saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "[1] cuaca sebagian berawan atau berawan dan cerah"
+
+msgid "[sisamaassa] saa on [selkea]"
+msgstr "cuaca adalah [2] [1]"
+
+msgid "[huomenna] saa on [selkea]"
+msgstr "[1] cuaca adalah [2]"
+
+msgid "[sisamaassa] saa on [selkea] ja poutainen"
+msgstr "cuaca adalah [2] dan cerah [1]"
+
+msgid "[huomenna] saa on [selkea] ja poutainen"
+msgstr "[1] cuaca adalah [2] dan cerah"
+
+msgid "[huomenna] [sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3] [4], yang mungkin membeku"
+
+msgid "[huomenna] [sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3] [4], yang mungkin membeku"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3] [4], yang mungkin membeku"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3] [4], yang mungkin membeku"
+
+msgid "[huomenna] [sisamaassa] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], yang mungkin membeku"
+
+msgid "[huomenna] [sisamaassa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], yang mungkin membeku"
+
+msgid "[heikkoa] [sadetta]"
+msgstr "[1] [2]"
+
+msgid "[sadetta], joka voi olla jaatavaa"
+msgstr "[1], yang mungkin membeku"
+
+msgid "[heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2], yang mungkin membeku"
+
+msgid "[paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2], yang mungkin membeku"
+
+msgid "[sisamaassa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2], yang mungkin membeku"
+
+msgid "[sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], yang mungkin membeku"
+
+msgid "[sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], yang mungkin membeku"
+
+msgid "[huomenna] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3] [4], yang mungkin membeku"
+
+msgid "[huomenna] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2], yang mungkin membeku"
+
+msgid "[huomenna] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], yang mungkin membeku"
+
+msgid "[huomenna] [paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], yang mungkin membeku"
+
+msgid "[sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1], yang mungkin membeku"
+
+msgid "[heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2], yang mungkin membeku"
+
+msgid "[paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2], yang mungkin membeku"
+
+msgid "[sisamaassa] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2], yang mungkin membeku"
+
+msgid "[sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], yang mungkin membeku"
+
+msgid "[sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], yang mungkin membeku"
+
+msgid "[huomenna] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2], yang mungkin membeku"
+
+msgid "[huomenna] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], yang mungkin membeku"
+
+msgid "[huomenna] [paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], yang mungkin membeku"
+
+msgid "[huomenna] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3] [4], yang mungkin membeku"
+
+msgid "[iltapaivalla] [rannikolla] pakkanen on erittain purevaa"
+msgstr "embun beku sangat menggigit [2] [1]"
+
+msgid "[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan kylmemmalta"
+msgstr "angin membuat cuaca terasa lebih dingin [2] [1]"
+
+msgid "[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta"
+msgstr "angin membuat cuaca terasa lebih sejuk [2] [1]"
+
+msgid "saa on hyvin tuulinen"
+msgstr "cuaca sangat berangin"
+
+msgid "saa on [iltapaivalla] [rannikolla] [tuulinen]"
+msgstr "angin [3] [2] [1]"
+
+msgid "[iltapaivalla] [rannikolla] [pakkanen on purevaa]"
+msgstr "[1] [2] [3]"
+
+msgid "pakkasta on vahan yli [N] [astetta]"
+msgstr "suhu sedikit di bawah [1] [2]"
+
+msgid "pakkasta on vajaat [N] [astetta]"
+msgstr "suhu hampir [1] [2]"
+
+msgid "pakkanen on lahella [N] [astetta]"
+msgstr "suhu dekat [1] [2]"
+
+msgid "pakkanen on [N] asteen tienoilla"
+msgstr "suhu sekitar [1] derajat"
+
+msgid "pakkanen on [N] asteen tuntumassa"
+msgstr "suhu mendekati [1] derajat"
+
+msgid "pakkasta on noin [N] [astetta]"
+msgstr "suhu sekitar [1] [2]"
+
+msgid "pakkasta on [M...N] [astetta]"
+msgstr "suhu adalah [1] [2]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen"
+msgstr "cuaca membaik [1]"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on selkea"
+msgstr "cuaca membaik dan cerah [1]"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on selkea"
+msgstr "cuaca membaik dan cerah [1]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on selkea"
+msgstr "cuaca membaik dan cerah [1]"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on selkea"
+msgstr "cuaca membaik dan cerah [1]"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "cuaca membaik dan bervariasi dari sebagian berawan hingga berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "cuaca membaik dan bervariasi dari sebagian berawan hingga berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "cuaca membaik dan bervariasi dari sebagian berawan hingga berawan [1]"
+
+msgid "6-keskiyohon asti"
+msgstr "hingga tengah malam Sabtu"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "cuaca membaik dan bervariasi dari sebagian berawan hingga berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen"
+msgstr "cuaca membaik [1]"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen"
+msgstr "cuaca membaik [1]"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen"
+msgstr "cuaca membaik [1]"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on pilvinen"
+msgstr "cuaca membaik dan berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on pilvinen"
+msgstr "cuaca membaik dan berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on pilvinen"
+msgstr "cuaca membaik dan berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on pilvinen"
+msgstr "cuaca membaik dan berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on verrattain pilvinen"
+msgstr "cuaca membaik dan cukup berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on verrattain pilvinen"
+msgstr "cuaca membaik dan cukup berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on verrattain pilvinen"
+msgstr "cuaca membaik dan cukup berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on verrattain pilvinen"
+msgstr "cuaca membaik dan cukup berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on puolipilvinen"
+msgstr "cuaca membaik dan sebagian berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on puolipilvinen"
+msgstr "cuaca membaik dan sebagian berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on puolipilvinen"
+msgstr "cuaca membaik dan sebagian berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on puolipilvinen"
+msgstr "cuaca membaik dan sebagian berawan [1]"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on melko selkea"
+msgstr "cuaca membaik dan cukup cerah [1]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on melko selkea"
+msgstr "cuaca membaik dan cukup cerah [1]"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on melko selkea"
+msgstr "cuaca membaik dan cukup cerah [1]"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on melko selkea"
+msgstr "cuaca membaik dan cukup cerah [1]"
+
+msgid "[rannikolla] on [tuulista]"
+msgstr "angin [2] [1]"
+
+msgid "[iltapaivalla] on [tuulista]"
+msgstr "angin [2] [1]"
+
+msgid "[rannikolla] tuuli saa saan tuntumaan kylmemmalta"
+msgstr "angin membuat cuaca terasa lebih dingin [1]"
+
+msgid "[iltapaivalla] tuuli saa saan tuntumaan kylmemmalta"
+msgstr "angin membuat cuaca terasa lebih dingin [1]"
+
+msgid "[rannikolla] tuuli saa saan tuntumaan viileammalta"
+msgstr "angin membuat cuaca terasa lebih sejuk [1]"
+
+msgid "[iltapaivalla] tuuli saa saan tuntumaan viileammalta"
+msgstr "angin membuat cuaca terasa lebih sejuk [1]"
+
+msgid "[rannikolla] pakkanen on erittain purevaa"
+msgstr "embun beku sangat menggigit [1]"
+
+msgid "[iltapaivalla] pakkanen on erittain purevaa"
+msgstr "embun beku sangat menggigit [1]"
+
+msgid "[rannikolla] pakkanen on purevaa"
+msgstr "embun beku menggigit [1]"
+
+msgid "[iltapaivalla] pakkanen on purevaa"
+msgstr "embun beku menggigit [1]"
+
+msgid "saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "cuaca jelas lebih hangat dari biasanya"
+
+msgid "[huomenna] pakkasta on [M...N] [astetta]"
+msgstr "[1] suhu adalah [2] [3]"
+
+msgid "[huomenna] pakkasta on noin [N] [astetta]"
+msgstr "[1] suhu sekitar [2] [3]"
+
+msgid "[huomenna] pakkanen on [hieman kireampaa]"
+msgstr "[1] dingin adalah [2]"
+
+msgid "[huomenna] pakkasta on vahan yli [N] [astetta]"
+msgstr "[1] suhu sedikit di bawah [2] [3]"
+
+msgid "[huomenna] pakkasta on vajaat [N] [astetta]"
+msgstr "[1] suhu hampir [2] [3]"
+
+msgid "[huomenna] pakkanen on lahella [N] [astetta]"
+msgstr "[1] suhu dekat [2] [3]"
+
+msgid "[huomenna] pakkanen on [N] asteen tuntumassa"
+msgstr "[1] suhu mendekati [2] derajat"
+
+msgid "[huomenna] pakkanen on [N] asteen tienoilla"
+msgstr "[1] suhu sekitar [2] derajat"
+
+msgid "[sisamaassa] pakkasta on [M...N] [astetta]"
+msgstr "suhu adalah [2] [3] [1]"
+
+msgid "[sisamaassa] pakkasta on noin [N] [astetta]"
+msgstr "suhu sekitar [2] [3] [1]"
+
+msgid "[sisamaassa] pakkanen on [hieman kireampaa]"
+msgstr "dingin adalah [2] [1]"
+
+msgid "[sisamaassa] pakkasta on vahan yli [N] [astetta]"
+msgstr "suhu sedikit di bawah [2] [3] [1]"
+
+msgid "[sisamaassa] pakkanen on lahella [N] [astetta]"
+msgstr "suhu dekat [2] [3] [1]"
+
+msgid "[sisamaassa] pakkasta on vajaat [N] [astetta]"
+msgstr "suhu hampir [2] [3] [1]"
+
+msgid "[sisamaassa] pakkanen on [N] asteen tuntumassa"
+msgstr "suhu mendekati [2] derajat [1]"
+
+msgid "[sisamaassa] pakkanen on [N] asteen tienoilla"
+msgstr "suhu sekitar [2] derajat [1]"
+
+msgid "[sisamaassa] [lampotila] on [suunnilleen sama]"
+msgstr "[2] adalah [3] [1]"
+
+msgid "[sisamaassa] [lampotila] on [M...N] [astetta]"
+msgstr "[2] adalah [3] [4] [1]"
+
+msgid "[sisamaassa] [lampotila] on noin [N] [astetta]"
+msgstr "[2] sekitar [3] [4] [1]"
+
+msgid "[sisamaassa] [lampotila] on [N] asteen tienoilla"
+msgstr "[2] sekitar [3] derajat [1]"
+
+msgid "[sisamaassa] [lampotila] on [N] asteen tuntumassa"
+msgstr "[2] mendekati [3] derajat [1]"
+
+msgid "[sisamaassa] [lampotila] on lahella [N] [astetta]"
+msgstr "[2] dekat [3] [4] [1]"
+
+msgid "[sisamaassa] [lampotila] on vajaat [N] [astetta]"
+msgstr "[2] hampir [3] [4] [1]"
+
+msgid "[sisamaassa] [lampotila] on vahan yli [N] [astetta]"
+msgstr "[2] sedikit di atas [3] [4] [1]"
+
+msgid "[huomenna] [lampotila] on [suunnilleen sama]"
+msgstr "[1] [2] adalah [3]"
+
+msgid "[huomenna] [lampotila] on [M...N] [astetta]"
+msgstr "[1] [2] adalah [3] [4]"
+
+msgid "[huomenna] [lampotila] on noin [N] [astetta]"
+msgstr "[1] [2] sekitar [3] [4]"
+
+msgid "[huomenna] [lampotila] on [N] asteen tienoilla"
+msgstr "[1] [2] sekitar [3] derajat"
+
+msgid "[huomenna] [lampotila] on [N] asteen tuntumassa"
+msgstr "[1] [2] mendekati [3] derajat"
+
+msgid "[huomenna] [lampotila] on lahella [N] [astetta]"
+msgstr "[1] [2] dekat [3] [4]"
+
+msgid "[huomenna] [lampotila] on vajaat [N] [astetta]"
+msgstr "[1] [2] hampir [3] [4]"
+
+msgid "2-keskiyohon asti"
+msgstr "hingga tengah malam Selasa"
+
+msgid "[huomenna] [lampotila] on vahan yli [N] [astetta]"
+msgstr "[1] [2] sedikit di atas [3] [4]"
+
+msgid "[rannikolla] on pikkupakkasta"
+msgstr "suhu sedikit di bawah nol [1]"
+
+msgid "[huomenna] on pikkupakkasta"
+msgstr "[1] suhu sedikit di bawah nol"
+
+msgid "[sisamaassa] [M...N] [astetta]"
+msgstr "[2] [3] [1]"
+
+msgid "[huomenna] [M...N] [astetta]"
+msgstr "[1] [2] [3]"
+
+msgid "[sisamaassa] [suunnilleen sama]"
+msgstr "[2] [1]"
+
+msgid "[huomenna] [suunnilleen sama]"
+msgstr "[1] [2]"
+
+msgid "[sisamaassa] noin [N] [astetta]"
+msgstr "sekitar [2] [3] [1]"
+
+msgid "[huomenna] noin [N] [astetta]"
+msgstr "[1] sekitar [2] [3]"
+
+msgid "[sisamaassa] [N] asteen tienoilla"
+msgstr "sekitar [2] derajat [1]"
+
+msgid "[huomenna] [N] asteen tienoilla"
+msgstr "[1] mendekati [2] derajat"
+
+msgid "[sisamaassa] [N] asteen tuntumassa"
+msgstr "mendekati [2] derajat [1]"
+
+msgid "[huomenna] [N] asteen tuntumassa"
+msgstr "[1] mendekati [2] derajat"
+
+msgid "[sisamaassa] lahella [N] [astetta]"
+msgstr "dekat [2] [3] [1]"
+
+msgid "[huomenna] lahella [N] [astetta]"
+msgstr "[1] dekat [2] [3]"
+
+msgid "[sisamaassa] vahan yli [N] [astetta]"
+msgstr "sedikit di atas [2] [3] [1]"
+
+msgid "[huomenna] vahan yli [N] [astetta]"
+msgstr "[1] sedikit di atas [2] [3]"
+
+msgid "[sisamaassa] vajaat [N] [astetta]"
+msgstr "hampir [2] [3] [1]"
+
+msgid "[huomenna] vajaat [N] [astetta]"
+msgstr "[1] hampir [2] [3]"
+
+msgid "[1-na] saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "[1] cuaca jelas lebih hangat dari biasanya"
+
+msgid "asteen(tienoilla)"
+msgstr "derajat"
+
+msgid "asteen(tuntumassa)"
+msgstr "derajat"
+
+msgid "[N] [asteen] tienoilla"
+msgstr "sekitar [1] [2]"
+
+msgid "[N] [asteen] tuntumassa"
+msgstr "mendekati [1] [2]"
+
+msgid "[sisamaassa] [N] [asteen] tuntumassa"
+msgstr "mendekati [2] [3] [1]"
+
+msgid "[sisamaassa] [lampotila] on [N] [asteen] tuntumassa"
+msgstr "[2] mendekati [3] [4] [1]"
+
+msgid "[sisamaassa] pakkanen on [N] [asteen] tuntumassa"
+msgstr "suhu mendekati [2] [3] [1]"
+
+msgid "[lampotila] on [N] [asteen] tuntumassa"
+msgstr "[1] mendekati [2] [3]"
+
+msgid "[huomenna] [sisamaassa] [N] [asteen] tuntumassa"
+msgstr "[1] mendekati [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tuntumassa"
+msgstr "[1] [3] mendekati [4] [5] [2]"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] [asteen] tuntumassa"
+msgstr "[1] suhu mendekati [3] [4] [2]"
+
+msgid "[huomenna] [N] [asteen] tuntumassa"
+msgstr "[1] mendekati [2] [3]"
+
+msgid "[huomenna] [lampotila] on [N] [asteen] tuntumassa"
+msgstr "[1] [2] mendekati [3] [4]"
+
+msgid "[huomenna] pakkanen on [N] [asteen] tuntumassa"
+msgstr "[1] suhu mendekati [2] [3]"
+
+msgid "rannikolla [N] [asteen] tuntumassa"
+msgstr "mendekati [1] [2] di pesisir"
+
+msgid "pakkanen on [N] [asteen] tuntumassa"
+msgstr "suhu mendekati [1] [2]"
+
+msgid "[sisamaassa] [N] [asteen] tienoilla"
+msgstr "sekitar [2] [3] [1]"
+
+msgid "[sisamaassa] [lampotila] on [N] [asteen] tienoilla"
+msgstr "[2] sekitar [3] [4] [1]"
+
+msgid "[sisamaassa] pakkanen on [N] [asteen] tienoilla"
+msgstr "suhu sekitar [2] [3] [1]"
+
+msgid "[lampotila] on [N] [asteen] tienoilla"
+msgstr "[1] sekitar [2] [3]"
+
+msgid "[huomenna] [sisamaassa] [N] [asteen] tienoilla"
+msgstr "[1] sekitar [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tienoilla"
+msgstr "[1] [3] sekitar [4] [5] [2]"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] [asteen] tienoilla"
+msgstr "suhu sekitar [3] [4] [2] [1]"
+
+msgid "[huomenna] [N] [asteen] tienoilla"
+msgstr "[1] mendekati [2] [3]"
+
+msgid "[huomenna] [lampotila] on [N] [asteen] tienoilla"
+msgstr "[1] [2] sekitar [3] [4]"
+
+msgid "[huomenna] pakkanen on [N] [asteen] tienoilla"
+msgstr "[1] suhu sekitar [2] [3]"
+
+msgid "rannikolla [N] [asteen] tienoilla"
+msgstr "sekitar [1] [2] di pesisir"
+
+msgid "pakkanen on [N] [asteen] tienoilla"
+msgstr "suhu sekitar [1] [2]"
+
+msgid "saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "cuaca sebagian berawan atau berawan dan cerah"
+
+msgid "saa on [selkea] ja poutainen"
+msgstr "cuaca adalah [1] dan cerah"
+
+msgid "[alueella] saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "cuaca jelas lebih hangat dari biasanya [1]"
+
+msgid "[1-na] [alueella] saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "[1] cuaca jelas lebih hangat dari biasanya [2]"
+
+msgid "[alueella] [saa lampenee]"
+msgstr "[2] [1]"
+
+msgid "[1-na] [alueella] [saa lampenee]"
+msgstr "[3] [1] [2]"
+
+msgid "[alueella] saa on [poikkeuksellisen] [kylmaa]"
+msgstr "cuaca adalah [2] [3] [1]"
+
+msgid "[1-na] [alueella] saa on [poikkeuksellisen] [kylmaa]"
+msgstr "cuaca adalah [3] [4] [2] [1]"
+
+msgid "yon alin"
+msgstr "minimum malam"
+
+msgid "[1-na] [alueella] saa lauhtuu"
+msgstr "[1] cuaca menjadi lebih ringan [2]"
+
+msgid "[alueella] saa lauhtuu"
+msgstr "cuaca menjadi lebih ringan [1]"
+
+msgid "[1-na] saa lauhtuu"
+msgstr "[1] cuaca menjadi lebih ringan"
+
+msgid "[1-na] [alueella] saa on edelleen lauhaa"
+msgstr "[1] cuaca masih ringan [2]"
+
+msgid "[alueella] saa on edelleen lauhaa"
+msgstr "cuaca masih ringan [1]"
+
+msgid "[1-na] saa on edelleen lauhaa"
+msgstr "[1] cuaca masih ringan"
+
+msgid "[alueella] pakkanen kiristyy"
+msgstr "embun beku semakin kuat [1]"
+
+msgid "[1-na] pakkanen kiristyy"
+msgstr "[1] embun beku semakin kuat"
+
+msgid "[1-na] [alueella] pakkanen kiristyy"
+msgstr "[1] embun beku semakin kuat [2]"
+
+msgid "[alueella] kirea pakkanen jatkuu"
+msgstr "dingin intens berlanjut [1]"
+
+msgid "[1-na] kirea pakkanen jatkuu"
+msgstr "[1] dingin intens berlanjut"
+
+msgid "[1-na] [alueella] kirea pakkanen jatkuu"
+msgstr "[1] dingin intens berlanjut [2]"
+
+msgid "[alueella] pakkanen hellittaa"
+msgstr "dingin mulai mereda [1]"
+
+msgid "[1-na] pakkanen hellittaa"
+msgstr "[1] dingin mulai mereda"
+
+msgid "[1-na] [alueella] pakkanen hellittaa"
+msgstr "[1] dingin mulai mereda [2]"
+
+msgid "[alueella] kirea pakkanen heikkenee"
+msgstr "dingin intens melemah [1]"
+
+msgid "[1-na] kirea pakkanen heikkenee"
+msgstr "[1] dingin intens melemah"
+
+msgid "[1-na] [alueella] kirea pakkanen heikkenee"
+msgstr "[1] dingin intens melemah [2]"
+
+msgid "[alueella] pakkanen heikkenee"
+msgstr "embun beku melemah [1]"
+
+msgid "[1-na] pakkanen heikkenee"
+msgstr "[1] embun beku melemah"
+
+msgid "[1-na] [alueella] pakkanen heikkenee"
+msgstr "[1] embun beku melemah [2]"
+
+msgid "[alueella] saa on helteista"
+msgstr "cuaca sangat panas [1]"
+
+msgid "[1-na] saa on helteista"
+msgstr "[1] cuaca sangat panas"
+
+msgid "[1-na] [alueella] saa on helteista"
+msgstr "[1] cuaca sangat panas [2]"
+
+msgid "[alueella] saa muuttuu helteiseksi"
+msgstr "cuaca menjadi panas [1]"
+
+msgid "[1-na] saa muuttuu helteiseksi"
+msgstr "[1] cuaca menjadi panas"
+
+msgid "[1-na] [alueella] saa muuttuu helteiseksi"
+msgstr "[1] cuaca menjadi panas [2]"
+
+msgid "[alueella] helteinen saa jatkuu"
+msgstr "cuaca panas berlanjut [1]"
+
+msgid "[1-na] helteinen saa jatkuu"
+msgstr "[1] cuaca panas berlanjut"
+
+msgid "[1-na] [alueella] helteinen saa jatkuu"
+msgstr "[1] cuaca panas berlanjut [2]"
+
+msgid "[alueella] saa viilenee huomattavasti"
+msgstr "cuaca mendingin secara signifikan [1]"
+
+msgid "[1-na] saa viilenee huomattavasti"
+msgstr "[1] cuaca mendingin secara signifikan"
+
+msgid "[1-na] [alueella] saa viilenee huomattavasti"
+msgstr "[1] cuaca mendingin secara signifikan [2]"
+
+msgid "[alueella] saa viilenee vahan"
+msgstr "cuaca sedikit mendingin [1]"
+
+msgid "[1-na] saa viilenee vahan"
+msgstr "[1] cuaca sedikit mendingin"
+
+msgid "[1-na] [alueella] saa viilenee vahan"
+msgstr "[1] cuaca sedikit mendingin [2]"
+
+msgid "[alueella] saa viilenee"
+msgstr "cuaca menjadi lebih sejuk [1]"
+
+msgid "[1-na] saa viilenee"
+msgstr "[1] cuaca menjadi lebih sejuk"
+
+msgid "[1-na] [alueella] saa viilenee"
+msgstr "[1] cuaca menjadi lebih sejuk [2]"
+
+msgid "[alueella] viilea saa jatkuu"
+msgstr "cuaca sejuk berlanjut [1]"
+
+msgid "[1-na] viilea saa jatkuu"
+msgstr "[1] cuaca sejuk berlanjut"
+
+msgid "[1-na] [alueella] viilea saa jatkuu"
+msgstr "[1] cuaca sejuk berlanjut [2]"
+
+msgid "[alueella] kolea saa jatkuu"
+msgstr "cuaca dingin menusuk berlanjut [1]"
+
+msgid "[1-na] kolea saa jatkuu"
+msgstr "[1] cuaca dingin menusuk berlanjut"
+
+msgid "[1-na] [alueella] kolea saa jatkuu"
+msgstr "[1] cuaca dingin menusuk berlanjut [2]"
+
+msgid "[alueella] saa lampenee huomattavasti"
+msgstr "cuaca menghangat secara signifikan [1]"
+
+msgid "[1-na] saa lampenee huomattavasti"
+msgstr "[1] cuaca menghangat secara signifikan"
+
+msgid "[1-na] [alueella] saa lampenee huomattavasti"
+msgstr "[1] cuaca menghangat secara signifikan [2]"
+
+msgid "[alueella] saa lampenee vahan"
+msgstr "cuaca sedikit menghangat [1]"
+
+msgid "[1-na] saa lampenee vahan"
+msgstr "[1] cuaca sedikit menghangat"
+
+msgid "[1-na] [alueella] saa lampenee vahan"
+msgstr "[1] cuaca sedikit menghangat [2]"
+
+msgid "[alueella] saa lampenee"
+msgstr "cuaca menjadi lebih hangat [1]"
+
+msgid "[1-na] saa lampenee"
+msgstr "[1] cuaca menjadi lebih hangat"
+
+msgid "[1-na] [alueella] saa lampenee"
+msgstr "[1] cuaca menjadi lebih hangat [2]"
+
+msgid "7-keskiyolla ja aamuyolla"
+msgstr "Minggu tengah malam dan lewat tengah malam"
+
+msgid "6-keskiyolla ja aamuyolla"
+msgstr "Sabtu tengah malam dan lewat tengah malam"
+
+msgid "5-keskiyolla ja aamuyolla"
+msgstr "Jumat tengah malam dan lewat tengah malam"
+
+msgid "4-keskiyolla ja aamuyolla"
+msgstr "Kamis tengah malam dan lewat tengah malam"
+
+msgid "3-keskiyolla ja aamuyolla"
+msgstr "Rabu tengah malam dan lewat tengah malam"
+
+msgid "2-keskiyolla ja aamuyolla"
+msgstr "Selasa tengah malam dan lewat tengah malam"
+
+msgid "1-keskiyolla ja aamuyolla"
+msgstr "Senin tengah malam dan lewat tengah malam"
+
+msgid "[huomenna] yksittaiset vesikuurot mahdollisia"
+msgstr "[1] mungkin kadang-kadang hujan"
+
+msgid "[huomenna] yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "[1] mungkin kadang-kadang hujan atau hujan es"
+
+msgid "[huomenna] yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "[1] mungkin kadang-kadang hujan atau hujan salju"
+
+msgid "[huomenna] yksittaiset sadekuurot mahdollisia"
+msgstr "[1] mungkin kadang-kadang hujan"
+
+msgid "[huomenna] yksittaiset rantakuurot mahdollisia"
+msgstr "[1] mungkin kadang-kadang hujan es"
+
+msgid "[huomenna] yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "[1] mungkin kadang-kadang hujan es atau hujan"
+
+msgid "[huomenna] yksittaiset lumikuurot mahdollisia"
+msgstr "[1] mungkin kadang-kadang hujan salju"
+
+msgid "[huomenna] yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "[1] mungkin kadang-kadang hujan salju atau hujan es"
+
+msgid "[huomenna] [sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan salju atau hujan es [2] [1]"
+
+msgid "[huomenna] [sisamaassa] yksittaiset lumikuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan salju [2] [1]"
+
+msgid "[huomenna] [sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan es atau hujan [2] [1]"
+
+msgid "[huomenna] [sisamaassa] yksittaiset rantakuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan es [2] [1]"
+
+msgid "[huomenna] [sisamaassa] yksittaiset sadekuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan [2] [1]"
+
+msgid "[huomenna] [sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan atau hujan salju [2] [1]"
+
+msgid "[huomenna] [sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan atau hujan es [2] [1]"
+
+msgid "[huomenna] [sisamaassa] yksittaiset vesikuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan [2] [1]"
+
+msgid "[sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan es atau hujan [1]"
+
+msgid "[sisamaassa] yksittaiset rantakuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan es [1]"
+
+msgid "[sisamaassa] yksittaiset sadekuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan [1]"
+
+msgid "1-keskiyohon asti"
+msgstr "hingga tengah malam Senin"
+
+msgid "[sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan atau hujan salju [1]"
+
+msgid "[sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan atau hujan es [1]"
+
+msgid "[sisamaassa] yksittaiset vesikuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan [1]"
+
+msgid "[sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "[1] mungkin kadang-kadang hujan salju atau hujan es"
+
+msgid "[sisamaassa] yksittaiset lumikuurot mahdollisia"
+msgstr "mungkin kadang-kadang hujan salju [1]"
+
+msgid "[sisamaassa] on [hieman lauhempaa]"
+msgstr "[2] [1]"
+
+msgid "[huomenna] on [hieman lauhempaa]"
+msgstr "[1] [2]"
+
+msgid "[huomenna] [sisamaassa] on [hieman lauhempaa]"
+msgstr "[1] [3] [2]"
+
+msgid "[lampotila] [M...N] [astetta]"
+msgstr "[1] [2] [3]"
+
+msgid "paivan ylin"
+msgstr "maksimum siang"
+
+msgid "[lampotila] [suunnilleen sama]"
+msgstr "[1] [2]"
+
+msgid "[lampotila] vahan yli [N] [astetta]"
+msgstr "[1] sedikit di atas [2] [3]"
+
+msgid "[lampotila] vajaat [N] [astetta]"
+msgstr "[1] hampir [2] [3]"
+
+msgid "[lampotila] lahella [N] [astetta]"
+msgstr "[1] dekat [2] [3]"
+
+msgid "[lampotila] [N] [asteen] tuntumassa"
+msgstr "[1] mendekati [2] [3]"
+
+msgid "[lampotila] [N] [asteen] tienoilla"
+msgstr "[1] sekitar [2] [3]"
+
+msgid "[lampotila] noin [N] [astetta]"
+msgstr "[1] sekitar [2] [3]"
+
+msgid "luoteeseen"
+msgstr "ke barat laut"
+
+msgid "lounaaseen"
+msgstr "ke barat daya"
+
+msgid "kaakkoon"
+msgstr "ke tenggara"
+
+msgid "koilliseen"
+msgstr "ke timur laut"
+
+msgid "lanteen"
+msgstr "ke barat"
+
+msgid "itaan"
+msgstr "ke timur"
+
+msgid "etelaan"
+msgstr "ke selatan"
+
+msgid "pohjoiseen"
+msgstr "ke utara"
+
+msgid "[iltapaivalla] tuuli kaantyy [etelaan] ja voimistuu edelleen"
+msgstr "[1] angin berbalik [2] dan terus menguat"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka muuttuu [iltapaivalla] vaihtelevaksi"
+msgstr "[1] [2] [3], yang menjadi berubah-ubah [4]"
+
+msgid "vahitellen"
+msgstr "secara bertahap"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka kaantyy [iltapaivalla] [etelaan]"
+msgstr "[1] [2] [3], yang berbalik [5] [4]"
+
+msgid "[iltapaivalla] tuuli kaantyy [etelaan]"
+msgstr "angin berbalik [2] [1]"
+
+msgid "suunnaltaan vaihtelevaa tuulta"
+msgstr "angin berubah-ubah"
+
+msgid "latvia:lle"
+msgstr "untuk Latvia"
+
+msgid "astetta (n...0)"
+msgstr "derajat"
+
+msgid "1- ja 2-valille"
+msgstr "ke utara hingga timur laut"
+
+msgid "3- ja 2-valille"
+msgstr "ke timur hingga timur laut"
+
+msgid "3- ja 4-valille"
+msgstr "ke timur hingga tenggara"
+
+msgid "5- ja 4-valille"
+msgstr "ke selatan hingga tenggara"
+
+msgid "5- ja 6-valille"
+msgstr "ke selatan hingga barat daya"
+
+msgid "7- ja 6-valille"
+msgstr "ke barat hingga barat daya"
+
+msgid "7- ja 8-valille"
+msgstr "ke barat hingga barat laut"
+
+msgid "1- ja 8-valille"
+msgstr "ke utara hingga barat laut"
+
+msgid "[huomenna] [etelatuulta]"
+msgstr "[1] [2]"
+
+msgid "ivalo:lle"
+msgstr "untuk Ivalo"
+
+msgid "pieksamaki:lle"
+msgstr "untuk Pieksämäki"
+
+msgid "[iltapaivalla] [etelaan] kaantyvaa tuulta"
+msgstr "angin berbalik [2] [1]"
+
+msgid "heikkenevaa tuulta"
+msgstr "angin melemah"
+
+msgid "8-puolelle"
+msgstr "umumnya barat laut"
+
+msgid "7-puolelle"
+msgstr "umumnya barat"
+
+msgid "6-puolelle"
+msgstr "umumnya barat daya"
+
+msgid "5-puolelle"
+msgstr "umumnya selatan"
+
+msgid "4-puolelle"
+msgstr "umumnya tenggara"
+
+msgid "3-puolelle"
+msgstr "umumnya timur"
+
+msgid "2-puolelle"
+msgstr "umumnya timur laut"
+
+msgid "1-puolelle"
+msgstr "umumnya utara"
+
+msgid "tuuli muuttuu vaihtelevaksi"
+msgstr "angin menjadi berubah-ubah"
+
+msgid "[iltapaivalla] tuuli muuttuu vaihtelevaksi"
+msgstr "angin menjadi berubah-ubah [1]"
+
+msgid "[iltapaivalla] [etelatuulta]"
+msgstr "[2] [1]"
+
+msgid "astetta (1)"
+msgstr "derajat"
+
+msgid "astetta (0)"
+msgstr "derajat"
+
+msgid "astetta (4)"
+msgstr "derajat"
+
+msgid "astetta (3)"
+msgstr "derajat"
+
+msgid "astetta (n...(mod 10=1))"
+msgstr "derajat"
+
+msgid "astetta (n...4)"
+msgstr "derajat"
+
+msgid "astetta (n...3)"
+msgstr "derajat"
+
+msgid "astetta (n...2)"
+msgstr "derajat"
+
+msgid "astetta (n...1)"
+msgstr "derajat"
+
+msgid "astetta (2)"
+msgstr "derajat"
+
+msgid "aallonkorkeus on enimmillaan [N] [metria]"
+msgstr "tinggi gelombang maksimal [1] [2]"
+
+msgid "latgale:lle"
+msgstr "untuk kawasan Latgale"
+
+msgid "vidzeme:lle"
+msgstr "untuk kawasan Vidzeme"
+
+msgid "zemgale:lle"
+msgstr "untuk kawasan Zemgale"
+
+msgid "kurzeme:lle"
+msgstr "untuk kawasan Kurzeme"
+
+msgid "rigaregion:lle"
+msgstr "untuk kawasan Lielriga"
+
+msgid "tuuli kaantyy"
+msgstr "angin berbalik"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta]"
+msgstr "[2] [3] [4] [1]"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa tuulta]"
+msgstr "[2] [3] [1]"
+
+msgid "[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi"
+msgstr "angin menjadi sementara berubah-ubah [1]"
+
+msgid "[iltapaivalla] tuuli heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1] angin melemah dan menjadi berubah-ubah"
+
+msgid "astetta (m...n)"
+msgstr "derajat"
+
+msgid "astetta (n)"
+msgstr "derajat"
+
+msgid "[iltapaivalla] tuuli heikkenee ja kaantyy [etelaan]"
+msgstr "[1] angin melemah dan berbalik [2]"
+
+msgid "keskipaivasta"
+msgstr "dari siang"
+
+msgid "[iltapaivalla] tuuli voimistuu ja kaantyy [etelaan]"
+msgstr "[1] angin menguat dan berbalik [2]"
+
+msgid "[iltapaivalla] tuuli voimistuu ja muuttuu vaihtelevaksi"
+msgstr "angin menguat dan menjadi berubah-ubah [1]"
+
+msgid "voimistuvaa tuulta"
+msgstr "angin menguat"
+
+msgid "kovimmillaan"
+msgstr "hingga"
+
+msgid "nopeasti"
+msgstr "cepat"
+
+msgid "[iltapaivalla] tuuli muuttuu vaihtelevaksi ja heikkenee edelleen"
+msgstr "[1] angin menjadi berubah-ubah dan terus melemah"
+
+msgid "[iltapaivalla] [heikkenevaa tuulta]"
+msgstr "[1] [2]"
+
+msgid "[iltapaivalla] [heikkenevaa] [etelatuulta]"
+msgstr "[1] [2] [3]"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1] [2] melemah dan menjadi berubah-ubah"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee ja kaantyy [etelaan]"
+msgstr "[1] [2] melemah dan berbalik [3]"
+
+msgid "1- ja 8-valista tuulta"
+msgstr "angin utara hingga barat laut"
+
+msgid "7- ja 8-valista tuulta"
+msgstr "angin barat hingga barat laut"
+
+msgid "7- ja 6-valista tuulta"
+msgstr "angin barat hingga barat daya"
+
+msgid "5- ja 6-valista tuulta"
+msgstr "angin selatan hingga barat daya"
+
+msgid "5- ja 4-valista tuulta"
+msgstr "angin selatan hingga tenggara"
+
+msgid "3- ja 4-valista tuulta"
+msgstr "angin timur hingga tenggara"
+
+msgid "3- ja 2-valista tuulta"
+msgstr "angin timur hingga timur laut"
+
+msgid "1- ja 2-valista tuulta"
+msgstr "angin utara hingga timur laut"
+
+msgid "1- ja 8-valinen tuuli"
+msgstr "angin utara hingga barat laut"
+
+msgid "7- ja 8-valinen tuuli"
+msgstr "angin barat hingga barat laut"
+
+msgid "7- ja 6-valinen tuuli"
+msgstr "angin barat hingga barat daya"
+
+msgid "5- ja 6-valinen tuuli"
+msgstr "angin selatan hingga barat daya"
+
+msgid "5- ja 4-valinen tuuli"
+msgstr "angin selatan hingga tenggara"
+
+msgid "3- ja 4-valinen tuuli"
+msgstr "angin timur hingga tenggara"
+
+msgid "3- ja 2-valinen tuuli"
+msgstr "angin timur hingga timur laut"
+
+msgid "1- ja 2-valinen tuuli"
+msgstr "angin utara hingga timur laut"
+
+msgid "8-puoleinen tuuli"
+msgstr "angin barat laut umumnya"
+
+msgid "7-puoleinen tuuli"
+msgstr "angin barat umumnya"
+
+msgid "6-puoleinen tuuli"
+msgstr "angin barat daya umumnya"
+
+msgid "5-puoleinen tuuli"
+msgstr "angin selatan umumnya"
+
+msgid "4-puoleinen tuuli"
+msgstr "angin tenggara umumnya"
+
+msgid "3-puoleinen tuuli"
+msgstr "angin timur umumnya"
+
+msgid "2-puoleinen tuuli"
+msgstr "angin timur laut umumnya"
+
+msgid "1-puoleinen tuuli"
+msgstr "angin utara umumnya"
+
+msgid "8-tuuli"
+msgstr "angin barat laut"
+
+msgid "7-tuuli"
+msgstr "angin barat"
+
+msgid "6-tuuli"
+msgstr "angin barat daya"
+
+msgid "5-tuuli"
+msgstr "angin selatan"
+
+msgid "4-tuuli"
+msgstr "angin tenggara"
+
+msgid "3-tuuli"
+msgstr "angin timur"
+
+msgid "2-tuuli"
+msgstr "angin timur laut"
+
+msgid "1-tuuli"
+msgstr "angin utara"
+
+msgid "suunnaltaan vaihteleva tuuli"
+msgstr "angin berubah-ubah"
+
+msgid "[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja heikkenee edelleen"
+msgstr "[1] angin menjadi sementara berubah-ubah dan terus melemah"
+
+msgid "[iltapaivalla] tuuli heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] angin melemah dan menjadi sementara berubah-ubah"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]  [2] melemah dan menjadi sementara berubah-ubah"
+
+msgid "iltapaivasta"
+msgstr "dari sore"
+
+msgid "[iltapaivalla] [etelatuuli] alkaa heiketa [nopeasti]"
+msgstr "[1] [2] mulai melemah [3]"
+
+msgid "illasta"
+msgstr "dari malam"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantya [etelaan]"
+msgstr "[1] [2] mulai melemah dan berbalik [3]"
+
+msgid "astetta (mod 10=1)"
+msgstr "derajat"
+
+msgid "aste"
+msgstr "derajat"
+
+msgid "nolla"
+msgstr "nol"
+
+msgid "asteen(tienoilla (mod 10=1))"
+msgstr "derajat"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [pohjoiseen]"
+msgstr "[1] [2] [3] [4], yang berbalik [5]"
+
+msgid "[iltapaivalla] edelleen [heikkenevaa] [pohjoistuulta]"
+msgstr "[1] [3] terus [2]"
+
+msgid "hehtopascalia (mod 10=1)"
+msgstr "hektopaskal"
+
+msgid "prosenttia (mod 10=1)"
+msgstr "persen"
+
+msgid "millimetria (mod 10=1)"
+msgstr "milimeter"
+
+msgid "metria sekunnissa (mod 10=1)"
+msgstr "meter per detik"
+
+msgid "4 astetta"
+msgstr "4 derajat"
+
+msgid "3 astetta"
+msgstr "3 derajat"
+
+msgid "2 astetta"
+msgstr "2 derajat"
+
+msgid "puuskittaista [etelatuulta]"
+msgstr "bertiup kencang [1]"
+
+msgid "aallonkorkeus on alle [N] [metria]"
+msgstr "tinggi gelombang kurang dari [1] [2]"
+
+msgid "aallonkorkeus on [N...M] [metria]"
+msgstr "tinggi gelombang [1] [2]"
+
+msgid "aallonkorkeus on noin [N] [metria]"
+msgstr "tinggi gelombang sekitar [1] [2]"
+
+msgid "asteen(tuntumassa (mod 10=1))"
+msgstr "derajat"
+
+msgid "astetta(noin 0)"
+msgstr "derajat"
+
+msgid "astetta(noin 4)"
+msgstr "derajat"
+
+msgid "astetta(noin 3)"
+msgstr "derajat"
+
+msgid "astetta(noin 2)"
+msgstr "derajat"
+
+msgid "astetta(noin 1)"
+msgstr "derajat"
+
+msgid "astetta(noin (mod 10=1))"
+msgstr "derajat"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]"
+msgstr "[1] [2] mulai melemah dan berbalik [3]"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantya [etelaan]"
+msgstr "[1] [2] mulai menguat dan berbalik [3]"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantyy [etelaan]"
+msgstr "[1] [2] mulai menguat dan berbalik [3]"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja kaantyy [etelaan]"
+msgstr "[1] [2] menguat dan berbalik [3]"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi"
+msgstr "[1] [2] menguat dan menjadi berubah-ubah"
+
+msgid "[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja voimistuu edelleen"
+msgstr "[1] angin menjadi sementara berubah-ubah dan terus menguat"
+
+msgid "[iltapaivalla] tuuli muuttuu vaihtelevaksi ja voimistuu edelleen"
+msgstr "angin menjadi berubah-ubah dan terus menguat [1]"
+
+msgid "[iltapaivalla] tuuli voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] angin terus menguat dan menjadi sementara berubah-ubah"
+
+msgid "iltayosta"
+msgstr "dari larut malam"
+
+msgid "keskiyosta"
+msgstr "dari tengah malam"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa heiketa"
+msgstr "[1] [2] [3], yang mulai melemah"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [illalla] [pohjoiseen]"
+msgstr "[1] [2] [3] [4], yang berbalik [6] [5]"
+
+msgid "yosta"
+msgstr "dari malam ini"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] [2] mulai melemah [3] dan berbalik [5] [4]"
+
+msgid "[ip] [p-tuulta] [m...n] [m/s], joka alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] [2] [3] [4], yang mulai melemah [5] dan berbalik [7] [6]"
+
+msgid "[iltapaivalla] [etelatuuli] heikkenee [nopeasti]"
+msgstr "[2] melemah [3] [1]"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee edelleen"
+msgstr "[2] terus melemah [1]"
+
+msgid "[iltapaivalla] sade voi olla runsasta"
+msgstr "hujan bisa lebat [1]"
+
+msgid "1-asti"
+msgstr "hingga Senin"
+
+msgid "2-asti"
+msgstr "hingga Selasa"
+
+msgid "3-asti"
+msgstr "hingga Rabu"
+
+msgid "4-asti"
+msgstr "hingga Kamis"
+
+msgid "6-asti"
+msgstr "hingga Jumat"
+
+msgid "5-asti"
+msgstr "hingga Sabtu"
+
+msgid "7-asti"
+msgstr "hingga Minggu"
+
+msgid "yohon asti"
+msgstr "hingga malam"
+
+msgid "aamuun asti"
+msgstr "hingga pagi"
+
+msgid "aamupaivaan asti"
+msgstr "hingga menjelang siang"
+
+msgid "keskipaivaan asti"
+msgstr "hingga siang"
+
+msgid "iltapaivaan asti"
+msgstr "hingga sore"
+
+msgid "iltaan asti"
+msgstr "hingga malam"
+
+msgid "iltayohon asti"
+msgstr "hingga larut malam"
+
+msgid "keskiyohon asti"
+msgstr "hingga tengah malam"
+
+msgid "huomiseen asti"
+msgstr "hingga besok"
+
+msgid "1-aamupaivaan asti"
+msgstr "hingga menjelang siang Senin"
+
+msgid "2-aamupaivaan asti"
+msgstr "hingga menjelang siang Selasa"
+
+msgid "3-aamupaivaan asti"
+msgstr "hingga menjelang siang Rabu"
+
+msgid "4-aamupaivaan asti"
+msgstr "hingga menjelang siang Kamis"
+
+msgid "5-aamupaivaan asti"
+msgstr "hingga menjelang siang Jumat"
+
+msgid "6-aamupaivaan asti"
+msgstr "hingga menjelang siang Sabtu"
+
+msgid "7-aamupaivaan asti"
+msgstr "hingga menjelang siang Minggu"
+
+msgid "1-aamuun asti"
+msgstr "hingga Senin pagi"
+
+msgid "2-aamuun asti"
+msgstr "hingga Selasa pagi"
+
+msgid "3-aamuun asti"
+msgstr "hingga Rabu pagi"
+
+msgid "4-aamuun asti"
+msgstr "hingga Kamis pagi"
+
+msgid "5-aamuun asti"
+msgstr "hingga Jumat pagi"
+
+msgid "6-aamuun asti"
+msgstr "hingga Sabtu pagi"
+
+msgid "7-aamuun asti"
+msgstr "hingga Minggu pagi"
+
+msgid "1-iltaan asti"
+msgstr "hingga Senin malam"
+
+msgid "2-iltaan asti"
+msgstr "hingga Selasa malam"
+
+msgid "3-iltaan asti"
+msgstr "hingga Rabu malam"
+
+msgid "4-iltaan asti"
+msgstr "hingga Kamis malam"
+
+msgid "5-iltaan asti"
+msgstr "hingga Jumat malam"
+
+msgid "6-iltaan asti"
+msgstr "hingga Sabtu malam"
+
+msgid "7-iltaan asti"
+msgstr "hingga Minggu malam"
+
+msgid "1-vastaiseen yohon asti"
+msgstr "hingga malam Senin"
+
+msgid "2-vastaiseen yohon asti"
+msgstr "hingga malam Selasa"
+
+msgid "3-vastaiseen yohon asti"
+msgstr "hingga malam Rabu"
+
+msgid "4-vastaiseen yohon asti"
+msgstr "hingga malam Kamis"
+
+msgid "5-vastaiseen yohon asti"
+msgstr "hingga malam Jumat"
+
+msgid "6-vastaiseen yohon asti"
+msgstr "hingga malam Sabtu"
+
+msgid "7-vastaiseen yohon asti"
+msgstr "hingga malam Minggu"
+
+msgid "huomisaamuun asti"
+msgstr "hingga besok pagi"
+
+msgid "huomisaamupaivaan asti"
+msgstr "hingga besok menjelang siang"
+
+msgid "huomisiltaan asti"
+msgstr "hingga besok malam"
+
+msgid "7-iltapaivaan asti"
+msgstr "hingga Jumat sore"
+
+msgid "6-iltapaivaan asti"
+msgstr "hingga Sabtu sore"
+
+msgid "5-iltapaivaan asti"
+msgstr "hingga Jumat sore"
+
+msgid "4-iltapaivaan asti"
+msgstr "hingga Kamis sore"
+
+msgid "3-iltapaivaan asti"
+msgstr "hingga Rabu sore"
+
+msgid "2-iltapaivaan asti"
+msgstr "hingga Selasa sore"
+
+msgid "1-iltapaivaan asti"
+msgstr "hingga Senin sore"
+
+msgid "7-iltayohon asti"
+msgstr "hingga Minggu larut malam"
+
+msgid "6-iltayohon asti"
+msgstr "hingga Sabtu larut malam"
+
+msgid "5-iltayohon asti"
+msgstr "hingga Jumat larut malam"
+
+msgid "4-iltayohon asti"
+msgstr "hingga Kamis larut malam"
+
+msgid "3-iltayohon asti"
+msgstr "hingga Rabu larut malam"
+
+msgid "2-iltayohon asti"
+msgstr "hingga Selasa larut malam"
+
+msgid "1-iltayohon asti"
+msgstr "hingga Senin larut malam"
+
+msgid "7-keskiyohon asti"
+msgstr "hingga tengah malam Minggu"
+
+msgid "5-keskiyohon asti"
+msgstr "hingga tengah malam Jumat"
+
+msgid "4-keskiyohon asti"
+msgstr "hingga tengah malam Kamis"
+
+msgid "3-keskiyohon asti"
+msgstr "hingga tengah malam Rabu"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu edelleen"
+msgstr "[2] terus menguat [1]"
+
+msgid "[ip] [p-tuulta] [m...n] [m/s], joka alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] [2] [3] [4], yang mulai menguat [5] dan berbalik [7] [6]"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa voimistua"
+msgstr "[1] [2] [3], yang mulai menguat"
+
+msgid "aamuyohon asti"
+msgstr "hingga dini hari"
+
+msgid "7-aamuyohon asti"
+msgstr "hingga dini hari Minggu"
+
+msgid "6-aamuyohon asti"
+msgstr "hingga dini hari Sabtu"
+
+msgid "5-aamuyohon asti"
+msgstr "hingga dini hari Jumat"
+
+msgid "4-aamuyohon asti"
+msgstr "hingga dini hari Kamis"
+
+msgid "3-aamuyohon asti"
+msgstr "hingga dini hari Rabu"
+
+msgid "2-aamuyohon asti"
+msgstr "hingga dini hari Selasa"
+
+msgid "1-aamuyohon asti"
+msgstr "hingga dini hari Senin"
+
+msgid "[iltapaivalla] kuurot voivat olla voimakkaita"
+msgstr "hujan bisa lebat [1]"
+
+msgid "B3N:lle"
+msgstr "untuk Laut Bothnia Utara"
+
+msgid "[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1] mulai melemah dan menjadi berubah-ubah"
+
+msgid "[iltapaivalla] tuuli alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] mulai melemah dan menjadi sementara berubah-ubah"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1] [2] mulai melemah dan menjadi berubah-ubah"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2] mulai melemah dan menjadi sementara berubah-ubah"
+
+msgid "inari_utsjoki:lle"
+msgstr "untuk Inari dan Utsjoki"
+
+msgid "ita_finnmark:lle"
+msgstr "untuk Finnmark Timur"
+
+msgid "lansi_finnmark:lle"
+msgstr "untuk Finnmark Barat"
+
+msgid "pohjois_ruotsi:lle"
+msgstr "untuk Swedia Utara"
+
+msgid "kasivarsi:lle"
+msgstr "untuk Käsivarsi"
+
+msgid "kova"
+msgstr "kencang"
+
+msgid "voimakas"
+msgstr "sangat kencang"
+
+msgid "heikkenee"
+msgstr "melemah"
+
+msgid "kuola:lle"
+msgstr "untuk Semenanjung Kola"
+
+msgid "[voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen"
+msgstr "[1] berbalik [2] dan terus melemah"
+
+msgid "[voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]"
+msgstr "[1] melemah dan berbalik [2]"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]"
+msgstr "[1] mulai melemah dan berbalik [2]"
+
+msgid "[voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1] heikkenee ja muuttuu vaihtelevaksi"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1] mulai melemah dan menjadi berubah-ubah"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] mulai melemah dan menjadi sementara berubah-ubah"
+
+msgid "[voimakas pohjoistuuli] heikkenee edelleen"
+msgstr "[1] terus melemah"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa [nopeasti]"
+msgstr "[1] mulai melemah [2]"
+
+msgid "[voimakas pohjoistuuli] heikkenee [nopeasti]"
+msgstr "[1] melemah [2]"
+
+msgid "[voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] melemah dan menjadi sementara berubah-ubah"
+
+msgid "voimakas 3- ja 4-valinen tuuli"
+msgstr "angin timur hingga tenggara kencang"
+
+msgid "voimakas 4-tuuli"
+msgstr "angin tenggara kencang"
+
+msgid "voimakas 4-puoleinen tuuli"
+msgstr "angin tenggara umumnya kencang"
+
+msgid "voimakas 5- ja 4-valinen tuuli"
+msgstr "angin selatan hingga tenggara kencang"
+
+msgid "voimakas 5-tuuli"
+msgstr "angin selatan kencang"
+
+msgid "voimakas 5-puoleinen tuuli"
+msgstr "angin selatan umumnya kencang"
+
+msgid "voimakas 5- ja 6-valinen tuuli"
+msgstr "angin selatan hingga barat daya kencang"
+
+msgid "voimakas 6-tuuli"
+msgstr "angin barat daya kencang"
+
+msgid "voimakas 6-puoleinen tuuli"
+msgstr "angin barat daya umumnya kencang"
+
+msgid "voimakas 7- ja 6-valinen tuuli"
+msgstr "angin barat hingga barat daya kencang"
+
+msgid "voimakas 7-tuuli"
+msgstr "angin barat kencang"
+
+msgid "voimakas 7-puoleinen tuuli"
+msgstr "angin barat umumnya kencang"
+
+msgid "voimakas 7- ja 8-valinen tuuli"
+msgstr "angin barat hingga barat laut kencang"
+
+msgid "voimakas 8-tuuli"
+msgstr "angin barat laut kencang"
+
+msgid "voimakas 8-puoleinen tuuli"
+msgstr "angin barat laut umumnya kencang"
+
+msgid "voimakas 1- ja 8-valinen tuuli"
+msgstr "angin utara hingga barat laut kencang"
+
+msgid "voimakas tuuli"
+msgstr "angin badai"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti]"
+msgstr "[2] melemah [3] [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee edelleen"
+msgstr "[2] terus melemah [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa [nopeasti]"
+msgstr "[2] mulai melemah [3] [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[2] mulai melemah dan menjadi sementara berubah-ubah [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[2] melemah dan menjadi sementara berubah-ubah [1]"
+
+msgid "voimakas 2-puoleinen tuuli"
+msgstr "angin timur laut umumnya kencang"
+
+msgid "voimakas 3-puoleinen tuuli"
+msgstr "angin timur umumnya kencang"
+
+msgid "voimakas 3-tuuli"
+msgstr "angin timur kencang"
+
+msgid "voimakas 1-tuuli"
+msgstr "angin utara kencang"
+
+msgid "voimakas 1-puoleinen tuuli"
+msgstr "angin utara umumnya kencang"
+
+msgid "voimakas 3- ja 2-valinen tuuli"
+msgstr "angin timur hingga timur laut kencang"
+
+msgid "voimakas 2-tuuli"
+msgstr "angin timur laut kencang"
+
+msgid "voimakas 1- ja 2-valinen tuuli"
+msgstr "angin utara hingga timur laut kencang"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[2] mulai melemah dan menjadi berubah-ubah [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[2] melemah dan menjadi berubah-ubah [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]"
+msgstr "[2] mulai melemah dan berbalik [3] [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]"
+msgstr "[2] melemah dan berbalik [3] [1]"
+
+msgid "tiepiiri-o4:lle"
+msgstr "untuk kawasan pedalaman utara Oulu"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen"
+msgstr "[2] berbalik [3] dan terus melemah [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[2] melemah [3] [1] dan berbalik [5] [4]"
+
+msgid "[etelatuuli] alkaa voimistua [nopeasti]"
+msgstr "[1] mulai menguat [2]"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi"
+msgstr "[1] [2] mulai menguat dan menjadi berubah-ubah"
+
+msgid "[iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] angin mulai menguat dan menjadi sementara berubah-ubah"
+
+msgid "[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi"
+msgstr "[1] mulai menguat dan menjadi berubah-ubah"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]"
+msgstr "[2] melemah [3]  [1] dan berbalik [4]"
+
+msgid "[pohjoistuuli] heikkenee [nopeasti]"
+msgstr "[1] melemah [2]"
+
+msgid "[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] melemah [2] dan berbalik [4] [3]"
+
+msgid "[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]"
+msgstr "[1] melemah [2] dan berbalik [3]"
+
+msgid "[pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1] melemah dan  dan  menjadi berubah-ubah"
+
+msgid "[etelatuuli] alkaa heiketa [nopeasti]"
+msgstr "[1] mulai melemah [2]"
+
+msgid "[pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] melemah dan menjadi sementara berubah-ubah"
+
+msgid "[pohjoistuuli] alkaa heiketa ja kaantya [etelaan]"
+msgstr "[1] mulai melemah dan berbalik [2]"
+
+msgid "[pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] mulai melemah [2] dan berbalik [4] [3]"
+
+msgid "[etelatuuli] heikkenee [nopeasti]"
+msgstr "[1] melemah [2]"
+
+msgid "[pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi"
+msgstr "[1] mulai melemah dan menjadi berubah-ubah"
+
+msgid "[pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] mulai melemah dan menjadi sementara berubah-ubah"
+
+msgid "[pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1] mulai melemah dan menjadi berubah-ubah"
+
+msgid "1-keskipaivaan"
+msgstr "hingga siang Senin"
+
+msgid "2-keskipaivaan"
+msgstr "hingga siang Selasa"
+
+msgid "3-keskipaivaan"
+msgstr "hingga siang Rabu"
+
+msgid "4-keskipaivaan"
+msgstr "hingga siang Kamis"
+
+msgid "5-keskipaivaan"
+msgstr "hingga siang Jumat"
+
+msgid "6-keskipaivaan"
+msgstr "hingga siang Sabtu"
+
+msgid "7-keskipaivaan"
+msgstr "hingga siang Minggu"
+
+msgid "1-keskipaivasta"
+msgstr "dari siang Senin"
+
+msgid "2-keskipaivasta"
+msgstr "dari siang Selasa"
+
+msgid "3-keskipaivasta"
+msgstr "dari siang Rabu"
+
+msgid "4-keskipaivasta"
+msgstr "dari siang Kamis"
+
+msgid "5-keskipaivasta"
+msgstr "dari siang Jumat"
+
+msgid "6-keskipaivasta"
+msgstr "dari siang Sabtu"
+
+msgid "7-keskipaivasta"
+msgstr "dari siang Minggu"
+
+msgid "kemi-tornio:lle"
+msgstr "untuk Kemi-Tornio"
+
+msgid "rovaniemen seutu:lle"
+msgstr "untuk kawasan Rovaniemi"
+
+msgid "tornionlaakso:lle"
+msgstr "untuk Lembah Torne"
+
+msgid "tunturi-lappi:lle"
+msgstr "untuk Tunturi-Lappi"
+
+msgid "elyalue-epo:lle"
+msgstr "untuk kawasan ELY Ostrobothnia Selatan"
+
+msgid "elyalue-kas:lle"
+msgstr "untuk kawasan ELY Finlandia Tenggara"
+
+msgid "elyalue-kes:lle"
+msgstr "untuk kawasan ELY Finlandia Tengah"
+
+msgid "elyalue-lap:lle"
+msgstr "untuk kawasan ELY Lapland"
+
+msgid "elyalue-pir:lle"
+msgstr "untuk kawasan ELY Pirkanmaa"
+
+msgid "elyalue-pkp:lle"
+msgstr "untuk kawasan ELY Ostrobothnia Utara"
+
+msgid "elyalue-pos:lle"
+msgstr "untuk kawasan ELY Savonia Utara"
+
+msgid "elyalue-uud:lle"
+msgstr "untuk kawasan ELY Uusimaa"
+
+msgid "elyalue-var:lle"
+msgstr "untuk kawasan ELY Finlandia Proper"
+
+msgid "tiepiiri-h1:lle"
+msgstr "untuk Häme Selatan"
+
+msgid "tiepiiri-h2:lle"
+msgstr "untuk Päijänne-Häme Selatan"
+
+msgid "tiepiiri-h3:lle"
+msgstr "untuk Pirkanmaa Selatan"
+
+msgid "tiepiiri-h4:lle"
+msgstr "untuk Päijänne-Häme Utara"
+
+msgid "tiepiiri-h5:lle"
+msgstr "untuk Pirkanmaa Utara"
+
+msgid "tiepiiri-k1:lle"
+msgstr "untuk kawasan pesisir Kymenmaa"
+
+msgid "tiepiiri-k2:lle"
+msgstr "untuk kawasan pedalaman Kymenmaa"
+
+msgid "tiepiiri-k3:lle"
+msgstr "untuk Karelia Selatan"
+
+msgid "tiepiiri-k4:lle"
+msgstr "untuk Savo Selatan"
+
+msgid "tiepiiri-ke1:lle"
+msgstr "untuk kawasan selatan Finlandia Tengah"
+
+msgid "tiepiiri-ke2:lle"
+msgstr "untuk kawasan utara Finlandia Tengah"
+
+msgid "tiepiiri-l1:lle"
+msgstr "untuk Lapland Barat Daya"
+
+msgid "tiepiiri-l2:lle"
+msgstr "untuk Lapland Tenggara"
+
+msgid "tiepiiri-l3:lle"
+msgstr "untuk Lapland Tengah"
+
+msgid "tiepiiri-l4:lle"
+msgstr "untuk Lapland Barat Laut"
+
+msgid "tiepiiri-l5:lle"
+msgstr "untuk Lapland Utara"
+
+msgid "tiepiiri-o1e:lle"
+msgstr "untuk kawasan pesisir selatan Oulu"
+
+msgid "tiepiiri-o1p:lle"
+msgstr "untuk kawasan pesisir utara Oulu"
+
+msgid "tiepiiri-o2:lle"
+msgstr "untuk kawasan pedalaman selatan Oulu"
+
+msgid "tiepiiri-o3:lle"
+msgstr "untuk Kainuu"
+
+msgid "tiepiiri-o5:lle"
+msgstr "untuk Koillismaa"
+
+msgid "tiepiiri-s1:lle"
+msgstr "untuk kawasan selatan Karelia Utara"
+
+msgid "tiepiiri-s2:lle"
+msgstr "untuk kawasan selatan Savonia Utara"
+
+msgid "[etelatuuli] voimistuu [nopeasti]"
+msgstr "[1] menguat [2]"
+
+msgid "[iltapaivalla] [pohjoistuuli] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2] mulai menguat dan menjadi sementara berubah-ubah"
+
+msgid "[iltapaivalla] tuuli alkaa voimistua ja kaantyy [etelaan]"
+msgstr "angin mulai menguat dan berbalik [2] [1]"
+
+msgid "[pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] mulai menguat [2] dan berbalik [4] [3]"
+
+msgid "[pohjoistuuli] alkaa voimistua ja kaantya [etelaan]"
+msgstr "[1] mulai menguat dan berbalik [2]"
+
+msgid "[pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] mulai menguat dan menjadi sementara berubah-ubah"
+
+msgid "[pohjoistuuli] voimistuu [nopeasti]"
+msgstr "[1] menguat [2]"
+
+msgid "[pohjoistuuli] voimistuu ja kaantyy [etelaan]"
+msgstr "[1] menguat dan berbalik [2]"
+
+msgid "[pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] menguat dan menjadi sementara berubah-ubah"
+
+msgid "[pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi"
+msgstr "[1] menguat dan  menjadi berubah-ubah"
+
+msgid "1-aamuyolla"
+msgstr "Senin dini hari"
+
+msgid "tiepiiri-s3:lle"
+msgstr "untuk kawasan tengah Karelia Utara"
+
+msgid "tiepiiri-s4:lle"
+msgstr "untuk kawasan utara Savonia Utara"
+
+msgid "tiepiiri-s5:lle"
+msgstr "untuk kawasan utara Karelia Utara"
+
+msgid "tiepiiri-t1:lle"
+msgstr "untuk kawasan pesisir Finlandia Proper"
+
+msgid "tiepiiri-t2:lle"
+msgstr "untuk kawasan pedalaman Finlandia Proper"
+
+msgid "tiepiiri-t3:lle"
+msgstr "untuk kawasan timur Finlandia Proper"
+
+msgid "tiepiiri-t4:lle"
+msgstr "untuk kawasan pesisir Satakunta"
+
+msgid "tiepiiri-t5:lle"
+msgstr "untuk kawasan pedalaman Satakunta"
+
+msgid "tiepiiri-u1:lle"
+msgstr "untuk kawasan pesisir Uusimaa Barat"
+
+msgid "tiepiiri-u2:lle"
+msgstr "untuk kawasan ibu kota"
+
+msgid "tiepiiri-u3:lle"
+msgstr "untuk kawasan pesisir Uusimaa Timur"
+
+msgid "tiepiiri-u4:lle"
+msgstr "untuk kawasan pedalaman Uusimaa Barat"
+
+msgid "tiepiiri-u5:lle"
+msgstr "untuk kawasan pedalaman Uusimaa Timur"
+
+msgid "tiepiiri-v1:lle"
+msgstr "untuk kawasan pesisir selatan Ostrobothnia"
+
+msgid "tiepiiri-v2:lle"
+msgstr "untuk Ostrobothnia Selatan"
+
+msgid "tiepiiri-v4:lle"
+msgstr "untuk kawasan pesisir utara Ostrobothnia"
+
+msgid "tiepiiri-v5:lle"
+msgstr "untuk Ostrobothnia Tengah"
+
+msgid "[iltap] [nop] [heikken] [tuulta] [m...n] [m sek], joka kaantyy [illalla] [pohj]"
+msgstr "[1] [2] [3] [4] [5] [6], yang berbalik [8] [7]"
+
+msgid "[lampotila] vahan nollan alapuolella"
+msgstr "[1] sedikit di bawah nol"
+
+msgid "[lampotila] on vahan nollan alapuolella"
+msgstr "[1] sedikit di bawah nol"
+
+msgid "[huomenna] vahan nollan alapuolella"
+msgstr "[1] sedikit di bawah nol"
+
+msgid "[sismaassa] vahan nollan alapuolella"
+msgstr "[1] sedikit di bawah nol"
+
+msgid "[huomenna] [lampotila] on vahan nollan alapuolella"
+msgstr "[1] [2] sedikit di bawah nol"
+
+msgid "[sisamaassa] [lampotila] on vahan nollan alapuolella"
+msgstr "[1] [2] sedikit di bawah nol"
+
+msgid "[huomenna] [sisamaassa] vahan nollan alapuolella"
+msgstr "[1] sedikit di bawah nol [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on vahan nollan alapuolella"
+msgstr "[1] [3] sedikit di bawah nol [2]"
+
+msgid "rannikolla vahan nollan alapuolella"
+msgstr "sedikit di bawah nol di pesisir"
+
+msgid "muuten hyva nakyvyys"
+msgstr "jarak pandang baik lainnya"
+
+msgid "hyva nakyvyys"
+msgstr "jarak pandang baik"
+
+msgid "enimmakseen hyva nakyvyys"
+msgstr "jarak pandang umumnya baik"
+
+msgid "yolla ja aamulla"
+msgstr "malam hari dan pagi hari"
+
+msgid "aamulla ja paivalla"
+msgstr "pagi hari dan siang hari"
+
+msgid "paivalla ja illalla"
+msgstr "siang hari dan malam"
+
+msgid "illalla ja yolla"
+msgstr "malam dan malam hari"
+
+msgid "1-keskipaivalla"
+msgstr "siang hari Senin"
+
+msgid "2-keskipaivalla"
+msgstr "siang hari Selasa"
+
+msgid "3-keskipaivalla"
+msgstr "siang hari Rabu"
+
+msgid "4-keskipaivalla"
+msgstr "siang hari Kamis"
+
+msgid "5-keskipaivalla"
+msgstr "siang hari Jumat"
+
+msgid "6-keskipaivalla"
+msgstr "siang hari Sabtu"
+
+msgid "7-keskipaivalla"
+msgstr "siang hari Minggu"
+
+msgid "ja huono nakyvyys"
+msgstr "dan jarak pandang buruk"
+
+msgid "B2_B1S:lle"
+msgstr "untuk Kvarken dan Teluk Bothnia Selatan"
+
+msgid "B2_B1:lle"
+msgstr "untuk Kvarken dan Teluk Bothnia"
+
+msgid "B3_B2_B1:lle"
+msgstr "untuk Laut Bothnia, Kvarken dan Teluk Bothnia"
+
+msgid "B3_B2:lle"
+msgstr "untuk Laut Bothnia dan Kvarken"
+
+msgid "B4E_B3:lle"
+msgstr "untuk Laut Kepulauan dan Laut Bothnia"
+
+msgid "B4_B3:lle"
+msgstr "untuk Laut Kepulauan dan Laut Åland dan Laut Bothnia"
+
+msgid "B7_B4:lle"
+msgstr "untuk Baltik Utara, Laut Kepulauan dan Laut Åland"
+
+msgid "B7_B4_B3:lle"
+msgstr "untuk Baltik Utara, Laut Kepulauan dan Laut Åland dan Laut Bothnia"
+
+msgid "B5W_B7:lle"
+msgstr "untuk Teluk Finlandia Barat dan Baltik Utara"
+
+msgid "B5_B7:lle"
+msgstr "untuk Teluk Finlandia dan Baltik Utara"
+
+msgid "B3N_B2:lle"
+msgstr "untuk Laut Bothnia Utara dan Kvarken"
+
+msgid "vesi- tai tihkusadetta"
+msgstr "hujan atau gerimis"
+
+msgid "lumi- tai tihkusadetta"
+msgstr "salju atau gerimis"
+
+msgid "ranta- tai tihkusadetta"
+msgstr "hujan es atau gerimis"
+
+msgid "jaatavaa tihkusadetta"
+msgstr "gerimis beku"
+
+msgid "jotka muuttuvat lumikuuroiksi"
+msgstr "yang berubah menjadi hujan salju"
+
+msgid "jotka muuttuvat rantakuuroiksi"
+msgstr "yang berubah menjadi hujan es"
+
+msgid "[iltapaivalla] [etelatuuli] alkaa voimistua [nopeasti]"
+msgstr "[1] [2] mulai menguat [3]"
+
+msgid "[iltapaivalla] [etelatuuli] voimistuu [nopeasti]"
+msgstr "[2] menguat [3] [1]"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] [2] mulai menguat [3] dan berbalik [5] [4]"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2] mulai menguat dan menjadi sementara berubah-ubah"
+
+msgid "4-aamuyolla ja aamulla"
+msgstr "Kamis dini hari dan pagi"
+
+msgid "B5W_B7E_B4E:lle"
+msgstr "untuk Teluk Finlandia Barat, Bagian Timur Baltik Utara dan Laut Kepulauan"
+
+msgid "B5W_B7E:lle"
+msgstr "untuk Teluk Finlandia Barat dan Bagian Timur Baltik Utara"
+
+msgid "B7_B4_B3S:lle"
+msgstr "untuk Baltik Utara, Laut Kepulauan dan Laut Åland dan Laut Bothnia Selatan"
+
+msgid "B7E_B4E_B3S:lle"
+msgstr "untuk Bagian Timur Baltik Utara, Laut Kepulauan dan Laut Bothnia Selatan"
+
+msgid "B7E_B4E:lle"
+msgstr "untuk Bagian Timur Baltik Utara dan Laut Kepulauan"
+
+msgid "B7W_B4:lle"
+msgstr "untuk Teluk Finlandia Barat, Laut Kepulauan dan Laut Åland"
+
+msgid "B7W_B4W_B3S:lle"
+msgstr "untuk Teluk Finlandia Barat, Laut Åland dan Laut Bothnia Selatan"
+
+msgid "B7W_B4W:lle"
+msgstr "untuk Teluk Finlandia Barat dan Laut Åland"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2] menguat dan menjadi sementara berubah-ubah"
+
+msgid "[iltapaivalla] tuuli kaantyy [etelaan] ja heikkenee edelleen"
+msgstr "[1] angin berbalik [2] dan terus menguat"
+
+msgid "tuuli voimistuu"
+msgstr "angin menguat menjadi"
+
+msgid "B4_B3S:lle"
+msgstr "untuk Laut Kepulauan dan Laut Åland dan Laut Bothnia Selatan"
+
+msgid "aamupaivalla"
+msgstr "menjelang siang"
+
+msgid "huomisen keskipaivaan asti"
+msgstr "hingga siang besok"
+
+msgid "huono nakyvyys"
+msgstr "jarak pandang buruk"
+
+msgid "B1"
+msgstr "Teluk Bothnia"
+
+msgid "B2"
+msgstr "Kvarken"
+
+msgid "B3"
+msgstr "Laut Bothnia"
+
+msgid "B4"
+msgstr "Laut Kepulauan dan Laut Åland"
+
+msgid "B5"
+msgstr "Teluk Finlandia"
+
+msgid "B6"
+msgstr "Teluk Riga"
+
+msgid "B7"
+msgstr "Baltik Utara"
+
+msgid "B8"
+msgstr "Baltik Tengah"
+
+msgid "B9"
+msgstr "Baltik Proper Tenggara"
+
+msgid "B10"
+msgstr "Baltik Selatan"
+
+msgid "B11"
+msgstr "Laut Arkona"
+
+msgid "B12"
+msgstr "Öresund dan Selat"
+
+msgid "B13"
+msgstr "Kattegat"
+
+msgid "B1N"
+msgstr "Teluk Bothnia Utara"
+
+msgid "B1S"
+msgstr "Teluk Bothnia Selatan"
+
+msgid "B4E"
+msgstr "Laut Kepulauan"
+
+msgid "B4W"
+msgstr "Laut Åland"
+
+msgid "B5E"
+msgstr "Teluk Finlandia Timur"
+
+msgid "B5W"
+msgstr "Teluk Finlandia Barat"
+
+msgid "B8E"
+msgstr "Baltik Tengah"
+
+msgid "B8W"
+msgstr "Laut Gotland"
+
+msgid "B10N"
+msgstr "Laut Öland"
+
+msgid "B10S"
+msgstr "Laut Bornholm"
+
+msgid "B2_B1S"
+msgstr "Kvarken dan Teluk Bothnia Selatan"
+
+msgid "B2_B1"
+msgstr "Kvarken dan Teluk Bothnia"
+
+msgid "B3_B2_B1"
+msgstr "Laut Bothnia, Kvarken dan Teluk Bothnia"
+
+msgid "B3_B2"
+msgstr "Laut Bothnia dan Kvarken"
+
+msgid "B4E_B3"
+msgstr "Laut Kepulauan dan Laut Bothnia"
+
+msgid "B4_B3"
+msgstr "Laut Kepulauan dan Laut Åland dan Laut Bothnia"
+
+msgid "B7_B4"
+msgstr "Baltik Utara, Laut Kepulauan dan Laut Åland"
+
+msgid "B7_B4_B3"
+msgstr "Baltik Utara, Laut Kepulauan dan Laut Åland dan Laut Bothnia"
+
+msgid "B5W_B7"
+msgstr "Teluk Finlandia Barat dan Baltik Utara"
+
+msgid "B5_B7"
+msgstr "Teluk Finlandia dan Baltik Utara"
+
+msgid "B3N_B2"
+msgstr "Laut Bothnia Utara dan Kvarken"
+
+msgid "B3N"
+msgstr "Laut Bothnia Utara"
+
+msgid "B3S"
+msgstr "Laut Bothnia Selatan"
+
+msgid "B4_B3S"
+msgstr "Laut Kepulauan dan Laut Åland dan Laut Bothnia Selatan"
+
+msgid "B5W_B7E_B4E"
+msgstr "Teluk Finlandia Barat, Bagian Timur Baltik Utara dan Laut Kepulauan"
+
+msgid "B5W_B7E"
+msgstr "Teluk Finlandia Barat dan Bagian Timur Baltik Utara"
+
+msgid "B7_B4_B3S"
+msgstr "Baltik Utara, Laut Kepulauan dan Laut Åland dan Laut Bothnia Selatan"
+
+msgid "B7E_B4E_B3S"
+msgstr "Bagian Timur Baltik Utara, Laut Kepulauan dan Laut Bothnia Selatan"
+
+msgid "B7E_B4E"
+msgstr "Bagian Timur Baltik Utara dan Laut Kepulauan"
+
+msgid "B7E"
+msgstr "Bagian Timur Baltik Utara"
+
+msgid "B7W_B4W_B3S"
+msgstr "Teluk Finlandia Barat, Laut Åland dan Laut Bothnia Selatan"
+
+msgid "B7W_B4"
+msgstr "Teluk Finlandia Barat, Laut Kepulauan dan Laut Åland"
+
+msgid "B7W_B4W"
+msgstr "Teluk Finlandia Barat dan Laut Åland"
+
+msgid "B7W"
+msgstr "Bagian Barat Baltik Utara"
+
+msgid "lumisateesta"
+msgstr "lebih buruk karena salju"

@@ -1,0 +1,6452 @@
+# SmartMet textgen dictionary: Swahili (sw)
+# Generated from sw.txt by tools/txt_to_po.py
+#
+# Keywords are opaque identifiers and must not be translated.
+# Tokens in [brackets] are placeholders and must be kept as-is.
+msgid ""
+msgstr ""
+"Project-Id-Version: smartmet-library-textgen\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sw\n"
+"X-SmartMet-Language-Name: Swahili\n"
+"X-SmartMet-Full: no\n"
+
+msgid "o'clock"
+msgstr "saa"
+
+msgid "meri-lappi:lle"
+msgstr "kwa Meri-Lappi"
+
+msgid "pohjois-pohjanmaan itaosa:lle"
+msgstr "kwa sehemu ya mashariki ya Northern Ostrobothnia"
+
+msgid "pohjois-pohjanmaan lansiosa:lle"
+msgstr "kwa sehemu ya magharibi ya Northern Ostrobothnia"
+
+msgid "pohjanmaa ja etela-pohjanmaa:lle"
+msgstr "kwa Ostrobothnia na Southern Ostrobothnia"
+
+msgid "etela-lappi:lle"
+msgstr "kwa Southern Lapland"
+
+msgid "keski-lappi:lle"
+msgstr "kwa Central Lapland"
+
+msgid "utsjoki ja inari:lle"
+msgstr "kwa Utsjoki na Inari"
+
+msgid "finnmarkin lansiosa:lle"
+msgstr "kwa sehemu ya magharibi ya Finnmark"
+
+msgid "finnmarkin itaosa:lle"
+msgstr "kwa sehemu ya mashariki ya Finnmark"
+
+msgid "murmanskin alueen lansiosa:lle"
+msgstr "kwa sehemu ya magharibi ya Murmansk Oblast"
+
+msgid "pohjois-ruotsi:lle"
+msgstr "kwa Northern Sweden"
+
+msgid "[iltapaivalla] lumikuurot voivat olla sakeita"
+msgstr "mvua ya theluji inaweza kuwa kali [1]"
+
+msgid "[iltapaivalla] lumisade voi olla sakeaa"
+msgstr "theluji inaweza kuwa kali [1]"
+
+msgid "huomiseen iltapaivaan asti"
+msgstr "hadi mchana wa kesho"
+
+msgid "aamuyosta"
+msgstr "asubuhi na mapema"
+
+msgid "astetta(noin n)"
+msgstr "nyuzi"
+
+msgid "huomattavasti lampimampi"
+msgstr "joto zaidi sana"
+
+msgid "lampimampi"
+msgstr "joto zaidi"
+
+msgid "seuraava yo"
+msgstr "usiku unaofuata"
+
+msgid "seuraavana yona"
+msgstr "usiku unaofuata"
+
+msgid "on"
+msgstr "ni"
+
+msgid "ankaran hallan todennakoisyys"
+msgstr "uwezekano wa baridi kali sana"
+
+msgid "hallan todennakoisyys"
+msgstr "uwezekano wa baridi kali"
+
+msgid "7-vastaisena yona"
+msgstr "usiku wa Jumapili"
+
+msgid "6-vastaisena yona"
+msgstr "usiku wa Jumamosi"
+
+msgid "5-vastaisena yona"
+msgstr "usiku wa Ijumaa"
+
+msgid "4-vastaisena yona"
+msgstr "usiku wa Alhamisi"
+
+msgid "3-vastaisena yona"
+msgstr "usiku wa Jumatano"
+
+msgid "2-vastaisena yona"
+msgstr "usiku wa Jumanne"
+
+msgid "1-vastaisena yona"
+msgstr "usiku wa Jumatatu"
+
+msgid "sama"
+msgstr "sawa"
+
+msgid "hieman pienempi"
+msgstr "kidogo ndogo zaidi"
+
+msgid "hieman suurempi"
+msgstr "kidogo kubwa zaidi"
+
+msgid "pienempi"
+msgstr "ndogo zaidi"
+
+msgid "suurempi"
+msgstr "kubwa zaidi"
+
+msgid "alin suhteellinen kosteus"
+msgstr "unyevu wa chini kabisa"
+
+msgid "7-na"
+msgstr "Jumapili"
+
+msgid "6-na"
+msgstr "Jumamosi"
+
+msgid "5-na"
+msgstr "Ijumaa"
+
+msgid "4-na"
+msgstr "Alhamisi"
+
+msgid "3-na"
+msgstr "Jumatano"
+
+msgid "2-na"
+msgstr "Jumanne"
+
+msgid "1-na"
+msgstr "Jumatatu"
+
+msgid "odotettavissa"
+msgstr "hali ya hewa inayotarajiwa"
+
+msgid "7-illasta"
+msgstr "kuanzia Jumapili jioni"
+
+msgid "1-illasta"
+msgstr "kuanzia Jumatatu jioni"
+
+msgid "2-illasta"
+msgstr "kuanzia Jumanne jioni"
+
+msgid "3-illasta"
+msgstr "kuanzia Jumatano jioni"
+
+msgid "4-illasta"
+msgstr "kuanzia Alhamisi jioni"
+
+msgid "5-illasta"
+msgstr "kuanzia Ijumaa jioni"
+
+msgid "6-illasta"
+msgstr "kuanzia Jumamosi jioni"
+
+msgid "7-aamuun"
+msgstr "hadi Jumapili asubuhi"
+
+msgid "1-aamuun"
+msgstr "hadi Jumatatu asubuhi"
+
+msgid "2-aamuun"
+msgstr "hadi Jumanne asubuhi"
+
+msgid "3-aamuun"
+msgstr "hadi Jumatano asubuhi"
+
+msgid "4-aamuun"
+msgstr "hadi Alhamisi asubuhi"
+
+msgid "5-aamuun"
+msgstr "hadi Ijumaa asubuhi"
+
+msgid "6-aamuun"
+msgstr "hadi Jumamosi asubuhi"
+
+msgid "saa"
+msgstr "hali ya hewa"
+
+msgid "keskilampotila"
+msgstr "joto la wastani"
+
+msgid "keskimaarainen ylin lampotila"
+msgstr "joto la juu la wastani"
+
+msgid "keskimaarainen alin lampotila"
+msgstr "joto la chini la wastani"
+
+msgid "sadesumma"
+msgstr "mvua jumla"
+
+msgid "astetta"
+msgstr "nyuzi"
+
+msgid "millimetria"
+msgstr "milimita"
+
+msgid "1-aamusta"
+msgstr "kuanzia Jumatatu asubuhi"
+
+msgid "2-aamusta"
+msgstr "kuanzia Jumanne asubuhi"
+
+msgid "3-aamusta"
+msgstr "kuanzia Jumatano asubuhi"
+
+msgid "4-aamusta"
+msgstr "kuanzia Alhamisi asubuhi"
+
+msgid "5-aamusta"
+msgstr "kuanzia Ijumaa asubuhi"
+
+msgid "6-aamusta"
+msgstr "kuanzia Jumamosi asubuhi"
+
+msgid "7-aamusta"
+msgstr "kuanzia Jumapili asubuhi"
+
+msgid "alkavan"
+msgstr ""
+
+msgid "1-iltaan"
+msgstr "hadi Jumatatu jioni"
+
+msgid "2-vuorokauden saa"
+msgstr "kwa siku mbili zijazo"
+
+msgid "3-vuorokauden saa"
+msgstr "kwa siku tatu zijazo"
+
+msgid "4-vuorokauden saa"
+msgstr "kwa siku nne zijazo"
+
+msgid "5-vuorokauden saa"
+msgstr "kwa siku tano zijazo"
+
+msgid "6-vuorokauden saa"
+msgstr "kwa siku sita zijazo"
+
+msgid "7-vuorokauden saa"
+msgstr "kwa siku saba zijazo"
+
+msgid "8-vuorokauden saa"
+msgstr "kwa siku nane zijazo"
+
+msgid "9-vuorokauden saa"
+msgstr "kwa siku tisa zijazo"
+
+msgid "10-vuorokauden saa"
+msgstr "kwa siku 10 zijazo"
+
+msgid "1-keskipaivaan asti"
+msgstr "hadi adhuhuri ya Jumatatu"
+
+msgid "2-keskipaivaan asti"
+msgstr "hadi adhuhuri ya Jumanne"
+
+msgid "3-keskipaivaan asti"
+msgstr "hadi adhuhuri ya Jumatano"
+
+msgid "4-keskipaivaan asti"
+msgstr "hadi adhuhuri ya Alhamisi"
+
+msgid "5-keskipaivaan asti"
+msgstr "hadi adhuhuri ya Ijumaa"
+
+msgid "6-keskipaivaan asti"
+msgstr "hadi adhuhuri ya Jumamosi"
+
+msgid "7-keskipaivaan asti"
+msgstr "hadi adhuhuri ya Jumapili"
+
+msgid "yli"
+msgstr "zaidi ya"
+
+msgid "2-iltaan"
+msgstr "hadi Jumanne jioni"
+
+msgid "3-iltaan"
+msgstr "hadi Jumatano jioni"
+
+msgid "4-iltaan"
+msgstr "hadi Alhamisi jioni"
+
+msgid "5-iltaan"
+msgstr "hadi Ijumaa jioni"
+
+msgid "6-iltaan"
+msgstr "hadi Jumamosi jioni"
+
+msgid "7-iltaan"
+msgstr "hadi Jumapili jioni"
+
+msgid "monin paikoin enemman"
+msgstr "zaidi sehemu nyingi"
+
+msgid "paikoin enemman"
+msgstr "zaidi sehemu fulani"
+
+msgid "monin paikoin"
+msgstr "sehemu nyingi"
+
+msgid "paikoin"
+msgstr "sehemu fulani"
+
+msgid "asti"
+msgstr ""
+
+msgid "huomattavasti korkeampi"
+msgstr "juu zaidi sana"
+
+msgid "korkeampi"
+msgstr "juu zaidi"
+
+msgid "hieman korkeampi"
+msgstr "kidogo juu zaidi"
+
+msgid "suunnilleen sama"
+msgstr "takriban sawa"
+
+msgid "hieman alempi"
+msgstr "kidogo chini zaidi"
+
+msgid "alempi"
+msgstr "chini zaidi"
+
+msgid "huomattavasti alempi"
+msgstr "chini zaidi sana"
+
+msgid "noin"
+msgstr "takriban"
+
+msgid "seuraavana paivana"
+msgstr "siku inayofuata"
+
+msgid "paivan ylin lampotila"
+msgstr "joto la juu la mchana"
+
+msgid "yon alin lampotila"
+msgstr "joto la chini la usiku"
+
+msgid "paivien ylin lampotila"
+msgstr "joto la juu la kila siku"
+
+msgid "oiden alin lampotila"
+msgstr "joto la chini la kila usiku"
+
+msgid "paivalampotila"
+msgstr "joto la mchana"
+
+msgid "yolampotila"
+msgstr "joto la usiku"
+
+msgid "lopuksi"
+msgstr "mwishowe"
+
+msgid "8-suunnasta"
+msgstr "kutoka kaskazini magharibi"
+
+msgid "7-suunnasta"
+msgstr "kutoka magharibi"
+
+msgid "6-suunnasta"
+msgstr "kutoka kusini magharibi"
+
+msgid "5-suunnasta"
+msgstr "kutoka kusini"
+
+msgid "4-suunnasta"
+msgstr "kutoka kusini mashariki"
+
+msgid "3-suunnasta"
+msgstr "kutoka mashariki"
+
+msgid "2-suunnasta"
+msgstr "kutoka kaskazini mashariki"
+
+msgid "1-suunnasta"
+msgstr "kutoka kaskazini"
+
+msgid "8-suuntaan"
+msgstr "kuelekea kaskazini magharibi"
+
+msgid "7-suuntaan"
+msgstr "kuelekea magharibi"
+
+msgid "6-suuntaan"
+msgstr "kuelekea kusini magharibi"
+
+msgid "5-suuntaan"
+msgstr "kuelekea kusini"
+
+msgid "4-suuntaan"
+msgstr "kuelekea kusini mashariki"
+
+msgid "3-suuntaan"
+msgstr "kuelekea mashariki"
+
+msgid "2-suuntaan"
+msgstr "kuelekea kaskazini mashariki"
+
+msgid "1-suuntaan"
+msgstr "kuelekea kaskazini"
+
+msgid "alueen yli"
+msgstr "juu ya eneo"
+
+msgid "liikkuu"
+msgstr "inahamia"
+
+msgid "kosteammaksi"
+msgstr "yenye unyevu zaidi"
+
+msgid "kuivemmaksi"
+msgstr "kavu zaidi"
+
+msgid "muuttuu"
+msgstr "inabadilika"
+
+msgid "viilenee"
+msgstr "inakuwa baridi zaidi"
+
+msgid "lampenee"
+msgstr "inakuwa joto zaidi"
+
+msgid "sadealue"
+msgstr "eneo la mvua"
+
+msgid "leviaa"
+msgstr "inaenea"
+
+msgid "loittonee"
+msgstr "inaondoka"
+
+msgid "lahestyy"
+msgstr "inakaribia"
+
+msgid "laaja"
+msgstr "kubwa"
+
+msgid "korkeapaineen alue"
+msgstr "eneo la shinikizo la juu"
+
+msgid "matalapaineen alue"
+msgstr "eneo la shinikizo la chini"
+
+msgid "syvenee"
+msgstr "inazidi kina"
+
+msgid "korkeapaine"
+msgstr "shinikizo la juu"
+
+msgid "matalapaine"
+msgstr "shinikizo la chini"
+
+msgid "lampotila"
+msgstr "joto"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "heikkoa"
+msgstr "dhaifu"
+
+msgid "kohtalaista"
+msgstr "wastani"
+
+msgid "navakkaa"
+msgstr "nguvu kidogo"
+
+msgid "kovaa"
+msgstr "kali"
+
+msgid "myrskya"
+msgstr "dhoruba"
+
+msgid "tuulta"
+msgstr "upepo"
+
+msgid "suunnaltaan vaihtelevaa"
+msgstr "ubadilishaji"
+
+msgid "1-tuulta"
+msgstr "upepo wa kaskazini"
+
+msgid "2-tuulta"
+msgstr "upepo wa kaskazini mashariki"
+
+msgid "3-tuulta"
+msgstr "upepo wa mashariki"
+
+msgid "4-tuulta"
+msgstr "upepo wa kusini mashariki"
+
+msgid "5-tuulta"
+msgstr "upepo wa kusini"
+
+msgid "6-tuulta"
+msgstr "upepo wa kusini magharibi"
+
+msgid "7-tuulta"
+msgstr "upepo wa magharibi"
+
+msgid "8-tuulta"
+msgstr "upepo wa kaskazini magharibi"
+
+msgid "yolla"
+msgstr "usiku"
+
+msgid "heikkenevaa"
+msgstr "inapungua nguvu"
+
+msgid "tuuli"
+msgstr "upepo"
+
+msgid "1-puoleista tuulta"
+msgstr "upepo wa kaskazini hasa"
+
+msgid "2-puoleista tuulta"
+msgstr "upepo wa kaskazini mashariki hasa"
+
+msgid "3-puoleista tuulta"
+msgstr "upepo wa mashariki hasa"
+
+msgid "4-puoleista tuulta"
+msgstr "upepo wa kusini mashariki hasa"
+
+msgid "5-puoleista tuulta"
+msgstr "upepo wa kusini hasa"
+
+msgid "6-puoleista tuulta"
+msgstr "upepo wa kusini magharibi hasa"
+
+msgid "7-puoleista tuulta"
+msgstr "upepo wa magharibi hasa"
+
+msgid "8-puoleista tuulta"
+msgstr "upepo wa kaskazini magharibi hasa"
+
+msgid "ajoittain lumisadetta"
+msgstr "theluji mara kwa mara"
+
+msgid "ajoittain sadetta"
+msgstr "mvua mara kwa mara"
+
+msgid "ajoittain ukkosta"
+msgstr "radi mara kwa mara"
+
+msgid "heikkoa sadetta"
+msgstr "mvua dhaifu"
+
+msgid "lumikuuroja"
+msgstr "mvua ya theluji"
+
+msgid "lumisadetta"
+msgstr "theluji"
+
+msgid "voimistuvaa"
+msgstr "inaongeza nguvu"
+
+msgid "vahvistuu"
+msgstr "inaongeza nguvu"
+
+msgid "uusimaa"
+msgstr "Uusimaa"
+
+msgid "mahdollisesti ukkosta"
+msgstr "uwezekano wa radi"
+
+msgid "paikoin ukkosta"
+msgstr "radi sehemu fulani"
+
+msgid "ukkosta"
+msgstr "radi"
+
+msgid "melko selkeaa"
+msgstr "wazi kidogo"
+
+msgid "miinus"
+msgstr "minus"
+
+msgid "pilvistyvaa"
+msgstr "mawingu yanayoongezeka"
+
+msgid "pilvista"
+msgstr "mawingu"
+
+msgid "poutaa"
+msgstr "hali nzuri ya hewa"
+
+msgid "puolipilvista"
+msgstr "mawingu kidogo"
+
+msgid "runsasta sadetta"
+msgstr "mvua kali"
+
+msgid "sadetta"
+msgstr "mvua"
+
+msgid "sakeaa lumisadetta"
+msgstr "theluji kali"
+
+msgid "sakeita lumikuuroja"
+msgstr "mvua ya theluji kali"
+
+msgid "selkenevaa"
+msgstr "mawingu yanayopungua"
+
+msgid "selkeaa"
+msgstr "jua"
+
+msgid "tai"
+msgstr "au"
+
+msgid "tuuli heikkenee"
+msgstr "upepo unapungua nguvu hadi"
+
+msgid "vaihtelevaa pilvisyytta"
+msgstr "mawingu yanayobadilika"
+
+msgid "vesisadetta"
+msgstr "mvua"
+
+msgid "voimakkaita kuuroja"
+msgstr "mvua kali"
+
+msgid "vahaisia kuuroja"
+msgstr "mvua ndogo ndogo"
+
+msgid "vahaista lumisadetta"
+msgstr "theluji kidogo"
+
+msgid "heikoksi"
+msgstr "dhaifu"
+
+msgid "kohtalaiseksi"
+msgstr "wastani"
+
+msgid "navakaksi"
+msgstr "nguvu kidogo"
+
+msgid "kovaksi"
+msgstr "kali"
+
+msgid "myrskyksi"
+msgstr "dhoruba"
+
+msgid "1-tuuleksi"
+msgstr "upepo wa kaskazini"
+
+msgid "2-tuuleksi"
+msgstr "upepo wa kaskazini mashariki"
+
+msgid "3-tuuleksi"
+msgstr "upepo wa mashariki"
+
+msgid "4-tuuleksi"
+msgstr "upepo wa kusini mashariki"
+
+msgid "5-tuuleksi"
+msgstr "upepo wa kusini"
+
+msgid "6-tuuleksi"
+msgstr "upepo wa kusini magharibi"
+
+msgid "7-tuuleksi"
+msgstr "upepo wa magharibi"
+
+msgid "8-tuuleksi"
+msgstr "upepo wa kaskazini magharibi"
+
+msgid "1-puoleiseksi tuuleksi"
+msgstr "upepo wa kaskazini hasa"
+
+msgid "2-puoleiseksi tuuleksi"
+msgstr "upepo wa kaskazini mashariki hasa"
+
+msgid "3-puoleiseksi tuuleksi"
+msgstr "upepo wa mashariki hasa"
+
+msgid "4-puoleiseksi tuuleksi"
+msgstr "upepo wa kusini mashariki hasa"
+
+msgid "5-puoleiseksi tuuleksi"
+msgstr "upepo wa kusini hasa"
+
+msgid "6-puoleiseksi tuuleksi"
+msgstr "upepo wa kusini magharibi hasa"
+
+msgid "7-puoleiseksi tuuleksi"
+msgstr "upepo wa magharibi hasa"
+
+msgid "8-puoleiseksi tuuleksi"
+msgstr "upepo wa kaskazini magharibi hasa"
+
+msgid "tuuli tyyntyy"
+msgstr "upepo unakuwa wa utulivu"
+
+msgid "tyyneksi"
+msgstr "utulivu"
+
+msgid "tyynta"
+msgstr "upepo wa utulivu"
+
+msgid "viiva"
+msgstr "hadi"
+
+msgid "rantasadetta"
+msgstr "mvua na theluji"
+
+msgid "saa on epavakaista"
+msgstr "hali ya hewa si ya kawaida"
+
+msgid "lumi-"
+msgstr "theluji-"
+
+msgid "ranta-"
+msgstr "mvua na theluji-"
+
+msgid "vesi-"
+msgstr "mvua-"
+
+msgid "edelleen"
+msgstr "inaendelea"
+
+msgid "enimmakseen"
+msgstr "hasa"
+
+msgid "ajoittain sateista"
+msgstr "mvua mara kwa mara"
+
+msgid "paivalla"
+msgstr "mchana"
+
+msgid "hirmumyrskya"
+msgstr "dhoruba kali"
+
+msgid "hirmumyrskyksi"
+msgstr "dhoruba kali"
+
+msgid "saaennuste"
+msgstr "ripoti ya hali ya hewa"
+
+msgid "kello"
+msgstr ""
+
+msgid "aland:lle"
+msgstr "kwa Åland Islands"
+
+msgid "etela-karjala:lle"
+msgstr "kwa Southern Karelia"
+
+msgid "etela-pohjanmaa:lle"
+msgstr "kwa Southern Ostrobothnia"
+
+msgid "etela-savo:lle"
+msgstr "kwa Southern Savonia"
+
+msgid "hame:lle"
+msgstr "kwa Tavastia"
+
+msgid "kainuu:lle"
+msgstr "kwa Kainuu"
+
+msgid "keski-pohjanmaa:lle"
+msgstr "kwa Central Ostrobothnia"
+
+msgid "keski-suomi:lle"
+msgstr "kwa Central Finland"
+
+msgid "koillismaa:lle"
+msgstr "kwa Koillismaa"
+
+msgid "kymenlaakso:lle"
+msgstr "kwa Kymenlaakso"
+
+msgid "lansi-lappi:lle"
+msgstr "kwa Western Lapland"
+
+msgid "nyland:lle"
+msgstr "kwa Uusimaa"
+
+msgid "osterbotten:lle"
+msgstr "kwa Ostrobothnia"
+
+msgid "paijat-hame:lle"
+msgstr "kwa Päijänne Tavastia"
+
+msgid "pirkanmaa:lle"
+msgstr "kwa Pirkanmaa"
+
+msgid "pohjois-karjala:lle"
+msgstr "kwa Northern Karelia"
+
+msgid "pohjois-lappi:lle"
+msgstr "kwa Northern Lapland"
+
+msgid "pohjois-pohjanmaa:lle"
+msgstr "kwa Northern Ostrobothnia"
+
+msgid "pohjois-savo:lle"
+msgstr "kwa Northern Savonia"
+
+msgid "satakunta:lle"
+msgstr "kwa Satakunta"
+
+msgid "uusimaa:lle"
+msgstr "kwa Uusimaa"
+
+msgid "varsinais-suomi:lle"
+msgstr "kwa Finland Proper"
+
+msgid "huomattavasti suurempi"
+msgstr "kubwa zaidi sana"
+
+msgid "huomattavasti pienempi"
+msgstr "ndogo zaidi sana"
+
+msgid "rannikolla"
+msgstr "pwani"
+
+msgid "metria sekunnissa"
+msgstr "mita kwa sekunde"
+
+msgid "1-alkaen"
+msgstr "kuanzia Jumatatu"
+
+msgid "2-alkaen"
+msgstr "kuanzia Jumanne"
+
+msgid "3-alkaen"
+msgstr "kuanzia Jumatano"
+
+msgid "4-alkaen"
+msgstr "kuanzia Alhamisi"
+
+msgid "5-alkaen"
+msgstr "kuanzia Ijumaa"
+
+msgid "6-alkaen"
+msgstr "kuanzia Jumamosi"
+
+msgid "7-alkaen"
+msgstr "kuanzia Jumapili"
+
+msgid "tanaan"
+msgstr "leo"
+
+msgid "huomenna"
+msgstr "kesho"
+
+msgid "ylihuomenna"
+msgstr "kesho kutwa"
+
+msgid "ensi yona"
+msgstr "usiku"
+
+msgid "huomisaamuna"
+msgstr "kesho asubuhi"
+
+msgid "aamulla"
+msgstr "asubuhi"
+
+msgid "illalla"
+msgstr "jioni"
+
+msgid "iltapaivalla"
+msgstr "mchana"
+
+msgid "aamuyolla"
+msgstr "baada ya usiku wa manane"
+
+msgid "keskipaivalla"
+msgstr "adhuhuri"
+
+msgid "iltayolla"
+msgstr "kabla ya usiku wa manane"
+
+msgid "keskiyolla"
+msgstr "usiku wa manane"
+
+msgid "yosta alkaen"
+msgstr "kuanzia usiku huu"
+
+msgid "aamuyosta alkaen"
+msgstr "kuanzia asubuhi na mapema"
+
+msgid "aamusta alkaen"
+msgstr "kuanzia asubuhi"
+
+msgid "aamupaivasta alkaen"
+msgstr "kuanzia kabla ya adhuhuri"
+
+msgid "keskipaivasta alkaen"
+msgstr "kuanzia adhuhuri"
+
+msgid "iltapaivasta alkaen"
+msgstr "kuanzia mchana"
+
+msgid "illasta alkaen"
+msgstr "kuanzia jioni"
+
+msgid "iltayosta alkaen"
+msgstr "kuanzia jioni ya manane"
+
+msgid "keskiyosta alkaen"
+msgstr "kuanzia usiku wa manane"
+
+msgid "prosenttia"
+msgstr "asilimia"
+
+msgid "ajoittain"
+msgstr "mara kwa mara"
+
+msgid "1-na kello"
+msgstr "Jumatatu"
+
+msgid "2-na kello"
+msgstr "Jumanne"
+
+msgid "3-na kello"
+msgstr "Jumatano"
+
+msgid "4-na kello"
+msgstr "Alhamisi"
+
+msgid "5-na kello"
+msgstr "Ijumaa"
+
+msgid "6-na kello"
+msgstr "Jumamosi"
+
+msgid "7-na kello"
+msgstr "Jumapili"
+
+msgid "ei suuria muutoksia saassa"
+msgstr "hakuna mabadiliko makubwa katika hali ya hewa"
+
+msgid "saa selkenee"
+msgstr "hali ya hewa inakuwa wazi"
+
+msgid "saa muuttuu epavakaisemmaksi"
+msgstr "hali ya hewa inakuwa isiyokuwa ya kawaida zaidi"
+
+msgid "sateinen saa jatkuu"
+msgstr "hali ya hewa ya mvua inaendelea"
+
+msgid "epavakainen saa jatkuu"
+msgstr "hali ya hewa isiyokuwa ya kawaida inaendelea"
+
+msgid "saa lauhtuu"
+msgstr "hali ya hewa inakuwa laini zaidi"
+
+msgid "saa on enimmakseen poutaista"
+msgstr "hali ya hewa ni nzuri hasa"
+
+msgid "saa poutaantuu"
+msgstr "hali ya hewa inakuwa nzuri"
+
+msgid "saa muuttuu helteiseksi"
+msgstr "hali ya hewa inakuwa ya joto kali"
+
+msgid "saa lampenee"
+msgstr "hali ya hewa inakuwa joto zaidi"
+
+msgid "saa viilenee"
+msgstr "hali ya hewa inakuwa baridi kidogo"
+
+msgid "saa muuttuu koleaksi"
+msgstr "hali ya hewa inakuwa baridi"
+
+msgid "saa kylmenee"
+msgstr "hali ya hewa inakuwa baridi zaidi"
+
+msgid "helteinen saa jatkuu"
+msgstr "hali ya hewa ya joto kali inaendelea"
+
+msgid "lammin saa jatkuu"
+msgstr "hali ya hewa ya joto inaendelea"
+
+msgid "viilea saa jatkuu"
+msgstr "hali ya hewa baridi kidogo inaendelea"
+
+msgid "kolea saa jatkuu"
+msgstr "hali ya hewa baridi inaendelea"
+
+msgid "kylma saa jatkuu"
+msgstr "hali ya hewa ya baridi inaendelea"
+
+msgid "virtaa"
+msgstr "inatiririka"
+
+msgid "tilapaisesti"
+msgstr "kwa muda"
+
+msgid "lamminta"
+msgstr "joto"
+
+msgid "kylmaa"
+msgstr "baridi"
+
+msgid "viileaa"
+msgstr "baridi kidogo"
+
+msgid "viileampaa"
+msgstr "baridi kidogo zaidi"
+
+msgid "lampimampaa"
+msgstr "joto zaidi"
+
+msgid "kylmempaa"
+msgstr "baridi zaidi"
+
+msgid "hyvin"
+msgstr "sana"
+
+msgid "vahan"
+msgstr "kidogo"
+
+msgid "ilmaa"
+msgstr "hewa"
+
+msgid "Suomeen"
+msgstr "Finland"
+
+msgid "maan"
+msgstr "ya nchi"
+
+msgid "etelaosiin"
+msgstr "maeneo ya kusini"
+
+msgid "keskiosiin"
+msgstr "maeneo ya kati"
+
+msgid "pohjoisosiin"
+msgstr "maeneo ya kaskazini"
+
+msgid "itaosiin"
+msgstr "maeneo ya mashariki"
+
+msgid "lansiosiin"
+msgstr "maeneo ya magharibi"
+
+msgid "etela-"
+msgstr "kusini-"
+
+msgid "keski-"
+msgstr "kati-"
+
+msgid "pohjois-"
+msgstr "kaskazini-"
+
+msgid "ita-"
+msgstr "mashariki-"
+
+msgid "lansi-"
+msgstr "magharibi-"
+
+msgid "kuivempaa"
+msgstr "kavu zaidi"
+
+msgid "kosteampaa"
+msgstr "yenye unyevu zaidi"
+
+msgid "sadealueita"
+msgstr "maeneo ya mvua"
+
+msgid "Suomen yli"
+msgstr "juu ya Finland"
+
+msgid "Etela-Suomen yli"
+msgstr "juu ya Finland Kusini"
+
+msgid "Keski-Suomen yli"
+msgstr "juu ya Finland ya Kati"
+
+msgid "Pohjois-Suomen yli"
+msgstr "juu ya Finland Kaskazini"
+
+msgid "Ita-Suomen yli"
+msgstr "juu ya Finland Mashariki"
+
+msgid "Lansi-Suomen yli"
+msgstr "juu ya Finland Magharibi"
+
+msgid "Kaakkois-Suomen yli"
+msgstr "juu ya Finland Kusini Mashariki"
+
+msgid "uusi"
+msgstr "mpya"
+
+msgid "sateen todennakoisyys"
+msgstr "uwezekano wa mvua"
+
+msgid "kuurosateen todennakoisyys"
+msgstr "uwezekano wa mvua ya haraka"
+
+msgid "ukkosen todennakoisyys"
+msgstr "uwezekano wa radi"
+
+msgid "pakkanen jatkuu"
+msgstr "baridi kali inaendelea"
+
+msgid "pakkanen kiristyy"
+msgstr "baridi kali inazidi"
+
+msgid "pakkanen heikkenee"
+msgstr "baridi kali inapungua"
+
+msgid "kuuluu"
+msgstr "ni sehemu ya"
+
+msgid "sateineen"
+msgstr "pamoja na mvua"
+
+msgid "sadealueineen"
+msgstr "pamoja na maeneo ya mvua"
+
+msgid "hajanaisine sadealueineen"
+msgstr "pamoja na maeneo ya mvua yaliyotawanyika"
+
+msgid "Lounais-Suomen yli"
+msgstr "juu ya Finland Kusini Magharibi"
+
+msgid "saapuu"
+msgstr "inakaribia"
+
+msgid "saa muuttuu sateisemmaksi"
+msgstr "hali ya hewa inakuwa ya mvua zaidi"
+
+msgid "alue"
+msgstr "eneo"
+
+msgid "pohjanmaa:lle"
+msgstr "kwa Ostrobothnia"
+
+msgid "suomi:lle"
+msgstr "kwa Finland"
+
+msgid "aluksi"
+msgstr "kwanza"
+
+msgid "ahvenanmaa:lle"
+msgstr "kwa Åland"
+
+msgid "huomisesta alkaen"
+msgstr "kuanzia kesho"
+
+msgid "ja"
+msgstr "na"
+
+msgid "tiepiiri-hame:lle"
+msgstr "kwa Tavastia road district"
+
+msgid "tiepiiri-kaakkois-lappi:lle"
+msgstr "kwa South Eastern Lapland"
+
+msgid "tiepiiri-kaakkois-suomi:lle"
+msgstr "kwa South Eastern Finlands road district"
+
+msgid "tiepiiri-kasivarsi:lle"
+msgstr "kwa North Western Lapland"
+
+msgid "tiepiiri-keski-lappi:lle"
+msgstr "kwa Central Lapland"
+
+msgid "tiepiiri-keski-suomi:lle"
+msgstr "kwa Central Finlands road district"
+
+msgid "tiepiiri-lounais-lappi:lle"
+msgstr "kwa South Western Lapland"
+
+msgid "tiepiiri-oulu-ita:lle"
+msgstr "kwa Oulu road districts eastern parts"
+
+msgid "tiepiiri-oulu-lansi:lle"
+msgstr "kwa Oulu road districts western parts"
+
+msgid "tiepiiri-savo-karjala:lle"
+msgstr "kwa Savonia-Karelia road district"
+
+msgid "tiepiiri-turku:lle"
+msgstr "kwa Turku road district"
+
+msgid "tiepiiri-uusimaa:lle"
+msgstr "kwa Uusimaa road district"
+
+msgid "tiepiiri-vaasa:lle"
+msgstr "kwa Vaasa road district"
+
+msgid "tiepiiri-yla-lappi:lle"
+msgstr "kwa Upper Lapland"
+
+msgid "tienpintalampotila"
+msgstr "joto la uso wa barabara"
+
+msgid "ensimmaisen 12 tunnin sademaara"
+msgstr "mvua jumla kwa masaa 12 ya kwanza"
+
+msgid "seuraavan 12 tunnin"
+msgstr "kwa masaa 12 yanayofuata"
+
+msgid "seuraavan 24 tunnin sademaara"
+msgstr "mvua jumla kwa masaa 24 yanayofuata"
+
+msgid "tiet ovat"
+msgstr "barabara ziko"
+
+msgid "teilla on"
+msgstr "barabara ziko"
+
+msgid "jaisia"
+msgstr "barafu"
+
+msgid "osittain jaisia"
+msgstr "barafu kidogo"
+
+msgid "kuuraa"
+msgstr "zimefunikwa na theluji ndogo"
+
+msgid "sohjoa"
+msgstr "zimefunikwa na theluji laini"
+
+msgid "lunta"
+msgstr "zimefunikwa na theluji"
+
+msgid "markia"
+msgstr "mvua"
+
+msgid "kosteita"
+msgstr "unyevu"
+
+msgid "kuivia"
+msgstr "kavu"
+
+msgid "kuuraisia"
+msgstr "zimefunikwa na theluji ndogo"
+
+msgid "sohjoisia"
+msgstr "zimefunikwa na theluji laini"
+
+msgid "lumisia"
+msgstr "zimefunikwa na theluji"
+
+msgid "tiet ovat (sivulause)"
+msgstr ""
+
+msgid "yleisesti"
+msgstr "kwa ujumla"
+
+msgid "kanta-hame:lle"
+msgstr "kwa Tavastia Proper"
+
+msgid "ita-uusimaa:lle"
+msgstr "kwa Eastern Uusimaa"
+
+msgid "lappi:lle"
+msgstr "kwa Lapland"
+
+msgid "lapin-laani:lle"
+msgstr "kwa jimbo la Lapland"
+
+msgid "oulun-laani:lle"
+msgstr "kwa jimbo la Oulu"
+
+msgid "ita-suomen-laani:lle"
+msgstr "kwa jimbo la Eastern Finland"
+
+msgid "lansi-suomen-laani:lle"
+msgstr "kwa jimbo la Western Finland"
+
+msgid "etela-suomen-laani:lle"
+msgstr "kwa jimbo la Southern Finland"
+
+msgid "ahvenanmaan-laani:lle"
+msgstr "kwa jimbo la Åland"
+
+msgid "7-paivalla"
+msgstr "Jumapili mchana"
+
+msgid "2-aamuna"
+msgstr "Jumanne asubuhi"
+
+msgid "3-aamuna"
+msgstr "Jumatano asubuhi"
+
+msgid "4-aamuna"
+msgstr "Alhamisi asubuhi"
+
+msgid "5-aamuna"
+msgstr "Ijumaa asubuhi"
+
+msgid "6-aamuna"
+msgstr "Jumamosi asubuhi"
+
+msgid "7-aamuna"
+msgstr "Jumapili asubuhi"
+
+msgid "1-aamupaivasta alkaen"
+msgstr "kuanzia Jumatatu kabla ya adhuhuri"
+
+msgid "2-aamupaivasta alkaen"
+msgstr "kuanzia Jumanne kabla ya adhuhuri"
+
+msgid "3-aamupaivasta alkaen"
+msgstr "kuanzia Jumatano kabla ya adhuhuri"
+
+msgid "4-aamupaivasta alkaen"
+msgstr "kuanzia Alhamisi kabla ya adhuhuri"
+
+msgid "5-aamupaivasta alkaen"
+msgstr "kuanzia Ijumaa kabla ya adhuhuri"
+
+msgid "6-aamupaivasta alkaen"
+msgstr "kuanzia Jumamosi kabla ya adhuhuri"
+
+msgid "1-aamusta alkaen"
+msgstr "kuanzia Jumatatu asubuhi"
+
+msgid "2-aamusta alkaen"
+msgstr "kuanzia Jumanne asubuhi"
+
+msgid "3-aamusta alkaen"
+msgstr "kuanzia Jumatano asubuhi"
+
+msgid "4-aamusta alkaen"
+msgstr "kuanzia Alhamisi asubuhi"
+
+msgid "5-aamusta alkaen"
+msgstr "kuanzia Ijumaa asubuhi"
+
+msgid "6-aamusta alkaen"
+msgstr "kuanzia Jumamosi asubuhi"
+
+msgid "7-aamusta alkaen"
+msgstr "kuanzia Jumapili asubuhi"
+
+msgid "1-iltana"
+msgstr "Jumatatu jioni"
+
+msgid "2-iltana"
+msgstr "Jumanne jioni"
+
+msgid "3-iltana"
+msgstr "Jumatano jioni"
+
+msgid "4-iltana"
+msgstr "Alhamisi jioni"
+
+msgid "5-iltana"
+msgstr "Ijumaa jioni"
+
+msgid "6-iltana"
+msgstr "Jumamosi jioni"
+
+msgid "7-iltana"
+msgstr "Jumapili jioni"
+
+msgid "1-illasta alkaen"
+msgstr "kuanzia Jumatatu jioni"
+
+msgid "2-illasta alkaen"
+msgstr "kuanzia Jumanne jioni"
+
+msgid "3-illasta alkaen"
+msgstr "kuanzia Jumatano jioni"
+
+msgid "4-illasta alkaen"
+msgstr "kuanzia Alhamisi jioni"
+
+msgid "5-illasta alkaen"
+msgstr "kuanzia Ijumaa jioni"
+
+msgid "6-illasta alkaen"
+msgstr "kuanzia Jumamosi jioni"
+
+msgid "7-illasta alkaen"
+msgstr "kuanzia Jumapili jioni"
+
+msgid "1-paivalla"
+msgstr "Jumatatu mchana"
+
+msgid "2-paivalla"
+msgstr "Jumanne mchana"
+
+msgid "3-paivalla"
+msgstr "Jumatano mchana"
+
+msgid "4-paivalla"
+msgstr "Alhamisi mchana"
+
+msgid "5-paivalla"
+msgstr "Ijumaa mchana"
+
+msgid "6-paivalla"
+msgstr "Jumamosi mchana"
+
+msgid "1-vastaisesta yosta alkaen"
+msgstr "kuanzia usiku wa Jumatatu"
+
+msgid "2-vastaisesta yosta alkaen"
+msgstr "kuanzia usiku wa Jumanne"
+
+msgid "3-vastaisesta yosta alkaen"
+msgstr "kuanzia usiku wa Jumatano"
+
+msgid "4-vastaisesta yosta alkaen"
+msgstr "kuanzia usiku wa Alhamisi"
+
+msgid "5-vastaisesta yosta alkaen"
+msgstr "kuanzia usiku wa Ijumaa"
+
+msgid "6-vastaisesta yosta alkaen"
+msgstr "kuanzia usiku wa Jumamosi"
+
+msgid "7-vastaisesta yosta alkaen"
+msgstr "kuanzia usiku wa Jumapili"
+
+msgid "huomisaamusta alkaen"
+msgstr "kuanzia kesho asubuhi"
+
+msgid "huomisaamupaivasta alkaen"
+msgstr "kuanzia kesho kabla ya adhuhuri"
+
+msgid "huomisillasta alkaen"
+msgstr "kuanzia kesho jioni"
+
+msgid "huomenna paivalla"
+msgstr "kesho mchana"
+
+msgid "huomisiltana"
+msgstr "kesho jioni"
+
+msgid "1-aamuna"
+msgstr "Jumatatu asubuhi"
+
+msgid "7-aamupaivasta alkaen"
+msgstr "kuanzia Jumapili kabla ya adhuhuri"
+
+msgid "B1:lle"
+msgstr "kwa Ghuba ya Bothnia"
+
+msgid "B2:lle"
+msgstr "kwa the Quark"
+
+msgid "B3:lle"
+msgstr "kwa Sea of Bothnia"
+
+msgid "B4:lle"
+msgstr "kwa Sea of Archipelago na Sea of Åland"
+
+msgid "B5:lle"
+msgstr "kwa Ghuba ya Finland"
+
+msgid "B6:lle"
+msgstr "kwa Ghuba ya Riga"
+
+msgid "B7:lle"
+msgstr "kwa Bahari ya Baltic Kaskazini"
+
+msgid "B8:lle"
+msgstr "kwa Middle Baltic Proper"
+
+msgid "B9:lle"
+msgstr "kwa Southeastern Baltic Proper"
+
+msgid "B10:lle"
+msgstr "kwa Southern Baltic Proper"
+
+msgid "B11:lle"
+msgstr "kwa Arkona Sea"
+
+msgid "B12:lle"
+msgstr "kwa Öresund na the Belts"
+
+msgid "B13:lle"
+msgstr "kwa Kattegat"
+
+msgid "B1N:lle"
+msgstr "kwa Northern Bay of Bothnia"
+
+msgid "B1S:lle"
+msgstr "kwa Southern Bay of Bothnia"
+
+msgid "B4E:lle"
+msgstr "kwa Sea of Archipelago"
+
+msgid "B4W:lle"
+msgstr "kwa Sea of Åland"
+
+msgid "B5E:lle"
+msgstr "kwa Eastern Gulf of Finland"
+
+msgid "B5W:lle"
+msgstr "kwa Western Gulf of Finland"
+
+msgid "B8E:lle"
+msgstr "kwa Middle Baltic Proper"
+
+msgid "B8W:lle"
+msgstr "kwa Gotland Sea"
+
+msgid "B10N:lle"
+msgstr "kwa Öland Sea"
+
+msgid "B10S:lle"
+msgstr "kwa Bornholm Sea"
+
+msgid "osittain jaisiksi"
+msgstr "barafu kidogo"
+
+msgid "kuuraisiksi"
+msgstr "zimefunikwa na theluji ndogo"
+
+msgid "keli on"
+msgstr "hali ya barabara ni"
+
+msgid "tienpinnat muuttuvat"
+msgstr "uso wa barabara utakuwa"
+
+msgid "jaisiksi"
+msgstr "barafu"
+
+msgid "pakkasliukkautta"
+msgstr "itelezi kutokana na baridi kali"
+
+msgid "rannasta ja liukkaista"
+msgstr "imezorotiwa na uso wa barabara wenye itelezi na mvua na theluji"
+
+msgid "tieto puuttuu"
+msgstr "data hazipatikani"
+
+msgid "liukkaiksi jaatavasta sateesta"
+msgstr "itelezi kutokana na mvua ya barafu"
+
+msgid "rannasta ja osittain liukkaista"
+msgstr "imezorotiwa na uso wa barabara wenye itelezi kidogo na mvua na theluji"
+
+msgid "sateesta ja osittain liukkaista"
+msgstr "imezorotiwa na uso wa barabara wenye itelezi kidogo na mvua"
+
+msgid "sateesta ja liukkaista"
+msgstr "imezorotiwa na uso wa barabara wenye itelezi na mvua"
+
+msgid "normaali"
+msgstr "kawaida"
+
+msgid "aanekoski:lle"
+msgstr "kwa Äänekoski"
+
+msgid "aetsa:lle"
+msgstr "kwa Äetsä"
+
+msgid "ahtari:lle"
+msgstr "kwa Ähtäri"
+
+msgid "alaharma:lle"
+msgstr "kwa Alahärmä"
+
+msgid "alajarvi:lle"
+msgstr "kwa Alajärvi"
+
+msgid "alastaro:lle"
+msgstr "kwa Alastaro"
+
+msgid "alavieska:lle"
+msgstr "kwa Alavieska"
+
+msgid "alavus:lle"
+msgstr "kwa Alavus"
+
+msgid "anjalankoski:lle"
+msgstr "kwa Anjalankoski"
+
+msgid "artjarvi:lle"
+msgstr "kwa Artjärvi"
+
+msgid "asikkala:lle"
+msgstr "kwa Asikkala"
+
+msgid "askainen:lle"
+msgstr "kwa Askainen"
+
+msgid "askola:lle"
+msgstr "kwa Askola"
+
+msgid "aura:lle"
+msgstr "kwa Aura"
+
+msgid "brando:lle"
+msgstr "kwa Brändö"
+
+msgid "dragsfjard:lle"
+msgstr "kwa Dragsfjärd"
+
+msgid "eckero:lle"
+msgstr "kwa Eckerö"
+
+msgid "elimaki:lle"
+msgstr "kwa Elimäki"
+
+msgid "enonkoski:lle"
+msgstr "kwa Enonkoski"
+
+msgid "enontekio:lle"
+msgstr "kwa Enontekiö"
+
+msgid "eno:lle"
+msgstr "kwa Eno"
+
+msgid "espoo:lle"
+msgstr "kwa Espoo"
+
+msgid "eurajoki:lle"
+msgstr "kwa Eurajoki"
+
+msgid "eura:lle"
+msgstr "kwa Eura"
+
+msgid "evijarvi:lle"
+msgstr "kwa Evijärvi"
+
+msgid "finstrom:lle"
+msgstr "kwa Finström"
+
+msgid "foglo:lle"
+msgstr "kwa Föglö"
+
+msgid "forssa:lle"
+msgstr "kwa Forssa"
+
+msgid "geta:lle"
+msgstr "kwa Geta"
+
+msgid "haapajarvi:lle"
+msgstr "kwa Haapajärvi"
+
+msgid "haapavesi:lle"
+msgstr "kwa Haapavesi"
+
+msgid "hailuoto:lle"
+msgstr "kwa Hailuoto"
+
+msgid "halikko:lle"
+msgstr "kwa Halikko"
+
+msgid "halsua:lle"
+msgstr "kwa Halsua"
+
+msgid "hameenkoski:lle"
+msgstr "kwa Hämeenkoski"
+
+msgid "hameenkyro:lle"
+msgstr "kwa Hämeenkyrö"
+
+msgid "hameenlinna:lle"
+msgstr "kwa Hämeenlinna"
+
+msgid "hamina:lle"
+msgstr "kwa Hamina"
+
+msgid "hammarland:lle"
+msgstr "kwa Hammarland"
+
+msgid "hankasalmi:lle"
+msgstr "kwa Hankasalmi"
+
+msgid "hanko:lle"
+msgstr "kwa Hanko"
+
+msgid "harjavalta:lle"
+msgstr "kwa Harjavalta"
+
+msgid "B3S:lle"
+msgstr "kwa Southern Sea of Bothnia"
+
+msgid "B7E:lle"
+msgstr "kwa Eastern part of Northern Baltic Proper"
+
+msgid "B7W:lle"
+msgstr "kwa Western part of Northern Baltic Proper"
+
+msgid "hartola:lle"
+msgstr "kwa Hartola"
+
+msgid "hattula:lle"
+msgstr "kwa Hattula"
+
+msgid "hauho:lle"
+msgstr "kwa Hauho"
+
+msgid "haukipudas:lle"
+msgstr "kwa Haukipudas"
+
+msgid "haukivuori:lle"
+msgstr "kwa Haukivuori"
+
+msgid "hausjarvi:lle"
+msgstr "kwa Hausjärvi"
+
+msgid "heinavesi:lle"
+msgstr "kwa Heinävesi"
+
+msgid "heinola:lle"
+msgstr "kwa Heinola"
+
+msgid "helsinki:lle"
+msgstr "kwa Helsinki"
+
+msgid "himanka:lle"
+msgstr "kwa Himanka"
+
+msgid "hirvensalmi:lle"
+msgstr "kwa Hirvensalmi"
+
+msgid "hollola:lle"
+msgstr "kwa Hollola"
+
+msgid "honkajoki:lle"
+msgstr "kwa Honkajoki"
+
+msgid "houtskari:lle"
+msgstr "kwa Houtskari"
+
+msgid "huittinen:lle"
+msgstr "kwa Huittinen"
+
+msgid "humppila:lle"
+msgstr "kwa Humppila"
+
+msgid "hyrynsalmi:lle"
+msgstr "kwa Hyrynsalmi"
+
+msgid "hyvinkaa:lle"
+msgstr "kwa Hyvinkää"
+
+msgid "iisalmi:lle"
+msgstr "kwa Iisalmi"
+
+msgid "ii:lle"
+msgstr "kwa Ii"
+
+msgid "iitti:lle"
+msgstr "kwa Iitti"
+
+msgid "ikaalinen:lle"
+msgstr "kwa Ikaalinen"
+
+msgid "ilmajoki:lle"
+msgstr "kwa Ilmajoki"
+
+msgid "ilomantsi:lle"
+msgstr "kwa Ilomantsi"
+
+msgid "imatra:lle"
+msgstr "kwa Imatra"
+
+msgid "inari:lle"
+msgstr "kwa Inari"
+
+msgid "inio:lle"
+msgstr "kwa Iniö"
+
+msgid "inkoo:lle"
+msgstr "kwa Inkoo"
+
+msgid "isojoki:lle"
+msgstr "kwa Isojoki"
+
+msgid "isokyro:lle"
+msgstr "kwa Isokyrö"
+
+msgid "jaala:lle"
+msgstr "kwa Jaala"
+
+msgid "jalasjarvi:lle"
+msgstr "kwa Jalasjärvi"
+
+msgid "jamijarvi:lle"
+msgstr "kwa Jämijärvi"
+
+msgid "jamsankoski:lle"
+msgstr "kwa Jämsänkoski"
+
+msgid "jamsa:lle"
+msgstr "kwa Jämsä"
+
+msgid "janakkala:lle"
+msgstr "kwa Janakkala"
+
+msgid "jarvenpaa:lle"
+msgstr "kwa Järvenpää"
+
+msgid "joensuu:lle"
+msgstr "kwa Joensuu"
+
+msgid "jokioinen:lle"
+msgstr "kwa Jokioinen"
+
+msgid "jomala:lle"
+msgstr "kwa Jomala"
+
+msgid "joroinen:lle"
+msgstr "kwa Joroinen"
+
+msgid "joutsa:lle"
+msgstr "kwa Joutsa"
+
+msgid "joutseno:lle"
+msgstr "kwa Joutseno"
+
+msgid "juankoski:lle"
+msgstr "kwa Juankoski"
+
+msgid "jurva:lle"
+msgstr "kwa Jurva"
+
+msgid "juuka:lle"
+msgstr "kwa Juuka"
+
+msgid "juupajoki:lle"
+msgstr "kwa Juupajoki"
+
+msgid "juva:lle"
+msgstr "kwa Juva"
+
+msgid "jyvaskylan_mlk:lle"
+msgstr "kwa Jyväskylän_mlk"
+
+msgid "jyvaskyla:lle"
+msgstr "kwa Jyväskylä"
+
+msgid "kaarina:lle"
+msgstr "kwa Kaarina"
+
+msgid "kaavi:lle"
+msgstr "kwa Kaavi"
+
+msgid "kajaani:lle"
+msgstr "kwa Kajaani"
+
+msgid "kalajoki:lle"
+msgstr "kwa Kalajoki"
+
+msgid "kalvia:lle"
+msgstr "kwa Kälviä"
+
+msgid "kalvola:lle"
+msgstr "kwa Kalvola"
+
+msgid "kangasala:lle"
+msgstr "kwa Kangasala"
+
+msgid "kangasniemi:lle"
+msgstr "kwa Kangasniemi"
+
+msgid "kankaanpaa:lle"
+msgstr "kwa Kankaanpää"
+
+msgid "kannonkoski:lle"
+msgstr "kwa Kannonkoski"
+
+msgid "kannus:lle"
+msgstr "kwa Kannus"
+
+msgid "karijoki:lle"
+msgstr "kwa Karijoki"
+
+msgid "karjaa:lle"
+msgstr "kwa Karjaa"
+
+msgid "karjalohja:lle"
+msgstr "kwa Karjalohja"
+
+msgid "karkkila:lle"
+msgstr "kwa Karkkila"
+
+msgid "karkola:lle"
+msgstr "kwa Kärkölä"
+
+msgid "karsamaki:lle"
+msgstr "kwa Kärsämäki"
+
+msgid "karstula:lle"
+msgstr "kwa Karstula"
+
+msgid "karttula:lle"
+msgstr "kwa Karttula"
+
+msgid "karvia:lle"
+msgstr "kwa Karvia"
+
+msgid "kaskinen:lle"
+msgstr "kwa Kaskinen"
+
+msgid "kauhajoki:lle"
+msgstr "kwa Kauhajoki"
+
+msgid "kauhava:lle"
+msgstr "kwa Kauhava"
+
+msgid "kauniainen:lle"
+msgstr "kwa Kauniainen"
+
+msgid "kaustinen:lle"
+msgstr "kwa Kaustinen"
+
+msgid "keitele:lle"
+msgstr "kwa Keitele"
+
+msgid "kemijarvi:lle"
+msgstr "kwa Kemijärvi"
+
+msgid "keminmaa:lle"
+msgstr "kwa Keminmaa"
+
+msgid "kemio:lle"
+msgstr "kwa Kemiö"
+
+msgid "kemi:lle"
+msgstr "kwa Kemi"
+
+msgid "kempele:lle"
+msgstr "kwa Kempele"
+
+msgid "kerava:lle"
+msgstr "kwa Kerava"
+
+msgid "kerimaki:lle"
+msgstr "kwa Kerimäki"
+
+msgid "kesalahti:lle"
+msgstr "kwa Kesälahti"
+
+msgid "kestila:lle"
+msgstr "kwa Kestilä"
+
+msgid "keuruu:lle"
+msgstr "kwa Keuruu"
+
+msgid "kihnio:lle"
+msgstr "kwa Kihniö"
+
+msgid "kiikala:lle"
+msgstr "kwa Kiikala"
+
+msgid "kiikoinen:lle"
+msgstr "kwa Kiikoinen"
+
+msgid "kiiminki:lle"
+msgstr "kwa Kiiminki"
+
+msgid "kinnula:lle"
+msgstr "kwa Kinnula"
+
+msgid "kirkkonummi:lle"
+msgstr "kwa Kirkkonummi"
+
+msgid "kisko:lle"
+msgstr "kwa Kisko"
+
+msgid "kitee:lle"
+msgstr "kwa Kitee"
+
+msgid "kittila:lle"
+msgstr "kwa Kittilä"
+
+msgid "kiukainen:lle"
+msgstr "kwa Kiukainen"
+
+msgid "kiuruvesi:lle"
+msgstr "kwa Kiuruvesi"
+
+msgid "kivijarvi:lle"
+msgstr "kwa Kivijärvi"
+
+msgid "kodisjoki:lle"
+msgstr "kwa Kodisjoki"
+
+msgid "kokar:lle"
+msgstr "kwa Kökar"
+
+msgid "kokemaki:lle"
+msgstr "kwa Kokemäki"
+
+msgid "kokkola:lle"
+msgstr "kwa Kokkola"
+
+msgid "kolari:lle"
+msgstr "kwa Kolari"
+
+msgid "konnevesi:lle"
+msgstr "kwa Konnevesi"
+
+msgid "kontiolahti:lle"
+msgstr "kwa Kontiolahti"
+
+msgid "korpilahti:lle"
+msgstr "kwa Korpilahti"
+
+msgid "korppoo:lle"
+msgstr "kwa Korppoo"
+
+msgid "korsnas:lle"
+msgstr "kwa Korsnäs"
+
+msgid "kortesjarvi:lle"
+msgstr "kwa Kortesjärvi"
+
+msgid "koski_tl:lle"
+msgstr "kwa Koski"
+
+msgid "kotka:lle"
+msgstr "kwa Kotka"
+
+msgid "kouvola:lle"
+msgstr "kwa Kouvola"
+
+msgid "koylio:lle"
+msgstr "kwa Köyliö"
+
+msgid "kristiinankaupunki:lle"
+msgstr "kwa Kristiinankaupunki"
+
+msgid "kronoby:lle"
+msgstr "kwa Kronoby"
+
+msgid "kuhmalahti:lle"
+msgstr "kwa Kuhmalahti"
+
+msgid "kuhmoinen:lle"
+msgstr "kwa Kuhmoinen"
+
+msgid "kuhmo:lle"
+msgstr "kwa Kuhmo"
+
+msgid "kuivaniemi:lle"
+msgstr "kwa Kuivaniemi"
+
+msgid "kumlinge:lle"
+msgstr "kwa Kumlinge"
+
+msgid "kuopio:lle"
+msgstr "kwa Kuopio"
+
+msgid "kuortane:lle"
+msgstr "kwa Kuortane"
+
+msgid "kurikka:lle"
+msgstr "kwa Kurikka"
+
+msgid "kuru:lle"
+msgstr "kwa Kuru"
+
+msgid "kustavi:lle"
+msgstr "kwa Kustavi"
+
+msgid "kuusamo:lle"
+msgstr "kwa Kuusamo"
+
+msgid "kuusankoski:lle"
+msgstr "kwa Kuusankoski"
+
+msgid "kuusjoki:lle"
+msgstr "kwa Kuusjoki"
+
+msgid "kylmakoski:lle"
+msgstr "kwa Kylmäkoski"
+
+msgid "kyyjarvi:lle"
+msgstr "kwa Kyyjärvi"
+
+msgid "lahti:lle"
+msgstr "kwa Lahti"
+
+msgid "laihia:lle"
+msgstr "kwa Laihia"
+
+msgid "laitila:lle"
+msgstr "kwa Laitila"
+
+msgid "lammi:lle"
+msgstr "kwa Lammi"
+
+msgid "langelmaki:lle"
+msgstr "kwa Längelmäki"
+
+msgid "lapinjarvi:lle"
+msgstr "kwa Lapinjärvi"
+
+msgid "lapinlahti:lle"
+msgstr "kwa Lapinlahti"
+
+msgid "lappajarvi:lle"
+msgstr "kwa Lappajärvi"
+
+msgid "lappeenranta:lle"
+msgstr "kwa Lappeenranta"
+
+msgid "lapin kuntaan:lle"
+msgstr "kwa Lappi"
+
+msgid "lapua:lle"
+msgstr "kwa Lapua"
+
+msgid "larsmo:lle"
+msgstr "kwa Larsmo"
+
+msgid "laukaa:lle"
+msgstr "kwa Laukaa"
+
+msgid "lavia:lle"
+msgstr "kwa Lavia"
+
+msgid "lehtimaki:lle"
+msgstr "kwa Lehtimäki"
+
+msgid "leivonmaki:lle"
+msgstr "kwa Leivonmäki"
+
+msgid "lemi:lle"
+msgstr "kwa Lemi"
+
+msgid "lemland:lle"
+msgstr "kwa Lemland"
+
+msgid "lempaala:lle"
+msgstr "kwa Lempäälä"
+
+msgid "lemu:lle"
+msgstr "kwa Lemu"
+
+msgid "leppavirta:lle"
+msgstr "kwa Leppävirta"
+
+msgid "lestijarvi:lle"
+msgstr "kwa Lestijärvi"
+
+msgid "lieksa:lle"
+msgstr "kwa Lieksa"
+
+msgid "lieto:lle"
+msgstr "kwa Lieto"
+
+msgid "liljendal:lle"
+msgstr "kwa Liljendal"
+
+msgid "liminka:lle"
+msgstr "kwa Liminka"
+
+msgid "liperi:lle"
+msgstr "kwa Liperi"
+
+msgid "lohja:lle"
+msgstr "kwa Lohja"
+
+msgid "lohtaja:lle"
+msgstr "kwa Lohtaja"
+
+msgid "loimaa:lle"
+msgstr "kwa Loimaa"
+
+msgid "loppi:lle"
+msgstr "kwa Loppi"
+
+msgid "loviisa:lle"
+msgstr "kwa Loviisa"
+
+msgid "luhanka:lle"
+msgstr "kwa Luhanka"
+
+msgid "lumijoki:lle"
+msgstr "kwa Lumijoki"
+
+msgid "lumparland:lle"
+msgstr "kwa Lumparland"
+
+msgid "luopioinen:lle"
+msgstr "kwa Luopioinen"
+
+msgid "luumaki:lle"
+msgstr "kwa Luumäki"
+
+msgid "luvia:lle"
+msgstr "kwa Luvia"
+
+msgid "maalahti:lle"
+msgstr "kwa Maalahti"
+
+msgid "maaninka:lle"
+msgstr "kwa Maaninka"
+
+msgid "maarianhamina:lle"
+msgstr "kwa Maarianhamina"
+
+msgid "maksamaa:lle"
+msgstr "kwa Maksamaa"
+
+msgid "mantsala:lle"
+msgstr "kwa Mäntsälä"
+
+msgid "mantta:lle"
+msgstr "kwa Mänttä"
+
+msgid "mantyharju:lle"
+msgstr "kwa Mäntyharju"
+
+msgid "marttila:lle"
+msgstr "kwa Marttila"
+
+msgid "masku:lle"
+msgstr "kwa Masku"
+
+msgid "mellila:lle"
+msgstr "kwa Mellilä"
+
+msgid "merijarvi:lle"
+msgstr "kwa Merijärvi"
+
+msgid "merikarvia:lle"
+msgstr "kwa Merikarvia"
+
+msgid "merimasku:lle"
+msgstr "kwa Merimasku"
+
+msgid "miehikkala:lle"
+msgstr "kwa Miehikkälä"
+
+msgid "mietoinen:lle"
+msgstr "kwa Mietoinen"
+
+msgid "mikkeli:lle"
+msgstr "kwa Mikkeli"
+
+msgid "mouhijarvi:lle"
+msgstr "kwa Mouhijärvi"
+
+msgid "muhos:lle"
+msgstr "kwa Muhos"
+
+msgid "multia:lle"
+msgstr "kwa Multia"
+
+msgid "muonio:lle"
+msgstr "kwa Muonio"
+
+msgid "mustasaari:lle"
+msgstr "kwa Mustasaari"
+
+msgid "muurame:lle"
+msgstr "kwa Muurame"
+
+msgid "muurla:lle"
+msgstr "kwa Muurla"
+
+msgid "mynamaki:lle"
+msgstr "kwa Mynämäki"
+
+msgid "myrskyla:lle"
+msgstr "kwa Myrskylä"
+
+msgid "naantali:lle"
+msgstr "kwa Naantali"
+
+msgid "nakkila:lle"
+msgstr "kwa Nakkila"
+
+msgid "narpio:lle"
+msgstr "kwa Närpiö"
+
+msgid "nastola:lle"
+msgstr "kwa Nastola"
+
+msgid "nauvo:lle"
+msgstr "kwa Nauvo"
+
+msgid "nilsia:lle"
+msgstr "kwa Nilsiä"
+
+msgid "nivala:lle"
+msgstr "kwa Nivala"
+
+msgid "nokia:lle"
+msgstr "kwa Nokia"
+
+msgid "noormarkku:lle"
+msgstr "kwa Noormarkku"
+
+msgid "nousiainen:lle"
+msgstr "kwa Nousiainen"
+
+msgid "nummipusula:lle"
+msgstr "kwa Nummi-Pusula"
+
+msgid "nurmes:lle"
+msgstr "kwa Nurmes"
+
+msgid "nurmijarvi:lle"
+msgstr "kwa Nurmijärvi"
+
+msgid "nurmo:lle"
+msgstr "kwa Nurmo"
+
+msgid "oravainen:lle"
+msgstr "kwa Oravainen"
+
+msgid "orimattila:lle"
+msgstr "kwa Orimattila"
+
+msgid "oripaa:lle"
+msgstr "kwa Oripää"
+
+msgid "orivesi:lle"
+msgstr "kwa Orivesi"
+
+msgid "oulainen:lle"
+msgstr "kwa Oulainen"
+
+msgid "oulunsalo:lle"
+msgstr "kwa Oulunsalo"
+
+msgid "oulu:lle"
+msgstr "kwa Oulu"
+
+msgid "outokumpu:lle"
+msgstr "kwa Outokumpu"
+
+msgid "padasjoki:lle"
+msgstr "kwa Padasjoki"
+
+msgid "paimio:lle"
+msgstr "kwa Paimio"
+
+msgid "palkane:lle"
+msgstr "kwa Pälkäne"
+
+msgid "paltamo:lle"
+msgstr "kwa Paltamo"
+
+msgid "parainen:lle"
+msgstr "kwa Parainen"
+
+msgid "parikkala:lle"
+msgstr "kwa Parikkala"
+
+msgid "parkano:lle"
+msgstr "kwa Parkano"
+
+msgid "pedersoren_kunta:lle"
+msgstr "kwa Pedersöre"
+
+msgid "pelkosenniemi:lle"
+msgstr "kwa Pelkosenniemi"
+
+msgid "pello:lle"
+msgstr "kwa Pello"
+
+msgid "perho:lle"
+msgstr "kwa Perho"
+
+msgid "pernaja:lle"
+msgstr "kwa Pernaja"
+
+msgid "pernio:lle"
+msgstr "kwa Perniö"
+
+msgid "pertteli:lle"
+msgstr "kwa Pertteli"
+
+msgid "pertunmaa:lle"
+msgstr "kwa Pertunmaa"
+
+msgid "petajavesi:lle"
+msgstr "kwa Petäjävesi"
+
+msgid "pieksanmaa:lle"
+msgstr "kwa Pieksänmaa"
+
+msgid "pielavesi:lle"
+msgstr "kwa Pielavesi"
+
+msgid "pietarsaari:lle"
+msgstr "kwa Pietarsaari"
+
+msgid "pihtipudas:lle"
+msgstr "kwa Pihtipudas"
+
+msgid "piikkio:lle"
+msgstr "kwa Piikkiö"
+
+msgid "piippola:lle"
+msgstr "kwa Piippola"
+
+msgid "pirkkala:lle"
+msgstr "kwa Pirkkala"
+
+msgid "pohja:lle"
+msgstr "kwa Pohja"
+
+msgid "polvijarvi:lle"
+msgstr "kwa Polvijärvi"
+
+msgid "pomarkku:lle"
+msgstr "kwa Pomarkku"
+
+msgid "pori:lle"
+msgstr "kwa Pori"
+
+msgid "pornainen:lle"
+msgstr "kwa Pornainen"
+
+msgid "porvoo:lle"
+msgstr "kwa Porvoo"
+
+msgid "posio:lle"
+msgstr "kwa Posio"
+
+msgid "poytya:lle"
+msgstr "kwa Pöytyä"
+
+msgid "pudasjarvi:lle"
+msgstr "kwa Pudasjärvi"
+
+msgid "pukkila:lle"
+msgstr "kwa Pukkila"
+
+msgid "pulkkila:lle"
+msgstr "kwa Pulkkila"
+
+msgid "punkaharju:lle"
+msgstr "kwa Punkaharju"
+
+msgid "punkalaidun:lle"
+msgstr "kwa Punkalaidun"
+
+msgid "puolanka:lle"
+msgstr "kwa Puolanka"
+
+msgid "puumala:lle"
+msgstr "kwa Puumala"
+
+msgid "pyhajarvi:lle"
+msgstr "kwa Pyhäjärvi"
+
+msgid "pyhajoki:lle"
+msgstr "kwa Pyhäjoki"
+
+msgid "pyhanta:lle"
+msgstr "kwa Pyhäntä"
+
+msgid "pyharanta:lle"
+msgstr "kwa Pyhäranta"
+
+msgid "pyhaselka:lle"
+msgstr "kwa Pyhäselkä"
+
+msgid "pyhtaa:lle"
+msgstr "kwa Pyhtää"
+
+msgid "pylkonmaki:lle"
+msgstr "kwa Pylkönmäki"
+
+msgid "raahe:lle"
+msgstr "kwa Raahe"
+
+msgid "raakkyla:lle"
+msgstr "kwa Rääkkylä"
+
+msgid "raisio:lle"
+msgstr "kwa Raisio"
+
+msgid "rantasalmi:lle"
+msgstr "kwa Rantasalmi"
+
+msgid "rantsila:lle"
+msgstr "kwa Rantsila"
+
+msgid "ranua:lle"
+msgstr "kwa Ranua"
+
+msgid "rauma:lle"
+msgstr "kwa Rauma"
+
+msgid "rautalampi:lle"
+msgstr "kwa Rautalampi"
+
+msgid "rautavaara:lle"
+msgstr "kwa Rautavaara"
+
+msgid "rautjarvi:lle"
+msgstr "kwa Rautjärvi"
+
+msgid "reisjarvi:lle"
+msgstr "kwa Reisjärvi"
+
+msgid "renko:lle"
+msgstr "kwa Renko"
+
+msgid "riihimaki:lle"
+msgstr "kwa Riihimäki"
+
+msgid "ristiina:lle"
+msgstr "kwa Ristiina"
+
+msgid "ristijarvi:lle"
+msgstr "kwa Ristijärvi"
+
+msgid "rovaniemen_mlk:lle"
+msgstr "kwa Rovaniemen_mlk"
+
+msgid "rovaniemi:lle"
+msgstr "kwa Rovaniemi"
+
+msgid "ruokolahti:lle"
+msgstr "kwa Ruokolahti"
+
+msgid "ruotsinpyhtaa:lle"
+msgstr "kwa Ruotsinpyhtää"
+
+msgid "ruovesi:lle"
+msgstr "kwa Ruovesi"
+
+msgid "rusko:lle"
+msgstr "kwa Rusko"
+
+msgid "ruukki:lle"
+msgstr "kwa Ruukki"
+
+msgid "rymattyla:lle"
+msgstr "kwa Rymättylä"
+
+msgid "saarijarvi:lle"
+msgstr "kwa Saarijärvi"
+
+msgid "sakyla:lle"
+msgstr "kwa Säkylä"
+
+msgid "salla:lle"
+msgstr "kwa Salla"
+
+msgid "salo:lle"
+msgstr "kwa Salo"
+
+msgid "saltvik:lle"
+msgstr "kwa Saltvik"
+
+msgid "sammatti:lle"
+msgstr "kwa Sammatti"
+
+msgid "sarkisalo:lle"
+msgstr "kwa Särkisalo"
+
+msgid "sauvo:lle"
+msgstr "kwa Sauvo"
+
+msgid "savitaipale:lle"
+msgstr "kwa Savitaipale"
+
+msgid "savonlinna:lle"
+msgstr "kwa Savonlinna"
+
+msgid "savonranta:lle"
+msgstr "kwa Savonranta"
+
+msgid "savukoski:lle"
+msgstr "kwa Savukoski"
+
+msgid "seinajoki:lle"
+msgstr "kwa Seinäjoki"
+
+msgid "sievi:lle"
+msgstr "kwa Sievi"
+
+msgid "siikainen:lle"
+msgstr "kwa Siikainen"
+
+msgid "siikajoki:lle"
+msgstr "kwa Siikajoki"
+
+msgid "siilinjarvi:lle"
+msgstr "kwa Siilinjärvi"
+
+msgid "simo:lle"
+msgstr "kwa Simo"
+
+msgid "sipoo:lle"
+msgstr "kwa Sipoo"
+
+msgid "siuntio:lle"
+msgstr "kwa Siuntio"
+
+msgid "sodankyla:lle"
+msgstr "kwa Sodankylä"
+
+msgid "soini:lle"
+msgstr "kwa Soini"
+
+msgid "somero:lle"
+msgstr "kwa Somero"
+
+msgid "sonkajarvi:lle"
+msgstr "kwa Sonkajärvi"
+
+msgid "sotkamo:lle"
+msgstr "kwa Sotkamo"
+
+msgid "sottunga:lle"
+msgstr "kwa Sottunga"
+
+msgid "sulkava:lle"
+msgstr "kwa Sulkava"
+
+msgid "sumiainen:lle"
+msgstr "kwa Sumiainen"
+
+msgid "sund:lle"
+msgstr "kwa Sund"
+
+msgid "suodenniemi:lle"
+msgstr "kwa Suodenniemi"
+
+msgid "suolahti:lle"
+msgstr "kwa Suolahti"
+
+msgid "suomenniemi:lle"
+msgstr "kwa Suomenniemi"
+
+msgid "suomusjarvi:lle"
+msgstr "kwa Suomusjärvi"
+
+msgid "suomussalmi:lle"
+msgstr "kwa Suomussalmi"
+
+msgid "suonenjoki:lle"
+msgstr "kwa Suonenjoki"
+
+msgid "sysma:lle"
+msgstr "kwa Sysmä"
+
+msgid "taipalsaari:lle"
+msgstr "kwa Taipalsaari"
+
+msgid "taivalkoski:lle"
+msgstr "kwa Taivalkoski"
+
+msgid "taivassalo:lle"
+msgstr "kwa Taivassalo"
+
+msgid "tammela:lle"
+msgstr "kwa Tammela"
+
+msgid "tammisaari:lle"
+msgstr "kwa Tammisaari"
+
+msgid "tampere:lle"
+msgstr "kwa Tampere"
+
+msgid "tarvasjoki:lle"
+msgstr "kwa Tarvasjoki"
+
+msgid "tervola:lle"
+msgstr "kwa Tervola"
+
+msgid "tervo:lle"
+msgstr "kwa Tervo"
+
+msgid "teuva:lle"
+msgstr "kwa Teuva"
+
+msgid "tohmajarvi:lle"
+msgstr "kwa Tohmajärvi"
+
+msgid "toholampi:lle"
+msgstr "kwa Toholampi"
+
+msgid "toijala:lle"
+msgstr "kwa Toijala"
+
+msgid "toivakka:lle"
+msgstr "kwa Toivakka"
+
+msgid "tornio:lle"
+msgstr "kwa Tornio"
+
+msgid "toysa:lle"
+msgstr "kwa Töysä"
+
+msgid "turku:lle"
+msgstr "kwa Turku"
+
+msgid "tuulos:lle"
+msgstr "kwa Tuulos"
+
+msgid "tuusniemi:lle"
+msgstr "kwa Tuusniemi"
+
+msgid "tuusula:lle"
+msgstr "kwa Tuusula"
+
+msgid "tyrnava:lle"
+msgstr "kwa Tyrnävä"
+
+msgid "ullava:lle"
+msgstr "kwa Ullava"
+
+msgid "ulvila:lle"
+msgstr "kwa Ulvila"
+
+msgid "urjala:lle"
+msgstr "kwa Urjala"
+
+msgid "utajarvi:lle"
+msgstr "kwa Utajärvi"
+
+msgid "utsjoki:lle"
+msgstr "kwa Utsjoki"
+
+msgid "uurainen:lle"
+msgstr "kwa Uurainen"
+
+msgid "uusikaarlepyy:lle"
+msgstr "kwa Uusikaarlepyy"
+
+msgid "uusikaupunki:lle"
+msgstr "kwa Uusikaupunki"
+
+msgid "vaala:lle"
+msgstr "kwa Vaala"
+
+msgid "vaasa:lle"
+msgstr "kwa Vaasa"
+
+msgid "vahakyro:lle"
+msgstr "kwa Vähäkyrö"
+
+msgid "vahto:lle"
+msgstr "kwa Vahto"
+
+msgid "valkeakoski:lle"
+msgstr "kwa Valkeakoski"
+
+msgid "valkeala:lle"
+msgstr "kwa Valkeala"
+
+msgid "valtimo:lle"
+msgstr "kwa Valtimo"
+
+msgid "vammala:lle"
+msgstr "kwa Vammala"
+
+msgid "vampula:lle"
+msgstr "kwa Vampula"
+
+msgid "vantaa:lle"
+msgstr "kwa Vantaa"
+
+msgid "vardo:lle"
+msgstr "kwa Vårdö"
+
+msgid "varkaus:lle"
+msgstr "kwa Varkaus"
+
+msgid "varpaisjarvi:lle"
+msgstr "kwa Varpaisjärvi"
+
+msgid "vastanfjard:lle"
+msgstr "kwa Västanfjärd"
+
+msgid "vehmaa:lle"
+msgstr "kwa Vehmaa"
+
+msgid "velkua:lle"
+msgstr "kwa Velkua"
+
+msgid "vesanto:lle"
+msgstr "kwa Vesanto"
+
+msgid "vesilahti:lle"
+msgstr "kwa Vesilahti"
+
+msgid "veteli:lle"
+msgstr "kwa Veteli"
+
+msgid "vierema:lle"
+msgstr "kwa Vieremä"
+
+msgid "vihanti:lle"
+msgstr "kwa Vihanti"
+
+msgid "vihti:lle"
+msgstr "kwa Vihti"
+
+msgid "viiala:lle"
+msgstr "kwa Viiala"
+
+msgid "viitasaari:lle"
+msgstr "kwa Viitasaari"
+
+msgid "viljakkala:lle"
+msgstr "kwa Viljakkala"
+
+msgid "vilppula:lle"
+msgstr "kwa Vilppula"
+
+msgid "vimpeli:lle"
+msgstr "kwa Vimpeli"
+
+msgid "virolahti:lle"
+msgstr "kwa Virolahti"
+
+msgid "virrat:lle"
+msgstr "kwa Virrat"
+
+msgid "voyri:lle"
+msgstr "kwa Vöyri"
+
+msgid "vuolijoki:lle"
+msgstr "kwa Vuolijoki"
+
+msgid "ylamaa:lle"
+msgstr "kwa Ylämaa"
+
+msgid "ylane:lle"
+msgstr "kwa Yläne"
+
+msgid "yliharma:lle"
+msgstr "kwa Ylihärmä"
+
+msgid "yliii:lle"
+msgstr "kwa Yli-Ii"
+
+msgid "ylikiiminki:lle"
+msgstr "kwa Ylikiiminki"
+
+msgid "ylistaro:lle"
+msgstr "kwa Ylistaro"
+
+msgid "ylitornio:lle"
+msgstr "kwa Ylitornio"
+
+msgid "ylivieska:lle"
+msgstr "kwa Ylivieska"
+
+msgid "ylojarvi:lle"
+msgstr "kwa Ylöjärvi"
+
+msgid "ypaja:lle"
+msgstr "kwa Ypäjä"
+
+msgid "poudan todennakoisyys"
+msgstr "uwezekano wa kutokuwa na mvua"
+
+msgid "metsapaloindeksi"
+msgstr "kiwango cha hatari ya moto wa msitu"
+
+msgid "haihdunta on erittain huono"
+msgstr "uvukizi ni dhaifu sana"
+
+msgid "haihdunta on huono"
+msgstr "uvukizi ni dhaifu"
+
+msgid "haihdunta on tyydyttava"
+msgstr "uvukizi ni wa wastani"
+
+msgid "haihdunta on hyva"
+msgstr "uvukizi ni mzuri"
+
+msgid "haihdunta on erinomainen"
+msgstr "uvukizi ni mzuri sana"
+
+msgid "metsapalovaroitus on voimassa"
+msgstr "onyo la moto wa msitu lipo"
+
+msgid "metsapalovaroitus ei ole voimassa"
+msgstr "onyo la moto wa msitu halipo"
+
+msgid "luoto:lle"
+msgstr "kwa Luoto"
+
+msgid "kruunupyy:lle"
+msgstr "kwa Kruunupyy"
+
+msgid "1-aamulla"
+msgstr "Jumatatu asubuhi"
+
+msgid "2-aamulla"
+msgstr "Jumanne asubuhi"
+
+msgid "3-aamulla"
+msgstr "Jumatano asubuhi"
+
+msgid "4-aamulla"
+msgstr "Alhamisi asubuhi"
+
+msgid "5-aamulla"
+msgstr "Ijumaa asubuhi"
+
+msgid "6-aamulla"
+msgstr "Jumamosi asubuhi"
+
+msgid "7-aamulla"
+msgstr "Jumapili asubuhi"
+
+msgid "1-aamupaivalla"
+msgstr "Jumatatu kabla ya adhuhuri"
+
+msgid "2-aamupaivalla"
+msgstr "Jumanne kabla ya adhuhuri"
+
+msgid "3-aamupaivalla"
+msgstr "Jumatano kabla ya adhuhuri"
+
+msgid "4-aamupaivalla"
+msgstr "Alhamisi kabla ya adhuhuri"
+
+msgid "5-aamupaivalla"
+msgstr "Ijumaa kabla ya adhuhuri"
+
+msgid "6-aamupaivalla"
+msgstr "Jumamosi kabla ya adhuhuri"
+
+msgid "7-aamupaivalla"
+msgstr "Jumapili kabla ya adhuhuri"
+
+msgid "1-iltapaivalla"
+msgstr "Jumatatu mchana"
+
+msgid "2-iltapaivalla"
+msgstr "Jumanne mchana"
+
+msgid "3-iltapaivalla"
+msgstr "Jumatano mchana"
+
+msgid "4-iltapaivalla"
+msgstr "Alhamisi mchana"
+
+msgid "5-iltapaivalla"
+msgstr "Ijumaa mchana"
+
+msgid "6-iltapaivalla"
+msgstr "Jumamosi mchana"
+
+msgid "7-iltapaivalla"
+msgstr "Jumapili mchana"
+
+msgid "1-illalla"
+msgstr "Jumatatu jioni"
+
+msgid "2-illalla"
+msgstr "Jumanne jioni"
+
+msgid "3-illalla"
+msgstr "Jumatano jioni"
+
+msgid "4-illalla"
+msgstr "Alhamisi jioni"
+
+msgid "5-illalla"
+msgstr "Ijumaa jioni"
+
+msgid "6-illalla"
+msgstr "Jumamosi jioni"
+
+msgid "7-illalla"
+msgstr "Jumapili jioni"
+
+msgid "kastepiste"
+msgstr "kiwango cha umande"
+
+msgid "suhteellinen kosteus"
+msgstr "unyevu wa hewa"
+
+msgid "hehtopascalia"
+msgstr "hektopascali"
+
+msgid "paine"
+msgstr "shinikizo"
+
+msgid "keli muuttuu"
+msgstr "hali ya barabara inabadilika"
+
+msgid "lumisateen takia"
+msgstr "kwa sababu ya theluji"
+
+msgid "haukivesi:lle"
+msgstr "kwa Haukivesi"
+
+msgid "kallavesi:lle"
+msgstr "kwa Kallavesi"
+
+msgid "malaren:lle"
+msgstr "kwa Mälaren"
+
+msgid "pihlajavesi:lle"
+msgstr "kwa Pihlajavesi"
+
+msgid "suur-saimaa:lle"
+msgstr "kwa Saimaa"
+
+msgid "vanern:lle"
+msgstr "kwa Vänern"
+
+msgid "tie on muuttumassa"
+msgstr "uso wa barabara unabadilika"
+
+msgid "keli huononee"
+msgstr "hali ya barabara inazorota"
+
+msgid "vaikeuttaa liikennetta"
+msgstr "inazuia usafiri"
+
+msgid "kuuraiseksi"
+msgstr "zimefunikwa na theluji ndogo"
+
+msgid "marka"
+msgstr "mvua"
+
+msgid "pakkasliukkaus"
+msgstr "itelezi kutokana na baridi kali"
+
+msgid "voimakas puuskainen tuuli"
+msgstr "upepo mkali wa vipande vipande"
+
+msgid "lumipyry"
+msgstr "dhoruba ya theluji"
+
+msgid "kelin nopea huononeminen"
+msgstr "kuzorota haraka kwa hali ya barabara"
+
+msgid "rantasade jaiselle"
+msgstr "mvua na theluji kwenye uso wa barafu"
+
+msgid "jaiseksi vesisateesta johtuen"
+msgstr "barafu kwa sababu ya mvua"
+
+msgid "alijaahtynyt sade"
+msgstr "mvua ya barafu"
+
+msgid "jaiseksi tai osittain jaiseksi"
+msgstr "barafu au kidogo barafu"
+
+msgid "runsas lumisade"
+msgstr "theluji kali"
+
+msgid "tienpinta muuttuu"
+msgstr "uso wa barabara unabadilika"
+
+msgid "ukkoskuurot todennakoisia"
+msgstr "mvua ya radi inatarajiwa"
+
+msgid "ukkoskuurot paikoin mahdollisia"
+msgstr "mvua ya radi inawezekana sehemu fulani"
+
+msgid "pohjoispohjanmeri:lle"
+msgstr "kwa Northern North Sea"
+
+msgid "etelapohjanmeri:lle"
+msgstr "kwa Southern North Sea"
+
+msgid "biskaja:lle"
+msgstr "kwa Biscay"
+
+msgid "uusimaa_ita-uusim:lle"
+msgstr "kwa Uusimaa"
+
+msgid "paakaupunkiseutu:lle"
+msgstr "kwa Helsinki Metropolitan Area"
+
+msgid "kaakkois-suomi:lle"
+msgstr "kwa Southeast Finland"
+
+msgid "ita-lappi:lle"
+msgstr "kwa Eastern Lapland"
+
+msgid "pohjois-pohjanmaa-itaosa:lle"
+msgstr "kwa Eastern part of Northern Ostrobothnia"
+
+msgid "pohjois-pohjanmaa-lansiosa:lle"
+msgstr "kwa Western part of Northern Ostrobothia"
+
+msgid "merilappi:lle"
+msgstr "kwa Merilappi"
+
+msgid "pohjanmaa-etela-pohjanmaa:lle"
+msgstr "kwa Ostrobothnia na Southern Ostrobothnia"
+
+msgid "marka tienpinta muuttuu"
+msgstr "uso wa barabara mvua unabadilika"
+
+msgid "alle"
+msgstr "chini ya"
+
+msgid "yksi millimetri"
+msgstr "milimita moja"
+
+msgid "lahella [1] astetta"
+msgstr "karibu na [1] nyuzi"
+
+msgid "[1] asteen tienoilla"
+msgstr "takriban [1] nyuzi"
+
+msgid "kello [1]"
+msgstr "saa [1]"
+
+msgid "1-na kello [1]"
+msgstr "Jumatatu saa [1]"
+
+msgid "2-na kello [1]"
+msgstr "Jumanne saa [1]"
+
+msgid "3-na kello [1]"
+msgstr "Jumatano saa [1]"
+
+msgid "4-na kello [1]"
+msgstr "Alhamisi saa [1]"
+
+msgid "5-na kello [1]"
+msgstr "Ijumaa saa [1]"
+
+msgid "6-na kello [1]"
+msgstr "Jumamosi saa [1]"
+
+msgid "7-na kello [1]"
+msgstr "Jumapili saa [1]"
+
+msgid "[1] asteen tuntumassa"
+msgstr "karibu na [1] nyuzi"
+
+msgid "ita-suomi:lle"
+msgstr "kwa Eastern Finland"
+
+msgid "itainen-uusimaa:lle"
+msgstr "kwa Eastern Uusimaa"
+
+msgid "koleaa"
+msgstr "baridi"
+
+msgid "lantinen-uusimaa:lle"
+msgstr "kwa Western Uusimaa"
+
+msgid "lounais-suomi:lle"
+msgstr "kwa Southwestern Finland"
+
+msgid "pohjois-suomi:lle"
+msgstr "kwa Northern Finland"
+
+msgid "pikkupakkasta"
+msgstr "joto kidogo chini ya sifuri"
+
+msgid "yksittaiset vesikuurot mahdollisia"
+msgstr "labda mvua za haraka mara kwa mara"
+
+msgid "yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "labda mvua za haraka au mvua na theluji mara kwa mara"
+
+msgid "yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "labda mvua za haraka au theluji mara kwa mara"
+
+msgid "yksittaiset sadekuurot mahdollisia"
+msgstr "labda mvua za haraka mara kwa mara"
+
+msgid "yksittaiset rantakuurot mahdollisia"
+msgstr "labda mvua na theluji za haraka mara kwa mara"
+
+msgid "yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "labda mvua na theluji au mvua za haraka mara kwa mara"
+
+msgid "yksittaiset lumikuurot mahdollisia"
+msgstr "labda mvua ya theluji za haraka mara kwa mara"
+
+msgid "yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "labda theluji au mvua na theluji za haraka mara kwa mara"
+
+msgid "vahan plussan puolella"
+msgstr "kidogo juu ya sifuri"
+
+msgid "voimakkaita vesikuuroja"
+msgstr "mvua kali za haraka"
+
+msgid "voimakkaita sadekuuroja"
+msgstr "mvua kali za haraka"
+
+msgid "vesikuuroja"
+msgstr "mvua za haraka"
+
+msgid "vajaat"
+msgstr "karibu"
+
+msgid "verrattain pilvinen"
+msgstr "mawingu ya wastani"
+
+msgid "vaihtelee puolipilvisesta pilviseen"
+msgstr "inabadilika kati ya mawingu kidogo na mawingu"
+
+msgid "tuulinen"
+msgstr "yenye upepo"
+
+msgid "tuulista"
+msgstr "yenye upepo"
+
+msgid "tuuli saa saan tuntumaan viileammalta"
+msgstr "upepo unafanya hali ya hewa ihisi baridi kidogo zaidi"
+
+msgid "tuuli saa saan tuntumaan kylmemmalta"
+msgstr "upepo unafanya hali ya hewa ihisi baridi zaidi"
+
+msgid "tuntumassa"
+msgstr "karibu na"
+
+msgid "tihkusadetta"
+msgstr "mvua nyepesi"
+
+msgid "tienoilla"
+msgstr "takriban"
+
+msgid "saa on helteista"
+msgstr "hali ya hewa ni ya joto kali sana"
+
+msgid "saa on edelleen lauhaa"
+msgstr "hali ya hewa bado ni laini"
+
+msgid "sumua"
+msgstr "ukungu"
+
+msgid "sisamaassa"
+msgstr "bara"
+
+msgid "selkea"
+msgstr "wazi"
+
+msgid "sakeita"
+msgstr "mnene"
+
+msgid "sakeaa"
+msgstr "mnene"
+
+msgid "sadekuuroja"
+msgstr "mvua za haraka"
+
+msgid "sade alkaa"
+msgstr "mvua inaanza"
+
+msgid "saadaan"
+msgstr "inapatikana"
+
+msgid "rantakuuroja"
+msgstr "mvua na theluji za haraka"
+
+msgid "runsasta vesisadetta"
+msgstr "mvua kali"
+
+msgid "runsaita"
+msgstr "kali"
+
+msgid "puolipilvinen"
+msgstr "mawingu kidogo"
+
+msgid "poutainen"
+msgstr "nzuri"
+
+msgid "poikkeuksellisen"
+msgstr "kwa njia ya kipekee"
+
+msgid "pohjoisesta"
+msgstr "kutoka kaskazini"
+
+msgid "pohjoisesta alkaen"
+msgstr "kuanzia kaskazini"
+
+msgid "pilvinen"
+msgstr "mawingu"
+
+msgid "pieni ukkosen todennakoisyys"
+msgstr "uwezekano mdogo wa radi"
+
+msgid "pakkasta"
+msgstr "baridi kali"
+
+msgid "pakkanen"
+msgstr "baridi kali"
+
+msgid "pakkanen on purevaa"
+msgstr "baridi kali inaumiza"
+
+msgid "pakkanen on erittain purevaa"
+msgstr "baridi kali inaumiza sana"
+
+msgid "pakkanen hellittaa"
+msgstr "baridi kali inaanza kupungua"
+
+msgid "paikkeilla"
+msgstr "karibu na"
+
+msgid "nollan tienoilla"
+msgstr "karibu na sifuri"
+
+msgid "melko selkea"
+msgstr "wazi kidogo"
+
+msgid "mahdollisesti"
+msgstr "labda"
+
+msgid "lannesta"
+msgstr "kutoka magharibi"
+
+msgid "lannesta alkaen"
+msgstr "kuanzia magharibi"
+
+msgid "lampotila nousee"
+msgstr "joto linaongezeka"
+
+msgid "lahella"
+msgstr "karibu na"
+
+msgid "luoteesta"
+msgstr "kutoka kaskazini magharibi"
+
+msgid "luoteesta alkaen"
+msgstr "kuanzia kaskazini magharibi"
+
+msgid "lounaasta"
+msgstr "kutoka kusini magharibi"
+
+msgid "lounaasta alkaen"
+msgstr "kuanzia kusini magharibi"
+
+msgid "leutoa"
+msgstr "hewa ya wastani"
+
+msgid "koillisesta"
+msgstr "kutoka kaskazini mashariki"
+
+msgid "koillisesta alkaen"
+msgstr "kuanzia kaskazini mashariki"
+
+msgid "kirea"
+msgstr "kali"
+
+msgid "kirea pakkanen jatkuu"
+msgstr "baridi kali inaendelea"
+
+msgid "kaakosta"
+msgstr "kutoka kusini mashariki"
+
+msgid "kaakosta alkaen"
+msgstr "kuanzia kusini mashariki"
+
+msgid "jaatavaa vesisadetta"
+msgstr "mvua ya barafu"
+
+msgid "jotka voivat olla jaatavia"
+msgstr "ambazo zinaweza kuwa za barafu"
+
+msgid "joka voi olla sakeaa"
+msgstr "ambayo inaweza kuwa mnene"
+
+msgid "joka voi olla jaatavaa"
+msgstr "ambayo inaweza kuwa ya barafu"
+
+msgid "joka voi olla ankaraa"
+msgstr "ambayo inaweza kuwa kali"
+
+msgid "joka muuttuu vesisateeksi"
+msgstr "ambayo inabadilika kuwa mvua"
+
+msgid "joka muuttuu tihkusateeksi"
+msgstr "ambayo inabadilika kuwa mvua nyepesi"
+
+msgid "joka muuttuu rantasateeksi"
+msgstr "ambayo inabadilika kuwa mvua na theluji"
+
+msgid "joka muuttuu lumisateeksi"
+msgstr "ambayo inabadilika kuwa theluji"
+
+msgid "idasta"
+msgstr "kutoka mashariki"
+
+msgid "idasta alkaen"
+msgstr "kuanzia mashariki"
+
+msgid "huomattavasti"
+msgstr "sana"
+
+msgid "hieman lauhempaa"
+msgstr "laini kidogo zaidi"
+
+msgid "hieman kylmempaa"
+msgstr "baridi kidogo zaidi"
+
+msgid "hieman kireampaa"
+msgstr "kali kidogo zaidi"
+
+msgid "hieman heikompaa"
+msgstr "dhaifu kidogo zaidi"
+
+msgid "heikkoja"
+msgstr "dhaifu"
+
+msgid "heikkoja vesikuuroja"
+msgstr "mvua dhaifu za haraka"
+
+msgid "heikkoja sadekuuroja"
+msgstr "mvua dhaifu za haraka"
+
+msgid "heikkoa vesisadetta"
+msgstr "mvua dhaifu"
+
+msgid "harvinaisen"
+msgstr "kwa njia nadra"
+
+msgid "hallan vaara"
+msgstr "hatari ya baridi kali"
+
+msgid "hallaa"
+msgstr "baridi kali"
+
+msgid "etelasta"
+msgstr "kutoka kusini"
+
+msgid "etelasta alkaen"
+msgstr "kuanzia kusini"
+
+msgid "asteen"
+msgstr "nyuzi"
+
+msgid "alueen pohjoisosassa"
+msgstr "kaskazini mwa eneo"
+
+msgid "alueen lansiosassa"
+msgstr "magharibi mwa eneo"
+
+msgid "alueen luoteisosassa"
+msgstr "kaskazini magharibi mwa eneo"
+
+msgid "alueen lounaisosassa"
+msgstr "kusini magharibi mwa eneo"
+
+msgid "alueen koillisosassa"
+msgstr "kaskazini mashariki mwa eneo"
+
+msgid "alueen kaakkoisosassa"
+msgstr "kusini mashariki mwa eneo"
+
+msgid "alueen itaosassa"
+msgstr "mashariki mwa eneo"
+
+msgid "alueen etelaosassa"
+msgstr "kusini mwa eneo"
+
+msgid "alavilla mailla"
+msgstr "maeneo ya chini"
+
+msgid "myohemmin"
+msgstr "baadaye"
+
+msgid "[1-na] saa on [poikkeuksellisen] [kylmaa]"
+msgstr "hali ya hewa ni [2] [3] [1]"
+
+msgid "[1-na] [saa lampenee]"
+msgstr "[2] [1]"
+
+msgid "kirea pakkanen heikkenee"
+msgstr "baridi kali inapungua nguvu"
+
+msgid "saa lampenee huomattavasti"
+msgstr "hali ya hewa inakuwa joto zaidi sana"
+
+msgid "saa lampenee vahan"
+msgstr "hali ya hewa inakuwa joto zaidi kidogo"
+
+msgid "saa viilenee huomattavasti"
+msgstr "hali ya hewa inakuwa baridi zaidi sana"
+
+msgid "saa viilenee vahan"
+msgstr "hali ya hewa inakuwa baridi zaidi kidogo"
+
+msgid "[iltapaivalla] saa poutaantuu ja vaihtelee puolipilvisesta pilviseen"
+msgstr "hali ya hewa inakuwa nzuri na inabadilika kati ya mawingu kidogo na mawingu [1]"
+
+msgid "empty_string"
+msgstr ""
+
+msgid "[rannikolla] [paikoin] hallaa, joka voi olla ankaraa"
+msgstr "labda baridi kali [2] [1]"
+
+msgid "[rannikolla] mahdollisesti hallaa"
+msgstr "labda baridi kali [1]"
+
+msgid "[sisamaassa] hallan vaara"
+msgstr "hatari ya baridi kali [1]"
+
+msgid "[rannikolla] [paikoin] hallaa"
+msgstr "baridi kali [2] [1]"
+
+msgid "aamusta"
+msgstr "kuanzia asubuhi"
+
+msgid "[huomenna] [sisamaassa] [paikoin] sumua, joka voi olla sakeaa"
+msgstr "[1] labda ukungu mnene [3] [2]"
+
+msgid "[huomenna] [sisamaassa] [paikoin] sumua"
+msgstr "[1] ukungu [3] [2]"
+
+msgid "keskiyolla ja aamuyolla"
+msgstr "usiku wa manane na baada ya usiku wa manane"
+
+msgid "iltayolla ja keskiyolla"
+msgstr "kabla ya usiku wa manane na usiku wa manane"
+
+msgid "aamuyolla ja aamulla"
+msgstr "baada ya usiku wa manane na asubuhi"
+
+msgid "illalla ja iltayolla"
+msgstr "jioni na kabla ya usiku wa manane"
+
+msgid "iltapaivalla ja illalla"
+msgstr "mchana na jioni"
+
+msgid "aamulla ja aamupaivalla"
+msgstr "asubuhi na kabla ya adhuhuri"
+
+msgid "7-iltapaivalla ja illalla"
+msgstr "Jumapili mchana na jioni"
+
+msgid "6-iltapaivalla ja illalla"
+msgstr "Jumamosi mchana na jioni"
+
+msgid "5-iltapaivalla ja illalla"
+msgstr "Ijumaa mchana na jioni"
+
+msgid "4-iltapaivalla ja illalla"
+msgstr "Alhamisi mchana na jioni"
+
+msgid "3-iltapaivalla ja illalla"
+msgstr "Jumatano mchana na jioni"
+
+msgid "2-iltapaivalla ja illalla"
+msgstr "Jumanne mchana na jioni"
+
+msgid "1-iltapaivalla ja illalla"
+msgstr "Jumatatu mchana na jioni"
+
+msgid "7-aamulla ja aamupaivalla"
+msgstr "Jumapili asubuhi na kabla ya adhuhuri"
+
+msgid "6-aamulla ja aamupaivalla"
+msgstr "Jumamosi asubuhi na kabla ya adhuhuri"
+
+msgid "5-aamulla ja aamupaivalla"
+msgstr "Ijumaa asubuhi na kabla ya adhuhuri"
+
+msgid "4-aamulla ja aamupaivalla"
+msgstr "Alhamisi asubuhi na kabla ya adhuhuri"
+
+msgid "3-aamulla ja aamupaivalla"
+msgstr "Jumatano asubuhi na kabla ya adhuhuri"
+
+msgid "2-aamulla ja aamupaivalla"
+msgstr "Jumanne asubuhi na kabla ya adhuhuri"
+
+msgid "1-aamulla ja aamupaivalla"
+msgstr "Jumatatu asubuhi na kabla ya adhuhuri"
+
+msgid "7-illalla ja iltayolla"
+msgstr "Jumapili jioni na kabla ya usiku wa manane"
+
+msgid "6-illalla ja iltayolla"
+msgstr "Jumamosi jioni na kabla ya usiku wa manane"
+
+msgid "5-illalla ja iltayolla"
+msgstr "Ijumaa jioni na kabla ya usiku wa manane"
+
+msgid "4-illalla ja iltayolla"
+msgstr "Alhamisi jioni na kabla ya usiku wa manane"
+
+msgid "3-illalla ja iltayolla"
+msgstr "Jumatano jioni na kabla ya usiku wa manane"
+
+msgid "2-illalla ja iltayolla"
+msgstr "Jumanne jioni na kabla ya usiku wa manane"
+
+msgid "1-illalla ja iltayolla"
+msgstr "Jumatatu jioni na kabla ya usiku wa manane"
+
+msgid "aamupaivasta"
+msgstr "kuanzia kabla ya adhuhuri"
+
+msgid "7-iltayolla"
+msgstr "Jumapili kabla ya usiku wa manane"
+
+msgid "6-iltayolla"
+msgstr "Jumamosi kabla ya usiku wa manane"
+
+msgid "5-iltayolla"
+msgstr "Ijumaa kabla ya usiku wa manane"
+
+msgid "4-iltayolla"
+msgstr "Alhamisi kabla ya usiku wa manane"
+
+msgid "3-iltayolla"
+msgstr "Jumatano kabla ya usiku wa manane"
+
+msgid "2-iltayolla"
+msgstr "Jumanne kabla ya usiku wa manane"
+
+msgid "1-iltayolla"
+msgstr "Jumatatu kabla ya usiku wa manane"
+
+msgid "[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen"
+msgstr "[1] hali ya hewa ni mawingu kidogo au mawingu [2]"
+
+msgid "[huomenna] [sisamaassa] saa on [selkea]"
+msgstr "[1] hali ya hewa ni [3] [2]"
+
+msgid "hyvin tuulinen"
+msgstr "yenye upepo sana"
+
+msgid "hyvin tuulista"
+msgstr "yenye upepo sana"
+
+msgid "[iltapaivalla] [rannikolla] pakkanen on purevaa"
+msgstr "baridi kali inaumiza [2] [1]"
+
+msgid "7-aamuyolla"
+msgstr "Jumapili asubuhi na mapema"
+
+msgid "6-aamuyolla"
+msgstr "Jumamosi asubuhi na mapema"
+
+msgid "5-aamuyolla"
+msgstr "Ijumaa asubuhi na mapema"
+
+msgid "4-aamuyolla"
+msgstr "Alhamisi asubuhi na mapema"
+
+msgid "3-aamuyolla"
+msgstr "Jumatano asubuhi na mapema"
+
+msgid "2-aamuyolla"
+msgstr "Jumanne asubuhi na mapema"
+
+msgid "2-aamuyolla ja aamulla"
+msgstr "Jumanne asubuhi na mapema na asubuhi"
+
+msgid "3-aamuyolla ja aamulla"
+msgstr "Jumatano asubuhi na mapema na asubuhi"
+
+msgid "5-aamuyolla ja aamulla"
+msgstr "Ijumaa asubuhi na mapema na asubuhi"
+
+msgid "6-aamuyolla ja aamulla"
+msgstr "Jumamosi asubuhi na mapema na asubuhi"
+
+msgid "7-aamuyolla ja aamulla"
+msgstr "Jumapili asubuhi na mapema na asubuhi"
+
+msgid "1-aamuyolla ja aamulla"
+msgstr "Jumatatu asubuhi na mapema na asubuhi"
+
+msgid "saa on tuulinen"
+msgstr "hali ya hewa ni yenye upepo"
+
+msgid "[iltapaivalla] [rannikolla] on [tuulista]"
+msgstr "[1] kuna [3] [2]"
+
+msgid "rannikolla lahella [N] [astetta]"
+msgstr "karibu na [1] [2] pwani"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on vahan yli [N] [astetta]"
+msgstr "[1] [3] ni kidogo zaidi ya [4] [5] [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on vajaat [N] [astetta]"
+msgstr "[1] [3] ni karibu [4] [5] [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on lahella [N] [astetta]"
+msgstr "[1] [3] ni karibu na [4] [5] [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] asteen tuntumassa"
+msgstr "[1] [3] ni karibu na [4] nyuzi [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] asteen tienoilla"
+msgstr "[1] [3] ni takriban [4] nyuzi [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on noin [N] [astetta]"
+msgstr "[1] [3] ni takriban [4] [5] [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [M...N] [astetta]"
+msgstr "[1] [3] ni [4] [5] [2]"
+
+msgid "[yolla] on [hieman kylmempaa]"
+msgstr "ni [2] [1]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [suunnilleen sama]"
+msgstr "[1] [3] ni [4] [2]"
+
+msgid "[huomenna] [sisamaassa] pakkasta on [M...N] [astetta]"
+msgstr "[1] joto ni [3] [4] [2]"
+
+msgid "[yolla] lampotila nousee"
+msgstr "joto linaongezeka [1]"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [hieman kireampaa]"
+msgstr "[1] baridi kali ni [3] [2]"
+
+msgid "[huomenna] [rannikolla] on pikkupakkasta"
+msgstr "[1] [2] joto ni kidogo chini ya sifuri"
+
+msgid "rannikolla noin [N] [astetta]"
+msgstr "takriban [1] [2] pwani"
+
+msgid "rannikolla vajaat [N] [astetta]"
+msgstr "karibu [1] [2] pwani"
+
+msgid "rannikolla vahan yli [N] [astetta]"
+msgstr "kidogo zaidi ya [1] [2] pwani"
+
+msgid "rannikolla [M...N] [astetta]"
+msgstr "[1] [2] pwani"
+
+msgid "rannikolla [N] asteen tienoilla"
+msgstr "takriban [1] nyuzi pwani"
+
+msgid "rannikolla [N] asteen tuntumassa"
+msgstr "karibu na [1] nyuzi pwani"
+
+msgid "rannikolla [suunnilleen sama]"
+msgstr "[1] pwani"
+
+msgid "[huomenna] [sisamaassa] [M...N] [astetta]"
+msgstr "[1] [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] noin [N] [astetta]"
+msgstr "[1] takriban [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] [N] asteen tienoilla"
+msgstr "[1] takriban [3] nyuzi [2]"
+
+msgid "[huomenna] [sisamaassa] [N] asteen tuntumassa"
+msgstr "[1] karibu na [3] nyuzi [2]"
+
+msgid "[huomenna] [sisamaassa] lahella [N] [astetta]"
+msgstr "[1] karibu na [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] vajaat [N] [astetta]"
+msgstr "[1] karibu [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] vahan yli [N] [astetta]"
+msgstr "[1] kidogo zaidi ya [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]"
+msgstr "hali ya hewa ni nzuri hasa [2] [1], [3]"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta]"
+msgstr "[1] [4] [5] [3] [2]"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3] [4] [5], ambayo inaweza kuwa ya barafu"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3] [4] [5], ambazo zinaweza kuwa za barafu"
+
+msgid "saa on poutainen"
+msgstr "hali ya hewa ni nzuri"
+
+msgid "6-keskiyolla"
+msgstr "Jumamosi usiku wa manane"
+
+msgid "5-keskiyolla"
+msgstr "Ijumaa usiku wa manane"
+
+msgid "4-keskiyolla"
+msgstr "Alhamisi usiku wa manane"
+
+msgid "3-keskiyolla"
+msgstr "Jumatano usiku wa manane"
+
+msgid "2-keskiyolla"
+msgstr "Jumanne usiku wa manane"
+
+msgid "1-keskiyolla"
+msgstr "Jumatatu usiku wa manane"
+
+msgid "[sisamaassa] alavilla mailla hallan vaara"
+msgstr "hatari ya baridi kali maeneo ya chini [1]"
+
+msgid "7-keskiyolla"
+msgstr "Jumapili usiku wa manane"
+
+msgid "[huomenna] [sisamaassa] [suunnilleen sama]"
+msgstr "[1] [3] [2]"
+
+msgid "7-iltapaivasta alkaen"
+msgstr "kuanzia Jumapili mchana"
+
+msgid "6-iltapaivasta alkaen"
+msgstr "kuanzia Jumamosi mchana"
+
+msgid "5-iltapaivasta alkaen"
+msgstr "kuanzia Ijumaa mchana"
+
+msgid "4-iltapaivasta alkaen"
+msgstr "kuanzia Alhamisi mchana"
+
+msgid "3-iltapaivasta alkaen"
+msgstr "kuanzia Jumatano mchana"
+
+msgid "2-iltapaivasta alkaen"
+msgstr "kuanzia Jumanne mchana"
+
+msgid "1-iltapaivasta alkaen"
+msgstr "kuanzia Jumatatu mchana"
+
+msgid "7-iltayosta alkaen"
+msgstr "kuanzia Jumapili jioni ya manane"
+
+msgid "6-iltayosta alkaen"
+msgstr "kuanzia Jumamosi jioni ya manane"
+
+msgid "5-iltayosta alkaen"
+msgstr "kuanzia Ijumaa jioni ya manane"
+
+msgid "4-iltayosta alkaen"
+msgstr "kuanzia Alhamisi jioni ya manane"
+
+msgid "3-iltayosta alkaen"
+msgstr "kuanzia Jumatano jioni ya manane"
+
+msgid "2-iltayosta alkaen"
+msgstr "kuanzia Jumanne jioni ya manane"
+
+msgid "1-iltayosta alkaen"
+msgstr "kuanzia Jumatatu jioni ya manane"
+
+msgid "7-aamuyosta alkaen"
+msgstr "kuanzia Jumapili asubuhi na mapema"
+
+msgid "6-aamuyosta alkaen"
+msgstr "kuanzia Jumamosi asubuhi na mapema"
+
+msgid "5-aamuyosta alkaen"
+msgstr "kuanzia Ijumaa asubuhi na mapema"
+
+msgid "4-aamuyosta alkaen"
+msgstr "kuanzia Alhamisi asubuhi na mapema"
+
+msgid "3-aamuyosta alkaen"
+msgstr "kuanzia Jumatano asubuhi na mapema"
+
+msgid "2-aamuyosta alkaen"
+msgstr "kuanzia Jumanne asubuhi na mapema"
+
+msgid "1-aamuyosta alkaen"
+msgstr "kuanzia Jumatatu asubuhi na mapema"
+
+msgid "7-keskiyosta alkaen"
+msgstr "kuanzia Jumapili usiku wa manane"
+
+msgid "6-keskiyosta alkaen"
+msgstr "kuanzia Jumamosi usiku wa manane"
+
+msgid "5-keskiyosta alkaen"
+msgstr "kuanzia Ijumaa usiku wa manane"
+
+msgid "4-keskiyosta alkaen"
+msgstr "kuanzia Alhamisi usiku wa manane"
+
+msgid "3-keskiyosta alkaen"
+msgstr "kuanzia Jumatano usiku wa manane"
+
+msgid "2-keskiyosta alkaen"
+msgstr "kuanzia Jumanne usiku wa manane"
+
+msgid "1-keskiyosta alkaen"
+msgstr "kuanzia Jumatatu usiku wa manane"
+
+msgid "1 hehtopascal"
+msgstr "hektopascali moja"
+
+msgid "0 hehtopascalia"
+msgstr "hektopascali sifuri"
+
+msgid "1 prosentti"
+msgstr "asilimia moja"
+
+msgid "0 prosenttia"
+msgstr "asilimia sifuri"
+
+msgid "1 millimetri"
+msgstr "milimita moja"
+
+msgid "0 millimetria"
+msgstr "milimita sifuri"
+
+msgid "1 metri sekunnissa"
+msgstr "mita moja kwa sekunde"
+
+msgid "0 metria sekunnissa"
+msgstr "mita sifuri kwa sekunde"
+
+msgid "1 aste"
+msgstr "nyuzi moja"
+
+msgid "0 astetta"
+msgstr "nyuzi sifuri"
+
+msgid "ranta- tai lumisadetta"
+msgstr "mvua na theluji au theluji"
+
+msgid "lumi- tai rantasadetta"
+msgstr "theluji au mvua na theluji"
+
+msgid "lumi- tai vesisadetta"
+msgstr "theluji au mvua"
+
+msgid "vesi- tai lumisadetta"
+msgstr "mvua au theluji"
+
+msgid "ranta- tai vesisadetta"
+msgstr "mvua na theluji au mvua"
+
+msgid "vesi- tai rantasadetta"
+msgstr "mvua au mvua na theluji"
+
+msgid "ranta- tai vesikuuroja"
+msgstr "mvua na theluji au mvua za haraka"
+
+msgid "vesi- tai rantakuuroja"
+msgstr "mvua au mvua na theluji za haraka"
+
+msgid "vesi- tai lumikuuroja"
+msgstr "mvua au theluji za haraka"
+
+msgid "lumi- tai vesikuuroja"
+msgstr "theluji au mvua za haraka"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] asteen tuntumassa"
+msgstr "[1] joto ni karibu na [3] nyuzi [2]"
+
+msgid "[huomenna] [sisamaassa] saa on poutainen"
+msgstr "hali ya hewa ni nzuri [2] [1]"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] asteen tienoilla"
+msgstr "joto ni takriban [3] nyuzi [2] [1]"
+
+msgid "[huomenna] [sisamaassa] pakkanen on lahella [N] [astetta]"
+msgstr "[1] joto ni karibu na [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] pakkasta on vahan yli [N] [astetta]"
+msgstr "[1] joto ni kidogo chini ya [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] pakkasta on vajaat [N] [astetta]"
+msgstr "[1] joto ni karibu [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] pakkasta on noin [N] [astetta]"
+msgstr "[1] joto ni takriban [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "[1] hali ya hewa ni mawingu kidogo au mawingu na nzuri [2]"
+
+msgid "[huomenna] [sisamaassa] saa on [selkea] ja poutainen"
+msgstr "[1] hali ya hewa ni [3] na nzuri [2]"
+
+msgid "[iltapaivalla] saa poutaantuu"
+msgstr "hali ya hewa inakuwa nzuri [1]"
+
+msgid "todennakoisesti myos ukkostaa"
+msgstr "radi pia inatarajiwa"
+
+msgid "mahdollisesti myos ukkostaa"
+msgstr "radi kidogo pia inawezekana"
+
+msgid "paikoin myos ukkostaa"
+msgstr "radi pia inatokea sehemu fulani"
+
+msgid "paikoin voi myos ukkostaa"
+msgstr "radi pia inawezekana sehemu fulani"
+
+msgid "myos ukkosta esiintyy"
+msgstr "radi kidogo pia inatokea"
+
+msgid "[iltapaivasta alkaen] [pilvistyvaa]"
+msgstr "[2] [1]"
+
+msgid "[iltapaivalla] saa poutaantuu ja on [selkea]"
+msgstr "hali ya hewa inakuwa nzuri na ni [2] [1]"
+
+msgid "[lampotila] on [suunnilleen sama]"
+msgstr "[1] ni [2]"
+
+msgid "[lampotila] on [M...N] [astetta]"
+msgstr "[1] ni [2] [3]"
+
+msgid "[lampotila] on noin [N] [astetta]"
+msgstr "[1] ni takriban [2] [3]"
+
+msgid "[lampotila] on [N] asteen tienoilla"
+msgstr "[1] ni takriban [2] nyuzi"
+
+msgid "[lampotila] on [N] asteen tuntumassa"
+msgstr "[1] ni karibu na [2] nyuzi"
+
+msgid "[lampotila] on lahella [N] [astetta]"
+msgstr "[1] ni karibu na [2] [3]"
+
+msgid "[lampotila] on vajaat [N] [astetta]"
+msgstr "[1] ni karibu [2] [3]"
+
+msgid "[lampotila] on vahan yli [N] [astetta]"
+msgstr "[1] ni kidogo zaidi ya [2] [3]"
+
+msgid "saa on [poikkeuksellisen] [kylmaa]"
+msgstr "hali ya hewa ni [1] [2]"
+
+msgid "[sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]"
+msgstr "hali ya hewa ni nzuri hasa [1], [2]"
+
+msgid "[sisamaassa] saa on poutainen"
+msgstr "hali ya hewa ni nzuri [1]"
+
+msgid "[sisamaassa] [paikoin] [heikkoa] [sadetta]"
+msgstr "[3] [4] [2] [1]"
+
+msgid "[sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3] [4], ambayo inaweza kuwa ya barafu"
+
+msgid "[sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3] [4], ambazo zinaweza kuwa za barafu"
+
+msgid "[paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], ambazo zinaweza kuwa za barafu"
+
+msgid "[paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], ambayo inaweza kuwa ya barafu"
+
+msgid "[paikoin] [heikkoa] [sadetta]"
+msgstr "[1] [2] [3]"
+
+msgid "[paikoin] sumua"
+msgstr "ukungu [1]"
+
+msgid "[sisamaassa] [paikoin] sumua"
+msgstr "ukungu [2] [1]"
+
+msgid "[huomenna] sumua"
+msgstr "[1] ukungu"
+
+msgid "[sisamaassa] sumua"
+msgstr "ukungu [1]"
+
+msgid "[huomenna] [paikoin] sumua"
+msgstr "[1] [2] ukungu"
+
+msgid "[huomenna] [sisamaassa] sumua"
+msgstr "[1] [2] ukungu"
+
+msgid "[huomenna] [sisamaassa] sumua, joka voi olla sakeaa"
+msgstr "[1] labda ukungu mnene [2]"
+
+msgid "[paikoin] sumua, joka voi olla sakeaa"
+msgstr "[1] labda ukungu mnene"
+
+msgid "[sisamaassa] sumua, joka voi olla sakeaa"
+msgstr "labda ukungu mnene [1]"
+
+msgid "[sisamaassa] [paikoin] sumua, joka voi olla sakeaa"
+msgstr "labda ukungu mnene [2] [1]"
+
+msgid "[huomenna] [paikoin] sumua, joka voi olla sakeaa"
+msgstr "[1] labda ukungu mnene [2]"
+
+msgid "[huomenna] sumua, joka voi olla sakeaa"
+msgstr "[1] labda ukungu mnene"
+
+msgid "[huomenna] [paikoin] [heikkoa] [sadetta]"
+msgstr "[1] [3] [4] [2]"
+
+msgid "[paikoin] [sadetta]"
+msgstr "[2] [1]"
+
+msgid "[huomenna] [sisamaassa] [heikkoa] [sadetta]"
+msgstr "[1] [3] [4] [2]"
+
+msgid "[sisamaassa] [heikkoa] [sadetta]"
+msgstr "[2] [3] [1]"
+
+msgid "[huomenna] [heikkoa] [sadetta]"
+msgstr "[1] [2] [3]"
+
+msgid "[sisamaassa] [sadetta]"
+msgstr "[2] [1]"
+
+msgid "[sisamaassa] [paikoin] [sadetta]"
+msgstr "[3] [2] [1]"
+
+msgid "[huomenna] [sadetta]"
+msgstr "[1] [2]"
+
+msgid "[huomenna] [paikoin] [sadetta]"
+msgstr "[1] [3] [2]"
+
+msgid "[huomenna] [sisamaassa] [sadetta]"
+msgstr "[1] [3] [2]"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [sadetta]"
+msgstr "[1] [4] [3] [2]"
+
+msgid "[huomenna] saa on poutainen"
+msgstr "hali ya hewa ni nzuri [1]"
+
+msgid "[huomenna] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]"
+msgstr "hali ya hewa ni nzuri hasa [1], [2]"
+
+msgid "[sisamaassa] saa vaihtelee puolipilvisesta pilviseen"
+msgstr "hali ya hewa ni mawingu kidogo au mawingu [1]"
+
+msgid "[huomenna] saa vaihtelee puolipilvisesta pilviseen"
+msgstr "[1] hali ya hewa ni mawingu kidogo au mawingu"
+
+msgid "[sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "hali ya hewa ni mawingu kidogo au mawingu na nzuri [1]"
+
+msgid "[huomenna] saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "[1] hali ya hewa ni mawingu kidogo au mawingu na nzuri"
+
+msgid "[sisamaassa] saa on [selkea]"
+msgstr "hali ya hewa ni [2] [1]"
+
+msgid "[huomenna] saa on [selkea]"
+msgstr "[1] hali ya hewa ni [2]"
+
+msgid "[sisamaassa] saa on [selkea] ja poutainen"
+msgstr "hali ya hewa ni [2] na nzuri [1]"
+
+msgid "[huomenna] saa on [selkea] ja poutainen"
+msgstr "[1] hali ya hewa ni [2] na nzuri"
+
+msgid "[huomenna] [sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3] [4], ambayo inaweza kuwa ya barafu"
+
+msgid "[huomenna] [sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3] [4], ambazo zinaweza kuwa za barafu"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3] [4], ambazo zinaweza kuwa za barafu"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3] [4], ambayo inaweza kuwa ya barafu"
+
+msgid "[huomenna] [sisamaassa] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], ambazo zinaweza kuwa za barafu"
+
+msgid "[huomenna] [sisamaassa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], ambayo inaweza kuwa ya barafu"
+
+msgid "[heikkoa] [sadetta]"
+msgstr "[1] [2]"
+
+msgid "[sadetta], joka voi olla jaatavaa"
+msgstr "[1], ambayo inaweza kuwa ya barafu"
+
+msgid "[heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2], ambayo inaweza kuwa ya barafu"
+
+msgid "[paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2], ambayo inaweza kuwa ya barafu"
+
+msgid "[sisamaassa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2], ambayo inaweza kuwa ya barafu"
+
+msgid "[sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], ambayo inaweza kuwa ya barafu"
+
+msgid "[sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], ambayo inaweza kuwa ya barafu"
+
+msgid "[huomenna] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3] [4], ambayo inaweza kuwa ya barafu"
+
+msgid "[huomenna] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2], ambayo inaweza kuwa ya barafu"
+
+msgid "[huomenna] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], ambayo inaweza kuwa ya barafu"
+
+msgid "[huomenna] [paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], ambayo inaweza kuwa ya barafu"
+
+msgid "[sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1], ambazo zinaweza kuwa za barafu"
+
+msgid "[heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2], ambazo zinaweza kuwa za barafu"
+
+msgid "[paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2], ambazo zinaweza kuwa za barafu"
+
+msgid "[sisamaassa] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2], ambazo zinaweza kuwa za barafu"
+
+msgid "[sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], ambazo zinaweza kuwa za barafu"
+
+msgid "[sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], ambazo zinaweza kuwa za barafu"
+
+msgid "[huomenna] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2], ambazo zinaweza kuwa za barafu"
+
+msgid "[huomenna] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], ambazo zinaweza kuwa za barafu"
+
+msgid "[huomenna] [paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], ambazo zinaweza kuwa za barafu"
+
+msgid "[huomenna] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3] [4], ambazo zinaweza kuwa za barafu"
+
+msgid "[iltapaivalla] [rannikolla] pakkanen on erittain purevaa"
+msgstr "baridi kali inaumiza sana [2] [1]"
+
+msgid "[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan kylmemmalta"
+msgstr "upepo unafanya hali ya hewa ihisi baridi zaidi [2] [1]"
+
+msgid "[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta"
+msgstr "upepo unafanya hali ya hewa ihisi baridi kidogo zaidi [2] [1]"
+
+msgid "saa on hyvin tuulinen"
+msgstr "hali ya hewa ni yenye upepo sana"
+
+msgid "saa on [iltapaivalla] [rannikolla] [tuulinen]"
+msgstr "ni [3] [2] [1]"
+
+msgid "[iltapaivalla] [rannikolla] [pakkanen on purevaa]"
+msgstr "[1] [2] [3]"
+
+msgid "pakkasta on vahan yli [N] [astetta]"
+msgstr "joto ni kidogo chini ya [1] [2]"
+
+msgid "pakkasta on vajaat [N] [astetta]"
+msgstr "joto ni karibu [1] [2]"
+
+msgid "pakkanen on lahella [N] [astetta]"
+msgstr "joto ni karibu na [1] [2]"
+
+msgid "pakkanen on [N] asteen tienoilla"
+msgstr "joto ni takriban [1] nyuzi"
+
+msgid "pakkanen on [N] asteen tuntumassa"
+msgstr "joto ni karibu na [1] nyuzi"
+
+msgid "pakkasta on noin [N] [astetta]"
+msgstr "joto ni takriban [1] [2]"
+
+msgid "pakkasta on [M...N] [astetta]"
+msgstr "joto ni [1] [2]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen"
+msgstr "hali ya hewa inakuwa nzuri [1]"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on selkea"
+msgstr "hali ya hewa inakuwa nzuri na ni wazi [1]"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on selkea"
+msgstr "hali ya hewa inakuwa nzuri na ni wazi [1]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on selkea"
+msgstr "hali ya hewa inakuwa nzuri na ni wazi [1]"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on selkea"
+msgstr "hali ya hewa inakuwa nzuri na ni wazi [1]"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "hali ya hewa inakuwa nzuri na inabadilika kati ya mawingu kidogo na mawingu [1]"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "hali ya hewa inakuwa nzuri na inabadilika kati ya mawingu kidogo na mawingu [1]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "hali ya hewa inakuwa nzuri na inabadilika kati ya mawingu kidogo na mawingu [1]"
+
+msgid "6-keskiyohon asti"
+msgstr "hadi Jumamosi usiku wa manane"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "hali ya hewa inakuwa nzuri na inabadilika kati ya mawingu kidogo na mawingu [1]"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen"
+msgstr "hali ya hewa inakuwa nzuri [1]"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen"
+msgstr "hali ya hewa inakuwa nzuri [1]"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen"
+msgstr "hali ya hewa inakuwa nzuri [1]"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on pilvinen"
+msgstr "hali ya hewa inakuwa nzuri na ni mawingu [1]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on pilvinen"
+msgstr "hali ya hewa inakuwa nzuri na ni mawingu [1]"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on pilvinen"
+msgstr "hali ya hewa inakuwa nzuri na ni mawingu [1]"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on pilvinen"
+msgstr "hali ya hewa inakuwa nzuri na ni mawingu [1]"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on verrattain pilvinen"
+msgstr "hali ya hewa inakuwa nzuri na ni mawingu ya wastani [1]"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on verrattain pilvinen"
+msgstr "hali ya hewa inakuwa nzuri na ni mawingu ya wastani [1]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on verrattain pilvinen"
+msgstr "hali ya hewa inakuwa nzuri na ni mawingu ya wastani [1]"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on verrattain pilvinen"
+msgstr "hali ya hewa inakuwa nzuri na ni mawingu ya wastani [1]"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on puolipilvinen"
+msgstr "hali ya hewa inakuwa nzuri na ni mawingu kidogo [1]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on puolipilvinen"
+msgstr "hali ya hewa inakuwa nzuri na ni mawingu kidogo [1]"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on puolipilvinen"
+msgstr "hali ya hewa inakuwa nzuri na ni mawingu kidogo [1]"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on puolipilvinen"
+msgstr "hali ya hewa inakuwa nzuri na ni mawingu kidogo [1]"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on melko selkea"
+msgstr "hali ya hewa inakuwa nzuri na ni wazi kidogo [1]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on melko selkea"
+msgstr "hali ya hewa inakuwa nzuri na ni wazi kidogo [1]"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on melko selkea"
+msgstr "hali ya hewa inakuwa nzuri na ni wazi kidogo [1]"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on melko selkea"
+msgstr "hali ya hewa inakuwa nzuri na ni wazi kidogo [1]"
+
+msgid "[rannikolla] on [tuulista]"
+msgstr "ni [2] [1]"
+
+msgid "[iltapaivalla] on [tuulista]"
+msgstr "ni [2] [1]"
+
+msgid "[rannikolla] tuuli saa saan tuntumaan kylmemmalta"
+msgstr "upepo unafanya hali ya hewa ihisi baridi zaidi [1]"
+
+msgid "[iltapaivalla] tuuli saa saan tuntumaan kylmemmalta"
+msgstr "upepo unafanya hali ya hewa ihisi baridi zaidi [1]"
+
+msgid "[rannikolla] tuuli saa saan tuntumaan viileammalta"
+msgstr "upepo unafanya hali ya hewa ihisi baridi kidogo zaidi [1]"
+
+msgid "[iltapaivalla] tuuli saa saan tuntumaan viileammalta"
+msgstr "upepo unafanya hali ya hewa ihisi baridi kidogo zaidi [1]"
+
+msgid "[rannikolla] pakkanen on erittain purevaa"
+msgstr "baridi kali inaumiza sana [1]"
+
+msgid "[iltapaivalla] pakkanen on erittain purevaa"
+msgstr "baridi kali inaumiza sana [1]"
+
+msgid "[rannikolla] pakkanen on purevaa"
+msgstr "baridi kali inaumiza [1]"
+
+msgid "[iltapaivalla] pakkanen on purevaa"
+msgstr "baridi kali inaumiza [1]"
+
+msgid "saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "hali ya hewa ni joto zaidi kuliko kawaida"
+
+msgid "[huomenna] pakkasta on [M...N] [astetta]"
+msgstr "[1] joto ni [2] [3]"
+
+msgid "[huomenna] pakkasta on noin [N] [astetta]"
+msgstr "[1] joto ni takriban [2] [3]"
+
+msgid "[huomenna] pakkanen on [hieman kireampaa]"
+msgstr "[1] baridi kali ni [2]"
+
+msgid "[huomenna] pakkasta on vahan yli [N] [astetta]"
+msgstr "[1] joto ni kidogo chini ya [2] [3]"
+
+msgid "[huomenna] pakkasta on vajaat [N] [astetta]"
+msgstr "[1] joto ni karibu [2] [3]"
+
+msgid "[huomenna] pakkanen on lahella [N] [astetta]"
+msgstr "[1] joto ni karibu na [2] [3]"
+
+msgid "[huomenna] pakkanen on [N] asteen tuntumassa"
+msgstr "[1] joto ni karibu na [2] nyuzi"
+
+msgid "[huomenna] pakkanen on [N] asteen tienoilla"
+msgstr "[1] joto ni takriban [2] nyuzi"
+
+msgid "[sisamaassa] pakkasta on [M...N] [astetta]"
+msgstr "joto ni [2] [3] [1]"
+
+msgid "[sisamaassa] pakkasta on noin [N] [astetta]"
+msgstr "joto ni takriban [2] [3] [1]"
+
+msgid "[sisamaassa] pakkanen on [hieman kireampaa]"
+msgstr "baridi kali ni [2] [1]"
+
+msgid "[sisamaassa] pakkasta on vahan yli [N] [astetta]"
+msgstr "joto ni kidogo chini ya [2] [3] [1]"
+
+msgid "[sisamaassa] pakkanen on lahella [N] [astetta]"
+msgstr "joto ni karibu na [2] [3] [1]"
+
+msgid "[sisamaassa] pakkasta on vajaat [N] [astetta]"
+msgstr "joto ni karibu [2] [3] [1]"
+
+msgid "[sisamaassa] pakkanen on [N] asteen tuntumassa"
+msgstr "joto ni karibu na [2] nyuzi [1]"
+
+msgid "[sisamaassa] pakkanen on [N] asteen tienoilla"
+msgstr "joto ni takriban [2] nyuzi [1]"
+
+msgid "[sisamaassa] [lampotila] on [suunnilleen sama]"
+msgstr "[2] ni [3] [1]"
+
+msgid "[sisamaassa] [lampotila] on [M...N] [astetta]"
+msgstr "[2] ni [3] [4] [1]"
+
+msgid "[sisamaassa] [lampotila] on noin [N] [astetta]"
+msgstr "[2] ni takriban [3] [4] [1]"
+
+msgid "[sisamaassa] [lampotila] on [N] asteen tienoilla"
+msgstr "[2] ni takriban [3] nyuzi [1]"
+
+msgid "[sisamaassa] [lampotila] on [N] asteen tuntumassa"
+msgstr "[2] ni karibu na [3] nyuzi [1]"
+
+msgid "[sisamaassa] [lampotila] on lahella [N] [astetta]"
+msgstr "[2] ni karibu na [3] [4] [1]"
+
+msgid "[sisamaassa] [lampotila] on vajaat [N] [astetta]"
+msgstr "[2] ni karibu [3] [4] [1]"
+
+msgid "[sisamaassa] [lampotila] on vahan yli [N] [astetta]"
+msgstr "[2] ni kidogo zaidi ya [3] [4] [1]"
+
+msgid "[huomenna] [lampotila] on [suunnilleen sama]"
+msgstr "[1] [2] ni [3]"
+
+msgid "[huomenna] [lampotila] on [M...N] [astetta]"
+msgstr "[1] [2] ni [3] [4]"
+
+msgid "[huomenna] [lampotila] on noin [N] [astetta]"
+msgstr "[1] [2] ni takriban [3] [4]"
+
+msgid "[huomenna] [lampotila] on [N] asteen tienoilla"
+msgstr "[1] [2] ni takriban [3] nyuzi"
+
+msgid "[huomenna] [lampotila] on [N] asteen tuntumassa"
+msgstr "[1] [2] ni karibu na [3] nyuzi"
+
+msgid "[huomenna] [lampotila] on lahella [N] [astetta]"
+msgstr "[1] [2] ni karibu na [3] [4]"
+
+msgid "[huomenna] [lampotila] on vajaat [N] [astetta]"
+msgstr "[1] [2] ni karibu [3] [4]"
+
+msgid "2-keskiyohon asti"
+msgstr "hadi Jumanne usiku wa manane"
+
+msgid "[huomenna] [lampotila] on vahan yli [N] [astetta]"
+msgstr "[1] [2] ni kidogo zaidi ya [3] [4]"
+
+msgid "[rannikolla] on pikkupakkasta"
+msgstr "joto ni kidogo chini ya sifuri [1]"
+
+msgid "[huomenna] on pikkupakkasta"
+msgstr "[1] joto ni kidogo chini ya sifuri"
+
+msgid "[sisamaassa] [M...N] [astetta]"
+msgstr "[2] [3] [1]"
+
+msgid "[huomenna] [M...N] [astetta]"
+msgstr "[1] [2] [3]"
+
+msgid "[sisamaassa] [suunnilleen sama]"
+msgstr "[2] [1]"
+
+msgid "[huomenna] [suunnilleen sama]"
+msgstr "[1] [2]"
+
+msgid "[sisamaassa] noin [N] [astetta]"
+msgstr "takriban [2] [3] [1]"
+
+msgid "[huomenna] noin [N] [astetta]"
+msgstr "[1] takriban [2] [3]"
+
+msgid "[sisamaassa] [N] asteen tienoilla"
+msgstr "takriban [2] nyuzi [1]"
+
+msgid "[huomenna] [N] asteen tienoilla"
+msgstr "[1] karibu na [2] nyuzi"
+
+msgid "[sisamaassa] [N] asteen tuntumassa"
+msgstr "karibu na [2] nyuzi [1]"
+
+msgid "[huomenna] [N] asteen tuntumassa"
+msgstr "[1] karibu na [2] nyuzi"
+
+msgid "[sisamaassa] lahella [N] [astetta]"
+msgstr "karibu na [2] [3] [1]"
+
+msgid "[huomenna] lahella [N] [astetta]"
+msgstr "[1] karibu na [2] [3]"
+
+msgid "[sisamaassa] vahan yli [N] [astetta]"
+msgstr "kidogo zaidi ya [2] [3] [1]"
+
+msgid "[huomenna] vahan yli [N] [astetta]"
+msgstr "[1] kidogo zaidi ya [2] [3]"
+
+msgid "[sisamaassa] vajaat [N] [astetta]"
+msgstr "karibu [2] [3] [1]"
+
+msgid "[huomenna] vajaat [N] [astetta]"
+msgstr "[1] karibu [2] [3]"
+
+msgid "[1-na] saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "[1] hali ya hewa ni joto zaidi kuliko kawaida"
+
+msgid "asteen(tienoilla)"
+msgstr "nyuzi"
+
+msgid "asteen(tuntumassa)"
+msgstr "nyuzi"
+
+msgid "[N] [asteen] tienoilla"
+msgstr "takriban [1] [2]"
+
+msgid "[N] [asteen] tuntumassa"
+msgstr "karibu na [1] [2]"
+
+msgid "[sisamaassa] [N] [asteen] tuntumassa"
+msgstr "karibu na [2] [3] [1]"
+
+msgid "[sisamaassa] [lampotila] on [N] [asteen] tuntumassa"
+msgstr "[2] ni karibu na [3] [4] [1]"
+
+msgid "[sisamaassa] pakkanen on [N] [asteen] tuntumassa"
+msgstr "joto ni karibu na [2] [3] [1]"
+
+msgid "[lampotila] on [N] [asteen] tuntumassa"
+msgstr "[1] ni karibu na [2] [3]"
+
+msgid "[huomenna] [sisamaassa] [N] [asteen] tuntumassa"
+msgstr "[1] karibu na [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tuntumassa"
+msgstr "[1] [3] ni karibu na [4] [5] [2]"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] [asteen] tuntumassa"
+msgstr "[1] joto ni karibu na [3] [4] [2]"
+
+msgid "[huomenna] [N] [asteen] tuntumassa"
+msgstr "[1] karibu na [2] [3]"
+
+msgid "[huomenna] [lampotila] on [N] [asteen] tuntumassa"
+msgstr "[1] [2] ni karibu na [3] [4]"
+
+msgid "[huomenna] pakkanen on [N] [asteen] tuntumassa"
+msgstr "[1] joto ni karibu na [2] [3]"
+
+msgid "rannikolla [N] [asteen] tuntumassa"
+msgstr "karibu na [1] [2] pwani"
+
+msgid "pakkanen on [N] [asteen] tuntumassa"
+msgstr "joto ni karibu na [1] [2]"
+
+msgid "[sisamaassa] [N] [asteen] tienoilla"
+msgstr "takriban [2] [3] [1]"
+
+msgid "[sisamaassa] [lampotila] on [N] [asteen] tienoilla"
+msgstr "[2] ni takriban [3] [4] [1]"
+
+msgid "[sisamaassa] pakkanen on [N] [asteen] tienoilla"
+msgstr "joto ni takriban [2] [3] [1]"
+
+msgid "[lampotila] on [N] [asteen] tienoilla"
+msgstr "[1] ni takriban [2] [3]"
+
+msgid "[huomenna] [sisamaassa] [N] [asteen] tienoilla"
+msgstr "[1] takriban [3] [4] [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tienoilla"
+msgstr "[1] [3] ni takriban [4] [5] [2]"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] [asteen] tienoilla"
+msgstr "joto ni takriban [3] [4] [2] [1]"
+
+msgid "[huomenna] [N] [asteen] tienoilla"
+msgstr "[1] karibu na [2] [3]"
+
+msgid "[huomenna] [lampotila] on [N] [asteen] tienoilla"
+msgstr "[1] [2] ni takriban [3] [4]"
+
+msgid "[huomenna] pakkanen on [N] [asteen] tienoilla"
+msgstr "[1] joto ni takriban [2] [3]"
+
+msgid "rannikolla [N] [asteen] tienoilla"
+msgstr "takriban [1] [2] pwani"
+
+msgid "pakkanen on [N] [asteen] tienoilla"
+msgstr "joto ni takriban [1] [2]"
+
+msgid "saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "hali ya hewa ni mawingu kidogo au mawingu na nzuri"
+
+msgid "saa on [selkea] ja poutainen"
+msgstr "hali ya hewa ni [1] na nzuri"
+
+msgid "[alueella] saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "hali ya hewa ni joto zaidi kuliko kawaida [1]"
+
+msgid "[1-na] [alueella] saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "[1] hali ya hewa ni joto zaidi kuliko kawaida [2]"
+
+msgid "[alueella] [saa lampenee]"
+msgstr "[2] [1]"
+
+msgid "[1-na] [alueella] [saa lampenee]"
+msgstr "[3] [1] [2]"
+
+msgid "[alueella] saa on [poikkeuksellisen] [kylmaa]"
+msgstr "hali ya hewa ni [2] [3] [1]"
+
+msgid "[1-na] [alueella] saa on [poikkeuksellisen] [kylmaa]"
+msgstr "hali ya hewa ni [3] [4] [2] [1]"
+
+msgid "yon alin"
+msgstr "kiwango cha chini cha usiku"
+
+msgid "[1-na] [alueella] saa lauhtuu"
+msgstr "[1] hali ya hewa inakuwa laini zaidi [2]"
+
+msgid "[alueella] saa lauhtuu"
+msgstr "hali ya hewa inakuwa laini zaidi [1]"
+
+msgid "[1-na] saa lauhtuu"
+msgstr "[1] hali ya hewa inakuwa laini zaidi"
+
+msgid "[1-na] [alueella] saa on edelleen lauhaa"
+msgstr "[1] hali ya hewa bado ni laini [2]"
+
+msgid "[alueella] saa on edelleen lauhaa"
+msgstr "hali ya hewa bado ni laini [1]"
+
+msgid "[1-na] saa on edelleen lauhaa"
+msgstr "[1] hali ya hewa bado ni laini"
+
+msgid "[alueella] pakkanen kiristyy"
+msgstr "baridi kali inazidi [1]"
+
+msgid "[1-na] pakkanen kiristyy"
+msgstr "[1] baridi kali inazidi"
+
+msgid "[1-na] [alueella] pakkanen kiristyy"
+msgstr "[1] baridi kali inazidi [2]"
+
+msgid "[alueella] kirea pakkanen jatkuu"
+msgstr "baridi kali inaendelea [1]"
+
+msgid "[1-na] kirea pakkanen jatkuu"
+msgstr "[1] baridi kali inaendelea"
+
+msgid "[1-na] [alueella] kirea pakkanen jatkuu"
+msgstr "[1] baridi kali inaendelea [2]"
+
+msgid "[alueella] pakkanen hellittaa"
+msgstr "baridi kali inaanza kupungua [1]"
+
+msgid "[1-na] pakkanen hellittaa"
+msgstr "[1] baridi kali inaanza kupungua"
+
+msgid "[1-na] [alueella] pakkanen hellittaa"
+msgstr "[1] baridi kali inaanza kupungua [2]"
+
+msgid "[alueella] kirea pakkanen heikkenee"
+msgstr "baridi kali inapungua nguvu [1]"
+
+msgid "[1-na] kirea pakkanen heikkenee"
+msgstr "[1] baridi kali inapungua nguvu"
+
+msgid "[1-na] [alueella] kirea pakkanen heikkenee"
+msgstr "[1] baridi kali inapungua nguvu [2]"
+
+msgid "[alueella] pakkanen heikkenee"
+msgstr "baridi kali inapungua [1]"
+
+msgid "[1-na] pakkanen heikkenee"
+msgstr "[1] baridi kali inapungua"
+
+msgid "[1-na] [alueella] pakkanen heikkenee"
+msgstr "[1] baridi kali inapungua [2]"
+
+msgid "[alueella] saa on helteista"
+msgstr "hali ya hewa ni ya joto kali sana [1]"
+
+msgid "[1-na] saa on helteista"
+msgstr "[1] hali ya hewa ni ya joto kali sana"
+
+msgid "[1-na] [alueella] saa on helteista"
+msgstr "[1] hali ya hewa ni ya joto kali sana [2]"
+
+msgid "[alueella] saa muuttuu helteiseksi"
+msgstr "hali ya hewa inakuwa ya joto kali [1]"
+
+msgid "[1-na] saa muuttuu helteiseksi"
+msgstr "[1] hali ya hewa inakuwa ya joto kali"
+
+msgid "[1-na] [alueella] saa muuttuu helteiseksi"
+msgstr "[1] hali ya hewa inakuwa ya joto kali [2]"
+
+msgid "[alueella] helteinen saa jatkuu"
+msgstr "hali ya hewa ya joto kali inaendelea [1]"
+
+msgid "[1-na] helteinen saa jatkuu"
+msgstr "[1] hali ya hewa ya joto kali inaendelea"
+
+msgid "[1-na] [alueella] helteinen saa jatkuu"
+msgstr "[1] hali ya hewa ya joto kali inaendelea [2]"
+
+msgid "[alueella] saa viilenee huomattavasti"
+msgstr "hali ya hewa inakuwa baridi zaidi sana [1]"
+
+msgid "[1-na] saa viilenee huomattavasti"
+msgstr "[1] hali ya hewa inakuwa baridi zaidi sana"
+
+msgid "[1-na] [alueella] saa viilenee huomattavasti"
+msgstr "[1] hali ya hewa inakuwa baridi zaidi sana [2]"
+
+msgid "[alueella] saa viilenee vahan"
+msgstr "hali ya hewa inakuwa baridi zaidi kidogo [1]"
+
+msgid "[1-na] saa viilenee vahan"
+msgstr "[1] hali ya hewa inakuwa baridi zaidi kidogo"
+
+msgid "[1-na] [alueella] saa viilenee vahan"
+msgstr "[1] hali ya hewa inakuwa baridi zaidi kidogo [2]"
+
+msgid "[alueella] saa viilenee"
+msgstr "hali ya hewa inakuwa baridi kidogo [1]"
+
+msgid "[1-na] saa viilenee"
+msgstr "[1] hali ya hewa inakuwa baridi kidogo"
+
+msgid "[1-na] [alueella] saa viilenee"
+msgstr "[1] hali ya hewa inakuwa baridi kidogo [2]"
+
+msgid "[alueella] viilea saa jatkuu"
+msgstr "hali ya hewa baridi kidogo inaendelea [1]"
+
+msgid "[1-na] viilea saa jatkuu"
+msgstr "[1] hali ya hewa baridi kidogo inaendelea"
+
+msgid "[1-na] [alueella] viilea saa jatkuu"
+msgstr "[1] hali ya hewa baridi kidogo inaendelea [2]"
+
+msgid "[alueella] kolea saa jatkuu"
+msgstr "hali ya hewa baridi inaendelea [1]"
+
+msgid "[1-na] kolea saa jatkuu"
+msgstr "[1] hali ya hewa baridi inaendelea"
+
+msgid "[1-na] [alueella] kolea saa jatkuu"
+msgstr "[1] hali ya hewa baridi inaendelea [2]"
+
+msgid "[alueella] saa lampenee huomattavasti"
+msgstr "hali ya hewa inakuwa joto zaidi sana [1]"
+
+msgid "[1-na] saa lampenee huomattavasti"
+msgstr "[1] hali ya hewa inakuwa joto zaidi sana"
+
+msgid "[1-na] [alueella] saa lampenee huomattavasti"
+msgstr "[1] hali ya hewa inakuwa joto zaidi sana [2]"
+
+msgid "[alueella] saa lampenee vahan"
+msgstr "hali ya hewa inakuwa joto zaidi kidogo [1]"
+
+msgid "[1-na] saa lampenee vahan"
+msgstr "[1] hali ya hewa inakuwa joto zaidi kidogo"
+
+msgid "[1-na] [alueella] saa lampenee vahan"
+msgstr "[1] hali ya hewa inakuwa joto zaidi kidogo [2]"
+
+msgid "[alueella] saa lampenee"
+msgstr "hali ya hewa inakuwa joto zaidi [1]"
+
+msgid "[1-na] saa lampenee"
+msgstr "[1] hali ya hewa inakuwa joto zaidi"
+
+msgid "[1-na] [alueella] saa lampenee"
+msgstr "[1] hali ya hewa inakuwa joto zaidi [2]"
+
+msgid "7-keskiyolla ja aamuyolla"
+msgstr "Jumapili usiku wa manane na baada ya usiku wa manane"
+
+msgid "6-keskiyolla ja aamuyolla"
+msgstr "Jumamosi usiku wa manane na baada ya usiku wa manane"
+
+msgid "5-keskiyolla ja aamuyolla"
+msgstr "Ijumaa usiku wa manane na baada ya usiku wa manane"
+
+msgid "4-keskiyolla ja aamuyolla"
+msgstr "Alhamisi usiku wa manane na baada ya usiku wa manane"
+
+msgid "3-keskiyolla ja aamuyolla"
+msgstr "Jumatano usiku wa manane na baada ya usiku wa manane"
+
+msgid "2-keskiyolla ja aamuyolla"
+msgstr "Jumanne usiku wa manane na baada ya usiku wa manane"
+
+msgid "1-keskiyolla ja aamuyolla"
+msgstr "Jumatatu usiku wa manane na baada ya usiku wa manane"
+
+msgid "[huomenna] yksittaiset vesikuurot mahdollisia"
+msgstr "[1] labda mvua za haraka mara kwa mara"
+
+msgid "[huomenna] yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "[1] labda mvua za haraka au mvua na theluji mara kwa mara"
+
+msgid "[huomenna] yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "[1] labda mvua za haraka au theluji mara kwa mara"
+
+msgid "[huomenna] yksittaiset sadekuurot mahdollisia"
+msgstr "[1] labda mvua za haraka mara kwa mara"
+
+msgid "[huomenna] yksittaiset rantakuurot mahdollisia"
+msgstr "[1] labda mvua na theluji za haraka mara kwa mara"
+
+msgid "[huomenna] yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "[1] labda mvua na theluji au mvua za haraka mara kwa mara"
+
+msgid "[huomenna] yksittaiset lumikuurot mahdollisia"
+msgstr "[1] labda mvua ya theluji za haraka mara kwa mara"
+
+msgid "[huomenna] yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "[1] labda theluji au mvua na theluji za haraka mara kwa mara"
+
+msgid "[huomenna] [sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "labda theluji au mvua na theluji za haraka mara kwa mara [2] [1]"
+
+msgid "[huomenna] [sisamaassa] yksittaiset lumikuurot mahdollisia"
+msgstr "labda mvua ya theluji za haraka mara kwa mara [2] [1]"
+
+msgid "[huomenna] [sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "labda mvua na theluji au mvua za haraka mara kwa mara [2] [1]"
+
+msgid "[huomenna] [sisamaassa] yksittaiset rantakuurot mahdollisia"
+msgstr "labda mvua na theluji za haraka mara kwa mara [2] [1]"
+
+msgid "[huomenna] [sisamaassa] yksittaiset sadekuurot mahdollisia"
+msgstr "labda mvua za haraka mara kwa mara [2] [1]"
+
+msgid "[huomenna] [sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "labda mvua za haraka au theluji mara kwa mara [2] [1]"
+
+msgid "[huomenna] [sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "labda mvua za haraka au mvua na theluji mara kwa mara [2] [1]"
+
+msgid "[huomenna] [sisamaassa] yksittaiset vesikuurot mahdollisia"
+msgstr "labda mvua za haraka mara kwa mara [2] [1]"
+
+msgid "[sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "labda mvua na theluji au mvua za haraka mara kwa mara [1]"
+
+msgid "[sisamaassa] yksittaiset rantakuurot mahdollisia"
+msgstr "labda mvua na theluji za haraka mara kwa mara [1]"
+
+msgid "[sisamaassa] yksittaiset sadekuurot mahdollisia"
+msgstr "labda mvua za haraka mara kwa mara [1]"
+
+msgid "1-keskiyohon asti"
+msgstr "hadi Jumatatu usiku wa manane"
+
+msgid "[sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "labda mvua za haraka au theluji mara kwa mara [1]"
+
+msgid "[sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "labda mvua za haraka au mvua na theluji mara kwa mara [1]"
+
+msgid "[sisamaassa] yksittaiset vesikuurot mahdollisia"
+msgstr "labda mvua za haraka mara kwa mara [1]"
+
+msgid "[sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "[1] labda theluji au mvua na theluji za haraka mara kwa mara"
+
+msgid "[sisamaassa] yksittaiset lumikuurot mahdollisia"
+msgstr "labda mvua ya theluji za haraka mara kwa mara [1]"
+
+msgid "[sisamaassa] on [hieman lauhempaa]"
+msgstr "ni [2] [1]"
+
+msgid "[huomenna] on [hieman lauhempaa]"
+msgstr "[1] ni [2]"
+
+msgid "[huomenna] [sisamaassa] on [hieman lauhempaa]"
+msgstr "[1] ni [3] [2]"
+
+msgid "[lampotila] [M...N] [astetta]"
+msgstr "[1] [2] [3]"
+
+msgid "paivan ylin"
+msgstr "kiwango cha juu cha mchana"
+
+msgid "[lampotila] [suunnilleen sama]"
+msgstr "[1] [2]"
+
+msgid "[lampotila] vahan yli [N] [astetta]"
+msgstr "[1] kidogo zaidi ya [2] [3]"
+
+msgid "[lampotila] vajaat [N] [astetta]"
+msgstr "[1] karibu [2] [3]"
+
+msgid "[lampotila] lahella [N] [astetta]"
+msgstr "[1] karibu na [2] [3]"
+
+msgid "[lampotila] [N] [asteen] tuntumassa"
+msgstr "[1] karibu na [2] [3]"
+
+msgid "[lampotila] [N] [asteen] tienoilla"
+msgstr "[1] takriban [2] [3]"
+
+msgid "[lampotila] noin [N] [astetta]"
+msgstr "[1] takriban [2] [3]"
+
+msgid "luoteeseen"
+msgstr "kuelekea kaskazini magharibi"
+
+msgid "lounaaseen"
+msgstr "kuelekea kusini magharibi"
+
+msgid "kaakkoon"
+msgstr "kuelekea kusini mashariki"
+
+msgid "koilliseen"
+msgstr "kuelekea kaskazini mashariki"
+
+msgid "lanteen"
+msgstr "kuelekea magharibi"
+
+msgid "itaan"
+msgstr "kuelekea mashariki"
+
+msgid "etelaan"
+msgstr "kuelekea kusini"
+
+msgid "pohjoiseen"
+msgstr "kuelekea kaskazini"
+
+msgid "[iltapaivalla] tuuli kaantyy [etelaan] ja voimistuu edelleen"
+msgstr "[1] upepo unageuka [2] na unaendelea kuongeza nguvu"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka muuttuu [iltapaivalla] vaihtelevaksi"
+msgstr "[1] [2] [3], ambao unakuwa wa ubadilishaji [4]"
+
+msgid "vahitellen"
+msgstr "polepole"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka kaantyy [iltapaivalla] [etelaan]"
+msgstr "[1] [2] [3], ambao unageuka [5] [4]"
+
+msgid "[iltapaivalla] tuuli kaantyy [etelaan]"
+msgstr "upepo unageuka [2] [1]"
+
+msgid "suunnaltaan vaihtelevaa tuulta"
+msgstr "upepo wa ubadilishaji"
+
+msgid "latvia:lle"
+msgstr "kwa Latvia"
+
+msgid "astetta (n...0)"
+msgstr "nyuzi"
+
+msgid "1- ja 2-valille"
+msgstr "kaskazini hadi kaskazini mashariki"
+
+msgid "3- ja 2-valille"
+msgstr "mashariki hadi kaskazini mashariki"
+
+msgid "3- ja 4-valille"
+msgstr "mashariki hadi kusini mashariki"
+
+msgid "5- ja 4-valille"
+msgstr "kusini hadi kusini mashariki"
+
+msgid "5- ja 6-valille"
+msgstr "kusini hadi kusini magharibi"
+
+msgid "7- ja 6-valille"
+msgstr "magharibi hadi kusini magharibi"
+
+msgid "7- ja 8-valille"
+msgstr "magharibi hadi kaskazini magharibi"
+
+msgid "1- ja 8-valille"
+msgstr "kaskazini hadi kaskazini magharibi"
+
+msgid "[huomenna] [etelatuulta]"
+msgstr "[1] [2]"
+
+msgid "ivalo:lle"
+msgstr "kwa Ivalo"
+
+msgid "pieksamaki:lle"
+msgstr "kwa Pieksämäki"
+
+msgid "[iltapaivalla] [etelaan] kaantyvaa tuulta"
+msgstr "upepo unageuka [2] [1]"
+
+msgid "heikkenevaa tuulta"
+msgstr "upepo unaopungua nguvu"
+
+msgid "8-puolelle"
+msgstr "hasa kaskazini magharibi"
+
+msgid "7-puolelle"
+msgstr "hasa magharibi"
+
+msgid "6-puolelle"
+msgstr "hasa kusini magharibi"
+
+msgid "5-puolelle"
+msgstr "hasa kusini"
+
+msgid "4-puolelle"
+msgstr "hasa kusini mashariki"
+
+msgid "3-puolelle"
+msgstr "hasa mashariki"
+
+msgid "2-puolelle"
+msgstr "hasa kaskazini mashariki"
+
+msgid "1-puolelle"
+msgstr "hasa kaskazini"
+
+msgid "tuuli muuttuu vaihtelevaksi"
+msgstr "upepo unakuwa wa ubadilishaji"
+
+msgid "[iltapaivalla] tuuli muuttuu vaihtelevaksi"
+msgstr "upepo unakuwa wa ubadilishaji [1]"
+
+msgid "[iltapaivalla] [etelatuulta]"
+msgstr "[2] [1]"
+
+msgid "astetta (1)"
+msgstr "nyuzi"
+
+msgid "astetta (0)"
+msgstr "nyuzi"
+
+msgid "astetta (4)"
+msgstr "nyuzi"
+
+msgid "astetta (3)"
+msgstr "nyuzi"
+
+msgid "astetta (n...(mod 10=1))"
+msgstr "nyuzi"
+
+msgid "astetta (n...4)"
+msgstr "nyuzi"
+
+msgid "astetta (n...3)"
+msgstr "nyuzi"
+
+msgid "astetta (n...2)"
+msgstr "nyuzi"
+
+msgid "astetta (n...1)"
+msgstr "nyuzi"
+
+msgid "astetta (2)"
+msgstr "nyuzi"
+
+msgid "aallonkorkeus on enimmillaan [N] [metria]"
+msgstr "urefu wa mawimbi ni [1] [2] hadi"
+
+msgid "latgale:lle"
+msgstr "kwa Latgale region"
+
+msgid "vidzeme:lle"
+msgstr "kwa Vidzeme region"
+
+msgid "zemgale:lle"
+msgstr "kwa Zemgale region"
+
+msgid "kurzeme:lle"
+msgstr "kwa Kurzeme region"
+
+msgid "rigaregion:lle"
+msgstr "kwa Lielriga region"
+
+msgid "tuuli kaantyy"
+msgstr "upepo unageuka"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta]"
+msgstr "[2] [3] [4] [1]"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa tuulta]"
+msgstr "[2] [3] [1]"
+
+msgid "[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi"
+msgstr "upepo unakuwa wa ubadilishaji kwa muda [1]"
+
+msgid "[iltapaivalla] tuuli heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1] upepo unapungua nguvu na unakuwa wa ubadilishaji"
+
+msgid "astetta (m...n)"
+msgstr "nyuzi"
+
+msgid "astetta (n)"
+msgstr "nyuzi"
+
+msgid "[iltapaivalla] tuuli heikkenee ja kaantyy [etelaan]"
+msgstr "[1] upepo unapungua nguvu na unageuka [2]"
+
+msgid "keskipaivasta"
+msgstr "kuanzia adhuhuri"
+
+msgid "[iltapaivalla] tuuli voimistuu ja kaantyy [etelaan]"
+msgstr "[1] upepo unaongeza nguvu na unageuka [2]"
+
+msgid "[iltapaivalla] tuuli voimistuu ja muuttuu vaihtelevaksi"
+msgstr "upepo unaongeza nguvu na unakuwa wa ubadilishaji [1]"
+
+msgid "voimistuvaa tuulta"
+msgstr "upepo unaongeza nguvu"
+
+msgid "kovimmillaan"
+msgstr "hadi"
+
+msgid "nopeasti"
+msgstr "haraka"
+
+msgid "[iltapaivalla] tuuli muuttuu vaihtelevaksi ja heikkenee edelleen"
+msgstr "[1] upepo unakuwa wa ubadilishaji na unaendelea kupungua nguvu"
+
+msgid "[iltapaivalla] [heikkenevaa tuulta]"
+msgstr "[1] [2]"
+
+msgid "[iltapaivalla] [heikkenevaa] [etelatuulta]"
+msgstr "[1] [2] [3]"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1] [2] unapungua nguvu na unakuwa wa ubadilishaji"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee ja kaantyy [etelaan]"
+msgstr "[1] [2] unapungua nguvu na unageuka [3]"
+
+msgid "1- ja 8-valista tuulta"
+msgstr "upepo wa kaskazini hadi kaskazini magharibi"
+
+msgid "7- ja 8-valista tuulta"
+msgstr "upepo wa magharibi hadi kaskazini magharibi"
+
+msgid "7- ja 6-valista tuulta"
+msgstr "upepo wa magharibi hadi kusini magharibi"
+
+msgid "5- ja 6-valista tuulta"
+msgstr "upepo wa kusini hadi kusini magharibi"
+
+msgid "5- ja 4-valista tuulta"
+msgstr "upepo wa kusini hadi kusini mashariki"
+
+msgid "3- ja 4-valista tuulta"
+msgstr "upepo wa mashariki hadi kusini mashariki"
+
+msgid "3- ja 2-valista tuulta"
+msgstr "upepo wa mashariki hadi kaskazini mashariki"
+
+msgid "1- ja 2-valista tuulta"
+msgstr "upepo wa kaskazini hadi kaskazini mashariki"
+
+msgid "1- ja 8-valinen tuuli"
+msgstr "upepo wa kaskazini hadi kaskazini magharibi"
+
+msgid "7- ja 8-valinen tuuli"
+msgstr "upepo wa magharibi hadi kaskazini magharibi"
+
+msgid "7- ja 6-valinen tuuli"
+msgstr "upepo wa magharibi hadi kusini magharibi"
+
+msgid "5- ja 6-valinen tuuli"
+msgstr "upepo wa kusini hadi kusini magharibi"
+
+msgid "5- ja 4-valinen tuuli"
+msgstr "upepo wa kusini hadi kusini mashariki"
+
+msgid "3- ja 4-valinen tuuli"
+msgstr "upepo wa mashariki hadi kusini mashariki"
+
+msgid "3- ja 2-valinen tuuli"
+msgstr "upepo wa mashariki hadi kaskazini mashariki"
+
+msgid "1- ja 2-valinen tuuli"
+msgstr "upepo wa kaskazini hadi kaskazini mashariki"
+
+msgid "8-puoleinen tuuli"
+msgstr "upepo wa kaskazini magharibi hasa"
+
+msgid "7-puoleinen tuuli"
+msgstr "upepo wa magharibi hasa"
+
+msgid "6-puoleinen tuuli"
+msgstr "upepo wa kusini magharibi hasa"
+
+msgid "5-puoleinen tuuli"
+msgstr "upepo wa kusini hasa"
+
+msgid "4-puoleinen tuuli"
+msgstr "upepo wa kusini mashariki hasa"
+
+msgid "3-puoleinen tuuli"
+msgstr "upepo wa mashariki hasa"
+
+msgid "2-puoleinen tuuli"
+msgstr "upepo wa kaskazini mashariki hasa"
+
+msgid "1-puoleinen tuuli"
+msgstr "upepo wa kaskazini hasa"
+
+msgid "8-tuuli"
+msgstr "upepo wa kaskazini magharibi"
+
+msgid "7-tuuli"
+msgstr "upepo wa magharibi"
+
+msgid "6-tuuli"
+msgstr "upepo wa kusini magharibi"
+
+msgid "5-tuuli"
+msgstr "upepo wa kusini"
+
+msgid "4-tuuli"
+msgstr "upepo wa kusini mashariki"
+
+msgid "3-tuuli"
+msgstr "upepo wa mashariki"
+
+msgid "2-tuuli"
+msgstr "upepo wa kaskazini mashariki"
+
+msgid "1-tuuli"
+msgstr "upepo wa kaskazini"
+
+msgid "suunnaltaan vaihteleva tuuli"
+msgstr "upepo wa ubadilishaji"
+
+msgid "[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja heikkenee edelleen"
+msgstr "[1] upepo unakuwa wa ubadilishaji kwa muda na unaendelea kupungua nguvu"
+
+msgid "[iltapaivalla] tuuli heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] upepo unapungua nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]  [2] unapungua nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "iltapaivasta"
+msgstr "kuanzia mchana"
+
+msgid "[iltapaivalla] [etelatuuli] alkaa heiketa [nopeasti]"
+msgstr "[1] [2] unaanza kupungua nguvu [3]"
+
+msgid "illasta"
+msgstr "kuanzia jioni"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantya [etelaan]"
+msgstr "[1] [2] unaanza kupungua nguvu na kugeuka [3]"
+
+msgid "astetta (mod 10=1)"
+msgstr "nyuzi"
+
+msgid "aste"
+msgstr "nyuzi"
+
+msgid "nolla"
+msgstr "sifuri"
+
+msgid "asteen(tienoilla (mod 10=1))"
+msgstr "nyuzi"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [pohjoiseen]"
+msgstr "[1] [2] [3] [4], ambao unageuka [5]"
+
+msgid "[iltapaivalla] edelleen [heikkenevaa] [pohjoistuulta]"
+msgstr "[1] [3] unaendelea kupungua [2]"
+
+msgid "hehtopascalia (mod 10=1)"
+msgstr "hektopascali"
+
+msgid "prosenttia (mod 10=1)"
+msgstr "asilimia"
+
+msgid "millimetria (mod 10=1)"
+msgstr "milimita"
+
+msgid "metria sekunnissa (mod 10=1)"
+msgstr "mita kwa sekunde"
+
+msgid "4 astetta"
+msgstr "nyuzi 4"
+
+msgid "3 astetta"
+msgstr "nyuzi 3"
+
+msgid "2 astetta"
+msgstr "nyuzi 2"
+
+msgid "puuskittaista [etelatuulta]"
+msgstr "[1] ya vipande vipande"
+
+msgid "aallonkorkeus on alle [N] [metria]"
+msgstr "urefu wa mawimbi ni chini ya [1] [2]"
+
+msgid "aallonkorkeus on [N...M] [metria]"
+msgstr "urefu wa mawimbi ni [1] [2]"
+
+msgid "aallonkorkeus on noin [N] [metria]"
+msgstr "urefu wa mawimbi ni takriban [1] [2]"
+
+msgid "asteen(tuntumassa (mod 10=1))"
+msgstr "nyuzi"
+
+msgid "astetta(noin 0)"
+msgstr "nyuzi"
+
+msgid "astetta(noin 4)"
+msgstr "nyuzi"
+
+msgid "astetta(noin 3)"
+msgstr "nyuzi"
+
+msgid "astetta(noin 2)"
+msgstr "nyuzi"
+
+msgid "astetta(noin 1)"
+msgstr "nyuzi"
+
+msgid "astetta(noin (mod 10=1))"
+msgstr "nyuzi"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]"
+msgstr "[1] [2] unaanza kupungua nguvu na unageuka [3]"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantya [etelaan]"
+msgstr "[1] [2] unaanza kuongeza nguvu na kugeuka [3]"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantyy [etelaan]"
+msgstr "[1] [2] unaanza kuongeza nguvu na unageuka [3]"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja kaantyy [etelaan]"
+msgstr "[1] [2] unaongeza nguvu na unageuka [3]"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi"
+msgstr "[1] [2] unaongeza nguvu na unakuwa wa ubadilishaji"
+
+msgid "[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja voimistuu edelleen"
+msgstr "[1] upepo unakuwa wa ubadilishaji kwa muda na unaendelea kuongeza nguvu"
+
+msgid "[iltapaivalla] tuuli muuttuu vaihtelevaksi ja voimistuu edelleen"
+msgstr "upepo unakuwa wa ubadilishaji na unaendelea kuongeza nguvu [1]"
+
+msgid "[iltapaivalla] tuuli voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] upepo unaendelea kuongeza nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "iltayosta"
+msgstr "kuanzia jioni ya manane"
+
+msgid "keskiyosta"
+msgstr "kuanzia usiku wa manane"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa heiketa"
+msgstr "[1] [2] [3], ambao unaanza kupungua nguvu"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [illalla] [pohjoiseen]"
+msgstr "[1] [2] [3] [4], ambao unageuka [6] [5]"
+
+msgid "yosta"
+msgstr "kuanzia usiku huu"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] [2] unaanza kupungua nguvu [3] na unageuka [5] [4]"
+
+msgid "[ip] [p-tuulta] [m...n] [m/s], joka alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] [2] [3] [4], ambao unaanza kupungua nguvu [5] na unageuka [7] [6]"
+
+msgid "[iltapaivalla] [etelatuuli] heikkenee [nopeasti]"
+msgstr "[2] unapungua nguvu [3] [1]"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee edelleen"
+msgstr "[2] unaendelea kupungua nguvu [1]"
+
+msgid "[iltapaivalla] sade voi olla runsasta"
+msgstr "mvua inaweza kuwa kali [1]"
+
+msgid "1-asti"
+msgstr "hadi Jumatatu"
+
+msgid "2-asti"
+msgstr "hadi Jumanne"
+
+msgid "3-asti"
+msgstr "hadi Jumatano"
+
+msgid "4-asti"
+msgstr "hadi Alhamisi"
+
+msgid "6-asti"
+msgstr "hadi Ijumaa"
+
+msgid "5-asti"
+msgstr "hadi Jumamosi"
+
+msgid "7-asti"
+msgstr "hadi Jumapili"
+
+msgid "yohon asti"
+msgstr "hadi usiku"
+
+msgid "aamuun asti"
+msgstr "hadi asubuhi"
+
+msgid "aamupaivaan asti"
+msgstr "hadi kabla ya adhuhuri"
+
+msgid "keskipaivaan asti"
+msgstr "hadi adhuhuri"
+
+msgid "iltapaivaan asti"
+msgstr "hadi mchana"
+
+msgid "iltaan asti"
+msgstr "hadi jioni"
+
+msgid "iltayohon asti"
+msgstr "hadi jioni ya manane"
+
+msgid "keskiyohon asti"
+msgstr "hadi usiku wa manane"
+
+msgid "huomiseen asti"
+msgstr "hadi kesho"
+
+msgid "1-aamupaivaan asti"
+msgstr "hadi Jumatatu kabla ya adhuhuri"
+
+msgid "2-aamupaivaan asti"
+msgstr "hadi Jumanne kabla ya adhuhuri"
+
+msgid "3-aamupaivaan asti"
+msgstr "hadi Jumatano kabla ya adhuhuri"
+
+msgid "4-aamupaivaan asti"
+msgstr "hadi Alhamisi kabla ya adhuhuri"
+
+msgid "5-aamupaivaan asti"
+msgstr "hadi Ijumaa kabla ya adhuhuri"
+
+msgid "6-aamupaivaan asti"
+msgstr "hadi Jumamosi kabla ya adhuhuri"
+
+msgid "7-aamupaivaan asti"
+msgstr "hadi Jumapili kabla ya adhuhuri"
+
+msgid "1-aamuun asti"
+msgstr "hadi Jumatatu asubuhi"
+
+msgid "2-aamuun asti"
+msgstr "hadi Jumanne asubuhi"
+
+msgid "3-aamuun asti"
+msgstr "hadi Jumatano asubuhi"
+
+msgid "4-aamuun asti"
+msgstr "hadi Alhamisi asubuhi"
+
+msgid "5-aamuun asti"
+msgstr "hadi Ijumaa asubuhi"
+
+msgid "6-aamuun asti"
+msgstr "hadi Jumamosi asubuhi"
+
+msgid "7-aamuun asti"
+msgstr "hadi Jumapili asubuhi"
+
+msgid "1-iltaan asti"
+msgstr "hadi Jumatatu jioni"
+
+msgid "2-iltaan asti"
+msgstr "hadi Jumanne jioni"
+
+msgid "3-iltaan asti"
+msgstr "hadi Jumatano jioni"
+
+msgid "4-iltaan asti"
+msgstr "hadi Alhamisi jioni"
+
+msgid "5-iltaan asti"
+msgstr "hadi Ijumaa jioni"
+
+msgid "6-iltaan asti"
+msgstr "hadi Jumamosi jioni"
+
+msgid "7-iltaan asti"
+msgstr "hadi Jumapili jioni"
+
+msgid "1-vastaiseen yohon asti"
+msgstr "hadi usiku wa Jumatatu"
+
+msgid "2-vastaiseen yohon asti"
+msgstr "hadi usiku wa Jumanne"
+
+msgid "3-vastaiseen yohon asti"
+msgstr "hadi usiku wa Jumatano"
+
+msgid "4-vastaiseen yohon asti"
+msgstr "hadi usiku wa Alhamisi"
+
+msgid "5-vastaiseen yohon asti"
+msgstr "hadi usiku wa Ijumaa"
+
+msgid "6-vastaiseen yohon asti"
+msgstr "hadi usiku wa Jumamosi"
+
+msgid "7-vastaiseen yohon asti"
+msgstr "hadi usiku wa Jumapili"
+
+msgid "huomisaamuun asti"
+msgstr "hadi kesho asubuhi"
+
+msgid "huomisaamupaivaan asti"
+msgstr "hadi kesho kabla ya adhuhuri"
+
+msgid "huomisiltaan asti"
+msgstr "hadi kesho jioni"
+
+msgid "7-iltapaivaan asti"
+msgstr "hadi Ijumaa mchana"
+
+msgid "6-iltapaivaan asti"
+msgstr "hadi Jumamosi mchana"
+
+msgid "5-iltapaivaan asti"
+msgstr "hadi Ijumaa mchana"
+
+msgid "4-iltapaivaan asti"
+msgstr "hadi Alhamisi mchana"
+
+msgid "3-iltapaivaan asti"
+msgstr "hadi Jumatano mchana"
+
+msgid "2-iltapaivaan asti"
+msgstr "hadi Jumanne mchana"
+
+msgid "1-iltapaivaan asti"
+msgstr "hadi Jumatatu mchana"
+
+msgid "7-iltayohon asti"
+msgstr "hadi Jumapili jioni ya manane"
+
+msgid "6-iltayohon asti"
+msgstr "hadi Jumamosi jioni ya manane"
+
+msgid "5-iltayohon asti"
+msgstr "hadi Ijumaa jioni ya manane"
+
+msgid "4-iltayohon asti"
+msgstr "hadi Alhamisi jioni ya manane"
+
+msgid "3-iltayohon asti"
+msgstr "hadi Jumatano jioni ya manane"
+
+msgid "2-iltayohon asti"
+msgstr "hadi Jumanne jioni ya manane"
+
+msgid "1-iltayohon asti"
+msgstr "hadi Jumatatu jioni ya manane"
+
+msgid "7-keskiyohon asti"
+msgstr "hadi Jumapili usiku wa manane"
+
+msgid "5-keskiyohon asti"
+msgstr "hadi Ijumaa usiku wa manane"
+
+msgid "4-keskiyohon asti"
+msgstr "hadi Alhamisi usiku wa manane"
+
+msgid "3-keskiyohon asti"
+msgstr "hadi Jumatano usiku wa manane"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu edelleen"
+msgstr "[2] unaendelea kuongeza nguvu [1]"
+
+msgid "[ip] [p-tuulta] [m...n] [m/s], joka alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] [2] [3] [4], ambao unaanza kuongeza nguvu [5] na unageuka [7] [6]"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa voimistua"
+msgstr "[1] [2] [3], ambao unaanza kuongeza nguvu"
+
+msgid "aamuyohon asti"
+msgstr "hadi asubuhi na mapema"
+
+msgid "7-aamuyohon asti"
+msgstr "hadi Jumapili asubuhi na mapema"
+
+msgid "6-aamuyohon asti"
+msgstr "hadi Jumamosi asubuhi na mapema"
+
+msgid "5-aamuyohon asti"
+msgstr "hadi Ijumaa asubuhi na mapema"
+
+msgid "4-aamuyohon asti"
+msgstr "hadi Alhamisi asubuhi na mapema"
+
+msgid "3-aamuyohon asti"
+msgstr "hadi Jumatano asubuhi na mapema"
+
+msgid "2-aamuyohon asti"
+msgstr "hadi Jumanne asubuhi na mapema"
+
+msgid "1-aamuyohon asti"
+msgstr "hadi Jumatatu asubuhi na mapema"
+
+msgid "[iltapaivalla] kuurot voivat olla voimakkaita"
+msgstr "mvua za haraka zinaweza kuwa kali [1]"
+
+msgid "B3N:lle"
+msgstr "kwa Northern Sea of Bothnia"
+
+msgid "[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1] unaanza kupungua nguvu na unakuwa wa ubadilishaji"
+
+msgid "[iltapaivalla] tuuli alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] unaanza kupungua nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1] [2] unaanza kupungua nguvu na unakuwa wa ubadilishaji"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2] unaanza kupungua nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "inari_utsjoki:lle"
+msgstr "kwa Inari na Utsjoki"
+
+msgid "ita_finnmark:lle"
+msgstr "kwa Eastern Finnmark"
+
+msgid "lansi_finnmark:lle"
+msgstr "kwa Western Finnmark"
+
+msgid "pohjois_ruotsi:lle"
+msgstr "kwa Northern Sweden"
+
+msgid "kasivarsi:lle"
+msgstr "kwa Käsivarsi"
+
+msgid "kova"
+msgstr "kali"
+
+msgid "voimakas"
+msgstr "kali sana"
+
+msgid "heikkenee"
+msgstr "inapungua nguvu"
+
+msgid "kuola:lle"
+msgstr "kwa Kola Peninsula"
+
+msgid "[voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen"
+msgstr "[1] unageuka [2] na unaendelea kupungua nguvu"
+
+msgid "[voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]"
+msgstr "[1] unapungua nguvu na unageuka [2]"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]"
+msgstr "[1] unaanza kupungua nguvu na unageuka [2]"
+
+msgid "[voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1] unapungua nguvu na unakuwa wa ubadilishaji"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1] unaanza kupungua nguvu na unakuwa wa ubadilishaji"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] unaanza kupungua nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "[voimakas pohjoistuuli] heikkenee edelleen"
+msgstr "[1] unaendelea kupungua nguvu"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa [nopeasti]"
+msgstr "[1] unaanza kupungua nguvu [2]"
+
+msgid "[voimakas pohjoistuuli] heikkenee [nopeasti]"
+msgstr "[1] unapungua nguvu [2]"
+
+msgid "[voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] unapungua nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "voimakas 3- ja 4-valinen tuuli"
+msgstr "upepo kali wa mashariki hadi kusini mashariki"
+
+msgid "voimakas 4-tuuli"
+msgstr "upepo kali wa kusini mashariki"
+
+msgid "voimakas 4-puoleinen tuuli"
+msgstr "upepo kali wa kusini mashariki hasa"
+
+msgid "voimakas 5- ja 4-valinen tuuli"
+msgstr "upepo kali wa kusini hadi kusini mashariki"
+
+msgid "voimakas 5-tuuli"
+msgstr "upepo kali wa kusini"
+
+msgid "voimakas 5-puoleinen tuuli"
+msgstr "upepo kali wa kusini hasa"
+
+msgid "voimakas 5- ja 6-valinen tuuli"
+msgstr "upepo kali wa kusini hadi kusini magharibi"
+
+msgid "voimakas 6-tuuli"
+msgstr "upepo kali wa kusini magharibi"
+
+msgid "voimakas 6-puoleinen tuuli"
+msgstr "upepo kali wa kusini magharibi hasa"
+
+msgid "voimakas 7- ja 6-valinen tuuli"
+msgstr "upepo kali wa magharibi hadi kusini magharibi"
+
+msgid "voimakas 7-tuuli"
+msgstr "upepo kali wa magharibi"
+
+msgid "voimakas 7-puoleinen tuuli"
+msgstr "upepo kali wa magharibi hasa"
+
+msgid "voimakas 7- ja 8-valinen tuuli"
+msgstr "upepo kali wa magharibi hadi kaskazini magharibi"
+
+msgid "voimakas 8-tuuli"
+msgstr "upepo kali wa kaskazini magharibi"
+
+msgid "voimakas 8-puoleinen tuuli"
+msgstr "upepo kali wa kaskazini magharibi hasa"
+
+msgid "voimakas 1- ja 8-valinen tuuli"
+msgstr "upepo kali wa kaskazini hadi kaskazini magharibi"
+
+msgid "voimakas tuuli"
+msgstr "upepo wa dhoruba"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti]"
+msgstr "[2] unapungua nguvu [3] [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee edelleen"
+msgstr "[2] unaendelea kupungua nguvu [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa [nopeasti]"
+msgstr "[2] unaanza kupungua nguvu [3] [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[2] unaanza kupungua nguvu na unakuwa wa ubadilishaji kwa muda [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[2] unapungua nguvu na unakuwa wa ubadilishaji kwa muda [1]"
+
+msgid "voimakas 2-puoleinen tuuli"
+msgstr "upepo kali wa kaskazini mashariki hasa"
+
+msgid "voimakas 3-puoleinen tuuli"
+msgstr "upepo kali wa mashariki hasa"
+
+msgid "voimakas 3-tuuli"
+msgstr "upepo kali wa mashariki"
+
+msgid "voimakas 1-tuuli"
+msgstr "upepo kali wa kaskazini"
+
+msgid "voimakas 1-puoleinen tuuli"
+msgstr "upepo kali wa kaskazini hasa"
+
+msgid "voimakas 3- ja 2-valinen tuuli"
+msgstr "upepo kali wa mashariki hadi kaskazini mashariki"
+
+msgid "voimakas 2-tuuli"
+msgstr "upepo kali wa kaskazini mashariki"
+
+msgid "voimakas 1- ja 2-valinen tuuli"
+msgstr "upepo kali wa kaskazini hadi kaskazini mashariki"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[2] unaanza kupungua nguvu na unakuwa wa ubadilishaji [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[2] unapungua nguvu na unakuwa wa ubadilishaji [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]"
+msgstr "[2] unaanza kupungua nguvu na unageuka [3] [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]"
+msgstr "[2] unapungua nguvu na unageuka [3] [1]"
+
+msgid "tiepiiri-o4:lle"
+msgstr "kwa Oulu northern inland region"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen"
+msgstr "[2] unageuka [3] na unaendelea kupungua nguvu [1]"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[2] unapungua nguvu [3] [1] na unageuka [5] [4]"
+
+msgid "[etelatuuli] alkaa voimistua [nopeasti]"
+msgstr "[1] unaanza kuongeza nguvu [2]"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi"
+msgstr "[1] [2] unaanza kuongeza nguvu na unakuwa wa ubadilishaji"
+
+msgid "[iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] upepo unaanza kuongeza nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi"
+msgstr "[1] unaanza kuongeza nguvu na unakuwa wa ubadilishaji"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]"
+msgstr "[2] unapungua nguvu [3]  [1] na unageuka [4]"
+
+msgid "[pohjoistuuli] heikkenee [nopeasti]"
+msgstr "[1] unapungua nguvu [2]"
+
+msgid "[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] unapungua nguvu [2] na unageuka [4] [3]"
+
+msgid "[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]"
+msgstr "[1] unapungua nguvu [2] na unageuka [3]"
+
+msgid "[pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1] unapungua nguvu na unakuwa wa ubadilishaji"
+
+msgid "[etelatuuli] alkaa heiketa [nopeasti]"
+msgstr "[1] unaanza kupungua nguvu [2]"
+
+msgid "[pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] unapungua nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "[pohjoistuuli] alkaa heiketa ja kaantya [etelaan]"
+msgstr "[1] unaanza kupungua nguvu na kugeuka [2]"
+
+msgid "[pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] unaanza kupungua nguvu [2] na unageuka [4] [3]"
+
+msgid "[etelatuuli] heikkenee [nopeasti]"
+msgstr "[1] unapungua nguvu [2]"
+
+msgid "[pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi"
+msgstr "[1] unaanza kupungua nguvu na unakuwa wa ubadilishaji"
+
+msgid "[pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] unaanza kupungua nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "[pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1] unaanza kupungua nguvu na unakuwa wa ubadilishaji"
+
+msgid "1-keskipaivaan"
+msgstr "hadi Jumatatu adhuhuri"
+
+msgid "2-keskipaivaan"
+msgstr "hadi Jumanne adhuhuri"
+
+msgid "3-keskipaivaan"
+msgstr "hadi Jumatano adhuhuri"
+
+msgid "4-keskipaivaan"
+msgstr "hadi Alhamisi adhuhuri"
+
+msgid "5-keskipaivaan"
+msgstr "hadi Ijumaa adhuhuri"
+
+msgid "6-keskipaivaan"
+msgstr "hadi Jumamosi adhuhuri"
+
+msgid "7-keskipaivaan"
+msgstr "hadi Jumapili adhuhuri"
+
+msgid "1-keskipaivasta"
+msgstr "kuanzia Jumatatu adhuhuri"
+
+msgid "2-keskipaivasta"
+msgstr "kuanzia Jumanne adhuhuri"
+
+msgid "3-keskipaivasta"
+msgstr "kuanzia Jumatano adhuhuri"
+
+msgid "4-keskipaivasta"
+msgstr "kuanzia Alhamisi adhuhuri"
+
+msgid "5-keskipaivasta"
+msgstr "kuanzia Ijumaa adhuhuri"
+
+msgid "6-keskipaivasta"
+msgstr "kuanzia Jumamosi adhuhuri"
+
+msgid "7-keskipaivasta"
+msgstr "kuanzia Jumapili adhuhuri"
+
+msgid "kemi-tornio:lle"
+msgstr "kwa Kemi-Tornio"
+
+msgid "rovaniemen seutu:lle"
+msgstr "kwa Rovaniemi area"
+
+msgid "tornionlaakso:lle"
+msgstr "kwa Torne Valley"
+
+msgid "tunturi-lappi:lle"
+msgstr "kwa Tunturi-Lappi"
+
+msgid "elyalue-epo:lle"
+msgstr "kwa Southern Ostrobothnia ELY-area"
+
+msgid "elyalue-kas:lle"
+msgstr "kwa Southeastern Finlands ELY-area"
+
+msgid "elyalue-kes:lle"
+msgstr "kwa Central Finlands ELY-area"
+
+msgid "elyalue-lap:lle"
+msgstr "kwa Laplands ELY-area"
+
+msgid "elyalue-pir:lle"
+msgstr "kwa Pirkanmaa ELY-area"
+
+msgid "elyalue-pkp:lle"
+msgstr "kwa Northern Ostrobothnia ELY-area"
+
+msgid "elyalue-pos:lle"
+msgstr "kwa Northern Savo ELY-area"
+
+msgid "elyalue-uud:lle"
+msgstr "kwa Uusimaa ELY-area"
+
+msgid "elyalue-var:lle"
+msgstr "kwa Finland Proper ELY-area"
+
+msgid "tiepiiri-h1:lle"
+msgstr "kwa Southern Häme"
+
+msgid "tiepiiri-h2:lle"
+msgstr "kwa Southern Päijänne-Häme"
+
+msgid "tiepiiri-h3:lle"
+msgstr "kwa Southern Pirkanmaa"
+
+msgid "tiepiiri-h4:lle"
+msgstr "kwa Northern Päijänne-Häme"
+
+msgid "tiepiiri-h5:lle"
+msgstr "kwa Northern Pirkanmaa"
+
+msgid "tiepiiri-k1:lle"
+msgstr "kwa Kymenmaa coastal region"
+
+msgid "tiepiiri-k2:lle"
+msgstr "kwa Kymenmaa inland region"
+
+msgid "tiepiiri-k3:lle"
+msgstr "kwa Southern Karelia"
+
+msgid "tiepiiri-k4:lle"
+msgstr "kwa Southern Savo"
+
+msgid "tiepiiri-ke1:lle"
+msgstr "kwa Central Finlands southern region"
+
+msgid "tiepiiri-ke2:lle"
+msgstr "kwa Central Finlands northern region"
+
+msgid "tiepiiri-l1:lle"
+msgstr "kwa Southwestern Lapland"
+
+msgid "tiepiiri-l2:lle"
+msgstr "kwa Southeastern Lapland"
+
+msgid "tiepiiri-l3:lle"
+msgstr "kwa Central Lapland"
+
+msgid "tiepiiri-l4:lle"
+msgstr "kwa Northwestern Lapland"
+
+msgid "tiepiiri-l5:lle"
+msgstr "kwa Northern Lapland"
+
+msgid "tiepiiri-o1e:lle"
+msgstr "kwa Oulu southern coastal region"
+
+msgid "tiepiiri-o1p:lle"
+msgstr "kwa Oulu northern coastal region"
+
+msgid "tiepiiri-o2:lle"
+msgstr "kwa Oulu southern inland region"
+
+msgid "tiepiiri-o3:lle"
+msgstr "kwa Kainuu"
+
+msgid "tiepiiri-o5:lle"
+msgstr "kwa Koillismaa"
+
+msgid "tiepiiri-s1:lle"
+msgstr "kwa Northern Karelia southern region"
+
+msgid "tiepiiri-s2:lle"
+msgstr "kwa Northern Savo southern region"
+
+msgid "[etelatuuli] voimistuu [nopeasti]"
+msgstr "[1] unaongeza nguvu [2]"
+
+msgid "[iltapaivalla] [pohjoistuuli] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2] unaanza kuongeza nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "[iltapaivalla] tuuli alkaa voimistua ja kaantyy [etelaan]"
+msgstr "upepo unaanza kuongeza nguvu na unageuka [2] [1]"
+
+msgid "[pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] unaanza kuongeza nguvu [2] na unageuka [4] [3]"
+
+msgid "[pohjoistuuli] alkaa voimistua ja kaantya [etelaan]"
+msgstr "[1] unaanza kuongeza nguvu na kugeuka [2]"
+
+msgid "[pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] unaanza kuongeza nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "[pohjoistuuli] voimistuu [nopeasti]"
+msgstr "[1] unaongeza nguvu [2]"
+
+msgid "[pohjoistuuli] voimistuu ja kaantyy [etelaan]"
+msgstr "[1] unaongeza nguvu na unageuka [2]"
+
+msgid "[pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] unaongeza nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "[pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi"
+msgstr "[1] unaongeza nguvu na unakuwa wa ubadilishaji"
+
+msgid "1-aamuyolla"
+msgstr "Jumatatu asubuhi na mapema"
+
+msgid "tiepiiri-s3:lle"
+msgstr "kwa Northern Karelia central region"
+
+msgid "tiepiiri-s4:lle"
+msgstr "kwa Northern Savo northern region"
+
+msgid "tiepiiri-s5:lle"
+msgstr "kwa Northern Karelia northern region"
+
+msgid "tiepiiri-t1:lle"
+msgstr "kwa Finland Proper coastal region"
+
+msgid "tiepiiri-t2:lle"
+msgstr "kwa Finland Proper inland region"
+
+msgid "tiepiiri-t3:lle"
+msgstr "kwa Finland Proper eastern region"
+
+msgid "tiepiiri-t4:lle"
+msgstr "kwa Satakunta coastal region"
+
+msgid "tiepiiri-t5:lle"
+msgstr "kwa Satakunta inland region"
+
+msgid "tiepiiri-u1:lle"
+msgstr "kwa Western Uusimaa coastal region"
+
+msgid "tiepiiri-u2:lle"
+msgstr "kwa capitol city region"
+
+msgid "tiepiiri-u3:lle"
+msgstr "kwa Eastern Uusimaa coastal region"
+
+msgid "tiepiiri-u4:lle"
+msgstr "kwa Western Uusimaa inland region"
+
+msgid "tiepiiri-u5:lle"
+msgstr "kwa Eastern Uusimaa inland region"
+
+msgid "tiepiiri-v1:lle"
+msgstr "kwa Ostrobothnia southern coastal regions"
+
+msgid "tiepiiri-v2:lle"
+msgstr "kwa Southern Ostrobothnia"
+
+msgid "tiepiiri-v4:lle"
+msgstr "kwa Ostrobothnia northern coastal regions"
+
+msgid "tiepiiri-v5:lle"
+msgstr "kwa Central Ostrobothnia"
+
+msgid "[iltap] [nop] [heikken] [tuulta] [m...n] [m sek], joka kaantyy [illalla] [pohj]"
+msgstr "[1] [2] [3] [4] [5] [6], ambao unageuka [8] [7]"
+
+msgid "[lampotila] vahan nollan alapuolella"
+msgstr "[1] kidogo chini ya sifuri"
+
+msgid "[lampotila] on vahan nollan alapuolella"
+msgstr "[1] ni kidogo chini ya sifuri"
+
+msgid "[huomenna] vahan nollan alapuolella"
+msgstr "[1] kidogo chini ya sifuri"
+
+msgid "[sismaassa] vahan nollan alapuolella"
+msgstr "[1] kidogo chini ya sifuri"
+
+msgid "[huomenna] [lampotila] on vahan nollan alapuolella"
+msgstr "[1] [2] ni kidogo chini ya sifuri"
+
+msgid "[sisamaassa] [lampotila] on vahan nollan alapuolella"
+msgstr "[1] [2] ni kidogo chini ya sifuri"
+
+msgid "[huomenna] [sisamaassa] vahan nollan alapuolella"
+msgstr "[1] kidogo chini ya sifuri [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on vahan nollan alapuolella"
+msgstr "[1] [3] ni kidogo chini ya sifuri [2]"
+
+msgid "rannikolla vahan nollan alapuolella"
+msgstr "kidogo chini ya sifuri pwani"
+
+msgid "muuten hyva nakyvyys"
+msgstr "vinginevyo mwonekano mzuri"
+
+msgid "hyva nakyvyys"
+msgstr "mwonekano mzuri"
+
+msgid "enimmakseen hyva nakyvyys"
+msgstr "mwonekano mzuri hasa"
+
+msgid "yolla ja aamulla"
+msgstr "usiku na asubuhi"
+
+msgid "aamulla ja paivalla"
+msgstr "asubuhi na mchana"
+
+msgid "paivalla ja illalla"
+msgstr "mchana na jioni"
+
+msgid "illalla ja yolla"
+msgstr "jioni na usiku"
+
+msgid "1-keskipaivalla"
+msgstr "Jumatatu adhuhuri"
+
+msgid "2-keskipaivalla"
+msgstr "Jumanne adhuhuri"
+
+msgid "3-keskipaivalla"
+msgstr "Jumatano adhuhuri"
+
+msgid "4-keskipaivalla"
+msgstr "Alhamisi adhuhuri"
+
+msgid "5-keskipaivalla"
+msgstr "Ijumaa adhuhuri"
+
+msgid "6-keskipaivalla"
+msgstr "Jumamosi adhuhuri"
+
+msgid "7-keskipaivalla"
+msgstr "Jumapili adhuhuri"
+
+msgid "ja huono nakyvyys"
+msgstr "na mwonekano mbaya"
+
+msgid "B2_B1S:lle"
+msgstr "kwa the Quark na Southern Bay of Bothnia"
+
+msgid "B2_B1:lle"
+msgstr "kwa the Quark na Bay of Bothnia"
+
+msgid "B3_B2_B1:lle"
+msgstr "kwa Sea of Bothnia, the Quark na Bay of Bothnia"
+
+msgid "B3_B2:lle"
+msgstr "kwa Sea of Bothnia na the Quark"
+
+msgid "B4E_B3:lle"
+msgstr "kwa Sea of Archipelago na Sea of Bothnia"
+
+msgid "B4_B3:lle"
+msgstr "kwa Sea of Archipelago na Sea of Åland na Sea of Bothnia"
+
+msgid "B7_B4:lle"
+msgstr "kwa Bahari ya Baltic Kaskazini, Sea of Archipelago na Sea of Åland"
+
+msgid "B7_B4_B3:lle"
+msgstr "kwa Bahari ya Baltic Kaskazini, Sea of Archipelago na Sea of Åland na Sea of Bothnia"
+
+msgid "B5W_B7:lle"
+msgstr "kwa Western Gulf of Finland na Bahari ya Baltic Kaskazini"
+
+msgid "B5_B7:lle"
+msgstr "kwa Ghuba ya Finland na Bahari ya Baltic Kaskazini"
+
+msgid "B3N_B2:lle"
+msgstr "kwa Northern Sea of Bothnia na the Quark"
+
+msgid "vesi- tai tihkusadetta"
+msgstr "mvua au mvua nyepesi"
+
+msgid "lumi- tai tihkusadetta"
+msgstr "theluji au mvua nyepesi"
+
+msgid "ranta- tai tihkusadetta"
+msgstr "mvua na theluji au mvua nyepesi"
+
+msgid "jaatavaa tihkusadetta"
+msgstr "mvua nyepesi ya barafu"
+
+msgid "jotka muuttuvat lumikuuroiksi"
+msgstr "ambazo zinageuka mvua ya theluji"
+
+msgid "jotka muuttuvat rantakuuroiksi"
+msgstr "ambazo zinageuka mvua na theluji"
+
+msgid "[iltapaivalla] [etelatuuli] alkaa voimistua [nopeasti]"
+msgstr "[1] [2] unaanza kuongeza nguvu [3]"
+
+msgid "[iltapaivalla] [etelatuuli] voimistuu [nopeasti]"
+msgstr "[2] unaongeza nguvu [3] [1]"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] [2] unaanza kuongeza nguvu [3] na unageuka [5] [4]"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2] unaanza kuongeza nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "4-aamuyolla ja aamulla"
+msgstr "Alhamisi asubuhi na mapema na asubuhi"
+
+msgid "B5W_B7E_B4E:lle"
+msgstr "kwa Western Gulf of Finland, Eastern part of Northern Baltic Proper na Sea of Archipelago"
+
+msgid "B5W_B7E:lle"
+msgstr "kwa Western Gulf of Finland na Eastern part of Northern Baltic Proper"
+
+msgid "B7_B4_B3S:lle"
+msgstr "kwa Bahari ya Baltic Kaskazini, Sea of Archipelago na Sea of Åland na Southern Sea of Bothnia"
+
+msgid "B7E_B4E_B3S:lle"
+msgstr "kwa Eastern part of Northern Baltic Proper, Sea of Archipelago na Southern Sea of Bothnia"
+
+msgid "B7E_B4E:lle"
+msgstr "kwa Eastern part of Northern Baltic Proper na Sea of Archipelago"
+
+msgid "B7W_B4:lle"
+msgstr "kwa Western Gulf of Finland, Sea of Archipelago na Sea of Åland"
+
+msgid "B7W_B4W_B3S:lle"
+msgstr "kwa Western Gulf of Finland, Sea of Åland na Southern Sea of Bothnia"
+
+msgid "B7W_B4W:lle"
+msgstr "kwa Western Gulf of Finland na Sea of Åland"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2] unaongeza nguvu na unakuwa wa ubadilishaji kwa muda"
+
+msgid "[iltapaivalla] tuuli kaantyy [etelaan] ja heikkenee edelleen"
+msgstr "[1] upepo unageuka [2] na unaendelea kupungua nguvu"
+
+msgid "tuuli voimistuu"
+msgstr "upepo unaongeza nguvu hadi"
+
+msgid "B4_B3S:lle"
+msgstr "kwa Sea of Archipelago na Sea of Åland na Southern Sea of Bothnia"
+
+msgid "aamupaivalla"
+msgstr "kabla ya adhuhuri"
+
+msgid "huomisen keskipaivaan asti"
+msgstr "hadi kesho adhuhuri"
+
+msgid "huono nakyvyys"
+msgstr "mwonekano mbaya"
+
+msgid "B1"
+msgstr "Ghuba ya Bothnia"
+
+msgid "B2"
+msgstr "the Quark"
+
+msgid "B3"
+msgstr "Sea of Bothnia"
+
+msgid "B4"
+msgstr "Sea of Archipelago na Sea of Åland"
+
+msgid "B5"
+msgstr "Ghuba ya Finland"
+
+msgid "B6"
+msgstr "Ghuba ya Riga"
+
+msgid "B7"
+msgstr "Bahari ya Baltic Kaskazini"
+
+msgid "B8"
+msgstr "Middle Baltic Proper"
+
+msgid "B9"
+msgstr "Southeastern Baltic Proper"
+
+msgid "B10"
+msgstr "Southern Baltic Proper"
+
+msgid "B11"
+msgstr "Arkona Sea"
+
+msgid "B12"
+msgstr "Öresund na the Belts"
+
+msgid "B13"
+msgstr "Kattegat"
+
+msgid "B1N"
+msgstr "Northern Bay of Bothnia"
+
+msgid "B1S"
+msgstr "Southern Bay of Bothnia"
+
+msgid "B4E"
+msgstr "Sea of Archipelago"
+
+msgid "B4W"
+msgstr "Sea of Åland"
+
+msgid "B5E"
+msgstr "Eastern Gulf of Finland"
+
+msgid "B5W"
+msgstr "Western Gulf of Finland"
+
+msgid "B8E"
+msgstr "Middle Baltic Proper"
+
+msgid "B8W"
+msgstr "Gotland Sea"
+
+msgid "B10N"
+msgstr "Öland Sea"
+
+msgid "B10S"
+msgstr "Bornholm Sea"
+
+msgid "B2_B1S"
+msgstr "the Quark na Southern Bay of Bothnia"
+
+msgid "B2_B1"
+msgstr "the Quark na Bay of Bothnia"
+
+msgid "B3_B2_B1"
+msgstr "Sea of Bothnia, the Quark na Bay of Bothnia"
+
+msgid "B3_B2"
+msgstr "Sea of Bothnia na the Quark"
+
+msgid "B4E_B3"
+msgstr "Sea of Archipelago na Sea of Bothnia"
+
+msgid "B4_B3"
+msgstr "Sea of Archipelago na Sea of Åland na Sea of Bothnia"
+
+msgid "B7_B4"
+msgstr "Bahari ya Baltic Kaskazini, Sea of Archipelago na Sea of Åland"
+
+msgid "B7_B4_B3"
+msgstr "Bahari ya Baltic Kaskazini, Sea of Archipelago na Sea of Åland na Sea of Bothnia"
+
+msgid "B5W_B7"
+msgstr "Western Gulf of Finland na Bahari ya Baltic Kaskazini"
+
+msgid "B5_B7"
+msgstr "Ghuba ya Finland na Bahari ya Baltic Kaskazini"
+
+msgid "B3N_B2"
+msgstr "Northern Sea of Bothnia na the Quark"
+
+msgid "B3N"
+msgstr "Northern Sea of Bothnia"
+
+msgid "B3S"
+msgstr "Southern Sea of Bothnia"
+
+msgid "B4_B3S"
+msgstr "Sea of Archipelago na Sea of Åland na Southern Sea of Bothnia"
+
+msgid "B5W_B7E_B4E"
+msgstr "Western Gulf of Finland, Eastern part of Northern Baltic Proper na Sea of Archipelago"
+
+msgid "B5W_B7E"
+msgstr "Western Gulf of Finland na Eastern part of Northern Baltic Proper"
+
+msgid "B7_B4_B3S"
+msgstr "Bahari ya Baltic Kaskazini, Sea of Archipelago na Sea of Åland na Southern Sea of Bothnia"
+
+msgid "B7E_B4E_B3S"
+msgstr "Eastern part of Northern Baltic Proper, Sea of Archipelago na Southern Sea of Bothnia"
+
+msgid "B7E_B4E"
+msgstr "Eastern part of Northern Baltic Proper na Sea of Archipelago"
+
+msgid "B7E"
+msgstr "Eastern part of Northern Baltic Proper"
+
+msgid "B7W_B4W_B3S"
+msgstr "Western Gulf of Finland, Sea of Åland na Southern Sea of Bothnia"
+
+msgid "B7W_B4"
+msgstr "Western Gulf of Finland, Sea of Archipelago na Sea of Åland"
+
+msgid "B7W_B4W"
+msgstr "Western Gulf of Finland na Sea of Åland"
+
+msgid "B7W"
+msgstr "Sehemu ya Kaskazini ya Bahari ya Baltic Kaskazini"
+
+msgid "lumisateesta"
+msgstr "inazidi kuwa mbaya kwa sababu ya theluji"

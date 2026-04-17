@@ -1,0 +1,6458 @@
+# SmartMet textgen dictionary: Japanese (ja)
+# Generated from ja.txt by tools/txt_to_po.py
+#
+# Keywords are opaque identifiers and must not be translated.
+# Tokens in [brackets] are placeholders and must be kept as-is.
+msgid ""
+msgstr ""
+"Project-Id-Version: smartmet-library-textgen\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-SmartMet-Language-Name: Japanese\n"
+"X-SmartMet-Full: no\n"
+
+msgid "word_separator"
+msgstr ""
+
+msgid "sentence_end"
+msgstr "。"
+
+msgid "o'clock"
+msgstr "時"
+
+msgid "meri-lappi:lle"
+msgstr "メリラップランド向け"
+
+msgid "pohjois-pohjanmaan itaosa:lle"
+msgstr "北ポフヤンマー東部向け"
+
+msgid "pohjois-pohjanmaan lansiosa:lle"
+msgstr "北ポフヤンマー西部向け"
+
+msgid "pohjanmaa ja etela-pohjanmaa:lle"
+msgstr "ポフヤンマーおよび南ポフヤンマー向け"
+
+msgid "etela-lappi:lle"
+msgstr "南ラップランド向け"
+
+msgid "keski-lappi:lle"
+msgstr "中部ラップランド向け"
+
+msgid "utsjoki ja inari:lle"
+msgstr "ウツヨキおよびイナリ向け"
+
+msgid "finnmarkin lansiosa:lle"
+msgstr "フィンマルク西部向け"
+
+msgid "finnmarkin itaosa:lle"
+msgstr "フィンマルク東部向け"
+
+msgid "murmanskin alueen lansiosa:lle"
+msgstr "ムルマンスク州西部向け"
+
+msgid "pohjois-ruotsi:lle"
+msgstr "北スウェーデン向け"
+
+msgid "[iltapaivalla] lumikuurot voivat olla sakeita"
+msgstr "[1]雪のシャワーが激しくなる可能性"
+
+msgid "[iltapaivalla] lumisade voi olla sakeaa"
+msgstr "[1]降雪が激しくなる可能性"
+
+msgid "huomiseen iltapaivaan asti"
+msgstr "明日の午後まで"
+
+msgid "aamuyosta"
+msgstr "早朝から"
+
+msgid "astetta(noin n)"
+msgstr "度"
+
+msgid "huomattavasti lampimampi"
+msgstr "かなり暖かい"
+
+msgid "lampimampi"
+msgstr "より暖かい"
+
+msgid "seuraava yo"
+msgstr "翌夜"
+
+msgid "seuraavana yona"
+msgstr "翌夜"
+
+msgid "on"
+msgstr ""
+
+msgid "ankaran hallan todennakoisyys"
+msgstr "厳しい霜の確率"
+
+msgid "hallan todennakoisyys"
+msgstr "霜の確率"
+
+msgid "7-vastaisena yona"
+msgstr "日曜日の夜"
+
+msgid "6-vastaisena yona"
+msgstr "土曜日の夜"
+
+msgid "5-vastaisena yona"
+msgstr "金曜日の夜"
+
+msgid "4-vastaisena yona"
+msgstr "木曜日の夜"
+
+msgid "3-vastaisena yona"
+msgstr "水曜日の夜"
+
+msgid "2-vastaisena yona"
+msgstr "火曜日の夜"
+
+msgid "1-vastaisena yona"
+msgstr "月曜日の夜"
+
+msgid "sama"
+msgstr "同じ"
+
+msgid "hieman pienempi"
+msgstr "やや小さい"
+
+msgid "hieman suurempi"
+msgstr "やや大きい"
+
+msgid "pienempi"
+msgstr "小さい"
+
+msgid "suurempi"
+msgstr "大きい"
+
+msgid "alin suhteellinen kosteus"
+msgstr "最低相対湿度"
+
+msgid "7-na"
+msgstr "日曜日"
+
+msgid "6-na"
+msgstr "土曜日"
+
+msgid "5-na"
+msgstr "金曜日"
+
+msgid "4-na"
+msgstr "木曜日"
+
+msgid "3-na"
+msgstr "水曜日"
+
+msgid "2-na"
+msgstr "火曜日"
+
+msgid "1-na"
+msgstr "月曜日"
+
+msgid "odotettavissa"
+msgstr "予想天気"
+
+msgid "7-illasta"
+msgstr "日曜日夕方から"
+
+msgid "1-illasta"
+msgstr "月曜日夕方から"
+
+msgid "2-illasta"
+msgstr "火曜日夕方から"
+
+msgid "3-illasta"
+msgstr "水曜日夕方から"
+
+msgid "4-illasta"
+msgstr "木曜日夕方から"
+
+msgid "5-illasta"
+msgstr "金曜日夕方から"
+
+msgid "6-illasta"
+msgstr "土曜日夕方から"
+
+msgid "7-aamuun"
+msgstr "日曜日朝まで"
+
+msgid "1-aamuun"
+msgstr "月曜日朝まで"
+
+msgid "2-aamuun"
+msgstr "火曜日朝まで"
+
+msgid "3-aamuun"
+msgstr "水曜日朝まで"
+
+msgid "4-aamuun"
+msgstr "木曜日朝まで"
+
+msgid "5-aamuun"
+msgstr "金曜日朝まで"
+
+msgid "6-aamuun"
+msgstr "土曜日朝まで"
+
+msgid "saa"
+msgstr "天気"
+
+msgid "keskilampotila"
+msgstr "平均気温"
+
+msgid "keskimaarainen ylin lampotila"
+msgstr "平均最高気温"
+
+msgid "keskimaarainen alin lampotila"
+msgstr "平均最低気温"
+
+msgid "sadesumma"
+msgstr "総降水量"
+
+msgid "astetta"
+msgstr "度"
+
+msgid "millimetria"
+msgstr "ミリメートル"
+
+msgid "1-aamusta"
+msgstr "月曜日朝から"
+
+msgid "2-aamusta"
+msgstr "火曜日朝から"
+
+msgid "3-aamusta"
+msgstr "水曜日朝から"
+
+msgid "4-aamusta"
+msgstr "木曜日朝から"
+
+msgid "5-aamusta"
+msgstr "金曜日朝から"
+
+msgid "6-aamusta"
+msgstr "土曜日朝から"
+
+msgid "7-aamusta"
+msgstr "日曜日朝から"
+
+msgid "alkavan"
+msgstr ""
+
+msgid "1-iltaan"
+msgstr "月曜日夕方まで"
+
+msgid "2-vuorokauden saa"
+msgstr "今後2日間の天気"
+
+msgid "3-vuorokauden saa"
+msgstr "今後3日間の天気"
+
+msgid "4-vuorokauden saa"
+msgstr "今後4日間の天気"
+
+msgid "5-vuorokauden saa"
+msgstr "今後5日間の天気"
+
+msgid "6-vuorokauden saa"
+msgstr "今後6日間の天気"
+
+msgid "7-vuorokauden saa"
+msgstr "今後7日間の天気"
+
+msgid "8-vuorokauden saa"
+msgstr "今後8日間の天気"
+
+msgid "9-vuorokauden saa"
+msgstr "今後9日間の天気"
+
+msgid "10-vuorokauden saa"
+msgstr "今後10日間の天気"
+
+msgid "1-keskipaivaan asti"
+msgstr "月曜日正午まで"
+
+msgid "2-keskipaivaan asti"
+msgstr "火曜日正午まで"
+
+msgid "3-keskipaivaan asti"
+msgstr "水曜日正午まで"
+
+msgid "4-keskipaivaan asti"
+msgstr "木曜日正午まで"
+
+msgid "5-keskipaivaan asti"
+msgstr "金曜日正午まで"
+
+msgid "6-keskipaivaan asti"
+msgstr "土曜日正午まで"
+
+msgid "7-keskipaivaan asti"
+msgstr "日曜日正午まで"
+
+msgid "yli"
+msgstr "以上"
+
+msgid "2-iltaan"
+msgstr "火曜日夕方まで"
+
+msgid "3-iltaan"
+msgstr "水曜日夕方まで"
+
+msgid "4-iltaan"
+msgstr "木曜日夕方まで"
+
+msgid "5-iltaan"
+msgstr "金曜日夕方まで"
+
+msgid "6-iltaan"
+msgstr "土曜日夕方まで"
+
+msgid "7-iltaan"
+msgstr "日曜日夕方まで"
+
+msgid "monin paikoin enemman"
+msgstr "多くの地域でより多く"
+
+msgid "paikoin enemman"
+msgstr "一部の地域でより多く"
+
+msgid "monin paikoin"
+msgstr "多くの地域で"
+
+msgid "paikoin"
+msgstr "一部の地域で"
+
+msgid "asti"
+msgstr ""
+
+msgid "huomattavasti korkeampi"
+msgstr "かなり高い"
+
+msgid "korkeampi"
+msgstr "高い"
+
+msgid "hieman korkeampi"
+msgstr "やや高い"
+
+msgid "suunnilleen sama"
+msgstr "ほぼ同じ"
+
+msgid "hieman alempi"
+msgstr "やや低い"
+
+msgid "alempi"
+msgstr "低い"
+
+msgid "huomattavasti alempi"
+msgstr "かなり低い"
+
+msgid "noin"
+msgstr "約"
+
+msgid "seuraavana paivana"
+msgstr "翌日"
+
+msgid "paivan ylin lampotila"
+msgstr "日中最高気温"
+
+msgid "yon alin lampotila"
+msgstr "夜間最低気温"
+
+msgid "paivien ylin lampotila"
+msgstr "日中最高気温"
+
+msgid "oiden alin lampotila"
+msgstr "夜間最低気温"
+
+msgid "paivalampotila"
+msgstr "日中気温"
+
+msgid "yolampotila"
+msgstr "夜間気温"
+
+msgid "lopuksi"
+msgstr "最後に"
+
+msgid "8-suunnasta"
+msgstr "北西から"
+
+msgid "7-suunnasta"
+msgstr "西から"
+
+msgid "6-suunnasta"
+msgstr "南西から"
+
+msgid "5-suunnasta"
+msgstr "南から"
+
+msgid "4-suunnasta"
+msgstr "南東から"
+
+msgid "3-suunnasta"
+msgstr "東から"
+
+msgid "2-suunnasta"
+msgstr "北東から"
+
+msgid "1-suunnasta"
+msgstr "北から"
+
+msgid "8-suuntaan"
+msgstr "北西へ"
+
+msgid "7-suuntaan"
+msgstr "西へ"
+
+msgid "6-suuntaan"
+msgstr "南西へ"
+
+msgid "5-suuntaan"
+msgstr "南へ"
+
+msgid "4-suuntaan"
+msgstr "南東へ"
+
+msgid "3-suuntaan"
+msgstr "東へ"
+
+msgid "2-suuntaan"
+msgstr "北東へ"
+
+msgid "1-suuntaan"
+msgstr "北へ"
+
+msgid "alueen yli"
+msgstr "地域上空を"
+
+msgid "liikkuu"
+msgstr "移動する"
+
+msgid "kosteammaksi"
+msgstr "より湿潤に"
+
+msgid "kuivemmaksi"
+msgstr "より乾燥に"
+
+msgid "muuttuu"
+msgstr "変わる"
+
+msgid "viilenee"
+msgstr "冷涼になる"
+
+msgid "lampenee"
+msgstr "暖かくなる"
+
+msgid "sadealue"
+msgstr "降水域"
+
+msgid "leviaa"
+msgstr "広がる"
+
+msgid "loittonee"
+msgstr "遠ざかる"
+
+msgid "lahestyy"
+msgstr "接近する"
+
+msgid "laaja"
+msgstr "広い"
+
+msgid "korkeapaineen alue"
+msgstr "高気圧域"
+
+msgid "matalapaineen alue"
+msgstr "低気圧域"
+
+msgid "syvenee"
+msgstr "深まる"
+
+msgid "korkeapaine"
+msgstr "高気圧"
+
+msgid "matalapaine"
+msgstr "低気圧"
+
+msgid "lampotila"
+msgstr "気温"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "heikkoa"
+msgstr "弱い"
+
+msgid "kohtalaista"
+msgstr "やや強い"
+
+msgid "navakkaa"
+msgstr "強い"
+
+msgid "kovaa"
+msgstr "非常に強い"
+
+msgid "myrskya"
+msgstr "暴風"
+
+msgid "tuulta"
+msgstr "風"
+
+msgid "suunnaltaan vaihtelevaa"
+msgstr "風向き不定"
+
+msgid "1-tuulta"
+msgstr "北風"
+
+msgid "2-tuulta"
+msgstr "北東の風"
+
+msgid "3-tuulta"
+msgstr "東風"
+
+msgid "4-tuulta"
+msgstr "南東の風"
+
+msgid "5-tuulta"
+msgstr "南風"
+
+msgid "6-tuulta"
+msgstr "南西の風"
+
+msgid "7-tuulta"
+msgstr "西風"
+
+msgid "8-tuulta"
+msgstr "北西の風"
+
+msgid "yolla"
+msgstr "夜間"
+
+msgid "heikkenevaa"
+msgstr "弱まる"
+
+msgid "tuuli"
+msgstr "風"
+
+msgid "1-puoleista tuulta"
+msgstr "主に北風"
+
+msgid "2-puoleista tuulta"
+msgstr "主に北東の風"
+
+msgid "3-puoleista tuulta"
+msgstr "主に東風"
+
+msgid "4-puoleista tuulta"
+msgstr "主に南東の風"
+
+msgid "5-puoleista tuulta"
+msgstr "主に南風"
+
+msgid "6-puoleista tuulta"
+msgstr "主に南西の風"
+
+msgid "7-puoleista tuulta"
+msgstr "主に西風"
+
+msgid "8-puoleista tuulta"
+msgstr "主に北西の風"
+
+msgid "ajoittain lumisadetta"
+msgstr "断続的な降雪"
+
+msgid "ajoittain sadetta"
+msgstr "断続的な雨"
+
+msgid "ajoittain ukkosta"
+msgstr "雷雨"
+
+msgid "heikkoa sadetta"
+msgstr "弱い雨"
+
+msgid "lumikuuroja"
+msgstr "雪のシャワー"
+
+msgid "lumisadetta"
+msgstr "降雪"
+
+msgid "voimistuvaa"
+msgstr "強まる"
+
+msgid "vahvistuu"
+msgstr "強まる"
+
+msgid "uusimaa"
+msgstr "ウーシマー"
+
+msgid "mahdollisesti ukkosta"
+msgstr "雷の可能性"
+
+msgid "paikoin ukkosta"
+msgstr "一部の地域で雷"
+
+msgid "ukkosta"
+msgstr "雷"
+
+msgid "melko selkeaa"
+msgstr "比較的晴れ"
+
+msgid "miinus"
+msgstr "マイナス"
+
+msgid "pilvistyvaa"
+msgstr "曇りがち"
+
+msgid "pilvista"
+msgstr "曇り"
+
+msgid "poutaa"
+msgstr "好天"
+
+msgid "puolipilvista"
+msgstr "一部曇り"
+
+msgid "runsasta sadetta"
+msgstr "大雨"
+
+msgid "sadetta"
+msgstr "雨"
+
+msgid "sakeaa lumisadetta"
+msgstr "大雪"
+
+msgid "sakeita lumikuuroja"
+msgstr "強い雪のシャワー"
+
+msgid "selkenevaa"
+msgstr "晴れ間が広がる"
+
+msgid "selkeaa"
+msgstr "晴れ"
+
+msgid "tai"
+msgstr "または"
+
+msgid "tuuli heikkenee"
+msgstr "風が弱まり"
+
+msgid "vaihtelevaa pilvisyytta"
+msgstr "変わりやすい曇り"
+
+msgid "vesisadetta"
+msgstr "雨"
+
+msgid "voimakkaita kuuroja"
+msgstr "強いにわか雨"
+
+msgid "vahaisia kuuroja"
+msgstr "弱いにわか雨"
+
+msgid "vahaista lumisadetta"
+msgstr "弱い降雪"
+
+msgid "heikoksi"
+msgstr "弱い"
+
+msgid "kohtalaiseksi"
+msgstr "やや強い"
+
+msgid "navakaksi"
+msgstr "強い"
+
+msgid "kovaksi"
+msgstr "非常に強い"
+
+msgid "myrskyksi"
+msgstr "暴風"
+
+msgid "1-tuuleksi"
+msgstr "北風"
+
+msgid "2-tuuleksi"
+msgstr "北東の風"
+
+msgid "3-tuuleksi"
+msgstr "東風"
+
+msgid "4-tuuleksi"
+msgstr "南東の風"
+
+msgid "5-tuuleksi"
+msgstr "南風"
+
+msgid "6-tuuleksi"
+msgstr "南西の風"
+
+msgid "7-tuuleksi"
+msgstr "西風"
+
+msgid "8-tuuleksi"
+msgstr "北西の風"
+
+msgid "1-puoleiseksi tuuleksi"
+msgstr "主に北風"
+
+msgid "2-puoleiseksi tuuleksi"
+msgstr "主に北東の風"
+
+msgid "3-puoleiseksi tuuleksi"
+msgstr "主に東風"
+
+msgid "4-puoleiseksi tuuleksi"
+msgstr "主に南東の風"
+
+msgid "5-puoleiseksi tuuleksi"
+msgstr "主に南風"
+
+msgid "6-puoleiseksi tuuleksi"
+msgstr "主に南西の風"
+
+msgid "7-puoleiseksi tuuleksi"
+msgstr "主に西風"
+
+msgid "8-puoleiseksi tuuleksi"
+msgstr "主に北西の風"
+
+msgid "tuuli tyyntyy"
+msgstr "風がおさまる"
+
+msgid "tyyneksi"
+msgstr "穏やかに"
+
+msgid "tyynta"
+msgstr "穏やか"
+
+msgid "viiva"
+msgstr "〜"
+
+msgid "rantasadetta"
+msgstr "みぞれ"
+
+msgid "saa on epavakaista"
+msgstr "天気が不安定"
+
+msgid "lumi-"
+msgstr "雪"
+
+msgid "ranta-"
+msgstr "みぞれ"
+
+msgid "vesi-"
+msgstr "雨"
+
+msgid "edelleen"
+msgstr "引き続き"
+
+msgid "enimmakseen"
+msgstr "主に"
+
+msgid "ajoittain sateista"
+msgstr "断続的に雨"
+
+msgid "paivalla"
+msgstr "昼間"
+
+msgid "hirmumyrskya"
+msgstr "激しい暴風"
+
+msgid "hirmumyrskyksi"
+msgstr "激しい暴風"
+
+msgid "saaennuste"
+msgstr "天気予報"
+
+msgid "kello"
+msgstr ""
+
+msgid "aland:lle"
+msgstr "オーランド諸島向け"
+
+msgid "etela-karjala:lle"
+msgstr "南カレリア向け"
+
+msgid "etela-pohjanmaa:lle"
+msgstr "南ポフヤンマー向け"
+
+msgid "etela-savo:lle"
+msgstr "南サヴォ向け"
+
+msgid "hame:lle"
+msgstr "ハメ向け"
+
+msgid "kainuu:lle"
+msgstr "カイヌー向け"
+
+msgid "keski-pohjanmaa:lle"
+msgstr "中部ポフヤンマー向け"
+
+msgid "keski-suomi:lle"
+msgstr "中部フィンランド向け"
+
+msgid "koillismaa:lle"
+msgstr "コイッリスマー向け"
+
+msgid "kymenlaakso:lle"
+msgstr "キュメンラークソ向け"
+
+msgid "lansi-lappi:lle"
+msgstr "西ラップランド向け"
+
+msgid "nyland:lle"
+msgstr "ウーシマー向け"
+
+msgid "osterbotten:lle"
+msgstr "オストロボスニア向け"
+
+msgid "paijat-hame:lle"
+msgstr "パイヤト・ハメ向け"
+
+msgid "pirkanmaa:lle"
+msgstr "ピルカンマー向け"
+
+msgid "pohjois-karjala:lle"
+msgstr "北カレリア向け"
+
+msgid "pohjois-lappi:lle"
+msgstr "北ラップランド向け"
+
+msgid "pohjois-pohjanmaa:lle"
+msgstr "北ポフヤンマー向け"
+
+msgid "pohjois-savo:lle"
+msgstr "北サヴォ向け"
+
+msgid "satakunta:lle"
+msgstr "サタクンタ向け"
+
+msgid "uusimaa:lle"
+msgstr "ウーシマー向け"
+
+msgid "varsinais-suomi:lle"
+msgstr "フィンランド本土向け"
+
+msgid "huomattavasti suurempi"
+msgstr "かなり大きい"
+
+msgid "huomattavasti pienempi"
+msgstr "かなり小さい"
+
+msgid "rannikolla"
+msgstr "沿岸部"
+
+msgid "metria sekunnissa"
+msgstr "メートル/秒"
+
+msgid "1-alkaen"
+msgstr "月曜日以降"
+
+msgid "2-alkaen"
+msgstr "火曜日以降"
+
+msgid "3-alkaen"
+msgstr "水曜日以降"
+
+msgid "4-alkaen"
+msgstr "木曜日以降"
+
+msgid "5-alkaen"
+msgstr "金曜日以降"
+
+msgid "6-alkaen"
+msgstr "土曜日以降"
+
+msgid "7-alkaen"
+msgstr "日曜日以降"
+
+msgid "tanaan"
+msgstr "今日"
+
+msgid "huomenna"
+msgstr "明日"
+
+msgid "ylihuomenna"
+msgstr "明後日"
+
+msgid "ensi yona"
+msgstr "夜間"
+
+msgid "huomisaamuna"
+msgstr "明日の朝"
+
+msgid "aamulla"
+msgstr "朝"
+
+msgid "illalla"
+msgstr "夕方"
+
+msgid "iltapaivalla"
+msgstr "午後"
+
+msgid "aamuyolla"
+msgstr "深夜過ぎ"
+
+msgid "keskipaivalla"
+msgstr "正午"
+
+msgid "iltayolla"
+msgstr "深夜前"
+
+msgid "keskiyolla"
+msgstr "真夜中"
+
+msgid "yosta alkaen"
+msgstr "今夜から"
+
+msgid "aamuyosta alkaen"
+msgstr "早朝から"
+
+msgid "aamusta alkaen"
+msgstr "朝から"
+
+msgid "aamupaivasta alkaen"
+msgstr "午前中から"
+
+msgid "keskipaivasta alkaen"
+msgstr "正午から"
+
+msgid "iltapaivasta alkaen"
+msgstr "午後から"
+
+msgid "illasta alkaen"
+msgstr "夕方から"
+
+msgid "iltayosta alkaen"
+msgstr "夜遅くから"
+
+msgid "keskiyosta alkaen"
+msgstr "真夜中から"
+
+msgid "prosenttia"
+msgstr "パーセント"
+
+msgid "ajoittain"
+msgstr "断続的に"
+
+msgid "1-na kello"
+msgstr "月曜日"
+
+msgid "2-na kello"
+msgstr "火曜日"
+
+msgid "3-na kello"
+msgstr "水曜日"
+
+msgid "4-na kello"
+msgstr "木曜日"
+
+msgid "5-na kello"
+msgstr "金曜日"
+
+msgid "6-na kello"
+msgstr "土曜日"
+
+msgid "7-na kello"
+msgstr "日曜日"
+
+msgid "ei suuria muutoksia saassa"
+msgstr "天気に大きな変化なし"
+
+msgid "saa selkenee"
+msgstr "天気が回復する"
+
+msgid "saa muuttuu epavakaisemmaksi"
+msgstr "天気がより不安定になる"
+
+msgid "sateinen saa jatkuu"
+msgstr "雨天が続く"
+
+msgid "epavakainen saa jatkuu"
+msgstr "不安定な天気が続く"
+
+msgid "saa lauhtuu"
+msgstr "天気が穏やかになる"
+
+msgid "saa on enimmakseen poutaista"
+msgstr "天気はほぼ好天"
+
+msgid "saa poutaantuu"
+msgstr "天気が晴れる"
+
+msgid "saa muuttuu helteiseksi"
+msgstr "猛暑になる"
+
+msgid "saa lampenee"
+msgstr "天気が暖かくなる"
+
+msgid "saa viilenee"
+msgstr "天気が涼しくなる"
+
+msgid "saa muuttuu koleaksi"
+msgstr "天気が寒々しくなる"
+
+msgid "saa kylmenee"
+msgstr "天気が寒くなる"
+
+msgid "helteinen saa jatkuu"
+msgstr "猛暑が続く"
+
+msgid "lammin saa jatkuu"
+msgstr "暖かい天気が続く"
+
+msgid "viilea saa jatkuu"
+msgstr "涼しい天気が続く"
+
+msgid "kolea saa jatkuu"
+msgstr "寒々しい天気が続く"
+
+msgid "kylma saa jatkuu"
+msgstr "寒い天気が続く"
+
+msgid "virtaa"
+msgstr "流れる"
+
+msgid "tilapaisesti"
+msgstr "一時的に"
+
+msgid "lamminta"
+msgstr "暖かい"
+
+msgid "kylmaa"
+msgstr "寒い"
+
+msgid "viileaa"
+msgstr "涼しい"
+
+msgid "viileampaa"
+msgstr "より涼しい"
+
+msgid "lampimampaa"
+msgstr "より暖かい"
+
+msgid "kylmempaa"
+msgstr "より寒い"
+
+msgid "hyvin"
+msgstr "非常に"
+
+msgid "vahan"
+msgstr "少し"
+
+msgid "ilmaa"
+msgstr "空気"
+
+msgid "Suomeen"
+msgstr "フィンランドへ"
+
+msgid "maan"
+msgstr "国の"
+
+msgid "etelaosiin"
+msgstr "南部に"
+
+msgid "keskiosiin"
+msgstr "中部に"
+
+msgid "pohjoisosiin"
+msgstr "北部に"
+
+msgid "itaosiin"
+msgstr "東部に"
+
+msgid "lansiosiin"
+msgstr "西部に"
+
+msgid "etela-"
+msgstr "南部"
+
+msgid "keski-"
+msgstr "中部"
+
+msgid "pohjois-"
+msgstr "北部"
+
+msgid "ita-"
+msgstr "東部"
+
+msgid "lansi-"
+msgstr "西部"
+
+msgid "kuivempaa"
+msgstr "より乾燥"
+
+msgid "kosteampaa"
+msgstr "より湿潤"
+
+msgid "sadealueita"
+msgstr "降水域"
+
+msgid "Suomen yli"
+msgstr "フィンランド上空"
+
+msgid "Etela-Suomen yli"
+msgstr "南フィンランド上空"
+
+msgid "Keski-Suomen yli"
+msgstr "中部フィンランド上空"
+
+msgid "Pohjois-Suomen yli"
+msgstr "北フィンランド上空"
+
+msgid "Ita-Suomen yli"
+msgstr "東フィンランド上空"
+
+msgid "Lansi-Suomen yli"
+msgstr "西フィンランド上空"
+
+msgid "Kaakkois-Suomen yli"
+msgstr "南東フィンランド上空"
+
+msgid "uusi"
+msgstr "新しい"
+
+msgid "sateen todennakoisyys"
+msgstr "降水確率"
+
+msgid "kuurosateen todennakoisyys"
+msgstr "にわか雨の確率"
+
+msgid "ukkosen todennakoisyys"
+msgstr "雷の確率"
+
+msgid "pakkanen jatkuu"
+msgstr "霜が続く"
+
+msgid "pakkanen kiristyy"
+msgstr "霜が厳しくなる"
+
+msgid "pakkanen heikkenee"
+msgstr "霜が弱まる"
+
+msgid "kuuluu"
+msgstr "属する"
+
+msgid "sateineen"
+msgstr "雨を伴う"
+
+msgid "sadealueineen"
+msgstr "降水域を伴う"
+
+msgid "hajanaisine sadealueineen"
+msgstr "散在する降水域を伴う"
+
+msgid "Lounais-Suomen yli"
+msgstr "南西フィンランド上空"
+
+msgid "saapuu"
+msgstr "接近する"
+
+msgid "saa muuttuu sateisemmaksi"
+msgstr "天気が雨がちになる"
+
+msgid "alue"
+msgstr "地域"
+
+msgid "pohjanmaa:lle"
+msgstr "ポフヤンマー向け"
+
+msgid "suomi:lle"
+msgstr "フィンランド向け"
+
+msgid "aluksi"
+msgstr "まず"
+
+msgid "ahvenanmaa:lle"
+msgstr "オーランド向け"
+
+msgid "huomisesta alkaen"
+msgstr "明日から"
+
+msgid "ja"
+msgstr "および"
+
+msgid "tiepiiri-hame:lle"
+msgstr "ハメ道路地区向け"
+
+msgid "tiepiiri-kaakkois-lappi:lle"
+msgstr "南東ラップランド道路地区向け"
+
+msgid "tiepiiri-kaakkois-suomi:lle"
+msgstr "南東フィンランド道路地区向け"
+
+msgid "tiepiiri-kasivarsi:lle"
+msgstr "北西ラップランド道路地区向け"
+
+msgid "tiepiiri-keski-lappi:lle"
+msgstr "中部ラップランド道路地区向け"
+
+msgid "tiepiiri-keski-suomi:lle"
+msgstr "中部フィンランド道路地区向け"
+
+msgid "tiepiiri-lounais-lappi:lle"
+msgstr "南西ラップランド道路地区向け"
+
+msgid "tiepiiri-oulu-ita:lle"
+msgstr "オウル道路地区東部向け"
+
+msgid "tiepiiri-oulu-lansi:lle"
+msgstr "オウル道路地区西部向け"
+
+msgid "tiepiiri-savo-karjala:lle"
+msgstr "サヴォ・カレリア道路地区向け"
+
+msgid "tiepiiri-turku:lle"
+msgstr "トゥルク道路地区向け"
+
+msgid "tiepiiri-uusimaa:lle"
+msgstr "ウーシマー道路地区向け"
+
+msgid "tiepiiri-vaasa:lle"
+msgstr "ヴァーサ道路地区向け"
+
+msgid "tiepiiri-yla-lappi:lle"
+msgstr "上部ラップランド道路地区向け"
+
+msgid "tienpintalampotila"
+msgstr "路面温度"
+
+msgid "ensimmaisen 12 tunnin sademaara"
+msgstr "最初の12時間の総降水量"
+
+msgid "seuraavan 12 tunnin"
+msgstr "次の12時間の"
+
+msgid "seuraavan 24 tunnin sademaara"
+msgstr "次の24時間の総降水量"
+
+msgid "tiet ovat"
+msgstr "道路は"
+
+msgid "teilla on"
+msgstr "道路は"
+
+msgid "jaisia"
+msgstr "凍結"
+
+msgid "osittain jaisia"
+msgstr "部分的に凍結"
+
+msgid "kuuraa"
+msgstr "霜に覆われている"
+
+msgid "sohjoa"
+msgstr "シャーベット状の雪に覆われている"
+
+msgid "lunta"
+msgstr "雪に覆われている"
+
+msgid "markia"
+msgstr "濡れている"
+
+msgid "kosteita"
+msgstr "湿っている"
+
+msgid "kuivia"
+msgstr "乾燥"
+
+msgid "kuuraisia"
+msgstr "霜に覆われている"
+
+msgid "sohjoisia"
+msgstr "シャーベット状の雪に覆われている"
+
+msgid "lumisia"
+msgstr "雪に覆われている"
+
+msgid "tiet ovat (sivulause)"
+msgstr ""
+
+msgid "yleisesti"
+msgstr "一般に"
+
+msgid "kanta-hame:lle"
+msgstr "カンタ・ハメ向け"
+
+msgid "ita-uusimaa:lle"
+msgstr "東ウーシマー向け"
+
+msgid "lappi:lle"
+msgstr "ラップランド向け"
+
+msgid "lapin-laani:lle"
+msgstr "ラップランド州向け"
+
+msgid "oulun-laani:lle"
+msgstr "オウル州向け"
+
+msgid "ita-suomen-laani:lle"
+msgstr "東フィンランド州向け"
+
+msgid "lansi-suomen-laani:lle"
+msgstr "西フィンランド州向け"
+
+msgid "etela-suomen-laani:lle"
+msgstr "南フィンランド州向け"
+
+msgid "ahvenanmaan-laani:lle"
+msgstr "オーランド州向け"
+
+msgid "7-paivalla"
+msgstr "日曜日の昼間"
+
+msgid "2-aamuna"
+msgstr "火曜日の朝"
+
+msgid "3-aamuna"
+msgstr "水曜日の朝"
+
+msgid "4-aamuna"
+msgstr "木曜日の朝"
+
+msgid "5-aamuna"
+msgstr "金曜日の朝"
+
+msgid "6-aamuna"
+msgstr "土曜日の朝"
+
+msgid "7-aamuna"
+msgstr "日曜日の朝"
+
+msgid "1-aamupaivasta alkaen"
+msgstr "月曜日午前中から"
+
+msgid "2-aamupaivasta alkaen"
+msgstr "火曜日午前中から"
+
+msgid "3-aamupaivasta alkaen"
+msgstr "水曜日午前中から"
+
+msgid "4-aamupaivasta alkaen"
+msgstr "木曜日午前中から"
+
+msgid "5-aamupaivasta alkaen"
+msgstr "金曜日午前中から"
+
+msgid "6-aamupaivasta alkaen"
+msgstr "土曜日午前中から"
+
+msgid "1-aamusta alkaen"
+msgstr "月曜日朝から"
+
+msgid "2-aamusta alkaen"
+msgstr "火曜日朝から"
+
+msgid "3-aamusta alkaen"
+msgstr "水曜日朝から"
+
+msgid "4-aamusta alkaen"
+msgstr "木曜日朝から"
+
+msgid "5-aamusta alkaen"
+msgstr "金曜日朝から"
+
+msgid "6-aamusta alkaen"
+msgstr "土曜日朝から"
+
+msgid "7-aamusta alkaen"
+msgstr "日曜日朝から"
+
+msgid "1-iltana"
+msgstr "月曜日の夕方"
+
+msgid "2-iltana"
+msgstr "火曜日の夕方"
+
+msgid "3-iltana"
+msgstr "水曜日の夕方"
+
+msgid "4-iltana"
+msgstr "木曜日の夕方"
+
+msgid "5-iltana"
+msgstr "金曜日の夕方"
+
+msgid "6-iltana"
+msgstr "土曜日の夕方"
+
+msgid "7-iltana"
+msgstr "日曜日の夕方"
+
+msgid "1-illasta alkaen"
+msgstr "月曜日夕方から"
+
+msgid "2-illasta alkaen"
+msgstr "火曜日夕方から"
+
+msgid "3-illasta alkaen"
+msgstr "水曜日夕方から"
+
+msgid "4-illasta alkaen"
+msgstr "木曜日夕方から"
+
+msgid "5-illasta alkaen"
+msgstr "金曜日夕方から"
+
+msgid "6-illasta alkaen"
+msgstr "土曜日夕方から"
+
+msgid "7-illasta alkaen"
+msgstr "日曜日夕方から"
+
+msgid "1-paivalla"
+msgstr "月曜日の昼間"
+
+msgid "2-paivalla"
+msgstr "火曜日の昼間"
+
+msgid "3-paivalla"
+msgstr "水曜日の昼間"
+
+msgid "4-paivalla"
+msgstr "木曜日の昼間"
+
+msgid "5-paivalla"
+msgstr "金曜日の昼間"
+
+msgid "6-paivalla"
+msgstr "土曜日の昼間"
+
+msgid "1-vastaisesta yosta alkaen"
+msgstr "月曜日の夜から"
+
+msgid "2-vastaisesta yosta alkaen"
+msgstr "火曜日の夜から"
+
+msgid "3-vastaisesta yosta alkaen"
+msgstr "水曜日の夜から"
+
+msgid "4-vastaisesta yosta alkaen"
+msgstr "木曜日の夜から"
+
+msgid "5-vastaisesta yosta alkaen"
+msgstr "金曜日の夜から"
+
+msgid "6-vastaisesta yosta alkaen"
+msgstr "土曜日の夜から"
+
+msgid "7-vastaisesta yosta alkaen"
+msgstr "日曜日の夜から"
+
+msgid "huomisaamusta alkaen"
+msgstr "明日の朝から"
+
+msgid "huomisaamupaivasta alkaen"
+msgstr "明日の午前中から"
+
+msgid "huomisillasta alkaen"
+msgstr "明日の夕方から"
+
+msgid "huomenna paivalla"
+msgstr "明日の昼間"
+
+msgid "huomisiltana"
+msgstr "明日の夕方"
+
+msgid "1-aamuna"
+msgstr "月曜日の朝"
+
+msgid "7-aamupaivasta alkaen"
+msgstr "日曜日午前中から"
+
+msgid "B1:lle"
+msgstr "ボスニア湾向け"
+
+msgid "B2:lle"
+msgstr "クワルケン向け"
+
+msgid "B3:lle"
+msgstr "ボスニア海向け"
+
+msgid "B4:lle"
+msgstr "群島海およびオーランド海向け"
+
+msgid "B5:lle"
+msgstr "フィンランド湾向け"
+
+msgid "B6:lle"
+msgstr "リガ湾向け"
+
+msgid "B7:lle"
+msgstr "北バルト海向け"
+
+msgid "B8:lle"
+msgstr "中部バルト海向け"
+
+msgid "B9:lle"
+msgstr "南東バルト海向け"
+
+msgid "B10:lle"
+msgstr "南バルト海向け"
+
+msgid "B11:lle"
+msgstr "アルコナ海向け"
+
+msgid "B12:lle"
+msgstr "エーレスンおよびベルト海向け"
+
+msgid "B13:lle"
+msgstr "カテガット向け"
+
+msgid "B1N:lle"
+msgstr "北ボスニア湾向け"
+
+msgid "B1S:lle"
+msgstr "南ボスニア湾向け"
+
+msgid "B4E:lle"
+msgstr "群島海向け"
+
+msgid "B4W:lle"
+msgstr "オーランド海向け"
+
+msgid "B5E:lle"
+msgstr "東フィンランド湾向け"
+
+msgid "B5W:lle"
+msgstr "西フィンランド湾向け"
+
+msgid "B8E:lle"
+msgstr "中部バルト海向け"
+
+msgid "B8W:lle"
+msgstr "ゴトランド海向け"
+
+msgid "B10N:lle"
+msgstr "エーランド海向け"
+
+msgid "B10S:lle"
+msgstr "ボルンホルム海向け"
+
+msgid "osittain jaisiksi"
+msgstr "部分的に凍結"
+
+msgid "kuuraisiksi"
+msgstr "霜で覆われる"
+
+msgid "keli on"
+msgstr "路面状況は"
+
+msgid "tienpinnat muuttuvat"
+msgstr "路面が変わる"
+
+msgid "jaisiksi"
+msgstr "凍結"
+
+msgid "pakkasliukkautta"
+msgstr "凍結による滑り"
+
+msgid "rannasta ja liukkaista"
+msgstr "みぞれおよび滑りやすい路面により悪化"
+
+msgid "tieto puuttuu"
+msgstr "データなし"
+
+msgid "liukkaiksi jaatavasta sateesta"
+msgstr "雨氷により滑りやすい"
+
+msgid "rannasta ja osittain liukkaista"
+msgstr "みぞれおよび部分的に滑りやすい路面により悪化"
+
+msgid "sateesta ja osittain liukkaista"
+msgstr "雨および部分的に滑りやすい路面により悪化"
+
+msgid "sateesta ja liukkaista"
+msgstr "雨および滑りやすい路面により悪化"
+
+msgid "normaali"
+msgstr "通常"
+
+msgid "aanekoski:lle"
+msgstr "アーネコスキ向け"
+
+msgid "aetsa:lle"
+msgstr "アエツァ向け"
+
+msgid "ahtari:lle"
+msgstr "アフタリ向け"
+
+msgid "alaharma:lle"
+msgstr "アラハルマ向け"
+
+msgid "alajarvi:lle"
+msgstr "アラヤルヴィ向け"
+
+msgid "alastaro:lle"
+msgstr "アラスタロ向け"
+
+msgid "alavieska:lle"
+msgstr "アラヴィエスカ向け"
+
+msgid "alavus:lle"
+msgstr "アラヴス向け"
+
+msgid "anjalankoski:lle"
+msgstr "アンヤランコスキ向け"
+
+msgid "artjarvi:lle"
+msgstr "アルトヤルヴィ向け"
+
+msgid "asikkala:lle"
+msgstr "アシッカラ向け"
+
+msgid "askainen:lle"
+msgstr "アスカイネン向け"
+
+msgid "askola:lle"
+msgstr "アスコラ向け"
+
+msgid "aura:lle"
+msgstr "アウラ向け"
+
+msgid "brando:lle"
+msgstr "ブランドー向け"
+
+msgid "dragsfjard:lle"
+msgstr "ドラグスフィヤルド向け"
+
+msgid "eckero:lle"
+msgstr "エッケロー向け"
+
+msgid "elimaki:lle"
+msgstr "エリマキ向け"
+
+msgid "enonkoski:lle"
+msgstr "エノンコスキ向け"
+
+msgid "enontekio:lle"
+msgstr "エノンテキオ向け"
+
+msgid "eno:lle"
+msgstr "エノ向け"
+
+msgid "espoo:lle"
+msgstr "エスポー向け"
+
+msgid "eurajoki:lle"
+msgstr "エウラヨキ向け"
+
+msgid "eura:lle"
+msgstr "エウラ向け"
+
+msgid "evijarvi:lle"
+msgstr "エヴィヤルヴィ向け"
+
+msgid "finstrom:lle"
+msgstr "フィンストロム向け"
+
+msgid "foglo:lle"
+msgstr "フォーグルー向け"
+
+msgid "forssa:lle"
+msgstr "フォルッサ向け"
+
+msgid "geta:lle"
+msgstr "ゲタ向け"
+
+msgid "haapajarvi:lle"
+msgstr "ハーパヤルヴィ向け"
+
+msgid "haapavesi:lle"
+msgstr "ハーパヴェシ向け"
+
+msgid "hailuoto:lle"
+msgstr "ハイルオト向け"
+
+msgid "halikko:lle"
+msgstr "ハリッコ向け"
+
+msgid "halsua:lle"
+msgstr "ハルスア向け"
+
+msgid "hameenkoski:lle"
+msgstr "ハメーンコスキ向け"
+
+msgid "hameenkyro:lle"
+msgstr "ハメーンキュロ向け"
+
+msgid "hameenlinna:lle"
+msgstr "ハメーンリンナ向け"
+
+msgid "hamina:lle"
+msgstr "ハミナ向け"
+
+msgid "hammarland:lle"
+msgstr "ハンマルランド向け"
+
+msgid "hankasalmi:lle"
+msgstr "ハンカサルミ向け"
+
+msgid "hanko:lle"
+msgstr "ハンコ向け"
+
+msgid "harjavalta:lle"
+msgstr "ハルヤヴァルタ向け"
+
+msgid "B3S:lle"
+msgstr "南ボスニア海向け"
+
+msgid "B7E:lle"
+msgstr "北バルト海東部向け"
+
+msgid "B7W:lle"
+msgstr "北バルト海西部向け"
+
+msgid "hartola:lle"
+msgstr "ハルトラ向け"
+
+msgid "hattula:lle"
+msgstr "ハットゥラ向け"
+
+msgid "hauho:lle"
+msgstr "ハウホ向け"
+
+msgid "haukipudas:lle"
+msgstr "ハウキプダス向け"
+
+msgid "haukivuori:lle"
+msgstr "ハウキヴオリ向け"
+
+msgid "hausjarvi:lle"
+msgstr "ハウスヤルヴィ向け"
+
+msgid "heinavesi:lle"
+msgstr "ハイナヴェシ向け"
+
+msgid "heinola:lle"
+msgstr "ハイノラ向け"
+
+msgid "helsinki:lle"
+msgstr "ヘルシンキ向け"
+
+msgid "himanka:lle"
+msgstr "ヒマンカ向け"
+
+msgid "hirvensalmi:lle"
+msgstr "ヒルヴェンサルミ向け"
+
+msgid "hollola:lle"
+msgstr "ホッロラ向け"
+
+msgid "honkajoki:lle"
+msgstr "ホンカヨキ向け"
+
+msgid "houtskari:lle"
+msgstr "ホウツカリ向け"
+
+msgid "huittinen:lle"
+msgstr "フイッティネン向け"
+
+msgid "humppila:lle"
+msgstr "フンッピラ向け"
+
+msgid "hyrynsalmi:lle"
+msgstr "ヒュリュンサルミ向け"
+
+msgid "hyvinkaa:lle"
+msgstr "ヒュヴィンカー向け"
+
+msgid "iisalmi:lle"
+msgstr "イイサルミ向け"
+
+msgid "ii:lle"
+msgstr "イイ向け"
+
+msgid "iitti:lle"
+msgstr "イイッティ向け"
+
+msgid "ikaalinen:lle"
+msgstr "イカーリネン向け"
+
+msgid "ilmajoki:lle"
+msgstr "イルマヨキ向け"
+
+msgid "ilomantsi:lle"
+msgstr "イロマンツィ向け"
+
+msgid "imatra:lle"
+msgstr "イマトラ向け"
+
+msgid "inari:lle"
+msgstr "イナリ向け"
+
+msgid "inio:lle"
+msgstr "イニョ向け"
+
+msgid "inkoo:lle"
+msgstr "インコー向け"
+
+msgid "isojoki:lle"
+msgstr "イソヨキ向け"
+
+msgid "isokyro:lle"
+msgstr "イソキュロ向け"
+
+msgid "jaala:lle"
+msgstr "ヤーラ向け"
+
+msgid "jalasjarvi:lle"
+msgstr "ヤラスヤルヴィ向け"
+
+msgid "jamijarvi:lle"
+msgstr "ヤミヤルヴィ向け"
+
+msgid "jamsankoski:lle"
+msgstr "ヤムサンコスキ向け"
+
+msgid "jamsa:lle"
+msgstr "ヤムサ向け"
+
+msgid "janakkala:lle"
+msgstr "ヤナッカラ向け"
+
+msgid "jarvenpaa:lle"
+msgstr "ヤルヴェンパー向け"
+
+msgid "joensuu:lle"
+msgstr "ヨエンスー向け"
+
+msgid "jokioinen:lle"
+msgstr "ヨキオイネン向け"
+
+msgid "jomala:lle"
+msgstr "ヨマラ向け"
+
+msgid "joroinen:lle"
+msgstr "ヨロイネン向け"
+
+msgid "joutsa:lle"
+msgstr "ヨウツァ向け"
+
+msgid "joutseno:lle"
+msgstr "ヨウツェノ向け"
+
+msgid "juankoski:lle"
+msgstr "ユアンコスキ向け"
+
+msgid "jurva:lle"
+msgstr "ユルヴァ向け"
+
+msgid "juuka:lle"
+msgstr "ユウカ向け"
+
+msgid "juupajoki:lle"
+msgstr "ユウパヨキ向け"
+
+msgid "juva:lle"
+msgstr "ユヴァ向け"
+
+msgid "jyvaskylan_mlk:lle"
+msgstr "ユヴァスキュラ農村地区向け"
+
+msgid "jyvaskyla:lle"
+msgstr "ユヴァスキュラ向け"
+
+msgid "kaarina:lle"
+msgstr "カーリナ向け"
+
+msgid "kaavi:lle"
+msgstr "カーヴィ向け"
+
+msgid "kajaani:lle"
+msgstr "カヤーニ向け"
+
+msgid "kalajoki:lle"
+msgstr "カラヨキ向け"
+
+msgid "kalvia:lle"
+msgstr "カルヴィア向け"
+
+msgid "kalvola:lle"
+msgstr "カルヴォラ向け"
+
+msgid "kangasala:lle"
+msgstr "カンガサラ向け"
+
+msgid "kangasniemi:lle"
+msgstr "カンガスニエミ向け"
+
+msgid "kankaanpaa:lle"
+msgstr "カンカアンパー向け"
+
+msgid "kannonkoski:lle"
+msgstr "カンノンコスキ向け"
+
+msgid "kannus:lle"
+msgstr "カンヌス向け"
+
+msgid "karijoki:lle"
+msgstr "カリヨキ向け"
+
+msgid "karjaa:lle"
+msgstr "カルヤー向け"
+
+msgid "karjalohja:lle"
+msgstr "カルヤロフヤ向け"
+
+msgid "karkkila:lle"
+msgstr "カルッキラ向け"
+
+msgid "karkola:lle"
+msgstr "カルコラ向け"
+
+msgid "karsamaki:lle"
+msgstr "カルサマキ向け"
+
+msgid "karstula:lle"
+msgstr "カルストゥラ向け"
+
+msgid "karttula:lle"
+msgstr "カルットゥラ向け"
+
+msgid "karvia:lle"
+msgstr "カルヴィア向け"
+
+msgid "kaskinen:lle"
+msgstr "カスキネン向け"
+
+msgid "kauhajoki:lle"
+msgstr "カウハヨキ向け"
+
+msgid "kauhava:lle"
+msgstr "カウハヴァ向け"
+
+msgid "kauniainen:lle"
+msgstr "カウニアイネン向け"
+
+msgid "kaustinen:lle"
+msgstr "カウスティネン向け"
+
+msgid "keitele:lle"
+msgstr "ケイテレ向け"
+
+msgid "kemijarvi:lle"
+msgstr "ケミヤルヴィ向け"
+
+msgid "keminmaa:lle"
+msgstr "ケミンマー向け"
+
+msgid "kemio:lle"
+msgstr "ケミョ向け"
+
+msgid "kemi:lle"
+msgstr "ケミ向け"
+
+msgid "kempele:lle"
+msgstr "ケンペレ向け"
+
+msgid "kerava:lle"
+msgstr "ケラヴァ向け"
+
+msgid "kerimaki:lle"
+msgstr "ケリマキ向け"
+
+msgid "kesalahti:lle"
+msgstr "ケサラフティ向け"
+
+msgid "kestila:lle"
+msgstr "ケスティラ向け"
+
+msgid "keuruu:lle"
+msgstr "ケウルー向け"
+
+msgid "kihnio:lle"
+msgstr "キフニョ向け"
+
+msgid "kiikala:lle"
+msgstr "キイカラ向け"
+
+msgid "kiikoinen:lle"
+msgstr "キイコイネン向け"
+
+msgid "kiiminki:lle"
+msgstr "キイミンキ向け"
+
+msgid "kinnula:lle"
+msgstr "キンヌラ向け"
+
+msgid "kirkkonummi:lle"
+msgstr "キルッコヌンミ向け"
+
+msgid "kisko:lle"
+msgstr "キスコ向け"
+
+msgid "kitee:lle"
+msgstr "キテー向け"
+
+msgid "kittila:lle"
+msgstr "キッティラ向け"
+
+msgid "kiukainen:lle"
+msgstr "キウカイネン向け"
+
+msgid "kiuruvesi:lle"
+msgstr "キウルヴェシ向け"
+
+msgid "kivijarvi:lle"
+msgstr "キヴィヤルヴィ向け"
+
+msgid "kodisjoki:lle"
+msgstr "コディスヨキ向け"
+
+msgid "kokar:lle"
+msgstr "コーカル向け"
+
+msgid "kokemaki:lle"
+msgstr "コケマキ向け"
+
+msgid "kokkola:lle"
+msgstr "コッコラ向け"
+
+msgid "kolari:lle"
+msgstr "コラリ向け"
+
+msgid "konnevesi:lle"
+msgstr "コンネヴェシ向け"
+
+msgid "kontiolahti:lle"
+msgstr "コンティオラフティ向け"
+
+msgid "korpilahti:lle"
+msgstr "コルピラフティ向け"
+
+msgid "korppoo:lle"
+msgstr "コルッポー向け"
+
+msgid "korsnas:lle"
+msgstr "コルスネース向け"
+
+msgid "kortesjarvi:lle"
+msgstr "コルテスヤルヴィ向け"
+
+msgid "koski_tl:lle"
+msgstr "コスキ向け"
+
+msgid "kotka:lle"
+msgstr "コトカ向け"
+
+msgid "kouvola:lle"
+msgstr "コウヴォラ向け"
+
+msgid "koylio:lle"
+msgstr "ケュリョ向け"
+
+msgid "kristiinankaupunki:lle"
+msgstr "クリスティーナンカウプンキ向け"
+
+msgid "kronoby:lle"
+msgstr "クロノビー向け"
+
+msgid "kuhmalahti:lle"
+msgstr "クフマラフティ向け"
+
+msgid "kuhmoinen:lle"
+msgstr "クフモイネン向け"
+
+msgid "kuhmo:lle"
+msgstr "クフモ向け"
+
+msgid "kuivaniemi:lle"
+msgstr "クイヴァニエミ向け"
+
+msgid "kumlinge:lle"
+msgstr "クムリンゲ向け"
+
+msgid "kuopio:lle"
+msgstr "クオピオ向け"
+
+msgid "kuortane:lle"
+msgstr "クオルタネ向け"
+
+msgid "kurikka:lle"
+msgstr "クリッカ向け"
+
+msgid "kuru:lle"
+msgstr "クル向け"
+
+msgid "kustavi:lle"
+msgstr "クスタヴィ向け"
+
+msgid "kuusamo:lle"
+msgstr "クーサモ向け"
+
+msgid "kuusankoski:lle"
+msgstr "クーサンコスキ向け"
+
+msgid "kuusjoki:lle"
+msgstr "クースヨキ向け"
+
+msgid "kylmakoski:lle"
+msgstr "キュルマコスキ向け"
+
+msgid "kyyjarvi:lle"
+msgstr "キュヤルヴィ向け"
+
+msgid "lahti:lle"
+msgstr "ラフティ向け"
+
+msgid "laihia:lle"
+msgstr "ライヒア向け"
+
+msgid "laitila:lle"
+msgstr "ライティラ向け"
+
+msgid "lammi:lle"
+msgstr "ランミ向け"
+
+msgid "langelmaki:lle"
+msgstr "ランゲルマキ向け"
+
+msgid "lapinjarvi:lle"
+msgstr "ラピンヤルヴィ向け"
+
+msgid "lapinlahti:lle"
+msgstr "ラピンラフティ向け"
+
+msgid "lappajarvi:lle"
+msgstr "ラッパヤルヴィ向け"
+
+msgid "lappeenranta:lle"
+msgstr "ラッペーンランタ向け"
+
+msgid "lapin kuntaan:lle"
+msgstr "ラッピ向け"
+
+msgid "lapua:lle"
+msgstr "ラプア向け"
+
+msgid "larsmo:lle"
+msgstr "ラルスモ向け"
+
+msgid "laukaa:lle"
+msgstr "ラウカー向け"
+
+msgid "lavia:lle"
+msgstr "ラヴィア向け"
+
+msgid "lehtimaki:lle"
+msgstr "レフティマキ向け"
+
+msgid "leivonmaki:lle"
+msgstr "レイヴォンマキ向け"
+
+msgid "lemi:lle"
+msgstr "レミ向け"
+
+msgid "lemland:lle"
+msgstr "レムランド向け"
+
+msgid "lempaala:lle"
+msgstr "レンパーラ向け"
+
+msgid "lemu:lle"
+msgstr "レム向け"
+
+msgid "leppavirta:lle"
+msgstr "レッパヴィルタ向け"
+
+msgid "lestijarvi:lle"
+msgstr "レスティヤルヴィ向け"
+
+msgid "lieksa:lle"
+msgstr "リエクサ向け"
+
+msgid "lieto:lle"
+msgstr "リエト向け"
+
+msgid "liljendal:lle"
+msgstr "リリェンダル向け"
+
+msgid "liminka:lle"
+msgstr "リミンカ向け"
+
+msgid "liperi:lle"
+msgstr "リペリ向け"
+
+msgid "lohja:lle"
+msgstr "ロフヤ向け"
+
+msgid "lohtaja:lle"
+msgstr "ロフタヤ向け"
+
+msgid "loimaa:lle"
+msgstr "ロイマー向け"
+
+msgid "loppi:lle"
+msgstr "ロッピ向け"
+
+msgid "loviisa:lle"
+msgstr "ロヴィーサ向け"
+
+msgid "luhanka:lle"
+msgstr "ルハンカ向け"
+
+msgid "lumijoki:lle"
+msgstr "ルミヨキ向け"
+
+msgid "lumparland:lle"
+msgstr "ルンパルランド向け"
+
+msgid "luopioinen:lle"
+msgstr "ルオピオイネン向け"
+
+msgid "luumaki:lle"
+msgstr "ルウマキ向け"
+
+msgid "luvia:lle"
+msgstr "ルヴィア向け"
+
+msgid "maalahti:lle"
+msgstr "マーラフティ向け"
+
+msgid "maaninka:lle"
+msgstr "マーニンカ向け"
+
+msgid "maarianhamina:lle"
+msgstr "マリアンハミナ向け"
+
+msgid "maksamaa:lle"
+msgstr "マクサマー向け"
+
+msgid "mantsala:lle"
+msgstr "マンツァラ向け"
+
+msgid "mantta:lle"
+msgstr "マンッタ向け"
+
+msgid "mantyharju:lle"
+msgstr "マンティハルユ向け"
+
+msgid "marttila:lle"
+msgstr "マルッティラ向け"
+
+msgid "masku:lle"
+msgstr "マスク向け"
+
+msgid "mellila:lle"
+msgstr "メッリラ向け"
+
+msgid "merijarvi:lle"
+msgstr "メリヤルヴィ向け"
+
+msgid "merikarvia:lle"
+msgstr "メリカルヴィア向け"
+
+msgid "merimasku:lle"
+msgstr "メリマスク向け"
+
+msgid "miehikkala:lle"
+msgstr "ミエヒッカラ向け"
+
+msgid "mietoinen:lle"
+msgstr "ミエトイネン向け"
+
+msgid "mikkeli:lle"
+msgstr "ミッケリ向け"
+
+msgid "mouhijarvi:lle"
+msgstr "モウヒヤルヴィ向け"
+
+msgid "muhos:lle"
+msgstr "ムホス向け"
+
+msgid "multia:lle"
+msgstr "ムルティア向け"
+
+msgid "muonio:lle"
+msgstr "ムオニオ向け"
+
+msgid "mustasaari:lle"
+msgstr "ムスタサーリ向け"
+
+msgid "muurame:lle"
+msgstr "ムーラメ向け"
+
+msgid "muurla:lle"
+msgstr "ムールラ向け"
+
+msgid "mynamaki:lle"
+msgstr "ミュナマキ向け"
+
+msgid "myrskyla:lle"
+msgstr "ミュルスキュラ向け"
+
+msgid "naantali:lle"
+msgstr "ナーンタリ向け"
+
+msgid "nakkila:lle"
+msgstr "ナッキラ向け"
+
+msgid "narpio:lle"
+msgstr "ナルピオ向け"
+
+msgid "nastola:lle"
+msgstr "ナストラ向け"
+
+msgid "nauvo:lle"
+msgstr "ナウヴォ向け"
+
+msgid "nilsia:lle"
+msgstr "ニルシア向け"
+
+msgid "nivala:lle"
+msgstr "ニヴァラ向け"
+
+msgid "nokia:lle"
+msgstr "ノキア向け"
+
+msgid "noormarkku:lle"
+msgstr "ノールマルック向け"
+
+msgid "nousiainen:lle"
+msgstr "ノウシアイネン向け"
+
+msgid "nummipusula:lle"
+msgstr "ヌンミ・プスラ向け"
+
+msgid "nurmes:lle"
+msgstr "ヌルメス向け"
+
+msgid "nurmijarvi:lle"
+msgstr "ヌルミヤルヴィ向け"
+
+msgid "nurmo:lle"
+msgstr "ヌルモ向け"
+
+msgid "oravainen:lle"
+msgstr "オラヴァイネン向け"
+
+msgid "orimattila:lle"
+msgstr "オリマッティラ向け"
+
+msgid "oripaa:lle"
+msgstr "オリパー向け"
+
+msgid "orivesi:lle"
+msgstr "オリヴェシ向け"
+
+msgid "oulainen:lle"
+msgstr "オウライネン向け"
+
+msgid "oulunsalo:lle"
+msgstr "オウルンサロ向け"
+
+msgid "oulu:lle"
+msgstr "オウル向け"
+
+msgid "outokumpu:lle"
+msgstr "オウトクンプ向け"
+
+msgid "padasjoki:lle"
+msgstr "パダスヨキ向け"
+
+msgid "paimio:lle"
+msgstr "パイミオ向け"
+
+msgid "palkane:lle"
+msgstr "パルカネ向け"
+
+msgid "paltamo:lle"
+msgstr "パルタモ向け"
+
+msgid "parainen:lle"
+msgstr "パライネン向け"
+
+msgid "parikkala:lle"
+msgstr "パリッカラ向け"
+
+msgid "parkano:lle"
+msgstr "パルカノ向け"
+
+msgid "pedersoren_kunta:lle"
+msgstr "ペデルソーレ向け"
+
+msgid "pelkosenniemi:lle"
+msgstr "ペルコセンニエミ向け"
+
+msgid "pello:lle"
+msgstr "ペッロ向け"
+
+msgid "perho:lle"
+msgstr "ペルホ向け"
+
+msgid "pernaja:lle"
+msgstr "ペルナヤ向け"
+
+msgid "pernio:lle"
+msgstr "ペルニョ向け"
+
+msgid "pertteli:lle"
+msgstr "ペルッテリ向け"
+
+msgid "pertunmaa:lle"
+msgstr "ペルトゥンマー向け"
+
+msgid "petajavesi:lle"
+msgstr "ペタヤヴェシ向け"
+
+msgid "pieksanmaa:lle"
+msgstr "ピエクサンマー向け"
+
+msgid "pielavesi:lle"
+msgstr "ピエラヴェシ向け"
+
+msgid "pietarsaari:lle"
+msgstr "ピエタルサーリ向け"
+
+msgid "pihtipudas:lle"
+msgstr "ピフティプダス向け"
+
+msgid "piikkio:lle"
+msgstr "ピーッキョ向け"
+
+msgid "piippola:lle"
+msgstr "ピッポラ向け"
+
+msgid "pirkkala:lle"
+msgstr "ピルッカラ向け"
+
+msgid "pohja:lle"
+msgstr "ポフヤ向け"
+
+msgid "polvijarvi:lle"
+msgstr "ポルヴィヤルヴィ向け"
+
+msgid "pomarkku:lle"
+msgstr "ポマルック向け"
+
+msgid "pori:lle"
+msgstr "ポリ向け"
+
+msgid "pornainen:lle"
+msgstr "ポルナイネン向け"
+
+msgid "porvoo:lle"
+msgstr "ポルヴォー向け"
+
+msgid "posio:lle"
+msgstr "ポシオ向け"
+
+msgid "poytya:lle"
+msgstr "ペュティア向け"
+
+msgid "pudasjarvi:lle"
+msgstr "プダスヤルヴィ向け"
+
+msgid "pukkila:lle"
+msgstr "プッキラ向け"
+
+msgid "pulkkila:lle"
+msgstr "プルッキラ向け"
+
+msgid "punkaharju:lle"
+msgstr "プンカハルユ向け"
+
+msgid "punkalaidun:lle"
+msgstr "プンカライドゥン向け"
+
+msgid "puolanka:lle"
+msgstr "プオランカ向け"
+
+msgid "puumala:lle"
+msgstr "プウマラ向け"
+
+msgid "pyhajarvi:lle"
+msgstr "ピュハヤルヴィ向け"
+
+msgid "pyhajoki:lle"
+msgstr "ピュハヨキ向け"
+
+msgid "pyhanta:lle"
+msgstr "ピュハンタ向け"
+
+msgid "pyharanta:lle"
+msgstr "ピュハランタ向け"
+
+msgid "pyhaselka:lle"
+msgstr "ピュハセルカ向け"
+
+msgid "pyhtaa:lle"
+msgstr "ピュフタ向け"
+
+msgid "pylkonmaki:lle"
+msgstr "ピュルコンマキ向け"
+
+msgid "raahe:lle"
+msgstr "ラーへ向け"
+
+msgid "raakkyla:lle"
+msgstr "ラーッキュラ向け"
+
+msgid "raisio:lle"
+msgstr "ライシオ向け"
+
+msgid "rantasalmi:lle"
+msgstr "ランタサルミ向け"
+
+msgid "rantsila:lle"
+msgstr "ランツィラ向け"
+
+msgid "ranua:lle"
+msgstr "ラヌア向け"
+
+msgid "rauma:lle"
+msgstr "ラウマ向け"
+
+msgid "rautalampi:lle"
+msgstr "ラウタランピ向け"
+
+msgid "rautavaara:lle"
+msgstr "ラウタヴァーラ向け"
+
+msgid "rautjarvi:lle"
+msgstr "ラウトヤルヴィ向け"
+
+msgid "reisjarvi:lle"
+msgstr "レイスヤルヴィ向け"
+
+msgid "renko:lle"
+msgstr "レンコ向け"
+
+msgid "riihimaki:lle"
+msgstr "リーヒマキ向け"
+
+msgid "ristiina:lle"
+msgstr "リスティイナ向け"
+
+msgid "ristijarvi:lle"
+msgstr "リスティヤルヴィ向け"
+
+msgid "rovaniemen_mlk:lle"
+msgstr "ロヴァニエミ農村地区向け"
+
+msgid "rovaniemi:lle"
+msgstr "ロヴァニエミ向け"
+
+msgid "ruokolahti:lle"
+msgstr "ルオコラフティ向け"
+
+msgid "ruotsinpyhtaa:lle"
+msgstr "ルオツィンピュフタ向け"
+
+msgid "ruovesi:lle"
+msgstr "ルオヴェシ向け"
+
+msgid "rusko:lle"
+msgstr "ルスコ向け"
+
+msgid "ruukki:lle"
+msgstr "ルーッキ向け"
+
+msgid "rymattyla:lle"
+msgstr "リュマッティラ向け"
+
+msgid "saarijarvi:lle"
+msgstr "サーリヤルヴィ向け"
+
+msgid "sakyla:lle"
+msgstr "サキュラ向け"
+
+msgid "salla:lle"
+msgstr "サッラ向け"
+
+msgid "salo:lle"
+msgstr "サロ向け"
+
+msgid "saltvik:lle"
+msgstr "サルトヴィーク向け"
+
+msgid "sammatti:lle"
+msgstr "サンマッティ向け"
+
+msgid "sarkisalo:lle"
+msgstr "サルキサロ向け"
+
+msgid "sauvo:lle"
+msgstr "サウヴォ向け"
+
+msgid "savitaipale:lle"
+msgstr "サヴィタイパレ向け"
+
+msgid "savonlinna:lle"
+msgstr "サヴォンリンナ向け"
+
+msgid "savonranta:lle"
+msgstr "サヴォンランタ向け"
+
+msgid "savukoski:lle"
+msgstr "サヴコスキ向け"
+
+msgid "seinajoki:lle"
+msgstr "セイナヨキ向け"
+
+msgid "sievi:lle"
+msgstr "シエヴィ向け"
+
+msgid "siikainen:lle"
+msgstr "シーカイネン向け"
+
+msgid "siikajoki:lle"
+msgstr "シーカヨキ向け"
+
+msgid "siilinjarvi:lle"
+msgstr "シーリンヤルヴィ向け"
+
+msgid "simo:lle"
+msgstr "シモ向け"
+
+msgid "sipoo:lle"
+msgstr "シポー向け"
+
+msgid "siuntio:lle"
+msgstr "シウンティオ向け"
+
+msgid "sodankyla:lle"
+msgstr "ソダンキュラ向け"
+
+msgid "soini:lle"
+msgstr "ソイニ向け"
+
+msgid "somero:lle"
+msgstr "ソメロ向け"
+
+msgid "sonkajarvi:lle"
+msgstr "ソンカヤルヴィ向け"
+
+msgid "sotkamo:lle"
+msgstr "ソトカモ向け"
+
+msgid "sottunga:lle"
+msgstr "ソットゥンガ向け"
+
+msgid "sulkava:lle"
+msgstr "スルカヴァ向け"
+
+msgid "sumiainen:lle"
+msgstr "スミアイネン向け"
+
+msgid "sund:lle"
+msgstr "スンド向け"
+
+msgid "suodenniemi:lle"
+msgstr "スオデンニエミ向け"
+
+msgid "suolahti:lle"
+msgstr "スオラフティ向け"
+
+msgid "suomenniemi:lle"
+msgstr "スオメンニエミ向け"
+
+msgid "suomusjarvi:lle"
+msgstr "スオムスヤルヴィ向け"
+
+msgid "suomussalmi:lle"
+msgstr "スオムッサルミ向け"
+
+msgid "suonenjoki:lle"
+msgstr "スオネンヨキ向け"
+
+msgid "sysma:lle"
+msgstr "シュスマ向け"
+
+msgid "taipalsaari:lle"
+msgstr "タイパルサーリ向け"
+
+msgid "taivalkoski:lle"
+msgstr "タイヴァルコスキ向け"
+
+msgid "taivassalo:lle"
+msgstr "タイヴァッサロ向け"
+
+msgid "tammela:lle"
+msgstr "タンメラ向け"
+
+msgid "tammisaari:lle"
+msgstr "タンミサーリ向け"
+
+msgid "tampere:lle"
+msgstr "タンペレ向け"
+
+msgid "tarvasjoki:lle"
+msgstr "タルヴァスヨキ向け"
+
+msgid "tervola:lle"
+msgstr "テルヴォラ向け"
+
+msgid "tervo:lle"
+msgstr "テルヴォ向け"
+
+msgid "teuva:lle"
+msgstr "テウヴァ向け"
+
+msgid "tohmajarvi:lle"
+msgstr "トフマヤルヴィ向け"
+
+msgid "toholampi:lle"
+msgstr "トホランピ向け"
+
+msgid "toijala:lle"
+msgstr "トイヤラ向け"
+
+msgid "toivakka:lle"
+msgstr "トイヴァッカ向け"
+
+msgid "tornio:lle"
+msgstr "トルニオ向け"
+
+msgid "toysa:lle"
+msgstr "トユサ向け"
+
+msgid "turku:lle"
+msgstr "トゥルク向け"
+
+msgid "tuulos:lle"
+msgstr "トゥウロス向け"
+
+msgid "tuusniemi:lle"
+msgstr "トゥースニエミ向け"
+
+msgid "tuusula:lle"
+msgstr "トゥウスラ向け"
+
+msgid "tyrnava:lle"
+msgstr "テュルナヴァ向け"
+
+msgid "ullava:lle"
+msgstr "ウッラヴァ向け"
+
+msgid "ulvila:lle"
+msgstr "ウルヴィラ向け"
+
+msgid "urjala:lle"
+msgstr "ウルヤラ向け"
+
+msgid "utajarvi:lle"
+msgstr "ウタヤルヴィ向け"
+
+msgid "utsjoki:lle"
+msgstr "ウツヨキ向け"
+
+msgid "uurainen:lle"
+msgstr "ウウライネン向け"
+
+msgid "uusikaarlepyy:lle"
+msgstr "ウウシカールレピュー向け"
+
+msgid "uusikaupunki:lle"
+msgstr "ウウシカウプンキ向け"
+
+msgid "vaala:lle"
+msgstr "ヴァーラ向け"
+
+msgid "vaasa:lle"
+msgstr "ヴァーサ向け"
+
+msgid "vahakyro:lle"
+msgstr "ヴァハキュロ向け"
+
+msgid "vahto:lle"
+msgstr "ヴァフト向け"
+
+msgid "valkeakoski:lle"
+msgstr "ヴァルケアコスキ向け"
+
+msgid "valkeala:lle"
+msgstr "ヴァルケアラ向け"
+
+msgid "valtimo:lle"
+msgstr "ヴァルティモ向け"
+
+msgid "vammala:lle"
+msgstr "ヴァンマラ向け"
+
+msgid "vampula:lle"
+msgstr "ヴァンプラ向け"
+
+msgid "vantaa:lle"
+msgstr "ヴァンター向け"
+
+msgid "vardo:lle"
+msgstr "ヴォールドー向け"
+
+msgid "varkaus:lle"
+msgstr "ヴァルカウス向け"
+
+msgid "varpaisjarvi:lle"
+msgstr "ヴァルパイスヤルヴィ向け"
+
+msgid "vastanfjard:lle"
+msgstr "ヴェスタンフィヤルド向け"
+
+msgid "vehmaa:lle"
+msgstr "ヴェフマー向け"
+
+msgid "velkua:lle"
+msgstr "ヴェルクア向け"
+
+msgid "vesanto:lle"
+msgstr "ヴェサント向け"
+
+msgid "vesilahti:lle"
+msgstr "ヴェシラフティ向け"
+
+msgid "veteli:lle"
+msgstr "ヴェテリ向け"
+
+msgid "vierema:lle"
+msgstr "ヴィエレマ向け"
+
+msgid "vihanti:lle"
+msgstr "ヴィハンティ向け"
+
+msgid "vihti:lle"
+msgstr "ヴィフティ向け"
+
+msgid "viiala:lle"
+msgstr "ヴィイアラ向け"
+
+msgid "viitasaari:lle"
+msgstr "ヴィイタサーリ向け"
+
+msgid "viljakkala:lle"
+msgstr "ヴィルヤッカラ向け"
+
+msgid "vilppula:lle"
+msgstr "ヴィルップラ向け"
+
+msgid "vimpeli:lle"
+msgstr "ヴィンペリ向け"
+
+msgid "virolahti:lle"
+msgstr "ヴィロラフティ向け"
+
+msgid "virrat:lle"
+msgstr "ヴィルラット向け"
+
+msgid "voyri:lle"
+msgstr "ヴェイリ向け"
+
+msgid "vuolijoki:lle"
+msgstr "ヴオリヨキ向け"
+
+msgid "ylamaa:lle"
+msgstr "イラマー向け"
+
+msgid "ylane:lle"
+msgstr "イラネ向け"
+
+msgid "yliharma:lle"
+msgstr "イリハルマ向け"
+
+msgid "yliii:lle"
+msgstr "イリイイ向け"
+
+msgid "ylikiiminki:lle"
+msgstr "イリキイミンキ向け"
+
+msgid "ylistaro:lle"
+msgstr "イリスタロ向け"
+
+msgid "ylitornio:lle"
+msgstr "イリトルニオ向け"
+
+msgid "ylivieska:lle"
+msgstr "イリヴィエスカ向け"
+
+msgid "ylojarvi:lle"
+msgstr "イロヤルヴィ向け"
+
+msgid "ypaja:lle"
+msgstr "イパヤ向け"
+
+msgid "poudan todennakoisyys"
+msgstr "降水なしの確率"
+
+msgid "metsapaloindeksi"
+msgstr "森林火災警戒指数"
+
+msgid "haihdunta on erittain huono"
+msgstr "蒸発量が非常に少ない"
+
+msgid "haihdunta on huono"
+msgstr "蒸発量が少ない"
+
+msgid "haihdunta on tyydyttava"
+msgstr "蒸発量が普通"
+
+msgid "haihdunta on hyva"
+msgstr "蒸発量が良好"
+
+msgid "haihdunta on erinomainen"
+msgstr "蒸発量が非常に良好"
+
+msgid "metsapalovaroitus on voimassa"
+msgstr "森林火災警報が発令中"
+
+msgid "metsapalovaroitus ei ole voimassa"
+msgstr "森林火災警報は発令されていない"
+
+msgid "luoto:lle"
+msgstr "ルオト向け"
+
+msgid "kruunupyy:lle"
+msgstr "クルーヌピュー向け"
+
+msgid "1-aamulla"
+msgstr "月曜日の朝"
+
+msgid "2-aamulla"
+msgstr "火曜日の朝"
+
+msgid "3-aamulla"
+msgstr "水曜日の朝"
+
+msgid "4-aamulla"
+msgstr "木曜日の朝"
+
+msgid "5-aamulla"
+msgstr "金曜日の朝"
+
+msgid "6-aamulla"
+msgstr "土曜日の朝"
+
+msgid "7-aamulla"
+msgstr "日曜日の朝"
+
+msgid "1-aamupaivalla"
+msgstr "月曜日の午前中"
+
+msgid "2-aamupaivalla"
+msgstr "火曜日の午前中"
+
+msgid "3-aamupaivalla"
+msgstr "水曜日の午前中"
+
+msgid "4-aamupaivalla"
+msgstr "木曜日の午前中"
+
+msgid "5-aamupaivalla"
+msgstr "金曜日の午前中"
+
+msgid "6-aamupaivalla"
+msgstr "土曜日の午前中"
+
+msgid "7-aamupaivalla"
+msgstr "日曜日の午前中"
+
+msgid "1-iltapaivalla"
+msgstr "月曜日の午後"
+
+msgid "2-iltapaivalla"
+msgstr "火曜日の午後"
+
+msgid "3-iltapaivalla"
+msgstr "水曜日の午後"
+
+msgid "4-iltapaivalla"
+msgstr "木曜日の午後"
+
+msgid "5-iltapaivalla"
+msgstr "金曜日の午後"
+
+msgid "6-iltapaivalla"
+msgstr "土曜日の午後"
+
+msgid "7-iltapaivalla"
+msgstr "日曜日の午後"
+
+msgid "1-illalla"
+msgstr "月曜日の夕方"
+
+msgid "2-illalla"
+msgstr "火曜日の夕方"
+
+msgid "3-illalla"
+msgstr "水曜日の夕方"
+
+msgid "4-illalla"
+msgstr "木曜日の夕方"
+
+msgid "5-illalla"
+msgstr "金曜日の夕方"
+
+msgid "6-illalla"
+msgstr "土曜日の夕方"
+
+msgid "7-illalla"
+msgstr "日曜日の夕方"
+
+msgid "kastepiste"
+msgstr "露点"
+
+msgid "suhteellinen kosteus"
+msgstr "相対湿度"
+
+msgid "hehtopascalia"
+msgstr "ヘクトパスカル"
+
+msgid "paine"
+msgstr "気圧"
+
+msgid "keli muuttuu"
+msgstr "路面状況が変わる"
+
+msgid "lumisateesta"
+msgstr "降雪のため悪化"
+
+msgid "haukivesi:lle"
+msgstr "ハウキヴェシ向け"
+
+msgid "kallavesi:lle"
+msgstr "カッラヴェシ向け"
+
+msgid "malaren:lle"
+msgstr "メーラレン向け"
+
+msgid "pihlajavesi:lle"
+msgstr "ピフラヤヴェシ向け"
+
+msgid "suur-saimaa:lle"
+msgstr "サイマー湖向け"
+
+msgid "vanern:lle"
+msgstr "ヴェーネルン向け"
+
+msgid "tie on muuttumassa"
+msgstr "路面が変化中"
+
+msgid "keli huononee"
+msgstr "路面状況が悪化"
+
+msgid "vaikeuttaa liikennetta"
+msgstr "交通を妨害する"
+
+msgid "kuuraiseksi"
+msgstr "霜で覆われる"
+
+msgid "marka"
+msgstr "濡れた"
+
+msgid "lumisateen takia"
+msgstr "降雪のため"
+
+msgid "pakkasliukkaus"
+msgstr "凍結による滑り"
+
+msgid "voimakas puuskainen tuuli"
+msgstr "強い突風"
+
+msgid "lumipyry"
+msgstr "吹雪"
+
+msgid "kelin nopea huononeminen"
+msgstr "路面状況の急速な悪化"
+
+msgid "rantasade jaiselle"
+msgstr "凍結・部分凍結路面へのみぞれ"
+
+msgid "jaiseksi vesisateesta johtuen"
+msgstr "雨による凍結"
+
+msgid "alijaahtynyt sade"
+msgstr "過冷却降雨"
+
+msgid "jaiseksi tai osittain jaiseksi"
+msgstr "凍結または部分的に凍結"
+
+msgid "runsas lumisade"
+msgstr "大雪"
+
+msgid "tienpinta muuttuu"
+msgstr "路面が変わる"
+
+msgid "ukkoskuurot todennakoisia"
+msgstr "雷雨のにわか雨の可能性が高い"
+
+msgid "ukkoskuurot paikoin mahdollisia"
+msgstr "一部の地域で雷雨のにわか雨の可能性"
+
+msgid "pohjoispohjanmeri:lle"
+msgstr "北北海向け"
+
+msgid "etelapohjanmeri:lle"
+msgstr "南北海向け"
+
+msgid "biskaja:lle"
+msgstr "ビスケー湾向け"
+
+msgid "uusimaa_ita-uusim:lle"
+msgstr "ウーシマー向け"
+
+msgid "paakaupunkiseutu:lle"
+msgstr "ヘルシンキ首都圏向け"
+
+msgid "kaakkois-suomi:lle"
+msgstr "南東フィンランド向け"
+
+msgid "ita-lappi:lle"
+msgstr "東ラップランド向け"
+
+msgid "pohjois-pohjanmaa-itaosa:lle"
+msgstr "北ポフヤンマー東部向け"
+
+msgid "pohjois-pohjanmaa-lansiosa:lle"
+msgstr "北ポフヤンマー西部向け"
+
+msgid "merilappi:lle"
+msgstr "海洋ラップランド向け"
+
+msgid "pohjanmaa-etela-pohjanmaa:lle"
+msgstr "ポフヤンマーおよび南ポフヤンマー向け"
+
+msgid "marka tienpinta muuttuu"
+msgstr "濡れた路面が変化する"
+
+msgid "alle"
+msgstr "未満"
+
+msgid "yksi millimetri"
+msgstr "1ミリメートル"
+
+msgid "lahella [1] astetta"
+msgstr "[1]度近く"
+
+msgid "[1] asteen tienoilla"
+msgstr "[1]度前後"
+
+msgid "kello [1]"
+msgstr "[1]時"
+
+msgid "1-na kello [1]"
+msgstr "月曜日[1]時"
+
+msgid "2-na kello [1]"
+msgstr "火曜日[1]時"
+
+msgid "3-na kello [1]"
+msgstr "水曜日[1]時"
+
+msgid "4-na kello [1]"
+msgstr "木曜日[1]時"
+
+msgid "5-na kello [1]"
+msgstr "金曜日[1]時"
+
+msgid "6-na kello [1]"
+msgstr "土曜日[1]時"
+
+msgid "7-na kello [1]"
+msgstr "日曜日[1]時"
+
+msgid "[1] asteen tuntumassa"
+msgstr "[1]度前後"
+
+msgid "ita-suomi:lle"
+msgstr "東フィンランド向け"
+
+msgid "itainen-uusimaa:lle"
+msgstr "東ウーシマー向け"
+
+msgid "koleaa"
+msgstr "肌寒い"
+
+msgid "lantinen-uusimaa:lle"
+msgstr "西ウーシマー向け"
+
+msgid "lounais-suomi:lle"
+msgstr "南西フィンランド向け"
+
+msgid "pohjois-suomi:lle"
+msgstr "北フィンランド向け"
+
+msgid "pikkupakkasta"
+msgstr "零度をわずかに下回る"
+
+msgid "yksittaiset vesikuurot mahdollisia"
+msgstr "散発的な雨のにわか雨の可能性"
+
+msgid "yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "散発的な雨またはみぞれのにわか雨の可能性"
+
+msgid "yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "散発的な雨または雪のにわか雨の可能性"
+
+msgid "yksittaiset sadekuurot mahdollisia"
+msgstr "散発的なにわか雨の可能性"
+
+msgid "yksittaiset rantakuurot mahdollisia"
+msgstr "散発的なみぞれのにわか雨の可能性"
+
+msgid "yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "散発的なみぞれまたは雨のにわか雨の可能性"
+
+msgid "yksittaiset lumikuurot mahdollisia"
+msgstr "散発的な雪のにわか雨の可能性"
+
+msgid "yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "散発的な雪またはみぞれのにわか雨の可能性"
+
+msgid "vahan plussan puolella"
+msgstr "わずかにプラス"
+
+msgid "voimakkaita vesikuuroja"
+msgstr "強い雨のにわか雨"
+
+msgid "voimakkaita sadekuuroja"
+msgstr "強いにわか雨"
+
+msgid "vesikuuroja"
+msgstr "雨のにわか雨"
+
+msgid "vajaat"
+msgstr "ほぼ"
+
+msgid "verrattain pilvinen"
+msgstr "比較的曇り"
+
+msgid "vaihtelee puolipilvisesta pilviseen"
+msgstr "一部曇りから曇りの間で変わりやすい"
+
+msgid "tuulinen"
+msgstr "強風"
+
+msgid "tuulista"
+msgstr "強風"
+
+msgid "tuuli saa saan tuntumaan viileammalta"
+msgstr "風で体感温度が涼しく感じられる"
+
+msgid "tuuli saa saan tuntumaan kylmemmalta"
+msgstr "風で体感温度が寒く感じられる"
+
+msgid "tuntumassa"
+msgstr "前後"
+
+msgid "tihkusadetta"
+msgstr "霧雨"
+
+msgid "tienoilla"
+msgstr "前後"
+
+msgid "saa on helteista"
+msgstr "非常に暑い"
+
+msgid "saa on edelleen lauhaa"
+msgstr "引き続き穏やか"
+
+msgid "sumua"
+msgstr "霧"
+
+msgid "sisamaassa"
+msgstr "内陸部"
+
+msgid "selkea"
+msgstr "晴れ"
+
+msgid "sakeita"
+msgstr "濃い"
+
+msgid "sakeaa"
+msgstr "濃い"
+
+msgid "sadekuuroja"
+msgstr "にわか雨"
+
+msgid "sade alkaa"
+msgstr "降水が始まる"
+
+msgid "saadaan"
+msgstr "得られる"
+
+msgid "rantakuuroja"
+msgstr "みぞれのにわか雨"
+
+msgid "runsasta vesisadetta"
+msgstr "大雨"
+
+msgid "runsaita"
+msgstr "多い"
+
+msgid "puolipilvinen"
+msgstr "一部曇り"
+
+msgid "poutainen"
+msgstr "好天"
+
+msgid "poikkeuksellisen"
+msgstr "例外的に"
+
+msgid "pohjoisesta"
+msgstr "北から"
+
+msgid "pohjoisesta alkaen"
+msgstr "北から始まり"
+
+msgid "pilvinen"
+msgstr "曇り"
+
+msgid "pieni ukkosen todennakoisyys"
+msgstr "雷の確率が低い"
+
+msgid "pakkasta"
+msgstr "零下"
+
+msgid "pakkanen"
+msgstr "霜"
+
+msgid "pakkanen on purevaa"
+msgstr "霜が厳しい"
+
+msgid "pakkanen on erittain purevaa"
+msgstr "霜が非常に厳しい"
+
+msgid "pakkanen hellittaa"
+msgstr "寒さが緩む"
+
+msgid "paikkeilla"
+msgstr "前後"
+
+msgid "nollan tienoilla"
+msgstr "零度前後"
+
+msgid "melko selkea"
+msgstr "比較的晴れ"
+
+msgid "mahdollisesti"
+msgstr "可能性あり"
+
+msgid "lannesta"
+msgstr "西から"
+
+msgid "lannesta alkaen"
+msgstr "西から始まり"
+
+msgid "lampotila nousee"
+msgstr "気温が上がる"
+
+msgid "lahella"
+msgstr "近く"
+
+msgid "luoteesta"
+msgstr "北西から"
+
+msgid "luoteesta alkaen"
+msgstr "北西から始まり"
+
+msgid "lounaasta"
+msgstr "南西から"
+
+msgid "lounaasta alkaen"
+msgstr "南西から始まり"
+
+msgid "leutoa"
+msgstr "穏やか"
+
+msgid "koillisesta"
+msgstr "北東から"
+
+msgid "koillisesta alkaen"
+msgstr "北東から始まり"
+
+msgid "kirea"
+msgstr "厳しい"
+
+msgid "kirea pakkanen jatkuu"
+msgstr "厳しい寒さが続く"
+
+msgid "kaakosta"
+msgstr "南東から"
+
+msgid "kaakosta alkaen"
+msgstr "南東から始まり"
+
+msgid "jaatavaa vesisadetta"
+msgstr "雨氷"
+
+msgid "jotka voivat olla jaatavia"
+msgstr "凍る可能性がある"
+
+msgid "joka voi olla sakeaa"
+msgstr "濃くなる可能性がある"
+
+msgid "joka voi olla jaatavaa"
+msgstr "凍る可能性がある"
+
+msgid "joka voi olla ankaraa"
+msgstr "厳しくなる可能性がある"
+
+msgid "joka muuttuu vesisateeksi"
+msgstr "雨に変わる"
+
+msgid "joka muuttuu tihkusateeksi"
+msgstr "霧雨に変わる"
+
+msgid "joka muuttuu rantasateeksi"
+msgstr "みぞれに変わる"
+
+msgid "joka muuttuu lumisateeksi"
+msgstr "雪に変わる"
+
+msgid "idasta"
+msgstr "東から"
+
+msgid "idasta alkaen"
+msgstr "東から始まり"
+
+msgid "huomattavasti"
+msgstr "かなり"
+
+msgid "hieman lauhempaa"
+msgstr "やや穏やか"
+
+msgid "hieman kylmempaa"
+msgstr "やや寒い"
+
+msgid "hieman kireampaa"
+msgstr "やや厳しい"
+
+msgid "hieman heikompaa"
+msgstr "やや弱い"
+
+msgid "heikkoja"
+msgstr "弱い"
+
+msgid "heikkoja vesikuuroja"
+msgstr "弱い雨のにわか雨"
+
+msgid "heikkoja sadekuuroja"
+msgstr "弱いにわか雨"
+
+msgid "heikkoa vesisadetta"
+msgstr "弱い雨"
+
+msgid "harvinaisen"
+msgstr "まれに"
+
+msgid "hallan vaara"
+msgstr "霜の危険"
+
+msgid "hallaa"
+msgstr "霜"
+
+msgid "etelasta"
+msgstr "南から"
+
+msgid "etelasta alkaen"
+msgstr "南から始まり"
+
+msgid "asteen"
+msgstr "度の"
+
+msgid "alueen pohjoisosassa"
+msgstr "北部"
+
+msgid "alueen lansiosassa"
+msgstr "西部"
+
+msgid "alueen luoteisosassa"
+msgstr "北西部"
+
+msgid "alueen lounaisosassa"
+msgstr "南西部"
+
+msgid "alueen koillisosassa"
+msgstr "北東部"
+
+msgid "alueen kaakkoisosassa"
+msgstr "南東部"
+
+msgid "alueen itaosassa"
+msgstr "東部"
+
+msgid "alueen etelaosassa"
+msgstr "南部"
+
+msgid "alavilla mailla"
+msgstr "低地で"
+
+msgid "myohemmin"
+msgstr "後ほど"
+
+msgid "[1-na] saa on [poikkeuksellisen] [kylmaa]"
+msgstr "[1]天気は[2][3]"
+
+msgid "[1-na] [saa lampenee]"
+msgstr "[1][2]"
+
+msgid "kirea pakkanen heikkenee"
+msgstr "厳しい寒さが弱まる"
+
+msgid "saa lampenee huomattavasti"
+msgstr "天気がかなり暖かくなる"
+
+msgid "saa lampenee vahan"
+msgstr "天気が少し暖かくなる"
+
+msgid "saa viilenee huomattavasti"
+msgstr "天気がかなり涼しくなる"
+
+msgid "saa viilenee vahan"
+msgstr "天気が少し涼しくなる"
+
+msgid "[iltapaivalla] saa poutaantuu ja vaihtelee puolipilvisesta pilviseen"
+msgstr "[1]天気が晴れ、一部曇りから曇りで変わりやすい"
+
+msgid "empty_string"
+msgstr ""
+
+msgid "[rannikolla] [paikoin] hallaa, joka voi olla ankaraa"
+msgstr "[1][2]厳しい霜の可能性"
+
+msgid "[rannikolla] mahdollisesti hallaa"
+msgstr "[1]霜の可能性"
+
+msgid "[sisamaassa] hallan vaara"
+msgstr "[1]霜の危険"
+
+msgid "[rannikolla] [paikoin] hallaa"
+msgstr "[1][2]霜"
+
+msgid "aamusta"
+msgstr "朝から"
+
+msgid "[huomenna] [sisamaassa] [paikoin] sumua, joka voi olla sakeaa"
+msgstr "[1][2][3]濃い霧の可能性"
+
+msgid "[huomenna] [sisamaassa] [paikoin] sumua"
+msgstr "[1][2][3]霧"
+
+msgid "keskiyolla ja aamuyolla"
+msgstr "深夜および深夜過ぎ"
+
+msgid "iltayolla ja keskiyolla"
+msgstr "深夜前および深夜"
+
+msgid "aamuyolla ja aamulla"
+msgstr "深夜過ぎおよび朝"
+
+msgid "illalla ja iltayolla"
+msgstr "夕方および深夜前"
+
+msgid "iltapaivalla ja illalla"
+msgstr "午後および夕方"
+
+msgid "aamulla ja aamupaivalla"
+msgstr "朝および午前中"
+
+msgid "7-iltapaivalla ja illalla"
+msgstr "日曜日の午後および夕方"
+
+msgid "6-iltapaivalla ja illalla"
+msgstr "土曜日の午後および夕方"
+
+msgid "5-iltapaivalla ja illalla"
+msgstr "金曜日の午後および夕方"
+
+msgid "4-iltapaivalla ja illalla"
+msgstr "木曜日の午後および夕方"
+
+msgid "3-iltapaivalla ja illalla"
+msgstr "水曜日の午後および夕方"
+
+msgid "2-iltapaivalla ja illalla"
+msgstr "火曜日の午後および夕方"
+
+msgid "1-iltapaivalla ja illalla"
+msgstr "月曜日の午後および夕方"
+
+msgid "7-aamulla ja aamupaivalla"
+msgstr "日曜日の朝および午前中"
+
+msgid "6-aamulla ja aamupaivalla"
+msgstr "土曜日の朝および午前中"
+
+msgid "5-aamulla ja aamupaivalla"
+msgstr "金曜日の朝および午前中"
+
+msgid "4-aamulla ja aamupaivalla"
+msgstr "木曜日の朝および午前中"
+
+msgid "3-aamulla ja aamupaivalla"
+msgstr "水曜日の朝および午前中"
+
+msgid "2-aamulla ja aamupaivalla"
+msgstr "火曜日の朝および午前中"
+
+msgid "1-aamulla ja aamupaivalla"
+msgstr "月曜日の朝および午前中"
+
+msgid "7-illalla ja iltayolla"
+msgstr "日曜日の夕方および深夜前"
+
+msgid "6-illalla ja iltayolla"
+msgstr "土曜日の夕方および深夜前"
+
+msgid "5-illalla ja iltayolla"
+msgstr "金曜日の夕方および深夜前"
+
+msgid "4-illalla ja iltayolla"
+msgstr "木曜日の夕方および深夜前"
+
+msgid "3-illalla ja iltayolla"
+msgstr "水曜日の夕方および深夜前"
+
+msgid "2-illalla ja iltayolla"
+msgstr "火曜日の夕方および深夜前"
+
+msgid "1-illalla ja iltayolla"
+msgstr "月曜日の夕方および深夜前"
+
+msgid "aamupaivasta"
+msgstr "午前中から"
+
+msgid "7-iltayolla"
+msgstr "日曜日の深夜前"
+
+msgid "6-iltayolla"
+msgstr "土曜日の深夜前"
+
+msgid "5-iltayolla"
+msgstr "金曜日の深夜前"
+
+msgid "4-iltayolla"
+msgstr "木曜日の深夜前"
+
+msgid "3-iltayolla"
+msgstr "水曜日の深夜前"
+
+msgid "2-iltayolla"
+msgstr "火曜日の深夜前"
+
+msgid "1-iltayolla"
+msgstr "月曜日の深夜前"
+
+msgid "[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen"
+msgstr "[1][2]天気が一部曇りから曇りで変わりやすい"
+
+msgid "[huomenna] [sisamaassa] saa on [selkea]"
+msgstr "[1][2]天気は[3]"
+
+msgid "hyvin tuulinen"
+msgstr "非常に強風"
+
+msgid "hyvin tuulista"
+msgstr "非常に強風"
+
+msgid "[iltapaivalla] [rannikolla] pakkanen on purevaa"
+msgstr "[1][2]霜が厳しい"
+
+msgid "7-aamuyolla"
+msgstr "日曜日の早朝"
+
+msgid "6-aamuyolla"
+msgstr "土曜日の早朝"
+
+msgid "5-aamuyolla"
+msgstr "金曜日の早朝"
+
+msgid "4-aamuyolla"
+msgstr "木曜日の早朝"
+
+msgid "3-aamuyolla"
+msgstr "水曜日の早朝"
+
+msgid "2-aamuyolla"
+msgstr "火曜日の早朝"
+
+msgid "2-aamuyolla ja aamulla"
+msgstr "火曜日の早朝および朝"
+
+msgid "3-aamuyolla ja aamulla"
+msgstr "水曜日の早朝および朝"
+
+msgid "5-aamuyolla ja aamulla"
+msgstr "金曜日の早朝および朝"
+
+msgid "6-aamuyolla ja aamulla"
+msgstr "土曜日の早朝および朝"
+
+msgid "7-aamuyolla ja aamulla"
+msgstr "日曜日の早朝および朝"
+
+msgid "1-aamuyolla ja aamulla"
+msgstr "月曜日の早朝および朝"
+
+msgid "saa on tuulinen"
+msgstr "天気が強風"
+
+msgid "[iltapaivalla] [rannikolla] on [tuulista]"
+msgstr "[1][2][3]"
+
+msgid "rannikolla lahella [N] [astetta]"
+msgstr "沿岸部[1][2]近く"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on vahan yli [N] [astetta]"
+msgstr "[1][2][3]がわずかに[4][5]を超える"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on vajaat [N] [astetta]"
+msgstr "[1][2][3]が[4][5]に満たない"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on lahella [N] [astetta]"
+msgstr "[1][2][3]が[4][5]近く"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] asteen tuntumassa"
+msgstr "[1][2][3]が[4]度前後"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] asteen tienoilla"
+msgstr "[1][2][3]が[4]度前後"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on noin [N] [astetta]"
+msgstr "[1][2][3]が約[4][5]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [M...N] [astetta]"
+msgstr "[1][2][3]が[4][5]"
+
+msgid "[yolla] on [hieman kylmempaa]"
+msgstr "[1][2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [suunnilleen sama]"
+msgstr "[1][2][3]が[4]"
+
+msgid "[huomenna] [sisamaassa] pakkasta on [M...N] [astetta]"
+msgstr "[1][2]気温が[3][4]"
+
+msgid "[yolla] lampotila nousee"
+msgstr "[1]気温が上がる"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [hieman kireampaa]"
+msgstr "[1][2]寒さが[3]"
+
+msgid "[huomenna] [rannikolla] on pikkupakkasta"
+msgstr "[1][2]零度をわずかに下回る"
+
+msgid "rannikolla noin [N] [astetta]"
+msgstr "沿岸部約[1][2]"
+
+msgid "rannikolla vajaat [N] [astetta]"
+msgstr "沿岸部[1][2]に満たない"
+
+msgid "rannikolla vahan yli [N] [astetta]"
+msgstr "沿岸部わずかに[1][2]を超える"
+
+msgid "rannikolla [M...N] [astetta]"
+msgstr "沿岸部[1][2]"
+
+msgid "rannikolla [N] asteen tienoilla"
+msgstr "沿岸部[1]度前後"
+
+msgid "rannikolla [N] asteen tuntumassa"
+msgstr "沿岸部[1]度前後"
+
+msgid "rannikolla [suunnilleen sama]"
+msgstr "沿岸部[1]"
+
+msgid "[huomenna] [sisamaassa] [M...N] [astetta]"
+msgstr "[1][2][3][4]"
+
+msgid "[huomenna] [sisamaassa] noin [N] [astetta]"
+msgstr "[1][2]約[3][4]"
+
+msgid "[huomenna] [sisamaassa] [N] asteen tienoilla"
+msgstr "[1][2][3]度前後"
+
+msgid "[huomenna] [sisamaassa] [N] asteen tuntumassa"
+msgstr "[1][2][3]度前後"
+
+msgid "[huomenna] [sisamaassa] lahella [N] [astetta]"
+msgstr "[1][2][3][4]近く"
+
+msgid "[huomenna] [sisamaassa] vajaat [N] [astetta]"
+msgstr "[1][2][3][4]に満たない"
+
+msgid "[huomenna] [sisamaassa] vahan yli [N] [astetta]"
+msgstr "[1][2]わずかに[3][4]を超える"
+
+msgid "[huomenna] [sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]"
+msgstr "[1][2]天気はほぼ好天、[3]"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta]"
+msgstr "[1][2][3][4][5]"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2][3][4][5]、凍る可能性"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2][3][4][5]、凍る可能性"
+
+msgid "saa on poutainen"
+msgstr "天気は好天"
+
+msgid "6-keskiyolla"
+msgstr "土曜日の真夜中"
+
+msgid "5-keskiyolla"
+msgstr "金曜日の真夜中"
+
+msgid "4-keskiyolla"
+msgstr "木曜日の真夜中"
+
+msgid "3-keskiyolla"
+msgstr "水曜日の真夜中"
+
+msgid "2-keskiyolla"
+msgstr "火曜日の真夜中"
+
+msgid "1-keskiyolla"
+msgstr "月曜日の真夜中"
+
+msgid "[sisamaassa] alavilla mailla hallan vaara"
+msgstr "[1]低地で霜の危険"
+
+msgid "7-keskiyolla"
+msgstr "日曜日の真夜中"
+
+msgid "[huomenna] [sisamaassa] [suunnilleen sama]"
+msgstr "[1][2][3]"
+
+msgid "7-iltapaivasta alkaen"
+msgstr "日曜日の午後から"
+
+msgid "6-iltapaivasta alkaen"
+msgstr "土曜日の午後から"
+
+msgid "5-iltapaivasta alkaen"
+msgstr "金曜日の午後から"
+
+msgid "4-iltapaivasta alkaen"
+msgstr "木曜日の午後から"
+
+msgid "3-iltapaivasta alkaen"
+msgstr "水曜日の午後から"
+
+msgid "2-iltapaivasta alkaen"
+msgstr "火曜日の午後から"
+
+msgid "1-iltapaivasta alkaen"
+msgstr "月曜日の午後から"
+
+msgid "7-iltayosta alkaen"
+msgstr "日曜日の夜遅くから"
+
+msgid "6-iltayosta alkaen"
+msgstr "土曜日の夜遅くから"
+
+msgid "5-iltayosta alkaen"
+msgstr "金曜日の夜遅くから"
+
+msgid "4-iltayosta alkaen"
+msgstr "木曜日の夜遅くから"
+
+msgid "3-iltayosta alkaen"
+msgstr "水曜日の夜遅くから"
+
+msgid "2-iltayosta alkaen"
+msgstr "火曜日の夜遅くから"
+
+msgid "1-iltayosta alkaen"
+msgstr "月曜日の夜遅くから"
+
+msgid "7-aamuyosta alkaen"
+msgstr "日曜日の早朝から"
+
+msgid "6-aamuyosta alkaen"
+msgstr "土曜日の早朝から"
+
+msgid "5-aamuyosta alkaen"
+msgstr "金曜日の早朝から"
+
+msgid "4-aamuyosta alkaen"
+msgstr "木曜日の早朝から"
+
+msgid "3-aamuyosta alkaen"
+msgstr "水曜日の早朝から"
+
+msgid "2-aamuyosta alkaen"
+msgstr "火曜日の早朝から"
+
+msgid "1-aamuyosta alkaen"
+msgstr "月曜日の早朝から"
+
+msgid "7-keskiyosta alkaen"
+msgstr "日曜日の真夜中から"
+
+msgid "6-keskiyosta alkaen"
+msgstr "土曜日の真夜中から"
+
+msgid "5-keskiyosta alkaen"
+msgstr "金曜日の真夜中から"
+
+msgid "4-keskiyosta alkaen"
+msgstr "木曜日の真夜中から"
+
+msgid "3-keskiyosta alkaen"
+msgstr "水曜日の真夜中から"
+
+msgid "2-keskiyosta alkaen"
+msgstr "火曜日の真夜中から"
+
+msgid "1-keskiyosta alkaen"
+msgstr "月曜日の真夜中から"
+
+msgid "1 hehtopascal"
+msgstr "1ヘクトパスカル"
+
+msgid "0 hehtopascalia"
+msgstr "0ヘクトパスカル"
+
+msgid "1 prosentti"
+msgstr "1パーセント"
+
+msgid "0 prosenttia"
+msgstr "0パーセント"
+
+msgid "1 millimetri"
+msgstr "1ミリメートル"
+
+msgid "0 millimetria"
+msgstr "0ミリメートル"
+
+msgid "1 metri sekunnissa"
+msgstr "1メートル/秒"
+
+msgid "0 metria sekunnissa"
+msgstr "0メートル/秒"
+
+msgid "1 aste"
+msgstr "1度"
+
+msgid "0 astetta"
+msgstr "0度"
+
+msgid "ranta- tai lumisadetta"
+msgstr "みぞれまたは降雪"
+
+msgid "lumi- tai rantasadetta"
+msgstr "降雪またはみぞれ"
+
+msgid "lumi- tai vesisadetta"
+msgstr "降雪または雨"
+
+msgid "vesi- tai lumisadetta"
+msgstr "雨または降雪"
+
+msgid "ranta- tai vesisadetta"
+msgstr "みぞれまたは雨"
+
+msgid "vesi- tai rantasadetta"
+msgstr "雨またはみぞれ"
+
+msgid "ranta- tai vesikuuroja"
+msgstr "みぞれまたは雨のにわか雨"
+
+msgid "vesi- tai rantakuuroja"
+msgstr "雨またはみぞれのにわか雨"
+
+msgid "vesi- tai lumikuuroja"
+msgstr "雨または雪のにわか雨"
+
+msgid "lumi- tai vesikuuroja"
+msgstr "雪または雨のにわか雨"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] asteen tuntumassa"
+msgstr "[1][2]気温が[3]度前後"
+
+msgid "[huomenna] [sisamaassa] saa on poutainen"
+msgstr "[1][2]天気は好天"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] asteen tienoilla"
+msgstr "[1][2]気温が[3]度前後"
+
+msgid "[huomenna] [sisamaassa] pakkanen on lahella [N] [astetta]"
+msgstr "[1][2]気温が[3][4]近く"
+
+msgid "[huomenna] [sisamaassa] pakkasta on vahan yli [N] [astetta]"
+msgstr "[1][2]気温がわずかに[3][4]を超える"
+
+msgid "[huomenna] [sisamaassa] pakkasta on vajaat [N] [astetta]"
+msgstr "[1][2]気温が[3][4]に満たない"
+
+msgid "[huomenna] [sisamaassa] pakkasta on noin [N] [astetta]"
+msgstr "[1][2]気温が約[3][4]"
+
+msgid "[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "[1][2]天気が一部曇りから曇りで変わりやすく好天"
+
+msgid "[huomenna] [sisamaassa] saa on [selkea] ja poutainen"
+msgstr "[1][2]天気は[3]で好天"
+
+msgid "[iltapaivalla] saa poutaantuu"
+msgstr "[1]天気が晴れる"
+
+msgid "todennakoisesti myos ukkostaa"
+msgstr "雷雨の可能性が高い"
+
+msgid "mahdollisesti myos ukkostaa"
+msgstr "雷の可能性もある"
+
+msgid "paikoin myos ukkostaa"
+msgstr "一部の地域でも雷"
+
+msgid "paikoin voi myos ukkostaa"
+msgstr "一部の地域でも雷の可能性"
+
+msgid "myos ukkosta esiintyy"
+msgstr "雷も発生する"
+
+msgid "[iltapaivasta alkaen] [pilvistyvaa]"
+msgstr "[1][2]"
+
+msgid "[iltapaivalla] saa poutaantuu ja on [selkea]"
+msgstr "[1]天気が晴れ[2]"
+
+msgid "[lampotila] on [suunnilleen sama]"
+msgstr "[1]が[2]"
+
+msgid "[lampotila] on [M...N] [astetta]"
+msgstr "[1]が[2][3]"
+
+msgid "[lampotila] on noin [N] [astetta]"
+msgstr "[1]が約[2][3]"
+
+msgid "[lampotila] on [N] asteen tienoilla"
+msgstr "[1]が[2]度前後"
+
+msgid "[lampotila] on [N] asteen tuntumassa"
+msgstr "[1]が[2]度前後"
+
+msgid "[lampotila] on lahella [N] [astetta]"
+msgstr "[1]が[2][3]近く"
+
+msgid "[lampotila] on vajaat [N] [astetta]"
+msgstr "[1]が[2][3]に満たない"
+
+msgid "[lampotila] on vahan yli [N] [astetta]"
+msgstr "[1]がわずかに[2][3]を超える"
+
+msgid "saa on [poikkeuksellisen] [kylmaa]"
+msgstr "天気は[1][2]"
+
+msgid "[sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]"
+msgstr "[1]天気はほぼ好天、[2]"
+
+msgid "[sisamaassa] saa on poutainen"
+msgstr "[1]天気は好天"
+
+msgid "[sisamaassa] [paikoin] [heikkoa] [sadetta]"
+msgstr "[1][2][3][4]"
+
+msgid "[sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2][3][4]、凍る可能性"
+
+msgid "[sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2][3][4]、凍る可能性"
+
+msgid "[paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2][3]、凍る可能性"
+
+msgid "[paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2][3]、凍る可能性"
+
+msgid "[paikoin] [heikkoa] [sadetta]"
+msgstr "[1][2][3]"
+
+msgid "[paikoin] sumua"
+msgstr "[1]霧"
+
+msgid "[sisamaassa] [paikoin] sumua"
+msgstr "[1][2]霧"
+
+msgid "[huomenna] sumua"
+msgstr "[1]霧"
+
+msgid "[sisamaassa] sumua"
+msgstr "[1]霧"
+
+msgid "[huomenna] [paikoin] sumua"
+msgstr "[1][2]霧"
+
+msgid "[huomenna] [sisamaassa] sumua"
+msgstr "[1][2]霧"
+
+msgid "[huomenna] [sisamaassa] sumua, joka voi olla sakeaa"
+msgstr "[1][2]濃い霧の可能性"
+
+msgid "[paikoin] sumua, joka voi olla sakeaa"
+msgstr "[1]濃い霧の可能性"
+
+msgid "[sisamaassa] sumua, joka voi olla sakeaa"
+msgstr "[1]濃い霧の可能性"
+
+msgid "[sisamaassa] [paikoin] sumua, joka voi olla sakeaa"
+msgstr "[1][2]濃い霧の可能性"
+
+msgid "[huomenna] [paikoin] sumua, joka voi olla sakeaa"
+msgstr "[1][2]濃い霧の可能性"
+
+msgid "[huomenna] sumua, joka voi olla sakeaa"
+msgstr "[1]濃い霧の可能性"
+
+msgid "[huomenna] [paikoin] [heikkoa] [sadetta]"
+msgstr "[1][2][3][4]"
+
+msgid "[paikoin] [sadetta]"
+msgstr "[1][2]"
+
+msgid "[huomenna] [sisamaassa] [heikkoa] [sadetta]"
+msgstr "[1][2][3][4]"
+
+msgid "[sisamaassa] [heikkoa] [sadetta]"
+msgstr "[1][2][3]"
+
+msgid "[huomenna] [heikkoa] [sadetta]"
+msgstr "[1][2][3]"
+
+msgid "[sisamaassa] [sadetta]"
+msgstr "[1][2]"
+
+msgid "[sisamaassa] [paikoin] [sadetta]"
+msgstr "[1][2][3]"
+
+msgid "[huomenna] [sadetta]"
+msgstr "[1][2]"
+
+msgid "[huomenna] [paikoin] [sadetta]"
+msgstr "[1][2][3]"
+
+msgid "[huomenna] [sisamaassa] [sadetta]"
+msgstr "[1][2][3]"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [sadetta]"
+msgstr "[1][2][3][4]"
+
+msgid "[huomenna] saa on poutainen"
+msgstr "[1]天気は好天"
+
+msgid "[huomenna] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]"
+msgstr "[1]天気はほぼ好天、[2]"
+
+msgid "[sisamaassa] saa vaihtelee puolipilvisesta pilviseen"
+msgstr "[1]天気が一部曇りから曇りで変わりやすい"
+
+msgid "[huomenna] saa vaihtelee puolipilvisesta pilviseen"
+msgstr "[1]天気が一部曇りから曇りで変わりやすい"
+
+msgid "[sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "[1]天気が一部曇りから曇りで変わりやすく好天"
+
+msgid "[huomenna] saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "[1]天気が一部曇りから曇りで変わりやすく好天"
+
+msgid "[sisamaassa] saa on [selkea]"
+msgstr "[1]天気は[2]"
+
+msgid "[huomenna] saa on [selkea]"
+msgstr "[1]天気は[2]"
+
+msgid "[sisamaassa] saa on [selkea] ja poutainen"
+msgstr "[1]天気は[2]で好天"
+
+msgid "[huomenna] saa on [selkea] ja poutainen"
+msgstr "[1]天気は[2]で好天"
+
+msgid "[huomenna] [sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2][3][4]、凍る可能性"
+
+msgid "[huomenna] [sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2][3][4]、凍る可能性"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2][3][4]、凍る可能性"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2][3][4]、凍る可能性"
+
+msgid "[huomenna] [sisamaassa] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2][3]、凍る可能性"
+
+msgid "[huomenna] [sisamaassa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2][3]、凍る可能性"
+
+msgid "[heikkoa] [sadetta]"
+msgstr "[1][2]"
+
+msgid "[sadetta], joka voi olla jaatavaa"
+msgstr "[1]、凍る可能性"
+
+msgid "[heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2]、凍る可能性"
+
+msgid "[paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2]、凍る可能性"
+
+msgid "[sisamaassa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2]、凍る可能性"
+
+msgid "[sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2][3]、凍る可能性"
+
+msgid "[sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2][3]、凍る可能性"
+
+msgid "[huomenna] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2][3][4]、凍る可能性"
+
+msgid "[huomenna] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2]、凍る可能性"
+
+msgid "[huomenna] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2][3]、凍る可能性"
+
+msgid "[huomenna] [paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2][3]、凍る可能性"
+
+msgid "[sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1]、凍る可能性"
+
+msgid "[heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2]、凍る可能性"
+
+msgid "[paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2]、凍る可能性"
+
+msgid "[sisamaassa] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2]、凍る可能性"
+
+msgid "[sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2][3]、凍る可能性"
+
+msgid "[sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2][3]、凍る可能性"
+
+msgid "[huomenna] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2]、凍る可能性"
+
+msgid "[huomenna] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2][3]、凍る可能性"
+
+msgid "[huomenna] [paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2][3]、凍る可能性"
+
+msgid "[huomenna] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2][3][4]、凍る可能性"
+
+msgid "[iltapaivalla] [rannikolla] pakkanen on erittain purevaa"
+msgstr "[1][2]霜が非常に厳しい"
+
+msgid "[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan kylmemmalta"
+msgstr "[1][2]風で体感温度が寒く感じられる"
+
+msgid "[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta"
+msgstr "[1][2]風で体感温度が涼しく感じられる"
+
+msgid "saa on hyvin tuulinen"
+msgstr "天気が非常に強風"
+
+msgid "saa on [iltapaivalla] [rannikolla] [tuulinen]"
+msgstr "[1][2][3]"
+
+msgid "[iltapaivalla] [rannikolla] [pakkanen on purevaa]"
+msgstr "[1][2][3]"
+
+msgid "pakkasta on vahan yli [N] [astetta]"
+msgstr "わずかに[1][2]を下回る"
+
+msgid "pakkasta on vajaat [N] [astetta]"
+msgstr "[1][2]に満たない"
+
+msgid "pakkanen on lahella [N] [astetta]"
+msgstr "気温が[1][2]近く"
+
+msgid "pakkanen on [N] asteen tienoilla"
+msgstr "気温が[1]度前後"
+
+msgid "pakkanen on [N] asteen tuntumassa"
+msgstr "気温が[1]度前後"
+
+msgid "pakkasta on noin [N] [astetta]"
+msgstr "気温が約[1][2]"
+
+msgid "pakkasta on [M...N] [astetta]"
+msgstr "気温が[1][2]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen"
+msgstr "[1]降雪後に天気が晴れる"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on selkea"
+msgstr "[1]霧雨後に天気が晴れ、晴天"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on selkea"
+msgstr "[1]みぞれ後に天気が晴れ、晴天"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on selkea"
+msgstr "[1]降雪後に天気が晴れ、晴天"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on selkea"
+msgstr "[1]雨後に天気が晴れ、晴天"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "[1]霧雨後に天気が晴れ、一部曇りから曇りで変わりやすい"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "[1]みぞれ後に天気が晴れ、一部曇りから曇りで変わりやすい"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "[1]降雪後に天気が晴れ、一部曇りから曇りで変わりやすい"
+
+msgid "6-keskiyohon asti"
+msgstr "土曜日の真夜中まで"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "[1]雨後に天気が晴れ、一部曇りから曇りで変わりやすい"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen"
+msgstr "[1]霧雨後に天気が晴れる"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen"
+msgstr "[1]みぞれ後に天気が晴れる"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen"
+msgstr "[1]雨後に天気が晴れる"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on pilvinen"
+msgstr "[1]雨後に天気が晴れ、曇り"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on pilvinen"
+msgstr "[1]降雪後に天気が晴れ、曇り"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on pilvinen"
+msgstr "[1]みぞれ後に天気が晴れ、曇り"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on pilvinen"
+msgstr "[1]霧雨後に天気が晴れ、曇り"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on verrattain pilvinen"
+msgstr "[1]霧雨後に天気が晴れ、比較的曇り"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on verrattain pilvinen"
+msgstr "[1]雨後に天気が晴れ、比較的曇り"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on verrattain pilvinen"
+msgstr "[1]降雪後に天気が晴れ、比較的曇り"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on verrattain pilvinen"
+msgstr "[1]みぞれ後に天気が晴れ、比較的曇り"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on puolipilvinen"
+msgstr "[1]雨後に天気が晴れ、一部曇り"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on puolipilvinen"
+msgstr "[1]降雪後に天気が晴れ、一部曇り"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on puolipilvinen"
+msgstr "[1]みぞれ後に天気が晴れ、一部曇り"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on puolipilvinen"
+msgstr "[1]霧雨後に天気が晴れ、一部曇り"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on melko selkea"
+msgstr "[1]雨後に天気が晴れ、比較的晴れ"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on melko selkea"
+msgstr "[1]降雪後に天気が晴れ、比較的晴れ"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on melko selkea"
+msgstr "[1]みぞれ後に天気が晴れ、比較的晴れ"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on melko selkea"
+msgstr "[1]霧雨後に天気が晴れ、比較的晴れ"
+
+msgid "[rannikolla] on [tuulista]"
+msgstr "[1][2]"
+
+msgid "[iltapaivalla] on [tuulista]"
+msgstr "[1][2]"
+
+msgid "[rannikolla] tuuli saa saan tuntumaan kylmemmalta"
+msgstr "[1]風で体感温度が寒く感じられる"
+
+msgid "[iltapaivalla] tuuli saa saan tuntumaan kylmemmalta"
+msgstr "[1]風で体感温度が寒く感じられる"
+
+msgid "[rannikolla] tuuli saa saan tuntumaan viileammalta"
+msgstr "[1]風で体感温度が涼しく感じられる"
+
+msgid "[iltapaivalla] tuuli saa saan tuntumaan viileammalta"
+msgstr "[1]風で体感温度が涼しく感じられる"
+
+msgid "[rannikolla] pakkanen on erittain purevaa"
+msgstr "[1]霜が非常に厳しい"
+
+msgid "[iltapaivalla] pakkanen on erittain purevaa"
+msgstr "[1]霜が非常に厳しい"
+
+msgid "[rannikolla] pakkanen on purevaa"
+msgstr "[1]霜が厳しい"
+
+msgid "[iltapaivalla] pakkanen on purevaa"
+msgstr "[1]霜が厳しい"
+
+msgid "saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "天気が季節平均より暖かい"
+
+msgid "[huomenna] pakkasta on [M...N] [astetta]"
+msgstr "[1]気温が[2][3]"
+
+msgid "[huomenna] pakkasta on noin [N] [astetta]"
+msgstr "[1]気温が約[2][3]"
+
+msgid "[huomenna] pakkanen on [hieman kireampaa]"
+msgstr "[1]寒さが[2]"
+
+msgid "[huomenna] pakkasta on vahan yli [N] [astetta]"
+msgstr "[1]気温がわずかに[2][3]を超える"
+
+msgid "[huomenna] pakkasta on vajaat [N] [astetta]"
+msgstr "[1]気温が[2][3]に満たない"
+
+msgid "[huomenna] pakkanen on lahella [N] [astetta]"
+msgstr "[1]気温が[2][3]近く"
+
+msgid "[huomenna] pakkanen on [N] asteen tuntumassa"
+msgstr "[1]気温が[2]度前後"
+
+msgid "[huomenna] pakkanen on [N] asteen tienoilla"
+msgstr "[1]気温が[2]度前後"
+
+msgid "[sisamaassa] pakkasta on [M...N] [astetta]"
+msgstr "[1]気温が[2][3]"
+
+msgid "[sisamaassa] pakkasta on noin [N] [astetta]"
+msgstr "[1]気温が約[2][3]"
+
+msgid "[sisamaassa] pakkanen on [hieman kireampaa]"
+msgstr "[1]寒さが[2]"
+
+msgid "[sisamaassa] pakkasta on vahan yli [N] [astetta]"
+msgstr "[1]気温がわずかに[2][3]を超える"
+
+msgid "[sisamaassa] pakkanen on lahella [N] [astetta]"
+msgstr "[1]気温が[2][3]近く"
+
+msgid "[sisamaassa] pakkasta on vajaat [N] [astetta]"
+msgstr "[1]気温が[2][3]に満たない"
+
+msgid "[sisamaassa] pakkanen on [N] asteen tuntumassa"
+msgstr "[1]気温が[2]度前後"
+
+msgid "[sisamaassa] pakkanen on [N] asteen tienoilla"
+msgstr "[1]気温が[2]度前後"
+
+msgid "[sisamaassa] [lampotila] on [suunnilleen sama]"
+msgstr "[1][2]が[3]"
+
+msgid "[sisamaassa] [lampotila] on [M...N] [astetta]"
+msgstr "[1][2]が[3][4]"
+
+msgid "[sisamaassa] [lampotila] on noin [N] [astetta]"
+msgstr "[1][2]が約[3][4]"
+
+msgid "[sisamaassa] [lampotila] on [N] asteen tienoilla"
+msgstr "[1][2]が[3]度前後"
+
+msgid "[sisamaassa] [lampotila] on [N] asteen tuntumassa"
+msgstr "[1][2]が[3]度前後"
+
+msgid "[sisamaassa] [lampotila] on lahella [N] [astetta]"
+msgstr "[1][2]が[3][4]近く"
+
+msgid "[sisamaassa] [lampotila] on vajaat [N] [astetta]"
+msgstr "[1][2]が[3][4]に満たない"
+
+msgid "[sisamaassa] [lampotila] on vahan yli [N] [astetta]"
+msgstr "[1][2]がわずかに[3][4]を超える"
+
+msgid "[huomenna] [lampotila] on [suunnilleen sama]"
+msgstr "[1][2]が[3]"
+
+msgid "[huomenna] [lampotila] on [M...N] [astetta]"
+msgstr "[1][2]が[3][4]"
+
+msgid "[huomenna] [lampotila] on noin [N] [astetta]"
+msgstr "[1][2]が約[3][4]"
+
+msgid "[huomenna] [lampotila] on [N] asteen tienoilla"
+msgstr "[1][2]が[3]度前後"
+
+msgid "[huomenna] [lampotila] on [N] asteen tuntumassa"
+msgstr "[1][2]が[3]度前後"
+
+msgid "[huomenna] [lampotila] on lahella [N] [astetta]"
+msgstr "[1][2]が[3][4]近く"
+
+msgid "[huomenna] [lampotila] on vajaat [N] [astetta]"
+msgstr "[1][2]が[3][4]に満たない"
+
+msgid "2-keskiyohon asti"
+msgstr "火曜日の真夜中まで"
+
+msgid "[huomenna] [lampotila] on vahan yli [N] [astetta]"
+msgstr "[1][2]がわずかに[3][4]を超える"
+
+msgid "[rannikolla] on pikkupakkasta"
+msgstr "[1]零度をわずかに下回る"
+
+msgid "[huomenna] on pikkupakkasta"
+msgstr "[1]零度をわずかに下回る"
+
+msgid "[sisamaassa] [M...N] [astetta]"
+msgstr "[1][2][3]"
+
+msgid "[huomenna] [M...N] [astetta]"
+msgstr "[1][2][3]"
+
+msgid "[sisamaassa] [suunnilleen sama]"
+msgstr "[1][2]"
+
+msgid "[huomenna] [suunnilleen sama]"
+msgstr "[1][2]"
+
+msgid "[sisamaassa] noin [N] [astetta]"
+msgstr "[1]約[2][3]"
+
+msgid "[huomenna] noin [N] [astetta]"
+msgstr "[1]約[2][3]"
+
+msgid "[sisamaassa] [N] asteen tienoilla"
+msgstr "[1][2]度前後"
+
+msgid "[huomenna] [N] asteen tienoilla"
+msgstr "[1][2]度前後"
+
+msgid "[sisamaassa] [N] asteen tuntumassa"
+msgstr "[1][2]度前後"
+
+msgid "[huomenna] [N] asteen tuntumassa"
+msgstr "[1][2]度前後"
+
+msgid "[sisamaassa] lahella [N] [astetta]"
+msgstr "[1][2][3]近く"
+
+msgid "[huomenna] lahella [N] [astetta]"
+msgstr "[1][2][3]近く"
+
+msgid "[sisamaassa] vahan yli [N] [astetta]"
+msgstr "[1]わずかに[2][3]を超える"
+
+msgid "[huomenna] vahan yli [N] [astetta]"
+msgstr "[1]わずかに[2][3]を超える"
+
+msgid "[sisamaassa] vajaat [N] [astetta]"
+msgstr "[1][2][3]に満たない"
+
+msgid "[huomenna] vajaat [N] [astetta]"
+msgstr "[1][2][3]に満たない"
+
+msgid "[1-na] saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "[1]天気が季節平均より暖かい"
+
+msgid "asteen(tienoilla)"
+msgstr "度前後"
+
+msgid "asteen(tuntumassa)"
+msgstr "度前後"
+
+msgid "[N] [asteen] tienoilla"
+msgstr "[1][2]前後"
+
+msgid "[N] [asteen] tuntumassa"
+msgstr "[1][2]前後"
+
+msgid "[sisamaassa] [N] [asteen] tuntumassa"
+msgstr "[1][2][3]前後"
+
+msgid "[sisamaassa] [lampotila] on [N] [asteen] tuntumassa"
+msgstr "[1][2]が[3][4]前後"
+
+msgid "[sisamaassa] pakkanen on [N] [asteen] tuntumassa"
+msgstr "[1]気温が[2][3]前後"
+
+msgid "[lampotila] on [N] [asteen] tuntumassa"
+msgstr "[1]が[2][3]前後"
+
+msgid "[huomenna] [sisamaassa] [N] [asteen] tuntumassa"
+msgstr "[1][2][3][4]前後"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tuntumassa"
+msgstr "[1][2][3]が[4][5]前後"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] [asteen] tuntumassa"
+msgstr "[1][2]気温が[3][4]前後"
+
+msgid "[huomenna] [N] [asteen] tuntumassa"
+msgstr "[1][2][3]前後"
+
+msgid "[huomenna] [lampotila] on [N] [asteen] tuntumassa"
+msgstr "[1][2]が[3][4]前後"
+
+msgid "[huomenna] pakkanen on [N] [asteen] tuntumassa"
+msgstr "[1]気温が[2][3]前後"
+
+msgid "rannikolla [N] [asteen] tuntumassa"
+msgstr "沿岸部[1][2]前後"
+
+msgid "pakkanen on [N] [asteen] tuntumassa"
+msgstr "気温が[1][2]前後"
+
+msgid "[sisamaassa] [N] [asteen] tienoilla"
+msgstr "[1][2][3]前後"
+
+msgid "[sisamaassa] [lampotila] on [N] [asteen] tienoilla"
+msgstr "[1][2]が[3][4]前後"
+
+msgid "[sisamaassa] pakkanen on [N] [asteen] tienoilla"
+msgstr "[1]気温が[2][3]前後"
+
+msgid "[lampotila] on [N] [asteen] tienoilla"
+msgstr "[1]が[2][3]前後"
+
+msgid "[huomenna] [sisamaassa] [N] [asteen] tienoilla"
+msgstr "[1][2][3][4]前後"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tienoilla"
+msgstr "[1][2][3]が[4][5]前後"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] [asteen] tienoilla"
+msgstr "[1][2]気温が[3][4]前後"
+
+msgid "[huomenna] [N] [asteen] tienoilla"
+msgstr "[1][2][3]前後"
+
+msgid "[huomenna] [lampotila] on [N] [asteen] tienoilla"
+msgstr "[1][2]が[3][4]前後"
+
+msgid "[huomenna] pakkanen on [N] [asteen] tienoilla"
+msgstr "[1]気温が[2][3]前後"
+
+msgid "rannikolla [N] [asteen] tienoilla"
+msgstr "沿岸部[1][2]前後"
+
+msgid "pakkanen on [N] [asteen] tienoilla"
+msgstr "気温が[1][2]前後"
+
+msgid "saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "天気が一部曇りから曇りで変わりやすく好天"
+
+msgid "saa on [selkea] ja poutainen"
+msgstr "天気は[1]で好天"
+
+msgid "[alueella] saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "[1]天気が季節平均より暖かい"
+
+msgid "[1-na] [alueella] saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "[1][2]天気が季節平均より暖かい"
+
+msgid "[alueella] [saa lampenee]"
+msgstr "[1][2]"
+
+msgid "[1-na] [alueella] [saa lampenee]"
+msgstr "[1][2][3]"
+
+msgid "[alueella] saa on [poikkeuksellisen] [kylmaa]"
+msgstr "[1]天気は[2][3]"
+
+msgid "[1-na] [alueella] saa on [poikkeuksellisen] [kylmaa]"
+msgstr "[1][2]天気は[3][4]"
+
+msgid "yon alin"
+msgstr "夜間最低"
+
+msgid "[1-na] [alueella] saa lauhtuu"
+msgstr "[1][2]天気が穏やかになる"
+
+msgid "[alueella] saa lauhtuu"
+msgstr "[1]天気が穏やかになる"
+
+msgid "[1-na] saa lauhtuu"
+msgstr "[1]天気が穏やかになる"
+
+msgid "[1-na] [alueella] saa on edelleen lauhaa"
+msgstr "[1][2]天気は引き続き穏やか"
+
+msgid "[alueella] saa on edelleen lauhaa"
+msgstr "[1]天気は引き続き穏やか"
+
+msgid "[1-na] saa on edelleen lauhaa"
+msgstr "[1]天気は引き続き穏やか"
+
+msgid "[alueella] pakkanen kiristyy"
+msgstr "[1]霜が厳しくなる"
+
+msgid "[1-na] pakkanen kiristyy"
+msgstr "[1]霜が厳しくなる"
+
+msgid "[1-na] [alueella] pakkanen kiristyy"
+msgstr "[1][2]霜が厳しくなる"
+
+msgid "[alueella] kirea pakkanen jatkuu"
+msgstr "[1]厳しい寒さが続く"
+
+msgid "[1-na] kirea pakkanen jatkuu"
+msgstr "[1]厳しい寒さが続く"
+
+msgid "[1-na] [alueella] kirea pakkanen jatkuu"
+msgstr "[1][2]厳しい寒さが続く"
+
+msgid "[alueella] pakkanen hellittaa"
+msgstr "[1]寒さが緩む"
+
+msgid "[1-na] pakkanen hellittaa"
+msgstr "[1]寒さが緩む"
+
+msgid "[1-na] [alueella] pakkanen hellittaa"
+msgstr "[1][2]寒さが緩む"
+
+msgid "[alueella] kirea pakkanen heikkenee"
+msgstr "[1]厳しい寒さが弱まる"
+
+msgid "[1-na] kirea pakkanen heikkenee"
+msgstr "[1]厳しい寒さが弱まる"
+
+msgid "[1-na] [alueella] kirea pakkanen heikkenee"
+msgstr "[1][2]厳しい寒さが弱まる"
+
+msgid "[alueella] pakkanen heikkenee"
+msgstr "[1]霜が弱まる"
+
+msgid "[1-na] pakkanen heikkenee"
+msgstr "[1]霜が弱まる"
+
+msgid "[1-na] [alueella] pakkanen heikkenee"
+msgstr "[1][2]霜が弱まる"
+
+msgid "[alueella] saa on helteista"
+msgstr "[1]非常に暑い"
+
+msgid "[1-na] saa on helteista"
+msgstr "[1]非常に暑い"
+
+msgid "[1-na] [alueella] saa on helteista"
+msgstr "[1][2]非常に暑い"
+
+msgid "[alueella] saa muuttuu helteiseksi"
+msgstr "[1]猛暑になる"
+
+msgid "[1-na] saa muuttuu helteiseksi"
+msgstr "[1]猛暑になる"
+
+msgid "[1-na] [alueella] saa muuttuu helteiseksi"
+msgstr "[1][2]猛暑になる"
+
+msgid "[alueella] helteinen saa jatkuu"
+msgstr "[1]猛暑が続く"
+
+msgid "[1-na] helteinen saa jatkuu"
+msgstr "[1]猛暑が続く"
+
+msgid "[1-na] [alueella] helteinen saa jatkuu"
+msgstr "[1][2]猛暑が続く"
+
+msgid "[alueella] saa viilenee huomattavasti"
+msgstr "[1]天気がかなり涼しくなる"
+
+msgid "[1-na] saa viilenee huomattavasti"
+msgstr "[1]天気がかなり涼しくなる"
+
+msgid "[1-na] [alueella] saa viilenee huomattavasti"
+msgstr "[1][2]天気がかなり涼しくなる"
+
+msgid "[alueella] saa viilenee vahan"
+msgstr "[1]天気が少し涼しくなる"
+
+msgid "[1-na] saa viilenee vahan"
+msgstr "[1]天気が少し涼しくなる"
+
+msgid "[1-na] [alueella] saa viilenee vahan"
+msgstr "[1][2]天気が少し涼しくなる"
+
+msgid "[alueella] saa viilenee"
+msgstr "[1]天気が涼しくなる"
+
+msgid "[1-na] saa viilenee"
+msgstr "[1]天気が涼しくなる"
+
+msgid "[1-na] [alueella] saa viilenee"
+msgstr "[1][2]天気が涼しくなる"
+
+msgid "[alueella] viilea saa jatkuu"
+msgstr "[1]涼しい天気が続く"
+
+msgid "[1-na] viilea saa jatkuu"
+msgstr "[1]涼しい天気が続く"
+
+msgid "[1-na] [alueella] viilea saa jatkuu"
+msgstr "[1][2]涼しい天気が続く"
+
+msgid "[alueella] kolea saa jatkuu"
+msgstr "[1]寒々しい天気が続く"
+
+msgid "[1-na] kolea saa jatkuu"
+msgstr "[1]寒々しい天気が続く"
+
+msgid "[1-na] [alueella] kolea saa jatkuu"
+msgstr "[1][2]寒々しい天気が続く"
+
+msgid "[alueella] saa lampenee huomattavasti"
+msgstr "[1]天気がかなり暖かくなる"
+
+msgid "[1-na] saa lampenee huomattavasti"
+msgstr "[1]天気がかなり暖かくなる"
+
+msgid "[1-na] [alueella] saa lampenee huomattavasti"
+msgstr "[1][2]天気がかなり暖かくなる"
+
+msgid "[alueella] saa lampenee vahan"
+msgstr "[1]天気が少し暖かくなる"
+
+msgid "[1-na] saa lampenee vahan"
+msgstr "[1]天気が少し暖かくなる"
+
+msgid "[1-na] [alueella] saa lampenee vahan"
+msgstr "[1][2]天気が少し暖かくなる"
+
+msgid "[alueella] saa lampenee"
+msgstr "[1]天気が暖かくなる"
+
+msgid "[1-na] saa lampenee"
+msgstr "[1]天気が暖かくなる"
+
+msgid "[1-na] [alueella] saa lampenee"
+msgstr "[1][2]天気が暖かくなる"
+
+msgid "7-keskiyolla ja aamuyolla"
+msgstr "日曜日の真夜中および深夜過ぎ"
+
+msgid "6-keskiyolla ja aamuyolla"
+msgstr "土曜日の真夜中および深夜過ぎ"
+
+msgid "5-keskiyolla ja aamuyolla"
+msgstr "金曜日の真夜中および深夜過ぎ"
+
+msgid "4-keskiyolla ja aamuyolla"
+msgstr "木曜日の真夜中および深夜過ぎ"
+
+msgid "3-keskiyolla ja aamuyolla"
+msgstr "水曜日の真夜中および深夜過ぎ"
+
+msgid "2-keskiyolla ja aamuyolla"
+msgstr "火曜日の真夜中および深夜過ぎ"
+
+msgid "1-keskiyolla ja aamuyolla"
+msgstr "月曜日の真夜中および深夜過ぎ"
+
+msgid "[huomenna] yksittaiset vesikuurot mahdollisia"
+msgstr "[1]散発的な雨のにわか雨の可能性"
+
+msgid "[huomenna] yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "[1]散発的な雨またはみぞれのにわか雨の可能性"
+
+msgid "[huomenna] yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "[1]散発的な雨または雪のにわか雨の可能性"
+
+msgid "[huomenna] yksittaiset sadekuurot mahdollisia"
+msgstr "[1]散発的なにわか雨の可能性"
+
+msgid "[huomenna] yksittaiset rantakuurot mahdollisia"
+msgstr "[1]散発的なみぞれのにわか雨の可能性"
+
+msgid "[huomenna] yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "[1]散発的なみぞれまたは雨のにわか雨の可能性"
+
+msgid "[huomenna] yksittaiset lumikuurot mahdollisia"
+msgstr "[1]散発的な雪のにわか雨の可能性"
+
+msgid "[huomenna] yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "[1]散発的な雪またはみぞれのにわか雨の可能性"
+
+msgid "[huomenna] [sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "[1][2]散発的な雪またはみぞれのにわか雨の可能性"
+
+msgid "[huomenna] [sisamaassa] yksittaiset lumikuurot mahdollisia"
+msgstr "[1][2]散発的な雪のにわか雨の可能性"
+
+msgid "[huomenna] [sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "[1][2]散発的なみぞれまたは雨のにわか雨の可能性"
+
+msgid "[huomenna] [sisamaassa] yksittaiset rantakuurot mahdollisia"
+msgstr "[1][2]散発的なみぞれのにわか雨の可能性"
+
+msgid "[huomenna] [sisamaassa] yksittaiset sadekuurot mahdollisia"
+msgstr "[1][2]散発的なにわか雨の可能性"
+
+msgid "[huomenna] [sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "[1][2]散発的な雨または雪のにわか雨の可能性"
+
+msgid "[huomenna] [sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "[1][2]散発的な雨またはみぞれのにわか雨の可能性"
+
+msgid "[huomenna] [sisamaassa] yksittaiset vesikuurot mahdollisia"
+msgstr "[1][2]散発的な雨のにわか雨の可能性"
+
+msgid "[sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "[1]散発的なみぞれまたは雨のにわか雨の可能性"
+
+msgid "[sisamaassa] yksittaiset rantakuurot mahdollisia"
+msgstr "[1]散発的なみぞれのにわか雨の可能性"
+
+msgid "[sisamaassa] yksittaiset sadekuurot mahdollisia"
+msgstr "[1]散発的なにわか雨の可能性"
+
+msgid "1-keskiyohon asti"
+msgstr "月曜日の真夜中まで"
+
+msgid "[sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "[1]散発的な雨または雪のにわか雨の可能性"
+
+msgid "[sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "[1]散発的な雨またはみぞれのにわか雨の可能性"
+
+msgid "[sisamaassa] yksittaiset vesikuurot mahdollisia"
+msgstr "[1]散発的な雨のにわか雨の可能性"
+
+msgid "[sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "[1]散発的な雪またはみぞれのにわか雨の可能性"
+
+msgid "[sisamaassa] yksittaiset lumikuurot mahdollisia"
+msgstr "[1]散発的な雪のにわか雨の可能性"
+
+msgid "[sisamaassa] on [hieman lauhempaa]"
+msgstr "[1][2]"
+
+msgid "[huomenna] on [hieman lauhempaa]"
+msgstr "[1][2]"
+
+msgid "[huomenna] [sisamaassa] on [hieman lauhempaa]"
+msgstr "[1][2][3]"
+
+msgid "[lampotila] [M...N] [astetta]"
+msgstr "[1][2][3]"
+
+msgid "paivan ylin"
+msgstr "日中最高"
+
+msgid "[lampotila] [suunnilleen sama]"
+msgstr "[1][2]"
+
+msgid "[lampotila] vahan yli [N] [astetta]"
+msgstr "[1]わずかに[2][3]を超える"
+
+msgid "[lampotila] vajaat [N] [astetta]"
+msgstr "[1][2][3]に満たない"
+
+msgid "[lampotila] lahella [N] [astetta]"
+msgstr "[1][2][3]近く"
+
+msgid "[lampotila] [N] [asteen] tuntumassa"
+msgstr "[1][2][3]前後"
+
+msgid "[lampotila] [N] [asteen] tienoilla"
+msgstr "[1][2][3]前後"
+
+msgid "[lampotila] noin [N] [astetta]"
+msgstr "[1]約[2][3]"
+
+msgid "luoteeseen"
+msgstr "北西へ"
+
+msgid "lounaaseen"
+msgstr "南西へ"
+
+msgid "kaakkoon"
+msgstr "南東へ"
+
+msgid "koilliseen"
+msgstr "北東へ"
+
+msgid "lanteen"
+msgstr "西へ"
+
+msgid "itaan"
+msgstr "東へ"
+
+msgid "etelaan"
+msgstr "南へ"
+
+msgid "pohjoiseen"
+msgstr "北へ"
+
+msgid "[iltapaivalla] tuuli kaantyy [etelaan] ja voimistuu edelleen"
+msgstr "[1]風が[2]に変わり引き続き強まる"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka muuttuu [iltapaivalla] vaihtelevaksi"
+msgstr "[1][2][3]、[4]風向き不定になる"
+
+msgid "vahitellen"
+msgstr "徐々に"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka kaantyy [iltapaivalla] [etelaan]"
+msgstr "[1][2][3]、[4][5]に変わる"
+
+msgid "[iltapaivalla] tuuli kaantyy [etelaan]"
+msgstr "[1]風が[2]に変わる"
+
+msgid "suunnaltaan vaihtelevaa tuulta"
+msgstr "風向き不定の風"
+
+msgid "latvia:lle"
+msgstr "ラトビア向け"
+
+msgid "astetta (n...0)"
+msgstr "度"
+
+msgid "1- ja 2-valille"
+msgstr "北から北東へ"
+
+msgid "3- ja 2-valille"
+msgstr "東から北東へ"
+
+msgid "3- ja 4-valille"
+msgstr "東から南東へ"
+
+msgid "5- ja 4-valille"
+msgstr "南から南東へ"
+
+msgid "5- ja 6-valille"
+msgstr "南から南西へ"
+
+msgid "7- ja 6-valille"
+msgstr "西から南西へ"
+
+msgid "7- ja 8-valille"
+msgstr "西から北西へ"
+
+msgid "1- ja 8-valille"
+msgstr "北から北西へ"
+
+msgid "[huomenna] [etelatuulta]"
+msgstr "[1][2]"
+
+msgid "ivalo:lle"
+msgstr "イヴァロ向け"
+
+msgid "pieksamaki:lle"
+msgstr "ピエクサマキ向け"
+
+msgid "[iltapaivalla] [etelaan] kaantyvaa tuulta"
+msgstr "[1][2]に変わる風"
+
+msgid "heikkenevaa tuulta"
+msgstr "弱まる風"
+
+msgid "8-puolelle"
+msgstr "主に北西"
+
+msgid "7-puolelle"
+msgstr "主に西"
+
+msgid "6-puolelle"
+msgstr "主に南西"
+
+msgid "5-puolelle"
+msgstr "主に南"
+
+msgid "4-puolelle"
+msgstr "主に南東"
+
+msgid "3-puolelle"
+msgstr "主に東"
+
+msgid "2-puolelle"
+msgstr "主に北東"
+
+msgid "1-puolelle"
+msgstr "主に北"
+
+msgid "tuuli muuttuu vaihtelevaksi"
+msgstr "風が風向き不定になる"
+
+msgid "[iltapaivalla] tuuli muuttuu vaihtelevaksi"
+msgstr "[1]風が風向き不定になる"
+
+msgid "[iltapaivalla] [etelatuulta]"
+msgstr "[1][2]"
+
+msgid "astetta (1)"
+msgstr "度"
+
+msgid "astetta (0)"
+msgstr "度"
+
+msgid "astetta (4)"
+msgstr "度"
+
+msgid "astetta (3)"
+msgstr "度"
+
+msgid "astetta (n...(mod 10=1))"
+msgstr "度"
+
+msgid "astetta (n...4)"
+msgstr "度"
+
+msgid "astetta (n...3)"
+msgstr "度"
+
+msgid "astetta (n...2)"
+msgstr "度"
+
+msgid "astetta (n...1)"
+msgstr "度"
+
+msgid "astetta (2)"
+msgstr "度"
+
+msgid "aallonkorkeus on enimmillaan [N] [metria]"
+msgstr "波の高さは最大[1][2]"
+
+msgid "latgale:lle"
+msgstr "ラトガレ地方向け"
+
+msgid "vidzeme:lle"
+msgstr "ヴィドゼメ地方向け"
+
+msgid "zemgale:lle"
+msgstr "ゼムガレ地方向け"
+
+msgid "kurzeme:lle"
+msgstr "クルゼメ地方向け"
+
+msgid "rigaregion:lle"
+msgstr "リエルリーガ地方向け"
+
+msgid "tuuli kaantyy"
+msgstr "風が変わる"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta]"
+msgstr "[1][2][3][4]"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa tuulta]"
+msgstr "[1][2][3]"
+
+msgid "[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]風が一時的に風向き不定になる"
+
+msgid "[iltapaivalla] tuuli heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1]風が弱まり風向き不定になる"
+
+msgid "astetta (m...n)"
+msgstr "度"
+
+msgid "astetta (n)"
+msgstr "度"
+
+msgid "[iltapaivalla] tuuli heikkenee ja kaantyy [etelaan]"
+msgstr "[1]風が弱まり[2]に変わる"
+
+msgid "keskipaivasta"
+msgstr "正午から"
+
+msgid "[iltapaivalla] tuuli voimistuu ja kaantyy [etelaan]"
+msgstr "[1]風が強まり[2]に変わる"
+
+msgid "[iltapaivalla] tuuli voimistuu ja muuttuu vaihtelevaksi"
+msgstr "[1]風が強まり風向き不定になる"
+
+msgid "voimistuvaa tuulta"
+msgstr "強まる風"
+
+msgid "kovimmillaan"
+msgstr "最大"
+
+msgid "nopeasti"
+msgstr "急速に"
+
+msgid "[iltapaivalla] tuuli muuttuu vaihtelevaksi ja heikkenee edelleen"
+msgstr "[1]風が風向き不定になり引き続き弱まる"
+
+msgid "[iltapaivalla] [heikkenevaa tuulta]"
+msgstr "[1][2]"
+
+msgid "[iltapaivalla] [heikkenevaa] [etelatuulta]"
+msgstr "[1][2][3]"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1][2]が弱まり風向き不定になる"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee ja kaantyy [etelaan]"
+msgstr "[1][2]が弱まり[3]に変わる"
+
+msgid "1- ja 8-valista tuulta"
+msgstr "北〜北西の風"
+
+msgid "7- ja 8-valista tuulta"
+msgstr "西〜北西の風"
+
+msgid "7- ja 6-valista tuulta"
+msgstr "西〜南西の風"
+
+msgid "5- ja 6-valista tuulta"
+msgstr "南〜南西の風"
+
+msgid "5- ja 4-valista tuulta"
+msgstr "南〜南東の風"
+
+msgid "3- ja 4-valista tuulta"
+msgstr "東〜南東の風"
+
+msgid "3- ja 2-valista tuulta"
+msgstr "東〜北東の風"
+
+msgid "1- ja 2-valista tuulta"
+msgstr "北〜北東の風"
+
+msgid "1- ja 8-valinen tuuli"
+msgstr "北〜北西の風"
+
+msgid "7- ja 8-valinen tuuli"
+msgstr "西〜北西の風"
+
+msgid "7- ja 6-valinen tuuli"
+msgstr "西〜南西の風"
+
+msgid "5- ja 6-valinen tuuli"
+msgstr "南〜南西の風"
+
+msgid "5- ja 4-valinen tuuli"
+msgstr "南〜南東の風"
+
+msgid "3- ja 4-valinen tuuli"
+msgstr "東〜南東の風"
+
+msgid "3- ja 2-valinen tuuli"
+msgstr "東〜北東の風"
+
+msgid "1- ja 2-valinen tuuli"
+msgstr "北〜北東の風"
+
+msgid "8-puoleinen tuuli"
+msgstr "主に北西の風"
+
+msgid "7-puoleinen tuuli"
+msgstr "主に西の風"
+
+msgid "6-puoleinen tuuli"
+msgstr "主に南西の風"
+
+msgid "5-puoleinen tuuli"
+msgstr "主に南の風"
+
+msgid "4-puoleinen tuuli"
+msgstr "主に南東の風"
+
+msgid "3-puoleinen tuuli"
+msgstr "主に東の風"
+
+msgid "2-puoleinen tuuli"
+msgstr "主に北東の風"
+
+msgid "1-puoleinen tuuli"
+msgstr "主に北の風"
+
+msgid "8-tuuli"
+msgstr "北西の風"
+
+msgid "7-tuuli"
+msgstr "西の風"
+
+msgid "6-tuuli"
+msgstr "南西の風"
+
+msgid "5-tuuli"
+msgstr "南の風"
+
+msgid "4-tuuli"
+msgstr "南東の風"
+
+msgid "3-tuuli"
+msgstr "東の風"
+
+msgid "2-tuuli"
+msgstr "北東の風"
+
+msgid "1-tuuli"
+msgstr "北の風"
+
+msgid "suunnaltaan vaihteleva tuuli"
+msgstr "風向き不定の風"
+
+msgid "[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja heikkenee edelleen"
+msgstr "[1]風が一時的に風向き不定になり引き続き弱まる"
+
+msgid "[iltapaivalla] tuuli heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]風が弱まり一時的に風向き不定になる"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1][2]が弱まり一時的に風向き不定になる"
+
+msgid "iltapaivasta"
+msgstr "午後から"
+
+msgid "[iltapaivalla] [etelatuuli] alkaa heiketa [nopeasti]"
+msgstr "[1][2]が[3]弱まり始める"
+
+msgid "illasta"
+msgstr "夕方から"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantya [etelaan]"
+msgstr "[1][2]が弱まり[3]へ向き始める"
+
+msgid "astetta (mod 10=1)"
+msgstr "度"
+
+msgid "aste"
+msgstr "度"
+
+msgid "nolla"
+msgstr "零"
+
+msgid "asteen(tienoilla (mod 10=1))"
+msgstr "度前後"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [pohjoiseen]"
+msgstr "[1][2][3][4]、[5]に変わる"
+
+msgid "[iltapaivalla] edelleen [heikkenevaa] [pohjoistuulta]"
+msgstr "[1]引き続き[2][3]"
+
+msgid "hehtopascalia (mod 10=1)"
+msgstr "ヘクトパスカル"
+
+msgid "prosenttia (mod 10=1)"
+msgstr "パーセント"
+
+msgid "millimetria (mod 10=1)"
+msgstr "ミリメートル"
+
+msgid "metria sekunnissa (mod 10=1)"
+msgstr "メートル/秒"
+
+msgid "4 astetta"
+msgstr "4度"
+
+msgid "3 astetta"
+msgstr "3度"
+
+msgid "2 astetta"
+msgstr "2度"
+
+msgid "puuskittaista [etelatuulta]"
+msgstr "突風性の[1]"
+
+msgid "aallonkorkeus on alle [N] [metria]"
+msgstr "波の高さは[1][2]未満"
+
+msgid "aallonkorkeus on [N...M] [metria]"
+msgstr "波の高さは[1][2]"
+
+msgid "aallonkorkeus on noin [N] [metria]"
+msgstr "波の高さは約[1][2]"
+
+msgid "asteen(tuntumassa (mod 10=1))"
+msgstr "度前後"
+
+msgid "astetta(noin 0)"
+msgstr "度"
+
+msgid "astetta(noin 4)"
+msgstr "度"
+
+msgid "astetta(noin 3)"
+msgstr "度"
+
+msgid "astetta(noin 2)"
+msgstr "度"
+
+msgid "astetta(noin 1)"
+msgstr "度"
+
+msgid "astetta(noin (mod 10=1))"
+msgstr "度"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]"
+msgstr "[1][2]が弱まり始め[3]に変わる"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantya [etelaan]"
+msgstr "[1][2]が強まり始め[3]へ向く"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantyy [etelaan]"
+msgstr "[1][2]が強まり始め[3]に変わる"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja kaantyy [etelaan]"
+msgstr "[1][2]が強まり[3]に変わる"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi"
+msgstr "[1][2]が強まり風向き不定になる"
+
+msgid "[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja voimistuu edelleen"
+msgstr "[1]風が一時的に風向き不定になり引き続き強まる"
+
+msgid "[iltapaivalla] tuuli muuttuu vaihtelevaksi ja voimistuu edelleen"
+msgstr "[1]風が風向き不定になり引き続き強まる"
+
+msgid "[iltapaivalla] tuuli voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]風が強まり一時的に風向き不定になる"
+
+msgid "iltayosta"
+msgstr "夜遅くから"
+
+msgid "keskiyosta"
+msgstr "真夜中から"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa heiketa"
+msgstr "[1][2][3]、弱まり始める"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [illalla] [pohjoiseen]"
+msgstr "[1][2][3][4]、[5][6]に変わる"
+
+msgid "yosta"
+msgstr "今夜から"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1][2]が[3]弱まり始め[4][5]に変わる"
+
+msgid "[ip] [p-tuulta] [m...n] [m/s], joka alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1][2][3][4]、[5]弱まり始め[6][7]に変わる"
+
+msgid "[iltapaivalla] [etelatuuli] heikkenee [nopeasti]"
+msgstr "[1][2]が[3]弱まる"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee edelleen"
+msgstr "[1][2]が引き続き弱まる"
+
+msgid "[iltapaivalla] sade voi olla runsasta"
+msgstr "[1]雨が大雨になる可能性"
+
+msgid "1-asti"
+msgstr "月曜日まで"
+
+msgid "2-asti"
+msgstr "火曜日まで"
+
+msgid "3-asti"
+msgstr "水曜日まで"
+
+msgid "4-asti"
+msgstr "木曜日まで"
+
+msgid "6-asti"
+msgstr "金曜日まで"
+
+msgid "5-asti"
+msgstr "土曜日まで"
+
+msgid "7-asti"
+msgstr "日曜日まで"
+
+msgid "yohon asti"
+msgstr "夜間まで"
+
+msgid "aamuun asti"
+msgstr "朝まで"
+
+msgid "aamupaivaan asti"
+msgstr "午前中まで"
+
+msgid "keskipaivaan asti"
+msgstr "正午まで"
+
+msgid "iltapaivaan asti"
+msgstr "午後まで"
+
+msgid "iltaan asti"
+msgstr "夕方まで"
+
+msgid "iltayohon asti"
+msgstr "夜遅くまで"
+
+msgid "keskiyohon asti"
+msgstr "真夜中まで"
+
+msgid "huomiseen asti"
+msgstr "明日まで"
+
+msgid "1-aamupaivaan asti"
+msgstr "月曜日午前中まで"
+
+msgid "2-aamupaivaan asti"
+msgstr "火曜日午前中まで"
+
+msgid "3-aamupaivaan asti"
+msgstr "水曜日午前中まで"
+
+msgid "4-aamupaivaan asti"
+msgstr "木曜日午前中まで"
+
+msgid "5-aamupaivaan asti"
+msgstr "金曜日午前中まで"
+
+msgid "6-aamupaivaan asti"
+msgstr "土曜日午前中まで"
+
+msgid "7-aamupaivaan asti"
+msgstr "日曜日午前中まで"
+
+msgid "1-aamuun asti"
+msgstr "月曜日朝まで"
+
+msgid "2-aamuun asti"
+msgstr "火曜日朝まで"
+
+msgid "3-aamuun asti"
+msgstr "水曜日朝まで"
+
+msgid "4-aamuun asti"
+msgstr "木曜日朝まで"
+
+msgid "5-aamuun asti"
+msgstr "金曜日朝まで"
+
+msgid "6-aamuun asti"
+msgstr "土曜日朝まで"
+
+msgid "7-aamuun asti"
+msgstr "日曜日朝まで"
+
+msgid "1-iltaan asti"
+msgstr "月曜日夕方まで"
+
+msgid "2-iltaan asti"
+msgstr "火曜日夕方まで"
+
+msgid "3-iltaan asti"
+msgstr "水曜日夕方まで"
+
+msgid "4-iltaan asti"
+msgstr "木曜日夕方まで"
+
+msgid "5-iltaan asti"
+msgstr "金曜日夕方まで"
+
+msgid "6-iltaan asti"
+msgstr "土曜日夕方まで"
+
+msgid "7-iltaan asti"
+msgstr "日曜日夕方まで"
+
+msgid "1-vastaiseen yohon asti"
+msgstr "月曜日夜間まで"
+
+msgid "2-vastaiseen yohon asti"
+msgstr "火曜日夜間まで"
+
+msgid "3-vastaiseen yohon asti"
+msgstr "水曜日夜間まで"
+
+msgid "4-vastaiseen yohon asti"
+msgstr "木曜日夜間まで"
+
+msgid "5-vastaiseen yohon asti"
+msgstr "金曜日夜間まで"
+
+msgid "6-vastaiseen yohon asti"
+msgstr "土曜日夜間まで"
+
+msgid "7-vastaiseen yohon asti"
+msgstr "日曜日夜間まで"
+
+msgid "huomisaamuun asti"
+msgstr "明日の朝まで"
+
+msgid "huomisaamupaivaan asti"
+msgstr "明日の午前中まで"
+
+msgid "huomisiltaan asti"
+msgstr "明日の夕方まで"
+
+msgid "7-iltapaivaan asti"
+msgstr "金曜日の午後まで"
+
+msgid "6-iltapaivaan asti"
+msgstr "土曜日の午後まで"
+
+msgid "5-iltapaivaan asti"
+msgstr "金曜日の午後まで"
+
+msgid "4-iltapaivaan asti"
+msgstr "木曜日の午後まで"
+
+msgid "3-iltapaivaan asti"
+msgstr "水曜日の午後まで"
+
+msgid "2-iltapaivaan asti"
+msgstr "火曜日の午後まで"
+
+msgid "1-iltapaivaan asti"
+msgstr "月曜日の午後まで"
+
+msgid "7-iltayohon asti"
+msgstr "日曜日の夜遅くまで"
+
+msgid "6-iltayohon asti"
+msgstr "土曜日の夜遅くまで"
+
+msgid "5-iltayohon asti"
+msgstr "金曜日の夜遅くまで"
+
+msgid "4-iltayohon asti"
+msgstr "木曜日の夜遅くまで"
+
+msgid "3-iltayohon asti"
+msgstr "水曜日の夜遅くまで"
+
+msgid "2-iltayohon asti"
+msgstr "火曜日の夜遅くまで"
+
+msgid "1-iltayohon asti"
+msgstr "月曜日の夜遅くまで"
+
+msgid "7-keskiyohon asti"
+msgstr "日曜日の真夜中まで"
+
+msgid "5-keskiyohon asti"
+msgstr "金曜日の真夜中まで"
+
+msgid "4-keskiyohon asti"
+msgstr "木曜日の真夜中まで"
+
+msgid "3-keskiyohon asti"
+msgstr "水曜日の真夜中まで"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu edelleen"
+msgstr "[1][2]が引き続き強まる"
+
+msgid "[ip] [p-tuulta] [m...n] [m/s], joka alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1][2][3][4]、[5]強まり始め[6][7]に変わる"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa voimistua"
+msgstr "[1][2][3]、強まり始める"
+
+msgid "aamuyohon asti"
+msgstr "早朝まで"
+
+msgid "7-aamuyohon asti"
+msgstr "日曜日の早朝まで"
+
+msgid "6-aamuyohon asti"
+msgstr "土曜日の早朝まで"
+
+msgid "5-aamuyohon asti"
+msgstr "金曜日の早朝まで"
+
+msgid "4-aamuyohon asti"
+msgstr "木曜日の早朝まで"
+
+msgid "3-aamuyohon asti"
+msgstr "水曜日の早朝まで"
+
+msgid "2-aamuyohon asti"
+msgstr "火曜日の早朝まで"
+
+msgid "1-aamuyohon asti"
+msgstr "月曜日の早朝まで"
+
+msgid "[iltapaivalla] kuurot voivat olla voimakkaita"
+msgstr "[1]にわか雨が激しくなる可能性"
+
+msgid "B3N:lle"
+msgstr "北ボスニア海向け"
+
+msgid "[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1]風が弱まり始め風向き不定になる"
+
+msgid "[iltapaivalla] tuuli alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]風が弱まり始め一時的に風向き不定になる"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1][2]が弱まり始め風向き不定になる"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1][2]が弱まり始め一時的に風向き不定になる"
+
+msgid "inari_utsjoki:lle"
+msgstr "イナリおよびウツヨキ向け"
+
+msgid "ita_finnmark:lle"
+msgstr "東フィンマルク向け"
+
+msgid "lansi_finnmark:lle"
+msgstr "西フィンマルク向け"
+
+msgid "pohjois_ruotsi:lle"
+msgstr "北スウェーデン向け"
+
+msgid "kasivarsi:lle"
+msgstr "カーシヴァルシ向け"
+
+msgid "kova"
+msgstr "強い"
+
+msgid "voimakas"
+msgstr "非常に強い"
+
+msgid "heikkenee"
+msgstr "弱まる"
+
+msgid "kuola:lle"
+msgstr "コラ半島向け"
+
+msgid "[voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen"
+msgstr "[1]が[2]に変わり引き続き弱まる"
+
+msgid "[voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]"
+msgstr "[1]が弱まり[2]に変わる"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]"
+msgstr "[1]が弱まり始め[2]に変わる"
+
+msgid "[voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1]が弱まり風向き不定になる"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1]が弱まり始め風向き不定になる"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]が弱まり始め一時的に風向き不定になる"
+
+msgid "[voimakas pohjoistuuli] heikkenee edelleen"
+msgstr "[1]が引き続き弱まる"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa [nopeasti]"
+msgstr "[1]が[2]弱まり始める"
+
+msgid "[voimakas pohjoistuuli] heikkenee [nopeasti]"
+msgstr "[1]が[2]弱まる"
+
+msgid "[voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]が弱まり一時的に風向き不定になる"
+
+msgid "voimakas 3- ja 4-valinen tuuli"
+msgstr "強い東〜南東の風"
+
+msgid "voimakas 4-tuuli"
+msgstr "強い南東の風"
+
+msgid "voimakas 4-puoleinen tuuli"
+msgstr "強い主に南東の風"
+
+msgid "voimakas 5- ja 4-valinen tuuli"
+msgstr "強い南〜南東の風"
+
+msgid "voimakas 5-tuuli"
+msgstr "強い南の風"
+
+msgid "voimakas 5-puoleinen tuuli"
+msgstr "強い主に南の風"
+
+msgid "voimakas 5- ja 6-valinen tuuli"
+msgstr "強い南〜南西の風"
+
+msgid "voimakas 6-tuuli"
+msgstr "強い南西の風"
+
+msgid "voimakas 6-puoleinen tuuli"
+msgstr "強い主に南西の風"
+
+msgid "voimakas 7- ja 6-valinen tuuli"
+msgstr "強い西〜南西の風"
+
+msgid "voimakas 7-tuuli"
+msgstr "強い西の風"
+
+msgid "voimakas 7-puoleinen tuuli"
+msgstr "強い主に西の風"
+
+msgid "voimakas 7- ja 8-valinen tuuli"
+msgstr "強い西〜北西の風"
+
+msgid "voimakas 8-tuuli"
+msgstr "強い北西の風"
+
+msgid "voimakas 8-puoleinen tuuli"
+msgstr "強い主に北西の風"
+
+msgid "voimakas 1- ja 8-valinen tuuli"
+msgstr "強い北〜北西の風"
+
+msgid "voimakas tuuli"
+msgstr "強風"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti]"
+msgstr "[1][2]が[3]弱まる"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee edelleen"
+msgstr "[1][2]が引き続き弱まる"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa [nopeasti]"
+msgstr "[1][2]が[3]弱まり始める"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1][2]が弱まり始め一時的に風向き不定になる"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1][2]が弱まり一時的に風向き不定になる"
+
+msgid "voimakas 2-puoleinen tuuli"
+msgstr "強い主に北東の風"
+
+msgid "voimakas 3-puoleinen tuuli"
+msgstr "強い主に東の風"
+
+msgid "voimakas 3-tuuli"
+msgstr "強い東の風"
+
+msgid "voimakas 1-tuuli"
+msgstr "強い北の風"
+
+msgid "voimakas 1-puoleinen tuuli"
+msgstr "強い主に北の風"
+
+msgid "voimakas 3- ja 2-valinen tuuli"
+msgstr "強い東〜北東の風"
+
+msgid "voimakas 2-tuuli"
+msgstr "強い北東の風"
+
+msgid "voimakas 1- ja 2-valinen tuuli"
+msgstr "強い北〜北東の風"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1][2]が弱まり始め風向き不定になる"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1][2]が弱まり風向き不定になる"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]"
+msgstr "[1][2]が弱まり始め[3]に変わる"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]"
+msgstr "[1][2]が弱まり[3]に変わる"
+
+msgid "tiepiiri-o4:lle"
+msgstr "オウル北部内陸地区向け"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen"
+msgstr "[1][2]が[3]に変わり引き続き弱まる"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1][2]が[3]弱まり[4][5]に変わる"
+
+msgid "[etelatuuli] alkaa voimistua [nopeasti]"
+msgstr "[1]が[2]強まり始める"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi"
+msgstr "[1][2]が強まり始め風向き不定になる"
+
+msgid "[iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]風が強まり始め一時的に風向き不定になる"
+
+msgid "[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi"
+msgstr "[1]風が強まり始め風向き不定になる"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]"
+msgstr "[1][2]が[3]弱まり[4]に変わる"
+
+msgid "[pohjoistuuli] heikkenee [nopeasti]"
+msgstr "[1]が[2]弱まる"
+
+msgid "[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1]が[2]弱まり[3][4]に変わる"
+
+msgid "[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]"
+msgstr "[1]が[2]弱まり[3]に変わる"
+
+msgid "[pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1]が弱まり風向き不定になる"
+
+msgid "[etelatuuli] alkaa heiketa [nopeasti]"
+msgstr "[1]が[2]弱まり始める"
+
+msgid "[pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]が弱まり一時的に風向き不定になる"
+
+msgid "[pohjoistuuli] alkaa heiketa ja kaantya [etelaan]"
+msgstr "[1]が弱まり始め[2]へ向く"
+
+msgid "[pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1]が[2]弱まり始め[3][4]に変わる"
+
+msgid "[etelatuuli] heikkenee [nopeasti]"
+msgstr "[1]が[2]弱まる"
+
+msgid "[pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi"
+msgstr "[1]が強まり始め風向き不定になる"
+
+msgid "[pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]が弱まり始め一時的に風向き不定になる"
+
+msgid "[pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1]が弱まり始め風向き不定になる"
+
+msgid "1-keskipaivaan"
+msgstr "月曜日正午まで"
+
+msgid "2-keskipaivaan"
+msgstr "火曜日正午まで"
+
+msgid "3-keskipaivaan"
+msgstr "水曜日正午まで"
+
+msgid "4-keskipaivaan"
+msgstr "木曜日正午まで"
+
+msgid "5-keskipaivaan"
+msgstr "金曜日正午まで"
+
+msgid "6-keskipaivaan"
+msgstr "土曜日正午まで"
+
+msgid "7-keskipaivaan"
+msgstr "日曜日正午まで"
+
+msgid "1-keskipaivasta"
+msgstr "月曜日正午から"
+
+msgid "2-keskipaivasta"
+msgstr "火曜日正午から"
+
+msgid "3-keskipaivasta"
+msgstr "水曜日正午から"
+
+msgid "4-keskipaivasta"
+msgstr "木曜日正午から"
+
+msgid "5-keskipaivasta"
+msgstr "金曜日正午から"
+
+msgid "6-keskipaivasta"
+msgstr "土曜日正午から"
+
+msgid "7-keskipaivasta"
+msgstr "日曜日正午から"
+
+msgid "kemi-tornio:lle"
+msgstr "ケミ・トルニオ向け"
+
+msgid "rovaniemen seutu:lle"
+msgstr "ロヴァニエミ地域向け"
+
+msgid "tornionlaakso:lle"
+msgstr "トルネ谷向け"
+
+msgid "tunturi-lappi:lle"
+msgstr "トゥントゥリ・ラップランド向け"
+
+msgid "elyalue-epo:lle"
+msgstr "南ポフヤンマーELY地域向け"
+
+msgid "elyalue-kas:lle"
+msgstr "南東フィンランドELY地域向け"
+
+msgid "elyalue-kes:lle"
+msgstr "中部フィンランドELY地域向け"
+
+msgid "elyalue-lap:lle"
+msgstr "ラップランドELY地域向け"
+
+msgid "elyalue-pir:lle"
+msgstr "ピルカンマーELY地域向け"
+
+msgid "elyalue-pkp:lle"
+msgstr "北ポフヤンマーELY地域向け"
+
+msgid "elyalue-pos:lle"
+msgstr "北サヴォELY地域向け"
+
+msgid "elyalue-uud:lle"
+msgstr "ウーシマーELY地域向け"
+
+msgid "elyalue-var:lle"
+msgstr "フィンランド本土ELY地域向け"
+
+msgid "tiepiiri-h1:lle"
+msgstr "南ハメ向け"
+
+msgid "tiepiiri-h2:lle"
+msgstr "南パイヤンネ・ハメ向け"
+
+msgid "tiepiiri-h3:lle"
+msgstr "南ピルカンマー向け"
+
+msgid "tiepiiri-h4:lle"
+msgstr "北パイヤンネ・ハメ向け"
+
+msgid "tiepiiri-h5:lle"
+msgstr "北ピルカンマー向け"
+
+msgid "tiepiiri-k1:lle"
+msgstr "キュメンマー沿岸地区向け"
+
+msgid "tiepiiri-k2:lle"
+msgstr "キュメンマー内陸地区向け"
+
+msgid "tiepiiri-k3:lle"
+msgstr "南カレリア向け"
+
+msgid "tiepiiri-k4:lle"
+msgstr "南サヴォ向け"
+
+msgid "tiepiiri-ke1:lle"
+msgstr "中部フィンランド南部地区向け"
+
+msgid "tiepiiri-ke2:lle"
+msgstr "中部フィンランド北部地区向け"
+
+msgid "tiepiiri-l1:lle"
+msgstr "南西ラップランド向け"
+
+msgid "tiepiiri-l2:lle"
+msgstr "南東ラップランド向け"
+
+msgid "tiepiiri-l3:lle"
+msgstr "中部ラップランド向け"
+
+msgid "tiepiiri-l4:lle"
+msgstr "北西ラップランド向け"
+
+msgid "tiepiiri-l5:lle"
+msgstr "北ラップランド向け"
+
+msgid "tiepiiri-o1e:lle"
+msgstr "オウル南部沿岸地区向け"
+
+msgid "tiepiiri-o1p:lle"
+msgstr "オウル北部沿岸地区向け"
+
+msgid "tiepiiri-o2:lle"
+msgstr "オウル南部内陸地区向け"
+
+msgid "tiepiiri-o3:lle"
+msgstr "カイヌー向け"
+
+msgid "tiepiiri-o5:lle"
+msgstr "コイッリスマー向け"
+
+msgid "tiepiiri-s1:lle"
+msgstr "北カレリア南部地区向け"
+
+msgid "tiepiiri-s2:lle"
+msgstr "北サヴォ南部地区向け"
+
+msgid "[etelatuuli] voimistuu [nopeasti]"
+msgstr "[1]が[2]強まる"
+
+msgid "[iltapaivalla] [pohjoistuuli] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1][2]が強まり始め一時的に風向き不定になる"
+
+msgid "[iltapaivalla] tuuli alkaa voimistua ja kaantyy [etelaan]"
+msgstr "[1]風が強まり始め[2]に変わる"
+
+msgid "[pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1]が[2]強まり始め[3][4]に変わる"
+
+msgid "[pohjoistuuli] alkaa voimistua ja kaantya [etelaan]"
+msgstr "[1]が強まり始め[2]へ向く"
+
+msgid "[pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]が強まり始め一時的に風向き不定になる"
+
+msgid "[pohjoistuuli] voimistuu [nopeasti]"
+msgstr "[1]が[2]強まる"
+
+msgid "[pohjoistuuli] voimistuu ja kaantyy [etelaan]"
+msgstr "[1]が強まり[2]に変わる"
+
+msgid "[pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]が強まり一時的に風向き不定になる"
+
+msgid "[pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi"
+msgstr "[1]が強まり風向き不定になる"
+
+msgid "1-aamuyolla"
+msgstr "月曜日の早朝"
+
+msgid "tiepiiri-s3:lle"
+msgstr "北カレリア中部地区向け"
+
+msgid "tiepiiri-s4:lle"
+msgstr "北サヴォ北部地区向け"
+
+msgid "tiepiiri-s5:lle"
+msgstr "北カレリア北部地区向け"
+
+msgid "tiepiiri-t1:lle"
+msgstr "フィンランド本土沿岸地区向け"
+
+msgid "tiepiiri-t2:lle"
+msgstr "フィンランド本土内陸地区向け"
+
+msgid "tiepiiri-t3:lle"
+msgstr "フィンランド本土東部地区向け"
+
+msgid "tiepiiri-t4:lle"
+msgstr "サタクンタ沿岸地区向け"
+
+msgid "tiepiiri-t5:lle"
+msgstr "サタクンタ内陸地区向け"
+
+msgid "tiepiiri-u1:lle"
+msgstr "西ウーシマー沿岸地区向け"
+
+msgid "tiepiiri-u2:lle"
+msgstr "首都圏地区向け"
+
+msgid "tiepiiri-u3:lle"
+msgstr "東ウーシマー沿岸地区向け"
+
+msgid "tiepiiri-u4:lle"
+msgstr "西ウーシマー内陸地区向け"
+
+msgid "tiepiiri-u5:lle"
+msgstr "東ウーシマー内陸地区向け"
+
+msgid "tiepiiri-v1:lle"
+msgstr "ポフヤンマー南部沿岸地区向け"
+
+msgid "tiepiiri-v2:lle"
+msgstr "南ポフヤンマー向け"
+
+msgid "tiepiiri-v4:lle"
+msgstr "ポフヤンマー北部沿岸地区向け"
+
+msgid "tiepiiri-v5:lle"
+msgstr "中部ポフヤンマー向け"
+
+msgid "[iltap] [nop] [heikken] [tuulta] [m...n] [m sek], joka kaantyy [illalla] [pohj]"
+msgstr "[1][2][3][4][5][6]、[7][8]に変わる"
+
+msgid "[lampotila] vahan nollan alapuolella"
+msgstr "[1]が零度をわずかに下回る"
+
+msgid "[lampotila] on vahan nollan alapuolella"
+msgstr "[1]が零度をわずかに下回る"
+
+msgid "[huomenna] vahan nollan alapuolella"
+msgstr "[1]零度をわずかに下回る"
+
+msgid "[sismaassa] vahan nollan alapuolella"
+msgstr "[1]零度をわずかに下回る"
+
+msgid "[huomenna] [lampotila] on vahan nollan alapuolella"
+msgstr "[1][2]が零度をわずかに下回る"
+
+msgid "[sisamaassa] [lampotila] on vahan nollan alapuolella"
+msgstr "[1][2]が零度をわずかに下回る"
+
+msgid "[huomenna] [sisamaassa] vahan nollan alapuolella"
+msgstr "[1][2]零度をわずかに下回る"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on vahan nollan alapuolella"
+msgstr "[1][2][3]が零度をわずかに下回る"
+
+msgid "rannikolla vahan nollan alapuolella"
+msgstr "沿岸部で零度をわずかに下回る"
+
+msgid "muuten hyva nakyvyys"
+msgstr "その他は良好な視界"
+
+msgid "hyva nakyvyys"
+msgstr "良好な視界"
+
+msgid "enimmakseen hyva nakyvyys"
+msgstr "ほぼ良好な視界"
+
+msgid "yolla ja aamulla"
+msgstr "夜間および朝"
+
+msgid "aamulla ja paivalla"
+msgstr "朝および昼間"
+
+msgid "paivalla ja illalla"
+msgstr "昼間および夕方"
+
+msgid "illalla ja yolla"
+msgstr "夕方および夜間"
+
+msgid "1-keskipaivalla"
+msgstr "月曜日の正午"
+
+msgid "2-keskipaivalla"
+msgstr "火曜日の正午"
+
+msgid "3-keskipaivalla"
+msgstr "水曜日の正午"
+
+msgid "4-keskipaivalla"
+msgstr "木曜日の正午"
+
+msgid "5-keskipaivalla"
+msgstr "金曜日の正午"
+
+msgid "6-keskipaivalla"
+msgstr "土曜日の正午"
+
+msgid "7-keskipaivalla"
+msgstr "日曜日の正午"
+
+msgid "ja huono nakyvyys"
+msgstr "および不良な視界"
+
+msgid "B2_B1S:lle"
+msgstr "クワルケンおよび南ボスニア湾向け"
+
+msgid "B2_B1:lle"
+msgstr "クワルケンおよびボスニア湾向け"
+
+msgid "B3_B2_B1:lle"
+msgstr "ボスニア海、クワルケンおよびボスニア湾向け"
+
+msgid "B3_B2:lle"
+msgstr "ボスニア海およびクワルケン向け"
+
+msgid "B4E_B3:lle"
+msgstr "群島海およびボスニア海向け"
+
+msgid "B4_B3:lle"
+msgstr "群島海、オーランド海およびボスニア海向け"
+
+msgid "B7_B4:lle"
+msgstr "北バルト海、群島海およびオーランド海向け"
+
+msgid "B7_B4_B3:lle"
+msgstr "北バルト海、群島海、オーランド海およびボスニア海向け"
+
+msgid "B5W_B7:lle"
+msgstr "西フィンランド湾および北バルト海向け"
+
+msgid "B5_B7:lle"
+msgstr "フィンランド湾および北バルト海向け"
+
+msgid "B3N_B2:lle"
+msgstr "北ボスニア海およびクワルケン向け"
+
+msgid "vesi- tai tihkusadetta"
+msgstr "雨または霧雨"
+
+msgid "lumi- tai tihkusadetta"
+msgstr "降雪または霧雨"
+
+msgid "ranta- tai tihkusadetta"
+msgstr "みぞれまたは霧雨"
+
+msgid "jaatavaa tihkusadetta"
+msgstr "凍る霧雨"
+
+msgid "jotka muuttuvat lumikuuroiksi"
+msgstr "雪のにわか雨に変わる"
+
+msgid "jotka muuttuvat rantakuuroiksi"
+msgstr "みぞれのにわか雨に変わる"
+
+msgid "[iltapaivalla] [etelatuuli] alkaa voimistua [nopeasti]"
+msgstr "[1][2]が[3]強まり始める"
+
+msgid "[iltapaivalla] [etelatuuli] voimistuu [nopeasti]"
+msgstr "[1][2]が[3]強まる"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1][2]が[3]強まり始め[4][5]に変わる"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1][2]が強まり始め一時的に風向き不定になる"
+
+msgid "4-aamuyolla ja aamulla"
+msgstr "木曜日の早朝および朝"
+
+msgid "B5W_B7E_B4E:lle"
+msgstr "西フィンランド湾、北バルト海東部および群島海向け"
+
+msgid "B5W_B7E:lle"
+msgstr "西フィンランド湾および北バルト海東部向け"
+
+msgid "B7_B4_B3S:lle"
+msgstr "北バルト海、群島海、オーランド海および南ボスニア海向け"
+
+msgid "B7E_B4E_B3S:lle"
+msgstr "北バルト海東部、群島海および南ボスニア海向け"
+
+msgid "B7E_B4E:lle"
+msgstr "北バルト海東部および群島海向け"
+
+msgid "B7W_B4:lle"
+msgstr "西フィンランド湾、群島海およびオーランド海向け"
+
+msgid "B7W_B4W_B3S:lle"
+msgstr "西フィンランド湾、オーランド海および南ボスニア海向け"
+
+msgid "B7W_B4W:lle"
+msgstr "西フィンランド湾およびオーランド海向け"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1][2]が強まり一時的に風向き不定になる"
+
+msgid "[iltapaivalla] tuuli kaantyy [etelaan] ja heikkenee edelleen"
+msgstr "[1]風が[2]に変わり引き続き弱まる"
+
+msgid "tuuli voimistuu"
+msgstr "風が強まり"
+
+msgid "B4_B3S:lle"
+msgstr "群島海、オーランド海および南ボスニア海向け"
+
+msgid "aamupaivalla"
+msgstr "午前中"
+
+msgid "huomisen keskipaivaan asti"
+msgstr "明日の正午まで"
+
+msgid "huono nakyvyys"
+msgstr "不良な視界"
+
+msgid "B1"
+msgstr "ボスニア湾"
+
+msgid "B2"
+msgstr "クワルケン"
+
+msgid "B3"
+msgstr "ボスニア海"
+
+msgid "B4"
+msgstr "群島海およびオーランド海"
+
+msgid "B5"
+msgstr "フィンランド湾"
+
+msgid "B6"
+msgstr "リガ湾"
+
+msgid "B7"
+msgstr "北バルト海"
+
+msgid "B8"
+msgstr "中部バルト海"
+
+msgid "B9"
+msgstr "南東バルト海"
+
+msgid "B10"
+msgstr "南バルト海"
+
+msgid "B11"
+msgstr "アルコナ海"
+
+msgid "B12"
+msgstr "エーレスンおよびベルト海"
+
+msgid "B13"
+msgstr "カテガット"
+
+msgid "B1N"
+msgstr "北ボスニア湾"
+
+msgid "B1S"
+msgstr "南ボスニア湾"
+
+msgid "B4E"
+msgstr "群島海"
+
+msgid "B4W"
+msgstr "オーランド海"
+
+msgid "B5E"
+msgstr "東フィンランド湾"
+
+msgid "B5W"
+msgstr "西フィンランド湾"
+
+msgid "B8E"
+msgstr "中部バルト海"
+
+msgid "B8W"
+msgstr "ゴトランド海"
+
+msgid "B10N"
+msgstr "エーランド海"
+
+msgid "B10S"
+msgstr "ボルンホルム海"
+
+msgid "B2_B1S"
+msgstr "クワルケンおよび南ボスニア湾"
+
+msgid "B2_B1"
+msgstr "クワルケンおよびボスニア湾"
+
+msgid "B3_B2_B1"
+msgstr "ボスニア海、クワルケンおよびボスニア湾"
+
+msgid "B3_B2"
+msgstr "ボスニア海およびクワルケン"
+
+msgid "B4E_B3"
+msgstr "群島海およびボスニア海"
+
+msgid "B4_B3"
+msgstr "群島海、オーランド海およびボスニア海"
+
+msgid "B7_B4"
+msgstr "北バルト海、群島海およびオーランド海"
+
+msgid "B7_B4_B3"
+msgstr "北バルト海、群島海、オーランド海およびボスニア海"
+
+msgid "B5W_B7"
+msgstr "西フィンランド湾および北バルト海"
+
+msgid "B5_B7"
+msgstr "フィンランド湾および北バルト海"
+
+msgid "B3N_B2"
+msgstr "北ボスニア海およびクワルケン"
+
+msgid "B3N"
+msgstr "北ボスニア海"
+
+msgid "B3S"
+msgstr "南ボスニア海"
+
+msgid "B4_B3S"
+msgstr "群島海、オーランド海および南ボスニア海"
+
+msgid "B5W_B7E_B4E"
+msgstr "西フィンランド湾、北バルト海東部および群島海"
+
+msgid "B5W_B7E"
+msgstr "西フィンランド湾および北バルト海東部"
+
+msgid "B7_B4_B3S"
+msgstr "北バルト海、群島海、オーランド海および南ボスニア海"
+
+msgid "B7E_B4E_B3S"
+msgstr "北バルト海東部、群島海および南ボスニア海"
+
+msgid "B7E_B4E"
+msgstr "北バルト海東部および群島海"
+
+msgid "B7E"
+msgstr "北バルト海東部"
+
+msgid "B7W_B4W_B3S"
+msgstr "西フィンランド湾、オーランド海および南ボスニア海"
+
+msgid "B7W_B4"
+msgstr "西フィンランド湾、群島海およびオーランド海"
+
+msgid "B7W_B4W"
+msgstr "西フィンランド湾およびオーランド海"
+
+msgid "B7W"
+msgstr "北バルト海西部"

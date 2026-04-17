@@ -68,7 +68,7 @@ qdtext::areas
 	varsinais-suomi		= $(dir)/varsinais-suomi.svg:$(radius)
 }
 
-qdtext::dictionary = file
+qdtext::dictionary = po
 qdtext::timezone = Europe/Helsinki
 
 qdtext::products = fi_txt,sv_txt,en_txt,fi_html

@@ -1,0 +1,6458 @@
+# SmartMet textgen dictionary: Korean (ko)
+# Generated from ko.txt by tools/txt_to_po.py
+#
+# Keywords are opaque identifiers and must not be translated.
+# Tokens in [brackets] are placeholders and must be kept as-is.
+msgid ""
+msgstr ""
+"Project-Id-Version: smartmet-library-textgen\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"X-SmartMet-Language-Name: Korean\n"
+"X-SmartMet-Full: no\n"
+
+msgid "word_separator"
+msgstr " "
+
+msgid "sentence_end"
+msgstr "."
+
+msgid "o'clock"
+msgstr "시"
+
+msgid "meri-lappi:lle"
+msgstr "메리-라피 지역"
+
+msgid "pohjois-pohjanmaan itaosa:lle"
+msgstr "북오스트로보트니아 동부 지역"
+
+msgid "pohjois-pohjanmaan lansiosa:lle"
+msgstr "북오스트로보트니아 서부 지역"
+
+msgid "pohjanmaa ja etela-pohjanmaa:lle"
+msgstr "오스트로보트니아 및 남오스트로보트니아 지역"
+
+msgid "etela-lappi:lle"
+msgstr "남부 라플란드 지역"
+
+msgid "keski-lappi:lle"
+msgstr "중부 라플란드 지역"
+
+msgid "utsjoki ja inari:lle"
+msgstr "우츠요키 및 이나리 지역"
+
+msgid "finnmarkin lansiosa:lle"
+msgstr "핀마르크 서부 지역"
+
+msgid "finnmarkin itaosa:lle"
+msgstr "핀마르크 동부 지역"
+
+msgid "murmanskin alueen lansiosa:lle"
+msgstr "무르만스크 서부 지역"
+
+msgid "pohjois-ruotsi:lle"
+msgstr "북스웨덴 지역"
+
+msgid "[iltapaivalla] lumikuurot voivat olla sakeita"
+msgstr "[1] 눈소나기가 강해질 수 있음"
+
+msgid "[iltapaivalla] lumisade voi olla sakeaa"
+msgstr "[1] 폭설이 쏟아질 수 있음"
+
+msgid "huomiseen iltapaivaan asti"
+msgstr "내일 오후까지"
+
+msgid "aamuyosta"
+msgstr "새벽부터"
+
+msgid "astetta(noin n)"
+msgstr "도"
+
+msgid "huomattavasti lampimampi"
+msgstr "훨씬 따뜻함"
+
+msgid "lampimampi"
+msgstr "더 따뜻함"
+
+msgid "seuraava yo"
+msgstr "다음 야간"
+
+msgid "seuraavana yona"
+msgstr "다음 야간에"
+
+msgid "on"
+msgstr "임"
+
+msgid "ankaran hallan todennakoisyys"
+msgstr "심한 서리 확률"
+
+msgid "hallan todennakoisyys"
+msgstr "서리 확률"
+
+msgid "7-vastaisena yona"
+msgstr "일요일 밤에"
+
+msgid "6-vastaisena yona"
+msgstr "토요일 밤에"
+
+msgid "5-vastaisena yona"
+msgstr "금요일 밤에"
+
+msgid "4-vastaisena yona"
+msgstr "목요일 밤에"
+
+msgid "3-vastaisena yona"
+msgstr "수요일 밤에"
+
+msgid "2-vastaisena yona"
+msgstr "화요일 밤에"
+
+msgid "1-vastaisena yona"
+msgstr "월요일 밤에"
+
+msgid "sama"
+msgstr "동일"
+
+msgid "hieman pienempi"
+msgstr "약간 적음"
+
+msgid "hieman suurempi"
+msgstr "약간 많음"
+
+msgid "pienempi"
+msgstr "적음"
+
+msgid "suurempi"
+msgstr "많음"
+
+msgid "alin suhteellinen kosteus"
+msgstr "최저 상대 습도"
+
+msgid "7-na"
+msgstr "일요일에"
+
+msgid "6-na"
+msgstr "토요일에"
+
+msgid "5-na"
+msgstr "금요일에"
+
+msgid "4-na"
+msgstr "목요일에"
+
+msgid "3-na"
+msgstr "수요일에"
+
+msgid "2-na"
+msgstr "화요일에"
+
+msgid "1-na"
+msgstr "월요일에"
+
+msgid "odotettavissa"
+msgstr "예상 날씨"
+
+msgid "7-illasta"
+msgstr "일요일 저녁부터"
+
+msgid "1-illasta"
+msgstr "월요일 저녁부터"
+
+msgid "2-illasta"
+msgstr "화요일 저녁부터"
+
+msgid "3-illasta"
+msgstr "수요일 저녁부터"
+
+msgid "4-illasta"
+msgstr "목요일 저녁부터"
+
+msgid "5-illasta"
+msgstr "금요일 저녁부터"
+
+msgid "6-illasta"
+msgstr "토요일 저녁부터"
+
+msgid "7-aamuun"
+msgstr "일요일 아침까지"
+
+msgid "1-aamuun"
+msgstr "월요일 아침까지"
+
+msgid "2-aamuun"
+msgstr "화요일 아침까지"
+
+msgid "3-aamuun"
+msgstr "수요일 아침까지"
+
+msgid "4-aamuun"
+msgstr "목요일 아침까지"
+
+msgid "5-aamuun"
+msgstr "금요일 아침까지"
+
+msgid "6-aamuun"
+msgstr "토요일 아침까지"
+
+msgid "saa"
+msgstr "날씨"
+
+msgid "keskilampotila"
+msgstr "평균 기온"
+
+msgid "keskimaarainen ylin lampotila"
+msgstr "평균 최고 기온"
+
+msgid "keskimaarainen alin lampotila"
+msgstr "평균 최저 기온"
+
+msgid "sadesumma"
+msgstr "총 강수량"
+
+msgid "astetta"
+msgstr "도"
+
+msgid "millimetria"
+msgstr "밀리미터"
+
+msgid "1-aamusta"
+msgstr "월요일 아침부터"
+
+msgid "2-aamusta"
+msgstr "화요일 아침부터"
+
+msgid "3-aamusta"
+msgstr "수요일 아침부터"
+
+msgid "4-aamusta"
+msgstr "목요일 아침부터"
+
+msgid "5-aamusta"
+msgstr "금요일 아침부터"
+
+msgid "6-aamusta"
+msgstr "토요일 아침부터"
+
+msgid "7-aamusta"
+msgstr "일요일 아침부터"
+
+msgid "alkavan"
+msgstr ""
+
+msgid "1-iltaan"
+msgstr "월요일 저녁까지"
+
+msgid "2-vuorokauden saa"
+msgstr "향후 이틀간 날씨"
+
+msgid "3-vuorokauden saa"
+msgstr "향후 사흘간 날씨"
+
+msgid "4-vuorokauden saa"
+msgstr "향후 나흘간 날씨"
+
+msgid "5-vuorokauden saa"
+msgstr "향후 닷새간 날씨"
+
+msgid "6-vuorokauden saa"
+msgstr "향후 엿새간 날씨"
+
+msgid "7-vuorokauden saa"
+msgstr "향후 일주일간 날씨"
+
+msgid "8-vuorokauden saa"
+msgstr "향후 8일간 날씨"
+
+msgid "9-vuorokauden saa"
+msgstr "향후 9일간 날씨"
+
+msgid "10-vuorokauden saa"
+msgstr "향후 10일간 날씨"
+
+msgid "1-keskipaivaan asti"
+msgstr "월요일 정오까지"
+
+msgid "2-keskipaivaan asti"
+msgstr "화요일 정오까지"
+
+msgid "3-keskipaivaan asti"
+msgstr "수요일 정오까지"
+
+msgid "4-keskipaivaan asti"
+msgstr "목요일 정오까지"
+
+msgid "5-keskipaivaan asti"
+msgstr "금요일 정오까지"
+
+msgid "6-keskipaivaan asti"
+msgstr "토요일 정오까지"
+
+msgid "7-keskipaivaan asti"
+msgstr "일요일 정오까지"
+
+msgid "yli"
+msgstr "초과"
+
+msgid "2-iltaan"
+msgstr "화요일 저녁까지"
+
+msgid "3-iltaan"
+msgstr "수요일 저녁까지"
+
+msgid "4-iltaan"
+msgstr "목요일 저녁까지"
+
+msgid "5-iltaan"
+msgstr "금요일 저녁까지"
+
+msgid "6-iltaan"
+msgstr "토요일 저녁까지"
+
+msgid "7-iltaan"
+msgstr "일요일 저녁까지"
+
+msgid "monin paikoin enemman"
+msgstr "여러 곳에서 더 많음"
+
+msgid "paikoin enemman"
+msgstr "일부 지역에서 더 많음"
+
+msgid "monin paikoin"
+msgstr "여러 곳에서"
+
+msgid "paikoin"
+msgstr "일부 지역에서"
+
+msgid "asti"
+msgstr ""
+
+msgid "huomattavasti korkeampi"
+msgstr "훨씬 높음"
+
+msgid "korkeampi"
+msgstr "더 높음"
+
+msgid "hieman korkeampi"
+msgstr "약간 높음"
+
+msgid "suunnilleen sama"
+msgstr "거의 동일"
+
+msgid "hieman alempi"
+msgstr "약간 낮음"
+
+msgid "alempi"
+msgstr "더 낮음"
+
+msgid "huomattavasti alempi"
+msgstr "훨씬 낮음"
+
+msgid "noin"
+msgstr "약"
+
+msgid "seuraavana paivana"
+msgstr "다음 날에"
+
+msgid "paivan ylin lampotila"
+msgstr "낮 최고 기온"
+
+msgid "yon alin lampotila"
+msgstr "야간 최저 기온"
+
+msgid "paivien ylin lampotila"
+msgstr "일별 최고 기온"
+
+msgid "oiden alin lampotila"
+msgstr "야간 최저 기온"
+
+msgid "paivalampotila"
+msgstr "낮 기온"
+
+msgid "yolampotila"
+msgstr "야간 기온"
+
+msgid "lopuksi"
+msgstr "마지막으로"
+
+msgid "8-suunnasta"
+msgstr "북서쪽에서"
+
+msgid "7-suunnasta"
+msgstr "서쪽에서"
+
+msgid "6-suunnasta"
+msgstr "남서쪽에서"
+
+msgid "5-suunnasta"
+msgstr "남쪽에서"
+
+msgid "4-suunnasta"
+msgstr "남동쪽에서"
+
+msgid "3-suunnasta"
+msgstr "동쪽에서"
+
+msgid "2-suunnasta"
+msgstr "북동쪽에서"
+
+msgid "1-suunnasta"
+msgstr "북쪽에서"
+
+msgid "8-suuntaan"
+msgstr "북서쪽으로"
+
+msgid "7-suuntaan"
+msgstr "서쪽으로"
+
+msgid "6-suuntaan"
+msgstr "남서쪽으로"
+
+msgid "5-suuntaan"
+msgstr "남쪽으로"
+
+msgid "4-suuntaan"
+msgstr "남동쪽으로"
+
+msgid "3-suuntaan"
+msgstr "동쪽으로"
+
+msgid "2-suuntaan"
+msgstr "북동쪽으로"
+
+msgid "1-suuntaan"
+msgstr "북쪽으로"
+
+msgid "alueen yli"
+msgstr "지역 전체에"
+
+msgid "liikkuu"
+msgstr "이동 중"
+
+msgid "kosteammaksi"
+msgstr "더 습함"
+
+msgid "kuivemmaksi"
+msgstr "더 건조함"
+
+msgid "muuttuu"
+msgstr "변화"
+
+msgid "viilenee"
+msgstr "더 쌀쌀해짐"
+
+msgid "lampenee"
+msgstr "더 따뜻해짐"
+
+msgid "sadealue"
+msgstr "강수 구역"
+
+msgid "leviaa"
+msgstr "확산"
+
+msgid "loittonee"
+msgstr "멀어짐"
+
+msgid "lahestyy"
+msgstr "접근 중"
+
+msgid "laaja"
+msgstr "넓은"
+
+msgid "korkeapaineen alue"
+msgstr "고기압 지역"
+
+msgid "matalapaineen alue"
+msgstr "저기압 지역"
+
+msgid "syvenee"
+msgstr "깊어짐"
+
+msgid "korkeapaine"
+msgstr "고기압"
+
+msgid "matalapaine"
+msgstr "저기압"
+
+msgid "lampotila"
+msgstr "기온"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "heikkoa"
+msgstr "약한"
+
+msgid "kohtalaista"
+msgstr "보통"
+
+msgid "navakkaa"
+msgstr "강한"
+
+msgid "kovaa"
+msgstr "매우 강한"
+
+msgid "myrskya"
+msgstr "폭풍"
+
+msgid "tuulta"
+msgstr "바람"
+
+msgid "suunnaltaan vaihtelevaa"
+msgstr "방향 가변"
+
+msgid "1-tuulta"
+msgstr "북풍"
+
+msgid "2-tuulta"
+msgstr "북동풍"
+
+msgid "3-tuulta"
+msgstr "동풍"
+
+msgid "4-tuulta"
+msgstr "남동풍"
+
+msgid "5-tuulta"
+msgstr "남풍"
+
+msgid "6-tuulta"
+msgstr "남서풍"
+
+msgid "7-tuulta"
+msgstr "서풍"
+
+msgid "8-tuulta"
+msgstr "북서풍"
+
+msgid "yolla"
+msgstr "야간에"
+
+msgid "heikkenevaa"
+msgstr "약해지는"
+
+msgid "tuuli"
+msgstr "바람"
+
+msgid "1-puoleista tuulta"
+msgstr "주로 북풍"
+
+msgid "2-puoleista tuulta"
+msgstr "주로 북동풍"
+
+msgid "3-puoleista tuulta"
+msgstr "주로 동풍"
+
+msgid "4-puoleista tuulta"
+msgstr "주로 남동풍"
+
+msgid "5-puoleista tuulta"
+msgstr "주로 남풍"
+
+msgid "6-puoleista tuulta"
+msgstr "주로 남서풍"
+
+msgid "7-puoleista tuulta"
+msgstr "주로 서풍"
+
+msgid "8-puoleista tuulta"
+msgstr "주로 북서풍"
+
+msgid "ajoittain lumisadetta"
+msgstr "간헐적 강설"
+
+msgid "ajoittain sadetta"
+msgstr "간헐적 강수"
+
+msgid "ajoittain ukkosta"
+msgstr "뇌우"
+
+msgid "heikkoa sadetta"
+msgstr "약한 비"
+
+msgid "lumikuuroja"
+msgstr "눈소나기"
+
+msgid "lumisadetta"
+msgstr "강설"
+
+msgid "voimistuvaa"
+msgstr "강해지는"
+
+msgid "vahvistuu"
+msgstr "강해짐"
+
+msgid "uusimaa"
+msgstr "우시마"
+
+msgid "mahdollisesti ukkosta"
+msgstr "뇌우 가능성"
+
+msgid "paikoin ukkosta"
+msgstr "일부 지역에서 뇌우"
+
+msgid "ukkosta"
+msgstr "뇌우"
+
+msgid "melko selkeaa"
+msgstr "비교적 맑음"
+
+msgid "miinus"
+msgstr "영하"
+
+msgid "pilvistyvaa"
+msgstr "구름 증가"
+
+msgid "pilvista"
+msgstr "흐림"
+
+msgid "poutaa"
+msgstr "맑은 날씨"
+
+msgid "puolipilvista"
+msgstr "구름 조금"
+
+msgid "runsasta sadetta"
+msgstr "강한 비"
+
+msgid "sadetta"
+msgstr "비"
+
+msgid "sakeaa lumisadetta"
+msgstr "폭설"
+
+msgid "sakeita lumikuuroja"
+msgstr "강한 눈소나기"
+
+msgid "selkenevaa"
+msgstr "구름 감소"
+
+msgid "selkeaa"
+msgstr "맑음"
+
+msgid "tai"
+msgstr "또는"
+
+msgid "tuuli heikkenee"
+msgstr "바람이 약해져"
+
+msgid "vaihtelevaa pilvisyytta"
+msgstr "가변적 흐림"
+
+msgid "vesisadetta"
+msgstr "비"
+
+msgid "voimakkaita kuuroja"
+msgstr "강한 소나기"
+
+msgid "vahaisia kuuroja"
+msgstr "약한 소나기"
+
+msgid "vahaista lumisadetta"
+msgstr "약한 강설"
+
+msgid "heikoksi"
+msgstr "약하게"
+
+msgid "kohtalaiseksi"
+msgstr "보통으로"
+
+msgid "navakaksi"
+msgstr "강하게"
+
+msgid "kovaksi"
+msgstr "매우 강하게"
+
+msgid "myrskyksi"
+msgstr "폭풍으로"
+
+msgid "1-tuuleksi"
+msgstr "북풍으로"
+
+msgid "2-tuuleksi"
+msgstr "북동풍으로"
+
+msgid "3-tuuleksi"
+msgstr "동풍으로"
+
+msgid "4-tuuleksi"
+msgstr "남동풍으로"
+
+msgid "5-tuuleksi"
+msgstr "남풍으로"
+
+msgid "6-tuuleksi"
+msgstr "남서풍으로"
+
+msgid "7-tuuleksi"
+msgstr "서풍으로"
+
+msgid "8-tuuleksi"
+msgstr "북서풍으로"
+
+msgid "1-puoleiseksi tuuleksi"
+msgstr "주로 북풍으로"
+
+msgid "2-puoleiseksi tuuleksi"
+msgstr "주로 북동풍으로"
+
+msgid "3-puoleiseksi tuuleksi"
+msgstr "주로 동풍으로"
+
+msgid "4-puoleiseksi tuuleksi"
+msgstr "주로 남동풍으로"
+
+msgid "5-puoleiseksi tuuleksi"
+msgstr "주로 남풍으로"
+
+msgid "6-puoleiseksi tuuleksi"
+msgstr "주로 남서풍으로"
+
+msgid "7-puoleiseksi tuuleksi"
+msgstr "주로 서풍으로"
+
+msgid "8-puoleiseksi tuuleksi"
+msgstr "주로 북서풍으로"
+
+msgid "tuuli tyyntyy"
+msgstr "바람이 잠잠해짐"
+
+msgid "tyyneksi"
+msgstr "잠잠하게"
+
+msgid "tyynta"
+msgstr "잠잠한 바람"
+
+msgid "viiva"
+msgstr "~"
+
+msgid "rantasadetta"
+msgstr "진눈깨비"
+
+msgid "saa on epavakaista"
+msgstr "날씨가 불안정함"
+
+msgid "lumi-"
+msgstr "눈"
+
+msgid "ranta-"
+msgstr "진눈깨비"
+
+msgid "vesi-"
+msgstr "비"
+
+msgid "edelleen"
+msgstr "계속"
+
+msgid "enimmakseen"
+msgstr "대부분"
+
+msgid "ajoittain sateista"
+msgstr "간헐적 비"
+
+msgid "paivalla"
+msgstr "낮에"
+
+msgid "hirmumyrskya"
+msgstr "폭풍"
+
+msgid "hirmumyrskyksi"
+msgstr "폭풍으로"
+
+msgid "saaennuste"
+msgstr "기상 예보"
+
+msgid "kello"
+msgstr ""
+
+msgid "aland:lle"
+msgstr "올란드 제도 지역"
+
+msgid "etela-karjala:lle"
+msgstr "남카렐리아 지역"
+
+msgid "etela-pohjanmaa:lle"
+msgstr "남오스트로보트니아 지역"
+
+msgid "etela-savo:lle"
+msgstr "남사보 지역"
+
+msgid "hame:lle"
+msgstr "타바스티아 지역"
+
+msgid "kainuu:lle"
+msgstr "카이누 지역"
+
+msgid "keski-pohjanmaa:lle"
+msgstr "중부 오스트로보트니아 지역"
+
+msgid "keski-suomi:lle"
+msgstr "중부 핀란드 지역"
+
+msgid "koillismaa:lle"
+msgstr "코일리스마 지역"
+
+msgid "kymenlaakso:lle"
+msgstr "키멘라악소 지역"
+
+msgid "lansi-lappi:lle"
+msgstr "서부 라플란드 지역"
+
+msgid "nyland:lle"
+msgstr "우시마 지역"
+
+msgid "osterbotten:lle"
+msgstr "오스트로보트니아 지역"
+
+msgid "paijat-hame:lle"
+msgstr "파이얀네 타바스티아 지역"
+
+msgid "pirkanmaa:lle"
+msgstr "피르칸마 지역"
+
+msgid "pohjois-karjala:lle"
+msgstr "북카렐리아 지역"
+
+msgid "pohjois-lappi:lle"
+msgstr "북부 라플란드 지역"
+
+msgid "pohjois-pohjanmaa:lle"
+msgstr "북오스트로보트니아 지역"
+
+msgid "pohjois-savo:lle"
+msgstr "북사보 지역"
+
+msgid "satakunta:lle"
+msgstr "사타쿤타 지역"
+
+msgid "uusimaa:lle"
+msgstr "우시마 지역"
+
+msgid "varsinais-suomi:lle"
+msgstr "핀란드 본토 지역"
+
+msgid "huomattavasti suurempi"
+msgstr "훨씬 많음"
+
+msgid "huomattavasti pienempi"
+msgstr "훨씬 적음"
+
+msgid "rannikolla"
+msgstr "해안 지역에서"
+
+msgid "metria sekunnissa"
+msgstr "미터/초"
+
+msgid "1-alkaen"
+msgstr "월요일부터"
+
+msgid "2-alkaen"
+msgstr "화요일부터"
+
+msgid "3-alkaen"
+msgstr "수요일부터"
+
+msgid "4-alkaen"
+msgstr "목요일부터"
+
+msgid "5-alkaen"
+msgstr "금요일부터"
+
+msgid "6-alkaen"
+msgstr "토요일부터"
+
+msgid "7-alkaen"
+msgstr "일요일부터"
+
+msgid "tanaan"
+msgstr "오늘"
+
+msgid "huomenna"
+msgstr "내일"
+
+msgid "ylihuomenna"
+msgstr "모레"
+
+msgid "ensi yona"
+msgstr "오늘 밤에"
+
+msgid "huomisaamuna"
+msgstr "내일 아침에"
+
+msgid "aamulla"
+msgstr "아침에"
+
+msgid "illalla"
+msgstr "저녁에"
+
+msgid "iltapaivalla"
+msgstr "오후에"
+
+msgid "aamuyolla"
+msgstr "새벽에"
+
+msgid "keskipaivalla"
+msgstr "정오에"
+
+msgid "iltayolla"
+msgstr "자정 전에"
+
+msgid "keskiyolla"
+msgstr "자정에"
+
+msgid "yosta alkaen"
+msgstr "오늘 밤부터"
+
+msgid "aamuyosta alkaen"
+msgstr "새벽부터"
+
+msgid "aamusta alkaen"
+msgstr "아침부터"
+
+msgid "aamupaivasta alkaen"
+msgstr "오전부터"
+
+msgid "keskipaivasta alkaen"
+msgstr "정오부터"
+
+msgid "iltapaivasta alkaen"
+msgstr "오후부터"
+
+msgid "illasta alkaen"
+msgstr "저녁부터"
+
+msgid "iltayosta alkaen"
+msgstr "자정 전부터"
+
+msgid "keskiyosta alkaen"
+msgstr "자정부터"
+
+msgid "prosenttia"
+msgstr "퍼센트"
+
+msgid "ajoittain"
+msgstr "가끔"
+
+msgid "1-na kello"
+msgstr "월요일에"
+
+msgid "2-na kello"
+msgstr "화요일에"
+
+msgid "3-na kello"
+msgstr "수요일에"
+
+msgid "4-na kello"
+msgstr "목요일에"
+
+msgid "5-na kello"
+msgstr "금요일에"
+
+msgid "6-na kello"
+msgstr "토요일에"
+
+msgid "7-na kello"
+msgstr "일요일에"
+
+msgid "ei suuria muutoksia saassa"
+msgstr "날씨에 큰 변화 없음"
+
+msgid "saa selkenee"
+msgstr "날씨가 개임"
+
+msgid "saa muuttuu epavakaisemmaksi"
+msgstr "날씨가 더 불안정해짐"
+
+msgid "sateinen saa jatkuu"
+msgstr "비 오는 날씨 계속"
+
+msgid "epavakainen saa jatkuu"
+msgstr "불안정한 날씨 계속"
+
+msgid "saa lauhtuu"
+msgstr "날씨가 온화해짐"
+
+msgid "saa on enimmakseen poutaista"
+msgstr "날씨는 대부분 맑음"
+
+msgid "saa poutaantuu"
+msgstr "날씨가 맑아짐"
+
+msgid "saa muuttuu helteiseksi"
+msgstr "날씨가 무더워짐"
+
+msgid "saa lampenee"
+msgstr "날씨가 따뜻해짐"
+
+msgid "saa viilenee"
+msgstr "날씨가 서늘해짐"
+
+msgid "saa muuttuu koleaksi"
+msgstr "날씨가 을씨년스러워짐"
+
+msgid "saa kylmenee"
+msgstr "날씨가 추워짐"
+
+msgid "helteinen saa jatkuu"
+msgstr "무더운 날씨 계속"
+
+msgid "lammin saa jatkuu"
+msgstr "따뜻한 날씨 계속"
+
+msgid "viilea saa jatkuu"
+msgstr "서늘한 날씨 계속"
+
+msgid "kolea saa jatkuu"
+msgstr "을씨년스러운 날씨 계속"
+
+msgid "kylma saa jatkuu"
+msgstr "추운 날씨 계속"
+
+msgid "virtaa"
+msgstr "흐름"
+
+msgid "tilapaisesti"
+msgstr "일시적으로"
+
+msgid "lamminta"
+msgstr "따뜻한"
+
+msgid "kylmaa"
+msgstr "추운"
+
+msgid "viileaa"
+msgstr "서늘한"
+
+msgid "viileampaa"
+msgstr "더 서늘한"
+
+msgid "lampimampaa"
+msgstr "더 따뜻한"
+
+msgid "kylmempaa"
+msgstr "더 추운"
+
+msgid "hyvin"
+msgstr "많이"
+
+msgid "vahan"
+msgstr "조금"
+
+msgid "ilmaa"
+msgstr "공기"
+
+msgid "Suomeen"
+msgstr "핀란드로"
+
+msgid "maan"
+msgstr "국내"
+
+msgid "etelaosiin"
+msgstr "남부 지역"
+
+msgid "keskiosiin"
+msgstr "중부 지역"
+
+msgid "pohjoisosiin"
+msgstr "북부 지역"
+
+msgid "itaosiin"
+msgstr "동부 지역"
+
+msgid "lansiosiin"
+msgstr "서부 지역"
+
+msgid "etela-"
+msgstr "남부"
+
+msgid "keski-"
+msgstr "중부"
+
+msgid "pohjois-"
+msgstr "북부"
+
+msgid "ita-"
+msgstr "동부"
+
+msgid "lansi-"
+msgstr "서부"
+
+msgid "kuivempaa"
+msgstr "더 건조한"
+
+msgid "kosteampaa"
+msgstr "더 습한"
+
+msgid "sadealueita"
+msgstr "강수 구역"
+
+msgid "Suomen yli"
+msgstr "핀란드 전역에"
+
+msgid "Etela-Suomen yli"
+msgstr "남부 핀란드 전역에"
+
+msgid "Keski-Suomen yli"
+msgstr "중부 핀란드 전역에"
+
+msgid "Pohjois-Suomen yli"
+msgstr "북부 핀란드 전역에"
+
+msgid "Ita-Suomen yli"
+msgstr "동부 핀란드 전역에"
+
+msgid "Lansi-Suomen yli"
+msgstr "서부 핀란드 전역에"
+
+msgid "Kaakkois-Suomen yli"
+msgstr "남동부 핀란드 전역에"
+
+msgid "uusi"
+msgstr "새로운"
+
+msgid "sateen todennakoisyys"
+msgstr "강수 확률"
+
+msgid "kuurosateen todennakoisyys"
+msgstr "소나기 확률"
+
+msgid "ukkosen todennakoisyys"
+msgstr "뇌우 확률"
+
+msgid "pakkanen jatkuu"
+msgstr "한파 계속"
+
+msgid "pakkanen kiristyy"
+msgstr "한파 강화"
+
+msgid "pakkanen heikkenee"
+msgstr "한파 약화"
+
+msgid "kuuluu"
+msgstr "속함"
+
+msgid "sateineen"
+msgstr "비와 함께"
+
+msgid "sadealueineen"
+msgstr "강수 구역과 함께"
+
+msgid "hajanaisine sadealueineen"
+msgstr "산발적 강수 구역과 함께"
+
+msgid "Lounais-Suomen yli"
+msgstr "남서부 핀란드 전역에"
+
+msgid "saapuu"
+msgstr "접근 중"
+
+msgid "saa muuttuu sateisemmaksi"
+msgstr "날씨가 더 비가 많아짐"
+
+msgid "alue"
+msgstr "지역"
+
+msgid "pohjanmaa:lle"
+msgstr "오스트로보트니아 지역"
+
+msgid "suomi:lle"
+msgstr "핀란드 지역"
+
+msgid "aluksi"
+msgstr "처음에"
+
+msgid "ahvenanmaa:lle"
+msgstr "올란드 지역"
+
+msgid "huomisesta alkaen"
+msgstr "내일부터"
+
+msgid "ja"
+msgstr "및"
+
+msgid "tiepiiri-hame:lle"
+msgstr "타바스티아 도로 구역"
+
+msgid "tiepiiri-kaakkois-lappi:lle"
+msgstr "남동 라플란드 도로 구역"
+
+msgid "tiepiiri-kaakkois-suomi:lle"
+msgstr "남동 핀란드 도로 구역"
+
+msgid "tiepiiri-kasivarsi:lle"
+msgstr "북서 라플란드 도로 구역"
+
+msgid "tiepiiri-keski-lappi:lle"
+msgstr "중부 라플란드 도로 구역"
+
+msgid "tiepiiri-keski-suomi:lle"
+msgstr "중부 핀란드 도로 구역"
+
+msgid "tiepiiri-lounais-lappi:lle"
+msgstr "남서 라플란드 도로 구역"
+
+msgid "tiepiiri-oulu-ita:lle"
+msgstr "오울루 동부 도로 구역"
+
+msgid "tiepiiri-oulu-lansi:lle"
+msgstr "오울루 서부 도로 구역"
+
+msgid "tiepiiri-savo-karjala:lle"
+msgstr "사보-카렐리아 도로 구역"
+
+msgid "tiepiiri-turku:lle"
+msgstr "투르쿠 도로 구역"
+
+msgid "tiepiiri-uusimaa:lle"
+msgstr "우시마 도로 구역"
+
+msgid "tiepiiri-vaasa:lle"
+msgstr "바사 도로 구역"
+
+msgid "tiepiiri-yla-lappi:lle"
+msgstr "상부 라플란드 도로 구역"
+
+msgid "tienpintalampotila"
+msgstr "도로 표면 온도"
+
+msgid "ensimmaisen 12 tunnin sademaara"
+msgstr "처음 12시간 총 강수량"
+
+msgid "seuraavan 12 tunnin"
+msgstr "이후 12시간"
+
+msgid "seuraavan 24 tunnin sademaara"
+msgstr "이후 24시간 총 강수량"
+
+msgid "tiet ovat"
+msgstr "도로 상태"
+
+msgid "teilla on"
+msgstr "도로 상태"
+
+msgid "jaisia"
+msgstr "빙판"
+
+msgid "osittain jaisia"
+msgstr "부분 빙판"
+
+msgid "kuuraa"
+msgstr "서리 덮임"
+
+msgid "sohjoa"
+msgstr "슬러시 덮임"
+
+msgid "lunta"
+msgstr "눈 덮임"
+
+msgid "markia"
+msgstr "젖음"
+
+msgid "kosteita"
+msgstr "습함"
+
+msgid "kuivia"
+msgstr "건조함"
+
+msgid "kuuraisia"
+msgstr "서리 덮임"
+
+msgid "sohjoisia"
+msgstr "슬러시 덮임"
+
+msgid "lumisia"
+msgstr "눈 덮임"
+
+msgid "tiet ovat (sivulause)"
+msgstr ""
+
+msgid "yleisesti"
+msgstr "일반적으로"
+
+msgid "kanta-hame:lle"
+msgstr "타바스티아 프로퍼 지역"
+
+msgid "ita-uusimaa:lle"
+msgstr "동부 우시마 지역"
+
+msgid "lappi:lle"
+msgstr "라플란드 지역"
+
+msgid "lapin-laani:lle"
+msgstr "라플란드 주"
+
+msgid "oulun-laani:lle"
+msgstr "오울루 주"
+
+msgid "ita-suomen-laani:lle"
+msgstr "동부 핀란드 주"
+
+msgid "lansi-suomen-laani:lle"
+msgstr "서부 핀란드 주"
+
+msgid "etela-suomen-laani:lle"
+msgstr "남부 핀란드 주"
+
+msgid "ahvenanmaan-laani:lle"
+msgstr "올란드 주"
+
+msgid "7-paivalla"
+msgstr "일요일 낮에"
+
+msgid "2-aamuna"
+msgstr "화요일 아침에"
+
+msgid "3-aamuna"
+msgstr "수요일 아침에"
+
+msgid "4-aamuna"
+msgstr "목요일 아침에"
+
+msgid "5-aamuna"
+msgstr "금요일 아침에"
+
+msgid "6-aamuna"
+msgstr "토요일 아침에"
+
+msgid "7-aamuna"
+msgstr "일요일 아침에"
+
+msgid "1-aamupaivasta alkaen"
+msgstr "월요일 오전부터"
+
+msgid "2-aamupaivasta alkaen"
+msgstr "화요일 오전부터"
+
+msgid "3-aamupaivasta alkaen"
+msgstr "수요일 오전부터"
+
+msgid "4-aamupaivasta alkaen"
+msgstr "목요일 오전부터"
+
+msgid "5-aamupaivasta alkaen"
+msgstr "금요일 오전부터"
+
+msgid "6-aamupaivasta alkaen"
+msgstr "토요일 오전부터"
+
+msgid "1-aamusta alkaen"
+msgstr "월요일 아침부터"
+
+msgid "2-aamusta alkaen"
+msgstr "화요일 아침부터"
+
+msgid "3-aamusta alkaen"
+msgstr "수요일 아침부터"
+
+msgid "4-aamusta alkaen"
+msgstr "목요일 아침부터"
+
+msgid "5-aamusta alkaen"
+msgstr "금요일 아침부터"
+
+msgid "6-aamusta alkaen"
+msgstr "토요일 아침부터"
+
+msgid "7-aamusta alkaen"
+msgstr "일요일 아침부터"
+
+msgid "1-iltana"
+msgstr "월요일 저녁에"
+
+msgid "2-iltana"
+msgstr "화요일 저녁에"
+
+msgid "3-iltana"
+msgstr "수요일 저녁에"
+
+msgid "4-iltana"
+msgstr "목요일 저녁에"
+
+msgid "5-iltana"
+msgstr "금요일 저녁에"
+
+msgid "6-iltana"
+msgstr "토요일 저녁에"
+
+msgid "7-iltana"
+msgstr "일요일 저녁에"
+
+msgid "1-illasta alkaen"
+msgstr "월요일 저녁부터"
+
+msgid "2-illasta alkaen"
+msgstr "화요일 저녁부터"
+
+msgid "3-illasta alkaen"
+msgstr "수요일 저녁부터"
+
+msgid "4-illasta alkaen"
+msgstr "목요일 저녁부터"
+
+msgid "5-illasta alkaen"
+msgstr "금요일 저녁부터"
+
+msgid "6-illasta alkaen"
+msgstr "토요일 저녁부터"
+
+msgid "7-illasta alkaen"
+msgstr "일요일 저녁부터"
+
+msgid "1-paivalla"
+msgstr "월요일 낮에"
+
+msgid "2-paivalla"
+msgstr "화요일 낮에"
+
+msgid "3-paivalla"
+msgstr "수요일 낮에"
+
+msgid "4-paivalla"
+msgstr "목요일 낮에"
+
+msgid "5-paivalla"
+msgstr "금요일 낮에"
+
+msgid "6-paivalla"
+msgstr "토요일 낮에"
+
+msgid "1-vastaisesta yosta alkaen"
+msgstr "월요일 야간부터"
+
+msgid "2-vastaisesta yosta alkaen"
+msgstr "화요일 야간부터"
+
+msgid "3-vastaisesta yosta alkaen"
+msgstr "수요일 야간부터"
+
+msgid "4-vastaisesta yosta alkaen"
+msgstr "목요일 야간부터"
+
+msgid "5-vastaisesta yosta alkaen"
+msgstr "금요일 야간부터"
+
+msgid "6-vastaisesta yosta alkaen"
+msgstr "토요일 야간부터"
+
+msgid "7-vastaisesta yosta alkaen"
+msgstr "일요일 야간부터"
+
+msgid "huomisaamusta alkaen"
+msgstr "내일 아침부터"
+
+msgid "huomisaamupaivasta alkaen"
+msgstr "내일 오전부터"
+
+msgid "huomisillasta alkaen"
+msgstr "내일 저녁부터"
+
+msgid "huomenna paivalla"
+msgstr "내일 낮에"
+
+msgid "huomisiltana"
+msgstr "내일 저녁에"
+
+msgid "1-aamuna"
+msgstr "월요일 아침에"
+
+msgid "7-aamupaivasta alkaen"
+msgstr "일요일 오전부터"
+
+msgid "B1:lle"
+msgstr "보트니아만 지역"
+
+msgid "B2:lle"
+msgstr "콰르크 해역 지역"
+
+msgid "B3:lle"
+msgstr "보트니아해 지역"
+
+msgid "B4:lle"
+msgstr "군도해 및 올란드해 지역"
+
+msgid "B5:lle"
+msgstr "핀란드만 지역"
+
+msgid "B6:lle"
+msgstr "리가만 지역"
+
+msgid "B7:lle"
+msgstr "북발트해 지역"
+
+msgid "B8:lle"
+msgstr "중발트해 지역"
+
+msgid "B9:lle"
+msgstr "남동발트해 지역"
+
+msgid "B10:lle"
+msgstr "남발트해 지역"
+
+msgid "B11:lle"
+msgstr "아르코나해 지역"
+
+msgid "B12:lle"
+msgstr "외레순 및 벨트 지역"
+
+msgid "B13:lle"
+msgstr "카테가트 지역"
+
+msgid "B1N:lle"
+msgstr "북보트니아만 지역"
+
+msgid "B1S:lle"
+msgstr "남보트니아만 지역"
+
+msgid "B4E:lle"
+msgstr "군도해 지역"
+
+msgid "B4W:lle"
+msgstr "올란드해 지역"
+
+msgid "B5E:lle"
+msgstr "동핀란드만 지역"
+
+msgid "B5W:lle"
+msgstr "서핀란드만 지역"
+
+msgid "B8E:lle"
+msgstr "중발트해 지역"
+
+msgid "B8W:lle"
+msgstr "고틀란드해 지역"
+
+msgid "B10N:lle"
+msgstr "올란드 해역 지역"
+
+msgid "B10S:lle"
+msgstr "보른홀름해 지역"
+
+msgid "osittain jaisiksi"
+msgstr "부분 빙판으로"
+
+msgid "kuuraisiksi"
+msgstr "서리 덮임으로"
+
+msgid "keli on"
+msgstr "도로 상태"
+
+msgid "tienpinnat muuttuvat"
+msgstr "도로 표면이 변화"
+
+msgid "jaisiksi"
+msgstr "빙판으로"
+
+msgid "pakkasliukkautta"
+msgstr "결빙 미끄러움"
+
+msgid "rannasta ja liukkaista"
+msgstr "미끄러운 노면 및 진눈깨비로 악화"
+
+msgid "tieto puuttuu"
+msgstr "데이터 없음"
+
+msgid "liukkaiksi jaatavasta sateesta"
+msgstr "어는 비로 인해 미끄러움"
+
+msgid "rannasta ja osittain liukkaista"
+msgstr "부분 미끄러운 노면 및 진눈깨비로 악화"
+
+msgid "sateesta ja osittain liukkaista"
+msgstr "부분 미끄러운 노면 및 강수로 악화"
+
+msgid "sateesta ja liukkaista"
+msgstr "미끄러운 노면 및 강수로 악화"
+
+msgid "normaali"
+msgstr "정상"
+
+msgid "aanekoski:lle"
+msgstr "야네코스키 지역"
+
+msgid "aetsa:lle"
+msgstr "에트사 지역"
+
+msgid "ahtari:lle"
+msgstr "아흐타리 지역"
+
+msgid "alaharma:lle"
+msgstr "알라하르마 지역"
+
+msgid "alajarvi:lle"
+msgstr "알라야르비 지역"
+
+msgid "alastaro:lle"
+msgstr "알라스타로 지역"
+
+msgid "alavieska:lle"
+msgstr "알라비에스카 지역"
+
+msgid "alavus:lle"
+msgstr "알라부스 지역"
+
+msgid "anjalankoski:lle"
+msgstr "안얄란코스키 지역"
+
+msgid "artjarvi:lle"
+msgstr "아르트야르비 지역"
+
+msgid "asikkala:lle"
+msgstr "아시칼라 지역"
+
+msgid "askainen:lle"
+msgstr "아스카이넨 지역"
+
+msgid "askola:lle"
+msgstr "아스콜라 지역"
+
+msgid "aura:lle"
+msgstr "아우라 지역"
+
+msgid "brando:lle"
+msgstr "브란도 지역"
+
+msgid "dragsfjard:lle"
+msgstr "드락스피아르드 지역"
+
+msgid "eckero:lle"
+msgstr "에케로 지역"
+
+msgid "elimaki:lle"
+msgstr "엘리마키 지역"
+
+msgid "enonkoski:lle"
+msgstr "에논코스키 지역"
+
+msgid "enontekio:lle"
+msgstr "에논테키오 지역"
+
+msgid "eno:lle"
+msgstr "에노 지역"
+
+msgid "espoo:lle"
+msgstr "에스포 지역"
+
+msgid "eurajoki:lle"
+msgstr "에우라요키 지역"
+
+msgid "eura:lle"
+msgstr "에우라 지역"
+
+msgid "evijarvi:lle"
+msgstr "에비야르비 지역"
+
+msgid "finstrom:lle"
+msgstr "핀스트롬 지역"
+
+msgid "foglo:lle"
+msgstr "포글로 지역"
+
+msgid "forssa:lle"
+msgstr "포르사 지역"
+
+msgid "geta:lle"
+msgstr "게타 지역"
+
+msgid "haapajarvi:lle"
+msgstr "하파야르비 지역"
+
+msgid "haapavesi:lle"
+msgstr "하파베시 지역"
+
+msgid "hailuoto:lle"
+msgstr "하일루오토 지역"
+
+msgid "halikko:lle"
+msgstr "할리코 지역"
+
+msgid "halsua:lle"
+msgstr "할수아 지역"
+
+msgid "hameenkoski:lle"
+msgstr "하멘코스키 지역"
+
+msgid "hameenkyro:lle"
+msgstr "하멘키로 지역"
+
+msgid "hameenlinna:lle"
+msgstr "하멘린나 지역"
+
+msgid "hamina:lle"
+msgstr "하미나 지역"
+
+msgid "hammarland:lle"
+msgstr "함마를란드 지역"
+
+msgid "hankasalmi:lle"
+msgstr "한카살미 지역"
+
+msgid "hanko:lle"
+msgstr "한코 지역"
+
+msgid "harjavalta:lle"
+msgstr "하르야발타 지역"
+
+msgid "B3S:lle"
+msgstr "남보트니아해 지역"
+
+msgid "B7E:lle"
+msgstr "북발트해 동부 지역"
+
+msgid "B7W:lle"
+msgstr "북발트해 서부 지역"
+
+msgid "hartola:lle"
+msgstr "하르톨라 지역"
+
+msgid "hattula:lle"
+msgstr "하툴라 지역"
+
+msgid "hauho:lle"
+msgstr "하우호 지역"
+
+msgid "haukipudas:lle"
+msgstr "하우키푸다스 지역"
+
+msgid "haukivuori:lle"
+msgstr "하우키부오리 지역"
+
+msgid "hausjarvi:lle"
+msgstr "하우스야르비 지역"
+
+msgid "heinavesi:lle"
+msgstr "헤이나베시 지역"
+
+msgid "heinola:lle"
+msgstr "헤이놀라 지역"
+
+msgid "helsinki:lle"
+msgstr "헬싱키 지역"
+
+msgid "himanka:lle"
+msgstr "히만카 지역"
+
+msgid "hirvensalmi:lle"
+msgstr "히르벤살미 지역"
+
+msgid "hollola:lle"
+msgstr "홀롤라 지역"
+
+msgid "honkajoki:lle"
+msgstr "혼카요키 지역"
+
+msgid "houtskari:lle"
+msgstr "호우츠카리 지역"
+
+msgid "huittinen:lle"
+msgstr "후이티넨 지역"
+
+msgid "humppila:lle"
+msgstr "훔피라 지역"
+
+msgid "hyrynsalmi:lle"
+msgstr "히린살미 지역"
+
+msgid "hyvinkaa:lle"
+msgstr "히빈카 지역"
+
+msgid "iisalmi:lle"
+msgstr "이이살미 지역"
+
+msgid "ii:lle"
+msgstr "이이 지역"
+
+msgid "iitti:lle"
+msgstr "이이티 지역"
+
+msgid "ikaalinen:lle"
+msgstr "이카알리넨 지역"
+
+msgid "ilmajoki:lle"
+msgstr "일마요키 지역"
+
+msgid "ilomantsi:lle"
+msgstr "일로만시 지역"
+
+msgid "imatra:lle"
+msgstr "이마트라 지역"
+
+msgid "inari:lle"
+msgstr "이나리 지역"
+
+msgid "inio:lle"
+msgstr "이니오 지역"
+
+msgid "inkoo:lle"
+msgstr "인코 지역"
+
+msgid "isojoki:lle"
+msgstr "이소요키 지역"
+
+msgid "isokyro:lle"
+msgstr "이소키로 지역"
+
+msgid "jaala:lle"
+msgstr "야알라 지역"
+
+msgid "jalasjarvi:lle"
+msgstr "얄라스야르비 지역"
+
+msgid "jamijarvi:lle"
+msgstr "야미야르비 지역"
+
+msgid "jamsankoski:lle"
+msgstr "얌산코스키 지역"
+
+msgid "jamsa:lle"
+msgstr "얌사 지역"
+
+msgid "janakkala:lle"
+msgstr "야낙칼라 지역"
+
+msgid "jarvenpaa:lle"
+msgstr "야르벤파 지역"
+
+msgid "joensuu:lle"
+msgstr "요엔수 지역"
+
+msgid "jokioinen:lle"
+msgstr "요키오이넨 지역"
+
+msgid "jomala:lle"
+msgstr "요말라 지역"
+
+msgid "joroinen:lle"
+msgstr "요로이넨 지역"
+
+msgid "joutsa:lle"
+msgstr "요우츠아 지역"
+
+msgid "joutseno:lle"
+msgstr "요우츠에노 지역"
+
+msgid "juankoski:lle"
+msgstr "유안코스키 지역"
+
+msgid "jurva:lle"
+msgstr "유르바 지역"
+
+msgid "juuka:lle"
+msgstr "유카 지역"
+
+msgid "juupajoki:lle"
+msgstr "유파요키 지역"
+
+msgid "juva:lle"
+msgstr "유바 지역"
+
+msgid "jyvaskylan_mlk:lle"
+msgstr "위바스킬라 지역"
+
+msgid "jyvaskyla:lle"
+msgstr "위바스킬라 지역"
+
+msgid "kaarina:lle"
+msgstr "카아리나 지역"
+
+msgid "kaavi:lle"
+msgstr "카아비 지역"
+
+msgid "kajaani:lle"
+msgstr "카야니 지역"
+
+msgid "kalajoki:lle"
+msgstr "칼라요키 지역"
+
+msgid "kalvia:lle"
+msgstr "칼비아 지역"
+
+msgid "kalvola:lle"
+msgstr "칼볼라 지역"
+
+msgid "kangasala:lle"
+msgstr "캉가살라 지역"
+
+msgid "kangasniemi:lle"
+msgstr "캉가스니에미 지역"
+
+msgid "kankaanpaa:lle"
+msgstr "캉카안파 지역"
+
+msgid "kannonkoski:lle"
+msgstr "칸논코스키 지역"
+
+msgid "kannus:lle"
+msgstr "칸누스 지역"
+
+msgid "karijoki:lle"
+msgstr "카리요키 지역"
+
+msgid "karjaa:lle"
+msgstr "카르야 지역"
+
+msgid "karjalohja:lle"
+msgstr "카르얄로야 지역"
+
+msgid "karkkila:lle"
+msgstr "카르킬라 지역"
+
+msgid "karkola:lle"
+msgstr "카르콜라 지역"
+
+msgid "karsamaki:lle"
+msgstr "카르사마키 지역"
+
+msgid "karstula:lle"
+msgstr "카르스툴라 지역"
+
+msgid "karttula:lle"
+msgstr "카르툴라 지역"
+
+msgid "karvia:lle"
+msgstr "카르비아 지역"
+
+msgid "kaskinen:lle"
+msgstr "카스키넨 지역"
+
+msgid "kauhajoki:lle"
+msgstr "카우하요키 지역"
+
+msgid "kauhava:lle"
+msgstr "카우하바 지역"
+
+msgid "kauniainen:lle"
+msgstr "카우니아이넨 지역"
+
+msgid "kaustinen:lle"
+msgstr "카우스티넨 지역"
+
+msgid "keitele:lle"
+msgstr "케이텔레 지역"
+
+msgid "kemijarvi:lle"
+msgstr "케미야르비 지역"
+
+msgid "keminmaa:lle"
+msgstr "케민마 지역"
+
+msgid "kemio:lle"
+msgstr "케미오 지역"
+
+msgid "kemi:lle"
+msgstr "케미 지역"
+
+msgid "kempele:lle"
+msgstr "켐펠레 지역"
+
+msgid "kerava:lle"
+msgstr "케라바 지역"
+
+msgid "kerimaki:lle"
+msgstr "케리마키 지역"
+
+msgid "kesalahti:lle"
+msgstr "케살라흐티 지역"
+
+msgid "kestila:lle"
+msgstr "케스틸라 지역"
+
+msgid "keuruu:lle"
+msgstr "케우루 지역"
+
+msgid "kihnio:lle"
+msgstr "키니오 지역"
+
+msgid "kiikala:lle"
+msgstr "키이칼라 지역"
+
+msgid "kiikoinen:lle"
+msgstr "키이코이넨 지역"
+
+msgid "kiiminki:lle"
+msgstr "키이민키 지역"
+
+msgid "kinnula:lle"
+msgstr "킨눌라 지역"
+
+msgid "kirkkonummi:lle"
+msgstr "키르코눔미 지역"
+
+msgid "kisko:lle"
+msgstr "키스코 지역"
+
+msgid "kitee:lle"
+msgstr "키테에 지역"
+
+msgid "kittila:lle"
+msgstr "키틸라 지역"
+
+msgid "kiukainen:lle"
+msgstr "키우카이넨 지역"
+
+msgid "kiuruvesi:lle"
+msgstr "키우루베시 지역"
+
+msgid "kivijarvi:lle"
+msgstr "키비야르비 지역"
+
+msgid "kodisjoki:lle"
+msgstr "코디스요키 지역"
+
+msgid "kokar:lle"
+msgstr "코카르 지역"
+
+msgid "kokemaki:lle"
+msgstr "코케마키 지역"
+
+msgid "kokkola:lle"
+msgstr "코콜라 지역"
+
+msgid "kolari:lle"
+msgstr "콜라리 지역"
+
+msgid "konnevesi:lle"
+msgstr "콘네베시 지역"
+
+msgid "kontiolahti:lle"
+msgstr "콘티올라흐티 지역"
+
+msgid "korpilahti:lle"
+msgstr "코르필라흐티 지역"
+
+msgid "korppoo:lle"
+msgstr "코르포 지역"
+
+msgid "korsnas:lle"
+msgstr "코르스나스 지역"
+
+msgid "kortesjarvi:lle"
+msgstr "코르테스야르비 지역"
+
+msgid "koski_tl:lle"
+msgstr "코스키 지역"
+
+msgid "kotka:lle"
+msgstr "코트카 지역"
+
+msgid "kouvola:lle"
+msgstr "코우볼라 지역"
+
+msgid "koylio:lle"
+msgstr "쾨일리오 지역"
+
+msgid "kristiinankaupunki:lle"
+msgstr "크리스티이난카우풍키 지역"
+
+msgid "kronoby:lle"
+msgstr "크로노뷔 지역"
+
+msgid "kuhmalahti:lle"
+msgstr "쿠말라흐티 지역"
+
+msgid "kuhmoinen:lle"
+msgstr "쿠모이넨 지역"
+
+msgid "kuhmo:lle"
+msgstr "쿠모 지역"
+
+msgid "kuivaniemi:lle"
+msgstr "쿠이바니에미 지역"
+
+msgid "kumlinge:lle"
+msgstr "쿰링게 지역"
+
+msgid "kuopio:lle"
+msgstr "쿠오피오 지역"
+
+msgid "kuortane:lle"
+msgstr "쿠오르타네 지역"
+
+msgid "kurikka:lle"
+msgstr "쿠리카 지역"
+
+msgid "kuru:lle"
+msgstr "쿠루 지역"
+
+msgid "kustavi:lle"
+msgstr "쿠스타비 지역"
+
+msgid "kuusamo:lle"
+msgstr "쿠사모 지역"
+
+msgid "kuusankoski:lle"
+msgstr "쿠산코스키 지역"
+
+msgid "kuusjoki:lle"
+msgstr "쿠스요키 지역"
+
+msgid "kylmakoski:lle"
+msgstr "킬마코스키 지역"
+
+msgid "kyyjarvi:lle"
+msgstr "퀴야르비 지역"
+
+msgid "lahti:lle"
+msgstr "라흐티 지역"
+
+msgid "laihia:lle"
+msgstr "라이히아 지역"
+
+msgid "laitila:lle"
+msgstr "라이틸라 지역"
+
+msgid "lammi:lle"
+msgstr "람미 지역"
+
+msgid "langelmaki:lle"
+msgstr "랑엘마키 지역"
+
+msgid "lapinjarvi:lle"
+msgstr "라핀야르비 지역"
+
+msgid "lapinlahti:lle"
+msgstr "라핀라흐티 지역"
+
+msgid "lappajarvi:lle"
+msgstr "라파야르비 지역"
+
+msgid "lappeenranta:lle"
+msgstr "라펜란타 지역"
+
+msgid "lapin kuntaan:lle"
+msgstr "라피 지역"
+
+msgid "lapua:lle"
+msgstr "라푸아 지역"
+
+msgid "larsmo:lle"
+msgstr "라르스모 지역"
+
+msgid "laukaa:lle"
+msgstr "라우카 지역"
+
+msgid "lavia:lle"
+msgstr "라비아 지역"
+
+msgid "lehtimaki:lle"
+msgstr "레흐티마키 지역"
+
+msgid "leivonmaki:lle"
+msgstr "레이본마키 지역"
+
+msgid "lemi:lle"
+msgstr "레미 지역"
+
+msgid "lemland:lle"
+msgstr "렘란드 지역"
+
+msgid "lempaala:lle"
+msgstr "렘파알라 지역"
+
+msgid "lemu:lle"
+msgstr "레무 지역"
+
+msgid "leppavirta:lle"
+msgstr "레파비르타 지역"
+
+msgid "lestijarvi:lle"
+msgstr "레스티야르비 지역"
+
+msgid "lieksa:lle"
+msgstr "리엑사 지역"
+
+msgid "lieto:lle"
+msgstr "리에토 지역"
+
+msgid "liljendal:lle"
+msgstr "릴옌달 지역"
+
+msgid "liminka:lle"
+msgstr "리민카 지역"
+
+msgid "liperi:lle"
+msgstr "리페리 지역"
+
+msgid "lohja:lle"
+msgstr "로야 지역"
+
+msgid "lohtaja:lle"
+msgstr "로흐타야 지역"
+
+msgid "loimaa:lle"
+msgstr "로이마 지역"
+
+msgid "loppi:lle"
+msgstr "로피 지역"
+
+msgid "loviisa:lle"
+msgstr "로비이사 지역"
+
+msgid "luhanka:lle"
+msgstr "루한카 지역"
+
+msgid "lumijoki:lle"
+msgstr "루미요키 지역"
+
+msgid "lumparland:lle"
+msgstr "룸파를란드 지역"
+
+msgid "luopioinen:lle"
+msgstr "루오피오이넨 지역"
+
+msgid "luumaki:lle"
+msgstr "루우마키 지역"
+
+msgid "luvia:lle"
+msgstr "루비아 지역"
+
+msgid "maalahti:lle"
+msgstr "말라흐티 지역"
+
+msgid "maaninka:lle"
+msgstr "마닌카 지역"
+
+msgid "maarianhamina:lle"
+msgstr "마리안하미나 지역"
+
+msgid "maksamaa:lle"
+msgstr "막사마 지역"
+
+msgid "mantsala:lle"
+msgstr "만칠라 지역"
+
+msgid "mantta:lle"
+msgstr "만타 지역"
+
+msgid "mantyharju:lle"
+msgstr "만티하르유 지역"
+
+msgid "marttila:lle"
+msgstr "마르틸라 지역"
+
+msgid "masku:lle"
+msgstr "마스쿠 지역"
+
+msgid "mellila:lle"
+msgstr "멜릴라 지역"
+
+msgid "merijarvi:lle"
+msgstr "메리야르비 지역"
+
+msgid "merikarvia:lle"
+msgstr "메리카르비아 지역"
+
+msgid "merimasku:lle"
+msgstr "메리마스쿠 지역"
+
+msgid "miehikkala:lle"
+msgstr "미에히칼라 지역"
+
+msgid "mietoinen:lle"
+msgstr "미에토이넨 지역"
+
+msgid "mikkeli:lle"
+msgstr "미켈리 지역"
+
+msgid "mouhijarvi:lle"
+msgstr "모우히야르비 지역"
+
+msgid "muhos:lle"
+msgstr "무호스 지역"
+
+msgid "multia:lle"
+msgstr "물티아 지역"
+
+msgid "muonio:lle"
+msgstr "무오니오 지역"
+
+msgid "mustasaari:lle"
+msgstr "무스타사리 지역"
+
+msgid "muurame:lle"
+msgstr "무라메 지역"
+
+msgid "muurla:lle"
+msgstr "무를라 지역"
+
+msgid "mynamaki:lle"
+msgstr "미나마키 지역"
+
+msgid "myrskyla:lle"
+msgstr "뮈르스킬라 지역"
+
+msgid "naantali:lle"
+msgstr "난탈리 지역"
+
+msgid "nakkila:lle"
+msgstr "나킬라 지역"
+
+msgid "narpio:lle"
+msgstr "나르피오 지역"
+
+msgid "nastola:lle"
+msgstr "나스톨라 지역"
+
+msgid "nauvo:lle"
+msgstr "나우보 지역"
+
+msgid "nilsia:lle"
+msgstr "닐시아 지역"
+
+msgid "nivala:lle"
+msgstr "니발라 지역"
+
+msgid "nokia:lle"
+msgstr "노키아 지역"
+
+msgid "noormarkku:lle"
+msgstr "노르마르쿠 지역"
+
+msgid "nousiainen:lle"
+msgstr "노우시아이넨 지역"
+
+msgid "nummipusula:lle"
+msgstr "눔미-푸술라 지역"
+
+msgid "nurmes:lle"
+msgstr "누르메스 지역"
+
+msgid "nurmijarvi:lle"
+msgstr "누르미야르비 지역"
+
+msgid "nurmo:lle"
+msgstr "누르모 지역"
+
+msgid "oravainen:lle"
+msgstr "오라바이넨 지역"
+
+msgid "orimattila:lle"
+msgstr "오리마틸라 지역"
+
+msgid "oripaa:lle"
+msgstr "오리파 지역"
+
+msgid "orivesi:lle"
+msgstr "오리베시 지역"
+
+msgid "oulainen:lle"
+msgstr "오울라이넨 지역"
+
+msgid "oulunsalo:lle"
+msgstr "오울룬살로 지역"
+
+msgid "oulu:lle"
+msgstr "오울루 지역"
+
+msgid "outokumpu:lle"
+msgstr "오우토쿰푸 지역"
+
+msgid "padasjoki:lle"
+msgstr "파다스요키 지역"
+
+msgid "paimio:lle"
+msgstr "파이미오 지역"
+
+msgid "palkane:lle"
+msgstr "팔카네 지역"
+
+msgid "paltamo:lle"
+msgstr "팔타모 지역"
+
+msgid "parainen:lle"
+msgstr "파라이넨 지역"
+
+msgid "parikkala:lle"
+msgstr "파리칼라 지역"
+
+msgid "parkano:lle"
+msgstr "파르카노 지역"
+
+msgid "pedersoren_kunta:lle"
+msgstr "페데르소레 지역"
+
+msgid "pelkosenniemi:lle"
+msgstr "펠코센니에미 지역"
+
+msgid "pello:lle"
+msgstr "펠로 지역"
+
+msgid "perho:lle"
+msgstr "페르호 지역"
+
+msgid "pernaja:lle"
+msgstr "페르나야 지역"
+
+msgid "pernio:lle"
+msgstr "페르니오 지역"
+
+msgid "pertteli:lle"
+msgstr "페르텔리 지역"
+
+msgid "pertunmaa:lle"
+msgstr "페르툰마 지역"
+
+msgid "petajavesi:lle"
+msgstr "페타야베시 지역"
+
+msgid "pieksanmaa:lle"
+msgstr "피엑산마 지역"
+
+msgid "pielavesi:lle"
+msgstr "피엘라베시 지역"
+
+msgid "pietarsaari:lle"
+msgstr "피에타르사리 지역"
+
+msgid "pihtipudas:lle"
+msgstr "피흐티푸다스 지역"
+
+msgid "piikkio:lle"
+msgstr "피이키오 지역"
+
+msgid "piippola:lle"
+msgstr "피이폴라 지역"
+
+msgid "pirkkala:lle"
+msgstr "피르칼라 지역"
+
+msgid "pohja:lle"
+msgstr "포야 지역"
+
+msgid "polvijarvi:lle"
+msgstr "폴비야르비 지역"
+
+msgid "pomarkku:lle"
+msgstr "포마르쿠 지역"
+
+msgid "pori:lle"
+msgstr "포리 지역"
+
+msgid "pornainen:lle"
+msgstr "포르나이넨 지역"
+
+msgid "porvoo:lle"
+msgstr "포르보 지역"
+
+msgid "posio:lle"
+msgstr "포시오 지역"
+
+msgid "poytya:lle"
+msgstr "푀이티아 지역"
+
+msgid "pudasjarvi:lle"
+msgstr "푸다스야르비 지역"
+
+msgid "pukkila:lle"
+msgstr "푸킬라 지역"
+
+msgid "pulkkila:lle"
+msgstr "풀킬라 지역"
+
+msgid "punkaharju:lle"
+msgstr "푼카하르유 지역"
+
+msgid "punkalaidun:lle"
+msgstr "푼칼라이둔 지역"
+
+msgid "puolanka:lle"
+msgstr "푸올란카 지역"
+
+msgid "puumala:lle"
+msgstr "푸마라 지역"
+
+msgid "pyhajarvi:lle"
+msgstr "피하야르비 지역"
+
+msgid "pyhajoki:lle"
+msgstr "피하요키 지역"
+
+msgid "pyhanta:lle"
+msgstr "피한타 지역"
+
+msgid "pyharanta:lle"
+msgstr "피하란타 지역"
+
+msgid "pyhaselka:lle"
+msgstr "피하셀카 지역"
+
+msgid "pyhtaa:lle"
+msgstr "피흐타 지역"
+
+msgid "pylkonmaki:lle"
+msgstr "필콘마키 지역"
+
+msgid "raahe:lle"
+msgstr "라헤 지역"
+
+msgid "raakkyla:lle"
+msgstr "라킬라 지역"
+
+msgid "raisio:lle"
+msgstr "라이시오 지역"
+
+msgid "rantasalmi:lle"
+msgstr "란타살미 지역"
+
+msgid "rantsila:lle"
+msgstr "란칠라 지역"
+
+msgid "ranua:lle"
+msgstr "라누아 지역"
+
+msgid "rauma:lle"
+msgstr "라우마 지역"
+
+msgid "rautalampi:lle"
+msgstr "라우탈람피 지역"
+
+msgid "rautavaara:lle"
+msgstr "라우타바라 지역"
+
+msgid "rautjarvi:lle"
+msgstr "라우트야르비 지역"
+
+msgid "reisjarvi:lle"
+msgstr "레이스야르비 지역"
+
+msgid "renko:lle"
+msgstr "렌코 지역"
+
+msgid "riihimaki:lle"
+msgstr "리이히마키 지역"
+
+msgid "ristiina:lle"
+msgstr "리스티이나 지역"
+
+msgid "ristijarvi:lle"
+msgstr "리스티야르비 지역"
+
+msgid "rovaniemen_mlk:lle"
+msgstr "로바니에미 지역"
+
+msgid "rovaniemi:lle"
+msgstr "로바니에미 지역"
+
+msgid "ruokolahti:lle"
+msgstr "루오콜라흐티 지역"
+
+msgid "ruotsinpyhtaa:lle"
+msgstr "루오친피흐타 지역"
+
+msgid "ruovesi:lle"
+msgstr "루오베시 지역"
+
+msgid "rusko:lle"
+msgstr "루스코 지역"
+
+msgid "ruukki:lle"
+msgstr "루키 지역"
+
+msgid "rymattyla:lle"
+msgstr "뤼마틸라 지역"
+
+msgid "saarijarvi:lle"
+msgstr "사리야르비 지역"
+
+msgid "sakyla:lle"
+msgstr "사킬라 지역"
+
+msgid "salla:lle"
+msgstr "살라 지역"
+
+msgid "salo:lle"
+msgstr "살로 지역"
+
+msgid "saltvik:lle"
+msgstr "살트비크 지역"
+
+msgid "sammatti:lle"
+msgstr "삼마티 지역"
+
+msgid "sarkisalo:lle"
+msgstr "사르키살로 지역"
+
+msgid "sauvo:lle"
+msgstr "사우보 지역"
+
+msgid "savitaipale:lle"
+msgstr "사비타이팔레 지역"
+
+msgid "savonlinna:lle"
+msgstr "사본린나 지역"
+
+msgid "savonranta:lle"
+msgstr "사본란타 지역"
+
+msgid "savukoski:lle"
+msgstr "사부코스키 지역"
+
+msgid "seinajoki:lle"
+msgstr "세이나요키 지역"
+
+msgid "sievi:lle"
+msgstr "시에비 지역"
+
+msgid "siikainen:lle"
+msgstr "시이카이넨 지역"
+
+msgid "siikajoki:lle"
+msgstr "시이카요키 지역"
+
+msgid "siilinjarvi:lle"
+msgstr "시일린야르비 지역"
+
+msgid "simo:lle"
+msgstr "시모 지역"
+
+msgid "sipoo:lle"
+msgstr "시포 지역"
+
+msgid "siuntio:lle"
+msgstr "시운티오 지역"
+
+msgid "sodankyla:lle"
+msgstr "소단킬라 지역"
+
+msgid "soini:lle"
+msgstr "소이니 지역"
+
+msgid "somero:lle"
+msgstr "소메로 지역"
+
+msgid "sonkajarvi:lle"
+msgstr "손카야르비 지역"
+
+msgid "sotkamo:lle"
+msgstr "소트카모 지역"
+
+msgid "sottunga:lle"
+msgstr "소퉁가 지역"
+
+msgid "sulkava:lle"
+msgstr "술카바 지역"
+
+msgid "sumiainen:lle"
+msgstr "수미아이넨 지역"
+
+msgid "sund:lle"
+msgstr "순드 지역"
+
+msgid "suodenniemi:lle"
+msgstr "수오덴니에미 지역"
+
+msgid "suolahti:lle"
+msgstr "수올라흐티 지역"
+
+msgid "suomenniemi:lle"
+msgstr "수오멘니에미 지역"
+
+msgid "suomusjarvi:lle"
+msgstr "수오무스야르비 지역"
+
+msgid "suomussalmi:lle"
+msgstr "수오무살미 지역"
+
+msgid "suonenjoki:lle"
+msgstr "수오넨요키 지역"
+
+msgid "sysma:lle"
+msgstr "쉬스마 지역"
+
+msgid "taipalsaari:lle"
+msgstr "타이팔사리 지역"
+
+msgid "taivalkoski:lle"
+msgstr "타이발코스키 지역"
+
+msgid "taivassalo:lle"
+msgstr "타이바살로 지역"
+
+msgid "tammela:lle"
+msgstr "탐멜라 지역"
+
+msgid "tammisaari:lle"
+msgstr "탐미사리 지역"
+
+msgid "tampere:lle"
+msgstr "탐페레 지역"
+
+msgid "tarvasjoki:lle"
+msgstr "타르바스요키 지역"
+
+msgid "tervola:lle"
+msgstr "테르볼라 지역"
+
+msgid "tervo:lle"
+msgstr "테르보 지역"
+
+msgid "teuva:lle"
+msgstr "테우바 지역"
+
+msgid "tohmajarvi:lle"
+msgstr "토흐마야르비 지역"
+
+msgid "toholampi:lle"
+msgstr "토홀람피 지역"
+
+msgid "toijala:lle"
+msgstr "토이얄라 지역"
+
+msgid "toivakka:lle"
+msgstr "토이박카 지역"
+
+msgid "tornio:lle"
+msgstr "토르니오 지역"
+
+msgid "toysa:lle"
+msgstr "퇴이사 지역"
+
+msgid "turku:lle"
+msgstr "투르쿠 지역"
+
+msgid "tuulos:lle"
+msgstr "투울로스 지역"
+
+msgid "tuusniemi:lle"
+msgstr "투스니에미 지역"
+
+msgid "tuusula:lle"
+msgstr "투우술라 지역"
+
+msgid "tyrnava:lle"
+msgstr "티르나바 지역"
+
+msgid "ullava:lle"
+msgstr "울라바 지역"
+
+msgid "ulvila:lle"
+msgstr "울빌라 지역"
+
+msgid "urjala:lle"
+msgstr "우르얄라 지역"
+
+msgid "utajarvi:lle"
+msgstr "우타야르비 지역"
+
+msgid "utsjoki:lle"
+msgstr "우츠요키 지역"
+
+msgid "uurainen:lle"
+msgstr "우라이넨 지역"
+
+msgid "uusikaarlepyy:lle"
+msgstr "우시카를레피 지역"
+
+msgid "uusikaupunki:lle"
+msgstr "우시카우풍키 지역"
+
+msgid "vaala:lle"
+msgstr "발라 지역"
+
+msgid "vaasa:lle"
+msgstr "바사 지역"
+
+msgid "vahakyro:lle"
+msgstr "바하키로 지역"
+
+msgid "vahto:lle"
+msgstr "바흐토 지역"
+
+msgid "valkeakoski:lle"
+msgstr "발케아코스키 지역"
+
+msgid "valkeala:lle"
+msgstr "발케알라 지역"
+
+msgid "valtimo:lle"
+msgstr "발티모 지역"
+
+msgid "vammala:lle"
+msgstr "밤말라 지역"
+
+msgid "vampula:lle"
+msgstr "밤풀라 지역"
+
+msgid "vantaa:lle"
+msgstr "반타 지역"
+
+msgid "vardo:lle"
+msgstr "바르도 지역"
+
+msgid "varkaus:lle"
+msgstr "바르카우스 지역"
+
+msgid "varpaisjarvi:lle"
+msgstr "바르파이스야르비 지역"
+
+msgid "vastanfjard:lle"
+msgstr "바스탄피아르드 지역"
+
+msgid "vehmaa:lle"
+msgstr "베마 지역"
+
+msgid "velkua:lle"
+msgstr "벨쿠아 지역"
+
+msgid "vesanto:lle"
+msgstr "베산토 지역"
+
+msgid "vesilahti:lle"
+msgstr "베실라흐티 지역"
+
+msgid "veteli:lle"
+msgstr "베텔리 지역"
+
+msgid "vierema:lle"
+msgstr "비에레마 지역"
+
+msgid "vihanti:lle"
+msgstr "비한티 지역"
+
+msgid "vihti:lle"
+msgstr "비흐티 지역"
+
+msgid "viiala:lle"
+msgstr "비이알라 지역"
+
+msgid "viitasaari:lle"
+msgstr "비이타사리 지역"
+
+msgid "viljakkala:lle"
+msgstr "빌약칼라 지역"
+
+msgid "vilppula:lle"
+msgstr "빌푸라 지역"
+
+msgid "vimpeli:lle"
+msgstr "빔펠리 지역"
+
+msgid "virolahti:lle"
+msgstr "비롤라흐티 지역"
+
+msgid "virrat:lle"
+msgstr "비르라트 지역"
+
+msgid "voyri:lle"
+msgstr "뵈리 지역"
+
+msgid "vuolijoki:lle"
+msgstr "부올리요키 지역"
+
+msgid "ylamaa:lle"
+msgstr "일라마 지역"
+
+msgid "ylane:lle"
+msgstr "일라네 지역"
+
+msgid "yliharma:lle"
+msgstr "일리하르마 지역"
+
+msgid "yliii:lle"
+msgstr "일리이이 지역"
+
+msgid "ylikiiminki:lle"
+msgstr "일리키이민키 지역"
+
+msgid "ylistaro:lle"
+msgstr "일리스타로 지역"
+
+msgid "ylitornio:lle"
+msgstr "일리토르니오 지역"
+
+msgid "ylivieska:lle"
+msgstr "일리비에스카 지역"
+
+msgid "ylojarvi:lle"
+msgstr "일로야르비 지역"
+
+msgid "ypaja:lle"
+msgstr "이파야 지역"
+
+msgid "poudan todennakoisyys"
+msgstr "강수 없을 확률"
+
+msgid "metsapaloindeksi"
+msgstr "산불 경보 지수"
+
+msgid "haihdunta on erittain huono"
+msgstr "증발이 매우 약함"
+
+msgid "haihdunta on huono"
+msgstr "증발이 약함"
+
+msgid "haihdunta on tyydyttava"
+msgstr "증발이 보통"
+
+msgid "haihdunta on hyva"
+msgstr "증발이 양호"
+
+msgid "haihdunta on erinomainen"
+msgstr "증발이 매우 양호"
+
+msgid "metsapalovaroitus on voimassa"
+msgstr "산불 경보 발효 중"
+
+msgid "metsapalovaroitus ei ole voimassa"
+msgstr "산불 경보 해제"
+
+msgid "luoto:lle"
+msgstr "루오토 지역"
+
+msgid "kruunupyy:lle"
+msgstr "크루우누피 지역"
+
+msgid "1-aamulla"
+msgstr "월요일 아침에"
+
+msgid "2-aamulla"
+msgstr "화요일 아침에"
+
+msgid "3-aamulla"
+msgstr "수요일 아침에"
+
+msgid "4-aamulla"
+msgstr "목요일 아침에"
+
+msgid "5-aamulla"
+msgstr "금요일 아침에"
+
+msgid "6-aamulla"
+msgstr "토요일 아침에"
+
+msgid "7-aamulla"
+msgstr "일요일 아침에"
+
+msgid "1-aamupaivalla"
+msgstr "월요일 오전에"
+
+msgid "2-aamupaivalla"
+msgstr "화요일 오전에"
+
+msgid "3-aamupaivalla"
+msgstr "수요일 오전에"
+
+msgid "4-aamupaivalla"
+msgstr "목요일 오전에"
+
+msgid "5-aamupaivalla"
+msgstr "금요일 오전에"
+
+msgid "6-aamupaivalla"
+msgstr "토요일 오전에"
+
+msgid "7-aamupaivalla"
+msgstr "일요일 오전에"
+
+msgid "1-iltapaivalla"
+msgstr "월요일 오후에"
+
+msgid "2-iltapaivalla"
+msgstr "화요일 오후에"
+
+msgid "3-iltapaivalla"
+msgstr "수요일 오후에"
+
+msgid "4-iltapaivalla"
+msgstr "목요일 오후에"
+
+msgid "5-iltapaivalla"
+msgstr "금요일 오후에"
+
+msgid "6-iltapaivalla"
+msgstr "토요일 오후에"
+
+msgid "7-iltapaivalla"
+msgstr "일요일 오후에"
+
+msgid "1-illalla"
+msgstr "월요일 저녁에"
+
+msgid "2-illalla"
+msgstr "화요일 저녁에"
+
+msgid "3-illalla"
+msgstr "수요일 저녁에"
+
+msgid "4-illalla"
+msgstr "목요일 저녁에"
+
+msgid "5-illalla"
+msgstr "금요일 저녁에"
+
+msgid "6-illalla"
+msgstr "토요일 저녁에"
+
+msgid "7-illalla"
+msgstr "일요일 저녁에"
+
+msgid "kastepiste"
+msgstr "이슬점"
+
+msgid "suhteellinen kosteus"
+msgstr "상대 습도"
+
+msgid "hehtopascalia"
+msgstr "헥토파스칼"
+
+msgid "paine"
+msgstr "기압"
+
+msgid "keli muuttuu"
+msgstr "도로 상태 변화"
+
+msgid "lumisateesta"
+msgstr "강설로 인해 악화"
+
+msgid "haukivesi:lle"
+msgstr "하우키베시 지역"
+
+msgid "kallavesi:lle"
+msgstr "칼라베시 지역"
+
+msgid "malaren:lle"
+msgstr "말라렌 지역"
+
+msgid "pihlajavesi:lle"
+msgstr "피흘라야베시 지역"
+
+msgid "suur-saimaa:lle"
+msgstr "사이마 지역"
+
+msgid "vanern:lle"
+msgstr "베네른 지역"
+
+msgid "tie on muuttumassa"
+msgstr "도로 표면이 변화 중"
+
+msgid "keli huononee"
+msgstr "도로 상태 악화"
+
+msgid "vaikeuttaa liikennetta"
+msgstr "교통 방해"
+
+msgid "kuuraiseksi"
+msgstr "서리 덮임으로"
+
+msgid "marka"
+msgstr "젖음"
+
+msgid "lumisateen takia"
+msgstr "강설로 인해"
+
+msgid "pakkasliukkaus"
+msgstr "결빙 미끄러움"
+
+msgid "voimakas puuskainen tuuli"
+msgstr "강한 돌풍"
+
+msgid "lumipyry"
+msgstr "눈보라"
+
+msgid "kelin nopea huononeminen"
+msgstr "도로 상태 급격히 악화"
+
+msgid "rantasade jaiselle"
+msgstr "빙판 도로에 진눈깨비"
+
+msgid "jaiseksi vesisateesta johtuen"
+msgstr "비로 인해 빙판"
+
+msgid "alijaahtynyt sade"
+msgstr "과냉각 비"
+
+msgid "jaiseksi tai osittain jaiseksi"
+msgstr "빙판 또는 부분 빙판"
+
+msgid "runsas lumisade"
+msgstr "많은 강설"
+
+msgid "tienpinta muuttuu"
+msgstr "도로 표면 변화"
+
+msgid "ukkoskuurot todennakoisia"
+msgstr "뇌우 가능성 높음"
+
+msgid "ukkoskuurot paikoin mahdollisia"
+msgstr "일부 지역에서 뇌우 가능"
+
+msgid "pohjoispohjanmeri:lle"
+msgstr "북해 북부 지역"
+
+msgid "etelapohjanmeri:lle"
+msgstr "북해 남부 지역"
+
+msgid "biskaja:lle"
+msgstr "비스케이만 지역"
+
+msgid "uusimaa_ita-uusim:lle"
+msgstr "우시마 지역"
+
+msgid "paakaupunkiseutu:lle"
+msgstr "헬싱키 수도권 지역"
+
+msgid "kaakkois-suomi:lle"
+msgstr "남동 핀란드 지역"
+
+msgid "ita-lappi:lle"
+msgstr "동부 라플란드 지역"
+
+msgid "pohjois-pohjanmaa-itaosa:lle"
+msgstr "북오스트로보트니아 동부 지역"
+
+msgid "pohjois-pohjanmaa-lansiosa:lle"
+msgstr "북오스트로보트니아 서부 지역"
+
+msgid "merilappi:lle"
+msgstr "메리라피 지역"
+
+msgid "pohjanmaa-etela-pohjanmaa:lle"
+msgstr "오스트로보트니아 및 남오스트로보트니아 지역"
+
+msgid "marka tienpinta muuttuu"
+msgstr "젖은 도로 표면이 변화"
+
+msgid "alle"
+msgstr "미만"
+
+msgid "yksi millimetri"
+msgstr "1밀리미터"
+
+msgid "lahella [1] astetta"
+msgstr "약 [1]도"
+
+msgid "[1] asteen tienoilla"
+msgstr "약 [1]도"
+
+msgid "kello [1]"
+msgstr "[1]시"
+
+msgid "1-na kello [1]"
+msgstr "월요일 [1]시"
+
+msgid "2-na kello [1]"
+msgstr "화요일 [1]시"
+
+msgid "3-na kello [1]"
+msgstr "수요일 [1]시"
+
+msgid "4-na kello [1]"
+msgstr "목요일 [1]시"
+
+msgid "5-na kello [1]"
+msgstr "금요일 [1]시"
+
+msgid "6-na kello [1]"
+msgstr "토요일 [1]시"
+
+msgid "7-na kello [1]"
+msgstr "일요일 [1]시"
+
+msgid "[1] asteen tuntumassa"
+msgstr "약 [1]도"
+
+msgid "ita-suomi:lle"
+msgstr "동부 핀란드 지역"
+
+msgid "itainen-uusimaa:lle"
+msgstr "동부 우시마 지역"
+
+msgid "koleaa"
+msgstr "쌀쌀한"
+
+msgid "lantinen-uusimaa:lle"
+msgstr "서부 우시마 지역"
+
+msgid "lounais-suomi:lle"
+msgstr "남서부 핀란드 지역"
+
+msgid "pohjois-suomi:lle"
+msgstr "북부 핀란드 지역"
+
+msgid "pikkupakkasta"
+msgstr "영하 소폭"
+
+msgid "yksittaiset vesikuurot mahdollisia"
+msgstr "산발적 비소나기 가능"
+
+msgid "yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "산발적 비 또는 진눈깨비 소나기 가능"
+
+msgid "yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "산발적 비 또는 눈소나기 가능"
+
+msgid "yksittaiset sadekuurot mahdollisia"
+msgstr "산발적 소나기 가능"
+
+msgid "yksittaiset rantakuurot mahdollisia"
+msgstr "산발적 진눈깨비 소나기 가능"
+
+msgid "yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "산발적 진눈깨비 또는 비소나기 가능"
+
+msgid "yksittaiset lumikuurot mahdollisia"
+msgstr "산발적 눈소나기 가능"
+
+msgid "yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "산발적 눈 또는 진눈깨비 소나기 가능"
+
+msgid "vahan plussan puolella"
+msgstr "영상 소폭"
+
+msgid "voimakkaita vesikuuroja"
+msgstr "강한 비소나기"
+
+msgid "voimakkaita sadekuuroja"
+msgstr "강한 소나기"
+
+msgid "vesikuuroja"
+msgstr "비소나기"
+
+msgid "vajaat"
+msgstr "거의"
+
+msgid "verrattain pilvinen"
+msgstr "비교적 흐림"
+
+msgid "vaihtelee puolipilvisesta pilviseen"
+msgstr "구름 조금에서 흐림까지 변화"
+
+msgid "tuulinen"
+msgstr "바람 강함"
+
+msgid "tuulista"
+msgstr "바람이 강한"
+
+msgid "tuuli saa saan tuntumaan viileammalta"
+msgstr "바람으로 날씨가 더 서늘하게 느껴짐"
+
+msgid "tuuli saa saan tuntumaan kylmemmalta"
+msgstr "바람으로 날씨가 더 춥게 느껴짐"
+
+msgid "tuntumassa"
+msgstr "가까이"
+
+msgid "tihkusadetta"
+msgstr "이슬비"
+
+msgid "tienoilla"
+msgstr "약"
+
+msgid "saa on helteista"
+msgstr "날씨가 매우 무더움"
+
+msgid "saa on edelleen lauhaa"
+msgstr "날씨가 여전히 온화함"
+
+msgid "sumua"
+msgstr "안개"
+
+msgid "sisamaassa"
+msgstr "내륙에서"
+
+msgid "selkea"
+msgstr "맑음"
+
+msgid "sakeita"
+msgstr "짙은"
+
+msgid "sakeaa"
+msgstr "짙은"
+
+msgid "sadekuuroja"
+msgstr "소나기"
+
+msgid "sade alkaa"
+msgstr "강수 시작"
+
+msgid "saadaan"
+msgstr "발생"
+
+msgid "rantakuuroja"
+msgstr "진눈깨비 소나기"
+
+msgid "runsasta vesisadetta"
+msgstr "강한 비"
+
+msgid "runsaita"
+msgstr "많은"
+
+msgid "puolipilvinen"
+msgstr "구름 조금"
+
+msgid "poutainen"
+msgstr "맑은"
+
+msgid "poikkeuksellisen"
+msgstr "매우"
+
+msgid "pohjoisesta"
+msgstr "북쪽에서"
+
+msgid "pohjoisesta alkaen"
+msgstr "북쪽에서부터"
+
+msgid "pilvinen"
+msgstr "흐림"
+
+msgid "pieni ukkosen todennakoisyys"
+msgstr "뇌우 가능성 낮음"
+
+msgid "pakkasta"
+msgstr "추위"
+
+msgid "pakkanen"
+msgstr "서리"
+
+msgid "pakkanen on purevaa"
+msgstr "날카로운 추위"
+
+msgid "pakkanen on erittain purevaa"
+msgstr "매우 날카로운 추위"
+
+msgid "pakkanen hellittaa"
+msgstr "한파 완화"
+
+msgid "paikkeilla"
+msgstr "주변"
+
+msgid "nollan tienoilla"
+msgstr "영도 근처"
+
+msgid "melko selkea"
+msgstr "비교적 맑음"
+
+msgid "mahdollisesti"
+msgstr "가능성 있음"
+
+msgid "lannesta"
+msgstr "서쪽에서"
+
+msgid "lannesta alkaen"
+msgstr "서쪽에서부터"
+
+msgid "lampotila nousee"
+msgstr "기온 상승"
+
+msgid "lahella"
+msgstr "가까이"
+
+msgid "luoteesta"
+msgstr "북서쪽에서"
+
+msgid "luoteesta alkaen"
+msgstr "북서쪽에서부터"
+
+msgid "lounaasta"
+msgstr "남서쪽에서"
+
+msgid "lounaasta alkaen"
+msgstr "남서쪽에서부터"
+
+msgid "leutoa"
+msgstr "온화한"
+
+msgid "koillisesta"
+msgstr "북동쪽에서"
+
+msgid "koillisesta alkaen"
+msgstr "북동쪽에서부터"
+
+msgid "kirea"
+msgstr "혹독한"
+
+msgid "kirea pakkanen jatkuu"
+msgstr "혹독한 추위 계속"
+
+msgid "kaakosta"
+msgstr "남동쪽에서"
+
+msgid "kaakosta alkaen"
+msgstr "남동쪽에서부터"
+
+msgid "jaatavaa vesisadetta"
+msgstr "어는 비"
+
+msgid "jotka voivat olla jaatavia"
+msgstr "어는 비가 될 수 있음"
+
+msgid "joka voi olla sakeaa"
+msgstr "짙어질 수 있음"
+
+msgid "joka voi olla jaatavaa"
+msgstr "어는 비가 될 수 있음"
+
+msgid "joka voi olla ankaraa"
+msgstr "심해질 수 있음"
+
+msgid "joka muuttuu vesisateeksi"
+msgstr "비로 변화"
+
+msgid "joka muuttuu tihkusateeksi"
+msgstr "이슬비로 변화"
+
+msgid "joka muuttuu rantasateeksi"
+msgstr "진눈깨비로 변화"
+
+msgid "joka muuttuu lumisateeksi"
+msgstr "눈으로 변화"
+
+msgid "idasta"
+msgstr "동쪽에서"
+
+msgid "idasta alkaen"
+msgstr "동쪽에서부터"
+
+msgid "huomattavasti"
+msgstr "상당히"
+
+msgid "hieman lauhempaa"
+msgstr "약간 온화한"
+
+msgid "hieman kylmempaa"
+msgstr "약간 추운"
+
+msgid "hieman kireampaa"
+msgstr "약간 더 혹독한"
+
+msgid "hieman heikompaa"
+msgstr "약간 약한"
+
+msgid "heikkoja"
+msgstr "약한"
+
+msgid "heikkoja vesikuuroja"
+msgstr "약한 비소나기"
+
+msgid "heikkoja sadekuuroja"
+msgstr "약한 소나기"
+
+msgid "heikkoa vesisadetta"
+msgstr "약한 비"
+
+msgid "harvinaisen"
+msgstr "이례적으로"
+
+msgid "hallan vaara"
+msgstr "서리 위험"
+
+msgid "hallaa"
+msgstr "서리"
+
+msgid "etelasta"
+msgstr "남쪽에서"
+
+msgid "etelasta alkaen"
+msgstr "남쪽에서부터"
+
+msgid "asteen"
+msgstr "도"
+
+msgid "alueen pohjoisosassa"
+msgstr "북부 지역에서"
+
+msgid "alueen lansiosassa"
+msgstr "서부 지역에서"
+
+msgid "alueen luoteisosassa"
+msgstr "북서부 지역에서"
+
+msgid "alueen lounaisosassa"
+msgstr "남서부 지역에서"
+
+msgid "alueen koillisosassa"
+msgstr "북동부 지역에서"
+
+msgid "alueen kaakkoisosassa"
+msgstr "남동부 지역에서"
+
+msgid "alueen itaosassa"
+msgstr "동부 지역에서"
+
+msgid "alueen etelaosassa"
+msgstr "남부 지역에서"
+
+msgid "alavilla mailla"
+msgstr "저지대에서"
+
+msgid "myohemmin"
+msgstr "나중에"
+
+msgid "[1-na] saa on [poikkeuksellisen] [kylmaa]"
+msgstr "[1] 날씨가 [2] [3]"
+
+msgid "[1-na] [saa lampenee]"
+msgstr "[1] [2]"
+
+msgid "kirea pakkanen heikkenee"
+msgstr "혹독한 추위 약화"
+
+msgid "saa lampenee huomattavasti"
+msgstr "날씨가 상당히 따뜻해짐"
+
+msgid "saa lampenee vahan"
+msgstr "날씨가 약간 따뜻해짐"
+
+msgid "saa viilenee huomattavasti"
+msgstr "날씨가 상당히 서늘해짐"
+
+msgid "saa viilenee vahan"
+msgstr "날씨가 약간 서늘해짐"
+
+msgid "[iltapaivalla] saa poutaantuu ja vaihtelee puolipilvisesta pilviseen"
+msgstr "[1] 날씨가 맑아지고 구름 조금에서 흐림까지 변화"
+
+msgid "empty_string"
+msgstr ""
+
+msgid "[rannikolla] [paikoin] hallaa, joka voi olla ankaraa"
+msgstr "[1] [2] 심한 서리 가능"
+
+msgid "[rannikolla] mahdollisesti hallaa"
+msgstr "[1] 서리 가능"
+
+msgid "[sisamaassa] hallan vaara"
+msgstr "[1] 서리 위험"
+
+msgid "[rannikolla] [paikoin] hallaa"
+msgstr "[1] [2] 서리"
+
+msgid "aamusta"
+msgstr "아침부터"
+
+msgid "[huomenna] [sisamaassa] [paikoin] sumua, joka voi olla sakeaa"
+msgstr "[1] [2] [3] 짙은 안개 가능"
+
+msgid "[huomenna] [sisamaassa] [paikoin] sumua"
+msgstr "[1] [2] [3] 안개"
+
+msgid "keskiyolla ja aamuyolla"
+msgstr "자정 및 새벽에"
+
+msgid "iltayolla ja keskiyolla"
+msgstr "자정 전 및 자정에"
+
+msgid "aamuyolla ja aamulla"
+msgstr "새벽 및 아침에"
+
+msgid "illalla ja iltayolla"
+msgstr "저녁 및 자정 전에"
+
+msgid "iltapaivalla ja illalla"
+msgstr "오후 및 저녁에"
+
+msgid "aamulla ja aamupaivalla"
+msgstr "아침 및 오전에"
+
+msgid "7-iltapaivalla ja illalla"
+msgstr "일요일 오후 및 저녁에"
+
+msgid "6-iltapaivalla ja illalla"
+msgstr "토요일 오후 및 저녁에"
+
+msgid "5-iltapaivalla ja illalla"
+msgstr "금요일 오후 및 저녁에"
+
+msgid "4-iltapaivalla ja illalla"
+msgstr "목요일 오후 및 저녁에"
+
+msgid "3-iltapaivalla ja illalla"
+msgstr "수요일 오후 및 저녁에"
+
+msgid "2-iltapaivalla ja illalla"
+msgstr "화요일 오후 및 저녁에"
+
+msgid "1-iltapaivalla ja illalla"
+msgstr "월요일 오후 및 저녁에"
+
+msgid "7-aamulla ja aamupaivalla"
+msgstr "일요일 아침 및 오전에"
+
+msgid "6-aamulla ja aamupaivalla"
+msgstr "토요일 아침 및 오전에"
+
+msgid "5-aamulla ja aamupaivalla"
+msgstr "금요일 아침 및 오전에"
+
+msgid "4-aamulla ja aamupaivalla"
+msgstr "목요일 아침 및 오전에"
+
+msgid "3-aamulla ja aamupaivalla"
+msgstr "수요일 아침 및 오전에"
+
+msgid "2-aamulla ja aamupaivalla"
+msgstr "화요일 아침 및 오전에"
+
+msgid "1-aamulla ja aamupaivalla"
+msgstr "월요일 아침 및 오전에"
+
+msgid "7-illalla ja iltayolla"
+msgstr "일요일 저녁 및 자정 전에"
+
+msgid "6-illalla ja iltayolla"
+msgstr "토요일 저녁 및 자정 전에"
+
+msgid "5-illalla ja iltayolla"
+msgstr "금요일 저녁 및 자정 전에"
+
+msgid "4-illalla ja iltayolla"
+msgstr "목요일 저녁 및 자정 전에"
+
+msgid "3-illalla ja iltayolla"
+msgstr "수요일 저녁 및 자정 전에"
+
+msgid "2-illalla ja iltayolla"
+msgstr "화요일 저녁 및 자정 전에"
+
+msgid "1-illalla ja iltayolla"
+msgstr "월요일 저녁 및 자정 전에"
+
+msgid "aamupaivasta"
+msgstr "오전부터"
+
+msgid "7-iltayolla"
+msgstr "일요일 자정 전에"
+
+msgid "6-iltayolla"
+msgstr "토요일 자정 전에"
+
+msgid "5-iltayolla"
+msgstr "금요일 자정 전에"
+
+msgid "4-iltayolla"
+msgstr "목요일 자정 전에"
+
+msgid "3-iltayolla"
+msgstr "수요일 자정 전에"
+
+msgid "2-iltayolla"
+msgstr "화요일 자정 전에"
+
+msgid "1-iltayolla"
+msgstr "월요일 자정 전에"
+
+msgid "[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen"
+msgstr "[1] [2] 날씨가 구름 조금에서 흐림까지 변화"
+
+msgid "[huomenna] [sisamaassa] saa on [selkea]"
+msgstr "[1] [2] 날씨가 [3]"
+
+msgid "hyvin tuulinen"
+msgstr "매우 바람이 강함"
+
+msgid "hyvin tuulista"
+msgstr "매우 바람이 강한"
+
+msgid "[iltapaivalla] [rannikolla] pakkanen on purevaa"
+msgstr "[1] [2] 날카로운 추위"
+
+msgid "7-aamuyolla"
+msgstr "일요일 새벽에"
+
+msgid "6-aamuyolla"
+msgstr "토요일 새벽에"
+
+msgid "5-aamuyolla"
+msgstr "금요일 새벽에"
+
+msgid "4-aamuyolla"
+msgstr "목요일 새벽에"
+
+msgid "3-aamuyolla"
+msgstr "수요일 새벽에"
+
+msgid "2-aamuyolla"
+msgstr "화요일 새벽에"
+
+msgid "2-aamuyolla ja aamulla"
+msgstr "화요일 새벽 및 아침에"
+
+msgid "3-aamuyolla ja aamulla"
+msgstr "수요일 새벽 및 아침에"
+
+msgid "5-aamuyolla ja aamulla"
+msgstr "금요일 새벽 및 아침에"
+
+msgid "6-aamuyolla ja aamulla"
+msgstr "토요일 새벽 및 아침에"
+
+msgid "7-aamuyolla ja aamulla"
+msgstr "일요일 새벽 및 아침에"
+
+msgid "1-aamuyolla ja aamulla"
+msgstr "월요일 새벽 및 아침에"
+
+msgid "saa on tuulinen"
+msgstr "날씨가 바람이 강함"
+
+msgid "[iltapaivalla] [rannikolla] on [tuulista]"
+msgstr "[1] [2] [3]"
+
+msgid "rannikolla lahella [N] [astetta]"
+msgstr "해안 지역 약 [1][2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on vahan yli [N] [astetta]"
+msgstr "[1] [2] [3]이 약 [4][5] 초과"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on vajaat [N] [astetta]"
+msgstr "[1] [2] [3]이 거의 [4][5]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on lahella [N] [astetta]"
+msgstr "[1] [2] [3]이 [4][5] 가까이"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] asteen tuntumassa"
+msgstr "[1] [2] [3]이 약 [4]도"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] asteen tienoilla"
+msgstr "[1] [2] [3]이 약 [4]도"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on noin [N] [astetta]"
+msgstr "[1] [2] [3]이 약 [4][5]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [M...N] [astetta]"
+msgstr "[1] [2] [3]이 [4][5]"
+
+msgid "[yolla] on [hieman kylmempaa]"
+msgstr "[1] [2]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [suunnilleen sama]"
+msgstr "[1] [2] [3]이 [4]"
+
+msgid "[huomenna] [sisamaassa] pakkasta on [M...N] [astetta]"
+msgstr "[1] [2] 기온이 [3][4]"
+
+msgid "[yolla] lampotila nousee"
+msgstr "[1] 기온 상승"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [hieman kireampaa]"
+msgstr "[1] [2] 추위가 [3]"
+
+msgid "[huomenna] [rannikolla] on pikkupakkasta"
+msgstr "[1] [2] 영하 소폭"
+
+msgid "rannikolla noin [N] [astetta]"
+msgstr "해안 지역 약 [1][2]"
+
+msgid "rannikolla vajaat [N] [astetta]"
+msgstr "해안 지역 거의 [1][2]"
+
+msgid "rannikolla vahan yli [N] [astetta]"
+msgstr "해안 지역 [1][2] 소폭 초과"
+
+msgid "rannikolla [M...N] [astetta]"
+msgstr "해안 지역 [1][2]"
+
+msgid "rannikolla [N] asteen tienoilla"
+msgstr "해안 지역 약 [1]도"
+
+msgid "rannikolla [N] asteen tuntumassa"
+msgstr "해안 지역 약 [1]도"
+
+msgid "rannikolla [suunnilleen sama]"
+msgstr "해안 지역 [1]"
+
+msgid "[huomenna] [sisamaassa] [M...N] [astetta]"
+msgstr "[1] [2] [3][4]"
+
+msgid "[huomenna] [sisamaassa] noin [N] [astetta]"
+msgstr "[1] [2] 약 [3][4]"
+
+msgid "[huomenna] [sisamaassa] [N] asteen tienoilla"
+msgstr "[1] [2] 약 [3]도"
+
+msgid "[huomenna] [sisamaassa] [N] asteen tuntumassa"
+msgstr "[1] [2] 약 [3]도"
+
+msgid "[huomenna] [sisamaassa] lahella [N] [astetta]"
+msgstr "[1] [2] [3][4] 가까이"
+
+msgid "[huomenna] [sisamaassa] vajaat [N] [astetta]"
+msgstr "[1] [2] 거의 [3][4]"
+
+msgid "[huomenna] [sisamaassa] vahan yli [N] [astetta]"
+msgstr "[1] [2] [3][4] 소폭 초과"
+
+msgid "[huomenna] [sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]"
+msgstr "[1] [2] 날씨는 대부분 맑음, [3]"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta]"
+msgstr "[1] [2] [3] [4][5]"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3] [4][5], 어는 비 가능"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3] [4][5], 어는 비 가능"
+
+msgid "saa on poutainen"
+msgstr "날씨가 맑음"
+
+msgid "6-keskiyolla"
+msgstr "토요일 자정에"
+
+msgid "5-keskiyolla"
+msgstr "금요일 자정에"
+
+msgid "4-keskiyolla"
+msgstr "목요일 자정에"
+
+msgid "3-keskiyolla"
+msgstr "수요일 자정에"
+
+msgid "2-keskiyolla"
+msgstr "화요일 자정에"
+
+msgid "1-keskiyolla"
+msgstr "월요일 자정에"
+
+msgid "[sisamaassa] alavilla mailla hallan vaara"
+msgstr "[1] 저지대 서리 위험"
+
+msgid "7-keskiyolla"
+msgstr "일요일 자정에"
+
+msgid "[huomenna] [sisamaassa] [suunnilleen sama]"
+msgstr "[1] [2] [3]"
+
+msgid "7-iltapaivasta alkaen"
+msgstr "일요일 오후부터"
+
+msgid "6-iltapaivasta alkaen"
+msgstr "토요일 오후부터"
+
+msgid "5-iltapaivasta alkaen"
+msgstr "금요일 오후부터"
+
+msgid "4-iltapaivasta alkaen"
+msgstr "목요일 오후부터"
+
+msgid "3-iltapaivasta alkaen"
+msgstr "수요일 오후부터"
+
+msgid "2-iltapaivasta alkaen"
+msgstr "화요일 오후부터"
+
+msgid "1-iltapaivasta alkaen"
+msgstr "월요일 오후부터"
+
+msgid "7-iltayosta alkaen"
+msgstr "일요일 자정 전부터"
+
+msgid "6-iltayosta alkaen"
+msgstr "토요일 자정 전부터"
+
+msgid "5-iltayosta alkaen"
+msgstr "금요일 자정 전부터"
+
+msgid "4-iltayosta alkaen"
+msgstr "목요일 자정 전부터"
+
+msgid "3-iltayosta alkaen"
+msgstr "수요일 자정 전부터"
+
+msgid "2-iltayosta alkaen"
+msgstr "화요일 자정 전부터"
+
+msgid "1-iltayosta alkaen"
+msgstr "월요일 자정 전부터"
+
+msgid "7-aamuyosta alkaen"
+msgstr "일요일 새벽부터"
+
+msgid "6-aamuyosta alkaen"
+msgstr "토요일 새벽부터"
+
+msgid "5-aamuyosta alkaen"
+msgstr "금요일 새벽부터"
+
+msgid "4-aamuyosta alkaen"
+msgstr "목요일 새벽부터"
+
+msgid "3-aamuyosta alkaen"
+msgstr "수요일 새벽부터"
+
+msgid "2-aamuyosta alkaen"
+msgstr "화요일 새벽부터"
+
+msgid "1-aamuyosta alkaen"
+msgstr "월요일 새벽부터"
+
+msgid "7-keskiyosta alkaen"
+msgstr "일요일 자정부터"
+
+msgid "6-keskiyosta alkaen"
+msgstr "토요일 자정부터"
+
+msgid "5-keskiyosta alkaen"
+msgstr "금요일 자정부터"
+
+msgid "4-keskiyosta alkaen"
+msgstr "목요일 자정부터"
+
+msgid "3-keskiyosta alkaen"
+msgstr "수요일 자정부터"
+
+msgid "2-keskiyosta alkaen"
+msgstr "화요일 자정부터"
+
+msgid "1-keskiyosta alkaen"
+msgstr "월요일 자정부터"
+
+msgid "1 hehtopascal"
+msgstr "1헥토파스칼"
+
+msgid "0 hehtopascalia"
+msgstr "0헥토파스칼"
+
+msgid "1 prosentti"
+msgstr "1퍼센트"
+
+msgid "0 prosenttia"
+msgstr "0퍼센트"
+
+msgid "1 millimetri"
+msgstr "1밀리미터"
+
+msgid "0 millimetria"
+msgstr "0밀리미터"
+
+msgid "1 metri sekunnissa"
+msgstr "1미터/초"
+
+msgid "0 metria sekunnissa"
+msgstr "0미터/초"
+
+msgid "1 aste"
+msgstr "1도"
+
+msgid "0 astetta"
+msgstr "0도"
+
+msgid "ranta- tai lumisadetta"
+msgstr "진눈깨비 또는 강설"
+
+msgid "lumi- tai rantasadetta"
+msgstr "강설 또는 진눈깨비"
+
+msgid "lumi- tai vesisadetta"
+msgstr "강설 또는 비"
+
+msgid "vesi- tai lumisadetta"
+msgstr "비 또는 강설"
+
+msgid "ranta- tai vesisadetta"
+msgstr "진눈깨비 또는 비"
+
+msgid "vesi- tai rantasadetta"
+msgstr "비 또는 진눈깨비"
+
+msgid "ranta- tai vesikuuroja"
+msgstr "진눈깨비 또는 비소나기"
+
+msgid "vesi- tai rantakuuroja"
+msgstr "비 또는 진눈깨비 소나기"
+
+msgid "vesi- tai lumikuuroja"
+msgstr "비 또는 눈소나기"
+
+msgid "lumi- tai vesikuuroja"
+msgstr "눈 또는 비소나기"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] asteen tuntumassa"
+msgstr "[1] [2] 기온이 약 [3]도"
+
+msgid "[huomenna] [sisamaassa] saa on poutainen"
+msgstr "[1] [2] 날씨가 맑음"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] asteen tienoilla"
+msgstr "[1] [2] 기온이 약 [3]도"
+
+msgid "[huomenna] [sisamaassa] pakkanen on lahella [N] [astetta]"
+msgstr "[1] [2] 기온이 [3][4] 가까이"
+
+msgid "[huomenna] [sisamaassa] pakkasta on vahan yli [N] [astetta]"
+msgstr "[1] [2] 기온이 [3][4] 소폭 초과"
+
+msgid "[huomenna] [sisamaassa] pakkasta on vajaat [N] [astetta]"
+msgstr "[1] [2] 기온이 거의 [3][4]"
+
+msgid "[huomenna] [sisamaassa] pakkasta on noin [N] [astetta]"
+msgstr "[1] [2] 기온이 약 [3][4]"
+
+msgid "[huomenna] [sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "[1] [2] 날씨가 구름 조금에서 흐림까지 변화하며 맑음"
+
+msgid "[huomenna] [sisamaassa] saa on [selkea] ja poutainen"
+msgstr "[1] [2] 날씨가 [3]이고 맑음"
+
+msgid "[iltapaivalla] saa poutaantuu"
+msgstr "[1] 날씨가 맑아짐"
+
+msgid "todennakoisesti myos ukkostaa"
+msgstr "뇌우도 가능성 높음"
+
+msgid "mahdollisesti myos ukkostaa"
+msgstr "뇌우도 가능"
+
+msgid "paikoin myos ukkostaa"
+msgstr "일부 지역에서 뇌우도 발생"
+
+msgid "paikoin voi myos ukkostaa"
+msgstr "일부 지역에서 뇌우도 가능"
+
+msgid "myos ukkosta esiintyy"
+msgstr "뇌우도 발생"
+
+msgid "[iltapaivasta alkaen] [pilvistyvaa]"
+msgstr "[1] [2]"
+
+msgid "[iltapaivalla] saa poutaantuu ja on [selkea]"
+msgstr "[1] 날씨가 맑아지고 [2]"
+
+msgid "[lampotila] on [suunnilleen sama]"
+msgstr "[1]이 [2]"
+
+msgid "[lampotila] on [M...N] [astetta]"
+msgstr "[1]이 [2][3]"
+
+msgid "[lampotila] on noin [N] [astetta]"
+msgstr "[1]이 약 [2][3]"
+
+msgid "[lampotila] on [N] asteen tienoilla"
+msgstr "[1]이 약 [2]도"
+
+msgid "[lampotila] on [N] asteen tuntumassa"
+msgstr "[1]이 약 [2]도"
+
+msgid "[lampotila] on lahella [N] [astetta]"
+msgstr "[1]이 [2][3] 가까이"
+
+msgid "[lampotila] on vajaat [N] [astetta]"
+msgstr "[1]이 거의 [2][3]"
+
+msgid "[lampotila] on vahan yli [N] [astetta]"
+msgstr "[1]이 [2][3] 소폭 초과"
+
+msgid "saa on [poikkeuksellisen] [kylmaa]"
+msgstr "날씨가 [1] [2]"
+
+msgid "[sisamaassa] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]"
+msgstr "[1] 날씨는 대부분 맑음, [2]"
+
+msgid "[sisamaassa] saa on poutainen"
+msgstr "[1] 날씨가 맑음"
+
+msgid "[sisamaassa] [paikoin] [heikkoa] [sadetta]"
+msgstr "[1] [2] [3][4]"
+
+msgid "[sisamaassa] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3][4], 어는 비 가능"
+
+msgid "[sisamaassa] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3][4], 어는 비 가능"
+
+msgid "[paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2][3], 어는 비 가능"
+
+msgid "[paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2][3], 어는 비 가능"
+
+msgid "[paikoin] [heikkoa] [sadetta]"
+msgstr "[1] [2][3]"
+
+msgid "[paikoin] sumua"
+msgstr "[1] 안개"
+
+msgid "[sisamaassa] [paikoin] sumua"
+msgstr "[1] [2] 안개"
+
+msgid "[huomenna] sumua"
+msgstr "[1] 안개"
+
+msgid "[sisamaassa] sumua"
+msgstr "[1] 안개"
+
+msgid "[huomenna] [paikoin] sumua"
+msgstr "[1] [2] 안개"
+
+msgid "[huomenna] [sisamaassa] sumua"
+msgstr "[1] [2] 안개"
+
+msgid "[huomenna] [sisamaassa] sumua, joka voi olla sakeaa"
+msgstr "[1] [2] 짙은 안개 가능"
+
+msgid "[paikoin] sumua, joka voi olla sakeaa"
+msgstr "[1] 짙은 안개 가능"
+
+msgid "[sisamaassa] sumua, joka voi olla sakeaa"
+msgstr "[1] 짙은 안개 가능"
+
+msgid "[sisamaassa] [paikoin] sumua, joka voi olla sakeaa"
+msgstr "[1] [2] 짙은 안개 가능"
+
+msgid "[huomenna] [paikoin] sumua, joka voi olla sakeaa"
+msgstr "[1] [2] 짙은 안개 가능"
+
+msgid "[huomenna] sumua, joka voi olla sakeaa"
+msgstr "[1] 짙은 안개 가능"
+
+msgid "[huomenna] [paikoin] [heikkoa] [sadetta]"
+msgstr "[1] [2] [3][4]"
+
+msgid "[paikoin] [sadetta]"
+msgstr "[1] [2]"
+
+msgid "[huomenna] [sisamaassa] [heikkoa] [sadetta]"
+msgstr "[1] [2] [3][4]"
+
+msgid "[sisamaassa] [heikkoa] [sadetta]"
+msgstr "[1] [2][3]"
+
+msgid "[huomenna] [heikkoa] [sadetta]"
+msgstr "[1] [2][3]"
+
+msgid "[sisamaassa] [sadetta]"
+msgstr "[1] [2]"
+
+msgid "[sisamaassa] [paikoin] [sadetta]"
+msgstr "[1] [2] [3]"
+
+msgid "[huomenna] [sadetta]"
+msgstr "[1] [2]"
+
+msgid "[huomenna] [paikoin] [sadetta]"
+msgstr "[1] [2] [3]"
+
+msgid "[huomenna] [sisamaassa] [sadetta]"
+msgstr "[1] [2] [3]"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [sadetta]"
+msgstr "[1] [2] [3] [4]"
+
+msgid "[huomenna] saa on poutainen"
+msgstr "[1] 날씨가 맑음"
+
+msgid "[huomenna] saa on enimmakseen poutainen, [yksittaiset sadekuurot mahdollisia]"
+msgstr "[1] 날씨는 대부분 맑음, [2]"
+
+msgid "[sisamaassa] saa vaihtelee puolipilvisesta pilviseen"
+msgstr "[1] 날씨가 구름 조금에서 흐림까지 변화"
+
+msgid "[huomenna] saa vaihtelee puolipilvisesta pilviseen"
+msgstr "[1] 날씨가 구름 조금에서 흐림까지 변화"
+
+msgid "[sisamaassa] saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "[1] 날씨가 구름 조금에서 흐림까지 변화하며 맑음"
+
+msgid "[huomenna] saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "[1] 날씨가 구름 조금에서 흐림까지 변화하며 맑음"
+
+msgid "[sisamaassa] saa on [selkea]"
+msgstr "[1] 날씨가 [2]"
+
+msgid "[huomenna] saa on [selkea]"
+msgstr "[1] 날씨가 [2]"
+
+msgid "[sisamaassa] saa on [selkea] ja poutainen"
+msgstr "[1] 날씨가 [2]이고 맑음"
+
+msgid "[huomenna] saa on [selkea] ja poutainen"
+msgstr "[1] 날씨가 [2]이고 맑음"
+
+msgid "[huomenna] [sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3][4], 어는 비 가능"
+
+msgid "[huomenna] [sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3][4], 어는 비 가능"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3][4], 어는 비 가능"
+
+msgid "[huomenna] [sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3][4], 어는 비 가능"
+
+msgid "[huomenna] [sisamaassa] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], 어는 비 가능"
+
+msgid "[huomenna] [sisamaassa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], 어는 비 가능"
+
+msgid "[heikkoa] [sadetta]"
+msgstr "[1][2]"
+
+msgid "[sadetta], joka voi olla jaatavaa"
+msgstr "[1], 어는 비 가능"
+
+msgid "[heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1][2], 어는 비 가능"
+
+msgid "[paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2], 어는 비 가능"
+
+msgid "[sisamaassa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2], 어는 비 가능"
+
+msgid "[sisamaassa] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2][3], 어는 비 가능"
+
+msgid "[sisamaassa] [paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], 어는 비 가능"
+
+msgid "[huomenna] [paikoin] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3][4], 어는 비 가능"
+
+msgid "[huomenna] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2], 어는 비 가능"
+
+msgid "[huomenna] [heikkoa] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2][3], 어는 비 가능"
+
+msgid "[huomenna] [paikoin] [sadetta], joka voi olla jaatavaa"
+msgstr "[1] [2] [3], 어는 비 가능"
+
+msgid "[sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1], 어는 비 가능"
+
+msgid "[heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1][2], 어는 비 가능"
+
+msgid "[paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2], 어는 비 가능"
+
+msgid "[sisamaassa] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2], 어는 비 가능"
+
+msgid "[sisamaassa] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2][3], 어는 비 가능"
+
+msgid "[sisamaassa] [paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], 어는 비 가능"
+
+msgid "[huomenna] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2], 어는 비 가능"
+
+msgid "[huomenna] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2][3], 어는 비 가능"
+
+msgid "[huomenna] [paikoin] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3], 어는 비 가능"
+
+msgid "[huomenna] [paikoin] [heikkoja] [sadekuuroja], jotka voivat olla jaatavia"
+msgstr "[1] [2] [3][4], 어는 비 가능"
+
+msgid "[iltapaivalla] [rannikolla] pakkanen on erittain purevaa"
+msgstr "[1] [2] 매우 날카로운 추위"
+
+msgid "[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan kylmemmalta"
+msgstr "[1] [2] 바람으로 날씨가 더 춥게 느껴짐"
+
+msgid "[iltapaivalla] [rannikolla] tuuli saa saan tuntumaan viileammalta"
+msgstr "[1] [2] 바람으로 날씨가 더 서늘하게 느껴짐"
+
+msgid "saa on hyvin tuulinen"
+msgstr "날씨가 매우 바람이 강함"
+
+msgid "saa on [iltapaivalla] [rannikolla] [tuulinen]"
+msgstr "[1] [2] 날씨가 [3]"
+
+msgid "[iltapaivalla] [rannikolla] [pakkanen on purevaa]"
+msgstr "[1] [2] [3]"
+
+msgid "pakkasta on vahan yli [N] [astetta]"
+msgstr "기온이 [1][2] 소폭 초과"
+
+msgid "pakkasta on vajaat [N] [astetta]"
+msgstr "기온이 거의 [1][2]"
+
+msgid "pakkanen on lahella [N] [astetta]"
+msgstr "기온이 [1][2] 가까이"
+
+msgid "pakkanen on [N] asteen tienoilla"
+msgstr "기온이 약 [1]도"
+
+msgid "pakkanen on [N] asteen tuntumassa"
+msgstr "기온이 약 [1]도"
+
+msgid "pakkasta on noin [N] [astetta]"
+msgstr "기온이 약 [1][2]"
+
+msgid "pakkasta on [M...N] [astetta]"
+msgstr "기온이 [1][2]"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen"
+msgstr "[1] 강설 후 날씨가 맑아짐"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on selkea"
+msgstr "[1] 이슬비 후 날씨가 맑아지고 맑음"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on selkea"
+msgstr "[1] 진눈깨비 후 날씨가 맑아지고 맑음"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on selkea"
+msgstr "[1] 강설 후 날씨가 맑아지고 맑음"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on selkea"
+msgstr "[1] 비 후 날씨가 맑아지고 맑음"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "[1] 이슬비 후 날씨가 맑아지고 구름 조금에서 흐림까지 변화"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "[1] 진눈깨비 후 날씨가 맑아지고 구름 조금에서 흐림까지 변화"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "[1] 강설 후 날씨가 맑아지고 구름 조금에서 흐림까지 변화"
+
+msgid "6-keskiyohon asti"
+msgstr "토요일 자정까지"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja vaihtelee puolipilvisesta pilviseen"
+msgstr "[1] 비 후 날씨가 맑아지고 구름 조금에서 흐림까지 변화"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen"
+msgstr "[1] 이슬비 후 날씨가 맑아짐"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen"
+msgstr "[1] 진눈깨비 후 날씨가 맑아짐"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen"
+msgstr "[1] 비 후 날씨가 맑아짐"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on pilvinen"
+msgstr "[1] 비 후 날씨가 맑아지고 흐림"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on pilvinen"
+msgstr "[1] 강설 후 날씨가 맑아지고 흐림"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on pilvinen"
+msgstr "[1] 진눈깨비 후 날씨가 맑아지고 흐림"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on pilvinen"
+msgstr "[1] 이슬비 후 날씨가 맑아지고 흐림"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on verrattain pilvinen"
+msgstr "[1] 이슬비 후 날씨가 맑아지고 비교적 흐림"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on verrattain pilvinen"
+msgstr "[1] 비 후 날씨가 맑아지고 비교적 흐림"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on verrattain pilvinen"
+msgstr "[1] 강설 후 날씨가 맑아지고 비교적 흐림"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on verrattain pilvinen"
+msgstr "[1] 진눈깨비 후 날씨가 맑아지고 비교적 흐림"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on puolipilvinen"
+msgstr "[1] 비 후 날씨가 맑아지고 구름 조금"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on puolipilvinen"
+msgstr "[1] 강설 후 날씨가 맑아지고 구름 조금"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on puolipilvinen"
+msgstr "[1] 진눈깨비 후 날씨가 맑아지고 구름 조금"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on puolipilvinen"
+msgstr "[1] 이슬비 후 날씨가 맑아지고 구름 조금"
+
+msgid "[iltapaivalla] saa poutaantuu vesisateen jalkeen ja on melko selkea"
+msgstr "[1] 비 후 날씨가 맑아지고 비교적 맑음"
+
+msgid "[iltapaivalla] saa poutaantuu lumisateen jalkeen ja on melko selkea"
+msgstr "[1] 강설 후 날씨가 맑아지고 비교적 맑음"
+
+msgid "[iltapaivalla] saa poutaantuu rantasateen jalkeen ja on melko selkea"
+msgstr "[1] 진눈깨비 후 날씨가 맑아지고 비교적 맑음"
+
+msgid "[iltapaivalla] saa poutaantuu tihkusateen jalkeen ja on melko selkea"
+msgstr "[1] 이슬비 후 날씨가 맑아지고 비교적 맑음"
+
+msgid "[rannikolla] on [tuulista]"
+msgstr "[1] [2]"
+
+msgid "[iltapaivalla] on [tuulista]"
+msgstr "[1] [2]"
+
+msgid "[rannikolla] tuuli saa saan tuntumaan kylmemmalta"
+msgstr "[1] 바람으로 날씨가 더 춥게 느껴짐"
+
+msgid "[iltapaivalla] tuuli saa saan tuntumaan kylmemmalta"
+msgstr "[1] 바람으로 날씨가 더 춥게 느껴짐"
+
+msgid "[rannikolla] tuuli saa saan tuntumaan viileammalta"
+msgstr "[1] 바람으로 날씨가 더 서늘하게 느껴짐"
+
+msgid "[iltapaivalla] tuuli saa saan tuntumaan viileammalta"
+msgstr "[1] 바람으로 날씨가 더 서늘하게 느껴짐"
+
+msgid "[rannikolla] pakkanen on erittain purevaa"
+msgstr "[1] 매우 날카로운 추위"
+
+msgid "[iltapaivalla] pakkanen on erittain purevaa"
+msgstr "[1] 매우 날카로운 추위"
+
+msgid "[rannikolla] pakkanen on purevaa"
+msgstr "[1] 날카로운 추위"
+
+msgid "[iltapaivalla] pakkanen on purevaa"
+msgstr "[1] 날카로운 추위"
+
+msgid "saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "날씨가 평년보다 분명히 따뜻함"
+
+msgid "[huomenna] pakkasta on [M...N] [astetta]"
+msgstr "[1] 기온이 [2][3]"
+
+msgid "[huomenna] pakkasta on noin [N] [astetta]"
+msgstr "[1] 기온이 약 [2][3]"
+
+msgid "[huomenna] pakkanen on [hieman kireampaa]"
+msgstr "[1] 추위가 [2]"
+
+msgid "[huomenna] pakkasta on vahan yli [N] [astetta]"
+msgstr "[1] 기온이 [2][3] 소폭 초과"
+
+msgid "[huomenna] pakkasta on vajaat [N] [astetta]"
+msgstr "[1] 기온이 거의 [2][3]"
+
+msgid "[huomenna] pakkanen on lahella [N] [astetta]"
+msgstr "[1] 기온이 [2][3] 가까이"
+
+msgid "[huomenna] pakkanen on [N] asteen tuntumassa"
+msgstr "[1] 기온이 약 [2]도"
+
+msgid "[huomenna] pakkanen on [N] asteen tienoilla"
+msgstr "[1] 기온이 약 [2]도"
+
+msgid "[sisamaassa] pakkasta on [M...N] [astetta]"
+msgstr "[1] 기온이 [2][3]"
+
+msgid "[sisamaassa] pakkasta on noin [N] [astetta]"
+msgstr "[1] 기온이 약 [2][3]"
+
+msgid "[sisamaassa] pakkanen on [hieman kireampaa]"
+msgstr "[1] 추위가 [2]"
+
+msgid "[sisamaassa] pakkasta on vahan yli [N] [astetta]"
+msgstr "[1] 기온이 [2][3] 소폭 초과"
+
+msgid "[sisamaassa] pakkanen on lahella [N] [astetta]"
+msgstr "[1] 기온이 [2][3] 가까이"
+
+msgid "[sisamaassa] pakkasta on vajaat [N] [astetta]"
+msgstr "[1] 기온이 거의 [2][3]"
+
+msgid "[sisamaassa] pakkanen on [N] asteen tuntumassa"
+msgstr "[1] 기온이 약 [2]도"
+
+msgid "[sisamaassa] pakkanen on [N] asteen tienoilla"
+msgstr "[1] 기온이 약 [2]도"
+
+msgid "[sisamaassa] [lampotila] on [suunnilleen sama]"
+msgstr "[1] [2]이 [3]"
+
+msgid "[sisamaassa] [lampotila] on [M...N] [astetta]"
+msgstr "[1] [2]이 [3][4]"
+
+msgid "[sisamaassa] [lampotila] on noin [N] [astetta]"
+msgstr "[1] [2]이 약 [3][4]"
+
+msgid "[sisamaassa] [lampotila] on [N] asteen tienoilla"
+msgstr "[1] [2]이 약 [3]도"
+
+msgid "[sisamaassa] [lampotila] on [N] asteen tuntumassa"
+msgstr "[1] [2]이 약 [3]도"
+
+msgid "[sisamaassa] [lampotila] on lahella [N] [astetta]"
+msgstr "[1] [2]이 [3] [4] 가까이"
+
+msgid "[sisamaassa] [lampotila] on vajaat [N] [astetta]"
+msgstr "[1] [2]이 거의 [3][4]"
+
+msgid "[sisamaassa] [lampotila] on vahan yli [N] [astetta]"
+msgstr "[1] [2]이 [3][4] 소폭 초과"
+
+msgid "[huomenna] [lampotila] on [suunnilleen sama]"
+msgstr "[1] [2]이 [3]"
+
+msgid "[huomenna] [lampotila] on [M...N] [astetta]"
+msgstr "[1] [2]이 [3][4]"
+
+msgid "[huomenna] [lampotila] on noin [N] [astetta]"
+msgstr "[1] [2]이 약 [3][4]"
+
+msgid "[huomenna] [lampotila] on [N] asteen tienoilla"
+msgstr "[1] [2]이 약 [3]도"
+
+msgid "[huomenna] [lampotila] on [N] asteen tuntumassa"
+msgstr "[1] [2]이 약 [3]도"
+
+msgid "[huomenna] [lampotila] on lahella [N] [astetta]"
+msgstr "[1] [2]이 [3] [4] 가까이"
+
+msgid "[huomenna] [lampotila] on vajaat [N] [astetta]"
+msgstr "[1] [2]이 거의 [3][4]"
+
+msgid "2-keskiyohon asti"
+msgstr "화요일 자정까지"
+
+msgid "[huomenna] [lampotila] on vahan yli [N] [astetta]"
+msgstr "[1] [2]이 [3][4] 소폭 초과"
+
+msgid "[rannikolla] on pikkupakkasta"
+msgstr "[1] 영하 소폭"
+
+msgid "[huomenna] on pikkupakkasta"
+msgstr "[1] 영하 소폭"
+
+msgid "[sisamaassa] [M...N] [astetta]"
+msgstr "[1] [2][3]"
+
+msgid "[huomenna] [M...N] [astetta]"
+msgstr "[1] [2][3]"
+
+msgid "[sisamaassa] [suunnilleen sama]"
+msgstr "[1] [2]"
+
+msgid "[huomenna] [suunnilleen sama]"
+msgstr "[1] [2]"
+
+msgid "[sisamaassa] noin [N] [astetta]"
+msgstr "[1] 약 [2][3]"
+
+msgid "[huomenna] noin [N] [astetta]"
+msgstr "[1] 약 [2][3]"
+
+msgid "[sisamaassa] [N] asteen tienoilla"
+msgstr "[1] 약 [2]도"
+
+msgid "[huomenna] [N] asteen tienoilla"
+msgstr "[1] 약 [2]도"
+
+msgid "[sisamaassa] [N] asteen tuntumassa"
+msgstr "[1] 약 [2]도"
+
+msgid "[huomenna] [N] asteen tuntumassa"
+msgstr "[1] 약 [2]도"
+
+msgid "[sisamaassa] lahella [N] [astetta]"
+msgstr "[1] [2][3] 가까이"
+
+msgid "[huomenna] lahella [N] [astetta]"
+msgstr "[1] [2][3] 가까이"
+
+msgid "[sisamaassa] vahan yli [N] [astetta]"
+msgstr "[1] [2][3] 소폭 초과"
+
+msgid "[huomenna] vahan yli [N] [astetta]"
+msgstr "[1] [2][3] 소폭 초과"
+
+msgid "[sisamaassa] vajaat [N] [astetta]"
+msgstr "[1] 거의 [2][3]"
+
+msgid "[huomenna] vajaat [N] [astetta]"
+msgstr "[1] 거의 [2][3]"
+
+msgid "[1-na] saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "[1] 날씨가 평년보다 분명히 따뜻함"
+
+msgid "asteen(tienoilla)"
+msgstr "도"
+
+msgid "asteen(tuntumassa)"
+msgstr "도"
+
+msgid "[N] [asteen] tienoilla"
+msgstr "약 [1][2]"
+
+msgid "[N] [asteen] tuntumassa"
+msgstr "약 [1][2]"
+
+msgid "[sisamaassa] [N] [asteen] tuntumassa"
+msgstr "[1] 약 [2][3]"
+
+msgid "[sisamaassa] [lampotila] on [N] [asteen] tuntumassa"
+msgstr "[1] [2]이 약 [3][4]"
+
+msgid "[sisamaassa] pakkanen on [N] [asteen] tuntumassa"
+msgstr "[1] 기온이 약 [2][3]"
+
+msgid "[lampotila] on [N] [asteen] tuntumassa"
+msgstr "[1]이 약 [2][3]"
+
+msgid "[huomenna] [sisamaassa] [N] [asteen] tuntumassa"
+msgstr "[1] [2] 약 [3][4]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tuntumassa"
+msgstr "[1] [2] [3]이 약 [4][5]"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] [asteen] tuntumassa"
+msgstr "[1] [2] 기온이 약 [3][4]"
+
+msgid "[huomenna] [N] [asteen] tuntumassa"
+msgstr "[1] 약 [2][3]"
+
+msgid "[huomenna] [lampotila] on [N] [asteen] tuntumassa"
+msgstr "[1] [2]이 약 [3][4]"
+
+msgid "[huomenna] pakkanen on [N] [asteen] tuntumassa"
+msgstr "[1] 기온이 약 [2][3]"
+
+msgid "rannikolla [N] [asteen] tuntumassa"
+msgstr "해안 지역 약 [1][2]"
+
+msgid "pakkanen on [N] [asteen] tuntumassa"
+msgstr "기온이 약 [1][2]"
+
+msgid "[sisamaassa] [N] [asteen] tienoilla"
+msgstr "[1] 약 [2][3]"
+
+msgid "[sisamaassa] [lampotila] on [N] [asteen] tienoilla"
+msgstr "[1] [2]이 약 [3][4]"
+
+msgid "[sisamaassa] pakkanen on [N] [asteen] tienoilla"
+msgstr "[1] 기온이 약 [2][3]"
+
+msgid "[lampotila] on [N] [asteen] tienoilla"
+msgstr "[1]이 약 [2][3]"
+
+msgid "[huomenna] [sisamaassa] [N] [asteen] tienoilla"
+msgstr "[1] [2] 약 [3][4]"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on [N] [asteen] tienoilla"
+msgstr "[1] [2] [3]이 약 [4][5]"
+
+msgid "[huomenna] [sisamaassa] pakkanen on [N] [asteen] tienoilla"
+msgstr "[1] [2] 기온이 약 [3][4]"
+
+msgid "[huomenna] [N] [asteen] tienoilla"
+msgstr "[1] 약 [2][3]"
+
+msgid "[huomenna] [lampotila] on [N] [asteen] tienoilla"
+msgstr "[1] [2]이 약 [3][4]"
+
+msgid "[huomenna] pakkanen on [N] [asteen] tienoilla"
+msgstr "[1] 기온이 약 [2][3]"
+
+msgid "rannikolla [N] [asteen] tienoilla"
+msgstr "해안 지역 약 [1][2]"
+
+msgid "pakkanen on [N] [asteen] tienoilla"
+msgstr "기온이 약 [1][2]"
+
+msgid "saa vaihtelee puolipilvisesta pilviseen ja on poutainen"
+msgstr "날씨가 구름 조금에서 흐림까지 변화하며 맑음"
+
+msgid "saa on [selkea] ja poutainen"
+msgstr "날씨가 [1]이고 맑음"
+
+msgid "[alueella] saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "[1] 날씨가 평년보다 분명히 따뜻함"
+
+msgid "[1-na] [alueella] saa on ajankohtaan nahden tavanomaista lampimampaa"
+msgstr "[1] [2] 날씨가 평년보다 분명히 따뜻함"
+
+msgid "[alueella] [saa lampenee]"
+msgstr "[1] [2]"
+
+msgid "[1-na] [alueella] [saa lampenee]"
+msgstr "[1] [2] [3]"
+
+msgid "[alueella] saa on [poikkeuksellisen] [kylmaa]"
+msgstr "[1] 날씨가 [2] [3]"
+
+msgid "[1-na] [alueella] saa on [poikkeuksellisen] [kylmaa]"
+msgstr "[1] [2] 날씨가 [3] [4]"
+
+msgid "yon alin"
+msgstr "야간 최저"
+
+msgid "[1-na] [alueella] saa lauhtuu"
+msgstr "[1] [2] 날씨가 온화해짐"
+
+msgid "[alueella] saa lauhtuu"
+msgstr "[1] 날씨가 온화해짐"
+
+msgid "[1-na] saa lauhtuu"
+msgstr "[1] 날씨가 온화해짐"
+
+msgid "[1-na] [alueella] saa on edelleen lauhaa"
+msgstr "[1] [2] 날씨가 여전히 온화함"
+
+msgid "[alueella] saa on edelleen lauhaa"
+msgstr "[1] 날씨가 여전히 온화함"
+
+msgid "[1-na] saa on edelleen lauhaa"
+msgstr "[1] 날씨가 여전히 온화함"
+
+msgid "[alueella] pakkanen kiristyy"
+msgstr "[1] 한파 강화"
+
+msgid "[1-na] pakkanen kiristyy"
+msgstr "[1] 한파 강화"
+
+msgid "[1-na] [alueella] pakkanen kiristyy"
+msgstr "[1] [2] 한파 강화"
+
+msgid "[alueella] kirea pakkanen jatkuu"
+msgstr "[1] 혹독한 추위 계속"
+
+msgid "[1-na] kirea pakkanen jatkuu"
+msgstr "[1] 혹독한 추위 계속"
+
+msgid "[1-na] [alueella] kirea pakkanen jatkuu"
+msgstr "[1] [2] 혹독한 추위 계속"
+
+msgid "[alueella] pakkanen hellittaa"
+msgstr "[1] 한파 완화"
+
+msgid "[1-na] pakkanen hellittaa"
+msgstr "[1] 한파 완화"
+
+msgid "[1-na] [alueella] pakkanen hellittaa"
+msgstr "[1] [2] 한파 완화"
+
+msgid "[alueella] kirea pakkanen heikkenee"
+msgstr "[1] 혹독한 추위 약화"
+
+msgid "[1-na] kirea pakkanen heikkenee"
+msgstr "[1] 혹독한 추위 약화"
+
+msgid "[1-na] [alueella] kirea pakkanen heikkenee"
+msgstr "[1] [2] 혹독한 추위 약화"
+
+msgid "[alueella] pakkanen heikkenee"
+msgstr "[1] 한파 약화"
+
+msgid "[1-na] pakkanen heikkenee"
+msgstr "[1] 한파 약화"
+
+msgid "[1-na] [alueella] pakkanen heikkenee"
+msgstr "[1] [2] 한파 약화"
+
+msgid "[alueella] saa on helteista"
+msgstr "[1] 날씨가 매우 무더움"
+
+msgid "[1-na] saa on helteista"
+msgstr "[1] 날씨가 매우 무더움"
+
+msgid "[1-na] [alueella] saa on helteista"
+msgstr "[1] [2] 날씨가 매우 무더움"
+
+msgid "[alueella] saa muuttuu helteiseksi"
+msgstr "[1] 날씨가 무더워짐"
+
+msgid "[1-na] saa muuttuu helteiseksi"
+msgstr "[1] 날씨가 무더워짐"
+
+msgid "[1-na] [alueella] saa muuttuu helteiseksi"
+msgstr "[1] [2] 날씨가 무더워짐"
+
+msgid "[alueella] helteinen saa jatkuu"
+msgstr "[1] 무더운 날씨 계속"
+
+msgid "[1-na] helteinen saa jatkuu"
+msgstr "[1] 무더운 날씨 계속"
+
+msgid "[1-na] [alueella] helteinen saa jatkuu"
+msgstr "[1] [2] 무더운 날씨 계속"
+
+msgid "[alueella] saa viilenee huomattavasti"
+msgstr "[1] 날씨가 상당히 서늘해짐"
+
+msgid "[1-na] saa viilenee huomattavasti"
+msgstr "[1] 날씨가 상당히 서늘해짐"
+
+msgid "[1-na] [alueella] saa viilenee huomattavasti"
+msgstr "[1] [2] 날씨가 상당히 서늘해짐"
+
+msgid "[alueella] saa viilenee vahan"
+msgstr "[1] 날씨가 약간 서늘해짐"
+
+msgid "[1-na] saa viilenee vahan"
+msgstr "[1] 날씨가 약간 서늘해짐"
+
+msgid "[1-na] [alueella] saa viilenee vahan"
+msgstr "[1] [2] 날씨가 약간 서늘해짐"
+
+msgid "[alueella] saa viilenee"
+msgstr "[1] 날씨가 서늘해짐"
+
+msgid "[1-na] saa viilenee"
+msgstr "[1] 날씨가 서늘해짐"
+
+msgid "[1-na] [alueella] saa viilenee"
+msgstr "[1] [2] 날씨가 서늘해짐"
+
+msgid "[alueella] viilea saa jatkuu"
+msgstr "[1] 서늘한 날씨 계속"
+
+msgid "[1-na] viilea saa jatkuu"
+msgstr "[1] 서늘한 날씨 계속"
+
+msgid "[1-na] [alueella] viilea saa jatkuu"
+msgstr "[1] [2] 서늘한 날씨 계속"
+
+msgid "[alueella] kolea saa jatkuu"
+msgstr "[1] 을씨년스러운 날씨 계속"
+
+msgid "[1-na] kolea saa jatkuu"
+msgstr "[1] 을씨년스러운 날씨 계속"
+
+msgid "[1-na] [alueella] kolea saa jatkuu"
+msgstr "[1] [2] 을씨년스러운 날씨 계속"
+
+msgid "[alueella] saa lampenee huomattavasti"
+msgstr "[1] 날씨가 상당히 따뜻해짐"
+
+msgid "[1-na] saa lampenee huomattavasti"
+msgstr "[1] 날씨가 상당히 따뜻해짐"
+
+msgid "[1-na] [alueella] saa lampenee huomattavasti"
+msgstr "[1] [2] 날씨가 상당히 따뜻해짐"
+
+msgid "[alueella] saa lampenee vahan"
+msgstr "[1] 날씨가 약간 따뜻해짐"
+
+msgid "[1-na] saa lampenee vahan"
+msgstr "[1] 날씨가 약간 따뜻해짐"
+
+msgid "[1-na] [alueella] saa lampenee vahan"
+msgstr "[1] [2] 날씨가 약간 따뜻해짐"
+
+msgid "[alueella] saa lampenee"
+msgstr "[1] 날씨가 따뜻해짐"
+
+msgid "[1-na] saa lampenee"
+msgstr "[1] 날씨가 따뜻해짐"
+
+msgid "[1-na] [alueella] saa lampenee"
+msgstr "[1] [2] 날씨가 따뜻해짐"
+
+msgid "7-keskiyolla ja aamuyolla"
+msgstr "일요일 자정 및 새벽에"
+
+msgid "6-keskiyolla ja aamuyolla"
+msgstr "토요일 자정 및 새벽에"
+
+msgid "5-keskiyolla ja aamuyolla"
+msgstr "금요일 자정 및 새벽에"
+
+msgid "4-keskiyolla ja aamuyolla"
+msgstr "목요일 자정 및 새벽에"
+
+msgid "3-keskiyolla ja aamuyolla"
+msgstr "수요일 자정 및 새벽에"
+
+msgid "2-keskiyolla ja aamuyolla"
+msgstr "화요일 자정 및 새벽에"
+
+msgid "1-keskiyolla ja aamuyolla"
+msgstr "월요일 자정 및 새벽에"
+
+msgid "[huomenna] yksittaiset vesikuurot mahdollisia"
+msgstr "[1] 산발적 비소나기 가능"
+
+msgid "[huomenna] yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "[1] 산발적 비 또는 진눈깨비 소나기 가능"
+
+msgid "[huomenna] yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "[1] 산발적 비 또는 눈소나기 가능"
+
+msgid "[huomenna] yksittaiset sadekuurot mahdollisia"
+msgstr "[1] 산발적 소나기 가능"
+
+msgid "[huomenna] yksittaiset rantakuurot mahdollisia"
+msgstr "[1] 산발적 진눈깨비 소나기 가능"
+
+msgid "[huomenna] yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "[1] 산발적 진눈깨비 또는 비소나기 가능"
+
+msgid "[huomenna] yksittaiset lumikuurot mahdollisia"
+msgstr "[1] 산발적 눈소나기 가능"
+
+msgid "[huomenna] yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "[1] 산발적 눈 또는 진눈깨비 소나기 가능"
+
+msgid "[huomenna] [sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "[1] [2] 산발적 눈 또는 진눈깨비 소나기 가능"
+
+msgid "[huomenna] [sisamaassa] yksittaiset lumikuurot mahdollisia"
+msgstr "[1] [2] 산발적 눈소나기 가능"
+
+msgid "[huomenna] [sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "[1] [2] 산발적 진눈깨비 또는 비소나기 가능"
+
+msgid "[huomenna] [sisamaassa] yksittaiset rantakuurot mahdollisia"
+msgstr "[1] [2] 산발적 진눈깨비 소나기 가능"
+
+msgid "[huomenna] [sisamaassa] yksittaiset sadekuurot mahdollisia"
+msgstr "[1] [2] 산발적 소나기 가능"
+
+msgid "[huomenna] [sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "[1] [2] 산발적 비 또는 눈소나기 가능"
+
+msgid "[huomenna] [sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "[1] [2] 산발적 비 또는 진눈깨비 소나기 가능"
+
+msgid "[huomenna] [sisamaassa] yksittaiset vesikuurot mahdollisia"
+msgstr "[1] [2] 산발적 비소나기 가능"
+
+msgid "[sisamaassa] yksittaiset ranta- tai vesikuurot mahdollisia"
+msgstr "[1] 산발적 진눈깨비 또는 비소나기 가능"
+
+msgid "[sisamaassa] yksittaiset rantakuurot mahdollisia"
+msgstr "[1] 산발적 진눈깨비 소나기 가능"
+
+msgid "[sisamaassa] yksittaiset sadekuurot mahdollisia"
+msgstr "[1] 산발적 소나기 가능"
+
+msgid "1-keskiyohon asti"
+msgstr "월요일 자정까지"
+
+msgid "[sisamaassa] yksittaiset vesi- tai lumikuurot mahdollisia"
+msgstr "[1] 산발적 비 또는 눈소나기 가능"
+
+msgid "[sisamaassa] yksittaiset vesi- tai rantakuurot mahdollisia"
+msgstr "[1] 산발적 비 또는 진눈깨비 소나기 가능"
+
+msgid "[sisamaassa] yksittaiset vesikuurot mahdollisia"
+msgstr "[1] 산발적 비소나기 가능"
+
+msgid "[sisamaassa] yksittaiset lumi- tai rantakuurot mahdollisia"
+msgstr "[1] 산발적 눈 또는 진눈깨비 소나기 가능"
+
+msgid "[sisamaassa] yksittaiset lumikuurot mahdollisia"
+msgstr "[1] 산발적 눈소나기 가능"
+
+msgid "[sisamaassa] on [hieman lauhempaa]"
+msgstr "[1] [2]"
+
+msgid "[huomenna] on [hieman lauhempaa]"
+msgstr "[1] [2]"
+
+msgid "[huomenna] [sisamaassa] on [hieman lauhempaa]"
+msgstr "[1] [2] [3]"
+
+msgid "[lampotila] [M...N] [astetta]"
+msgstr "[1] [2][3]"
+
+msgid "paivan ylin"
+msgstr "낮 최고"
+
+msgid "[lampotila] [suunnilleen sama]"
+msgstr "[1] [2]"
+
+msgid "[lampotila] vahan yli [N] [astetta]"
+msgstr "[1] [2][3] 소폭 초과"
+
+msgid "[lampotila] vajaat [N] [astetta]"
+msgstr "[1] 거의 [2][3]"
+
+msgid "[lampotila] lahella [N] [astetta]"
+msgstr "[1] [2][3] 가까이"
+
+msgid "[lampotila] [N] [asteen] tuntumassa"
+msgstr "[1] 약 [2][3]"
+
+msgid "[lampotila] [N] [asteen] tienoilla"
+msgstr "[1] 약 [2][3]"
+
+msgid "[lampotila] noin [N] [astetta]"
+msgstr "[1] 약 [2][3]"
+
+msgid "luoteeseen"
+msgstr "북서쪽으로"
+
+msgid "lounaaseen"
+msgstr "남서쪽으로"
+
+msgid "kaakkoon"
+msgstr "남동쪽으로"
+
+msgid "koilliseen"
+msgstr "북동쪽으로"
+
+msgid "lanteen"
+msgstr "서쪽으로"
+
+msgid "itaan"
+msgstr "동쪽으로"
+
+msgid "etelaan"
+msgstr "남쪽으로"
+
+msgid "pohjoiseen"
+msgstr "북쪽으로"
+
+msgid "[iltapaivalla] tuuli kaantyy [etelaan] ja voimistuu edelleen"
+msgstr "[1] 바람이 [2]으로 바뀌고 계속 강해짐"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka muuttuu [iltapaivalla] vaihtelevaksi"
+msgstr "[1] [2][3], [4] 방향 가변으로 변화"
+
+msgid "vahitellen"
+msgstr "서서히"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka kaantyy [iltapaivalla] [etelaan]"
+msgstr "[1] [2][3], [4] [5]으로 바뀜"
+
+msgid "[iltapaivalla] tuuli kaantyy [etelaan]"
+msgstr "[1] 바람이 [2]으로 바뀜"
+
+msgid "suunnaltaan vaihtelevaa tuulta"
+msgstr "방향 가변 바람"
+
+msgid "latvia:lle"
+msgstr "라트비아 지역"
+
+msgid "astetta (n...0)"
+msgstr "도"
+
+msgid "1- ja 2-valille"
+msgstr "북~북동쪽으로"
+
+msgid "3- ja 2-valille"
+msgstr "동~북동쪽으로"
+
+msgid "3- ja 4-valille"
+msgstr "동~남동쪽으로"
+
+msgid "5- ja 4-valille"
+msgstr "남~남동쪽으로"
+
+msgid "5- ja 6-valille"
+msgstr "남~남서쪽으로"
+
+msgid "7- ja 6-valille"
+msgstr "서~남서쪽으로"
+
+msgid "7- ja 8-valille"
+msgstr "서~북서쪽으로"
+
+msgid "1- ja 8-valille"
+msgstr "북~북서쪽으로"
+
+msgid "[huomenna] [etelatuulta]"
+msgstr "[1] [2]"
+
+msgid "ivalo:lle"
+msgstr "이발로 지역"
+
+msgid "pieksamaki:lle"
+msgstr "피엑사마키 지역"
+
+msgid "[iltapaivalla] [etelaan] kaantyvaa tuulta"
+msgstr "[1] [2]으로 바뀌는 바람"
+
+msgid "heikkenevaa tuulta"
+msgstr "약해지는 바람"
+
+msgid "8-puolelle"
+msgstr "주로 북서쪽으로"
+
+msgid "7-puolelle"
+msgstr "주로 서쪽으로"
+
+msgid "6-puolelle"
+msgstr "주로 남서쪽으로"
+
+msgid "5-puolelle"
+msgstr "주로 남쪽으로"
+
+msgid "4-puolelle"
+msgstr "주로 남동쪽으로"
+
+msgid "3-puolelle"
+msgstr "주로 동쪽으로"
+
+msgid "2-puolelle"
+msgstr "주로 북동쪽으로"
+
+msgid "1-puolelle"
+msgstr "주로 북쪽으로"
+
+msgid "tuuli muuttuu vaihtelevaksi"
+msgstr "바람이 방향 가변으로 바뀜"
+
+msgid "[iltapaivalla] tuuli muuttuu vaihtelevaksi"
+msgstr "[1] 바람이 방향 가변으로 바뀜"
+
+msgid "[iltapaivalla] [etelatuulta]"
+msgstr "[1] [2]"
+
+msgid "astetta (1)"
+msgstr "도"
+
+msgid "astetta (0)"
+msgstr "도"
+
+msgid "astetta (4)"
+msgstr "도"
+
+msgid "astetta (3)"
+msgstr "도"
+
+msgid "astetta (n...(mod 10=1))"
+msgstr "도"
+
+msgid "astetta (n...4)"
+msgstr "도"
+
+msgid "astetta (n...3)"
+msgstr "도"
+
+msgid "astetta (n...2)"
+msgstr "도"
+
+msgid "astetta (n...1)"
+msgstr "도"
+
+msgid "astetta (2)"
+msgstr "도"
+
+msgid "aallonkorkeus on enimmillaan [N] [metria]"
+msgstr "파고 최대 [1][2]"
+
+msgid "latgale:lle"
+msgstr "라트갈레 지역"
+
+msgid "vidzeme:lle"
+msgstr "비드제메 지역"
+
+msgid "zemgale:lle"
+msgstr "젬갈레 지역"
+
+msgid "kurzeme:lle"
+msgstr "쿠르제메 지역"
+
+msgid "rigaregion:lle"
+msgstr "리가 지역"
+
+msgid "tuuli kaantyy"
+msgstr "바람이 바뀜"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta]"
+msgstr "[1] [2] [3] [4]"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa tuulta]"
+msgstr "[1] [2] [3]"
+
+msgid "[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] 바람이 일시적으로 방향 가변으로 바뀜"
+
+msgid "[iltapaivalla] tuuli heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1] 바람이 약해지고 방향 가변으로 바뀜"
+
+msgid "astetta (m...n)"
+msgstr "도"
+
+msgid "astetta (n)"
+msgstr "도"
+
+msgid "[iltapaivalla] tuuli heikkenee ja kaantyy [etelaan]"
+msgstr "[1] 바람이 약해지고 [2]으로 바뀜"
+
+msgid "keskipaivasta"
+msgstr "정오부터"
+
+msgid "[iltapaivalla] tuuli voimistuu ja kaantyy [etelaan]"
+msgstr "[1] 바람이 강해지고 [2]으로 바뀜"
+
+msgid "[iltapaivalla] tuuli voimistuu ja muuttuu vaihtelevaksi"
+msgstr "[1] 바람이 강해지고 방향 가변으로 바뀜"
+
+msgid "voimistuvaa tuulta"
+msgstr "강해지는 바람"
+
+msgid "kovimmillaan"
+msgstr "최대"
+
+msgid "nopeasti"
+msgstr "빠르게"
+
+msgid "[iltapaivalla] tuuli muuttuu vaihtelevaksi ja heikkenee edelleen"
+msgstr "[1] 바람이 방향 가변으로 바뀌고 계속 약해짐"
+
+msgid "[iltapaivalla] [heikkenevaa tuulta]"
+msgstr "[1] [2]"
+
+msgid "[iltapaivalla] [heikkenevaa] [etelatuulta]"
+msgstr "[1] [2] [3]"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1] [2]이 약해지고 방향 가변으로 바뀜"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee ja kaantyy [etelaan]"
+msgstr "[1] [2]이 약해지고 [3]으로 바뀜"
+
+msgid "1- ja 8-valista tuulta"
+msgstr "북~북서풍"
+
+msgid "7- ja 8-valista tuulta"
+msgstr "서~북서풍"
+
+msgid "7- ja 6-valista tuulta"
+msgstr "서~남서풍"
+
+msgid "5- ja 6-valista tuulta"
+msgstr "남~남서풍"
+
+msgid "5- ja 4-valista tuulta"
+msgstr "남~남동풍"
+
+msgid "3- ja 4-valista tuulta"
+msgstr "동~남동풍"
+
+msgid "3- ja 2-valista tuulta"
+msgstr "동~북동풍"
+
+msgid "1- ja 2-valista tuulta"
+msgstr "북~북동풍"
+
+msgid "1- ja 8-valinen tuuli"
+msgstr "북~북서풍"
+
+msgid "7- ja 8-valinen tuuli"
+msgstr "서~북서풍"
+
+msgid "7- ja 6-valinen tuuli"
+msgstr "서~남서풍"
+
+msgid "5- ja 6-valinen tuuli"
+msgstr "남~남서풍"
+
+msgid "5- ja 4-valinen tuuli"
+msgstr "남~남동풍"
+
+msgid "3- ja 4-valinen tuuli"
+msgstr "동~남동풍"
+
+msgid "3- ja 2-valinen tuuli"
+msgstr "동~북동풍"
+
+msgid "1- ja 2-valinen tuuli"
+msgstr "북~북동풍"
+
+msgid "8-puoleinen tuuli"
+msgstr "주로 북서풍"
+
+msgid "7-puoleinen tuuli"
+msgstr "주로 서풍"
+
+msgid "6-puoleinen tuuli"
+msgstr "주로 남서풍"
+
+msgid "5-puoleinen tuuli"
+msgstr "주로 남풍"
+
+msgid "4-puoleinen tuuli"
+msgstr "주로 남동풍"
+
+msgid "3-puoleinen tuuli"
+msgstr "주로 동풍"
+
+msgid "2-puoleinen tuuli"
+msgstr "주로 북동풍"
+
+msgid "1-puoleinen tuuli"
+msgstr "주로 북풍"
+
+msgid "8-tuuli"
+msgstr "북서풍"
+
+msgid "7-tuuli"
+msgstr "서풍"
+
+msgid "6-tuuli"
+msgstr "남서풍"
+
+msgid "5-tuuli"
+msgstr "남풍"
+
+msgid "4-tuuli"
+msgstr "남동풍"
+
+msgid "3-tuuli"
+msgstr "동풍"
+
+msgid "2-tuuli"
+msgstr "북동풍"
+
+msgid "1-tuuli"
+msgstr "북풍"
+
+msgid "suunnaltaan vaihteleva tuuli"
+msgstr "방향 가변 바람"
+
+msgid "[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja heikkenee edelleen"
+msgstr "[1] 바람이 일시적으로 방향 가변으로 바뀌고 계속 약해짐"
+
+msgid "[iltapaivalla] tuuli heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] 바람이 약해지고 일시적으로 방향 가변으로 바뀜"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2]이 약해지고 일시적으로 방향 가변으로 바뀜"
+
+msgid "iltapaivasta"
+msgstr "오후부터"
+
+msgid "[iltapaivalla] [etelatuuli] alkaa heiketa [nopeasti]"
+msgstr "[1] [2]이 [3] 약해지기 시작"
+
+msgid "illasta"
+msgstr "저녁부터"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantya [etelaan]"
+msgstr "[1] [2]이 약해지고 [3]으로 바뀌기 시작"
+
+msgid "astetta (mod 10=1)"
+msgstr "도"
+
+msgid "aste"
+msgstr "도"
+
+msgid "nolla"
+msgstr "영"
+
+msgid "asteen(tienoilla (mod 10=1))"
+msgstr "도"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [pohjoiseen]"
+msgstr "[1] [2] [3] [4], [5]으로 바뀜"
+
+msgid "[iltapaivalla] edelleen [heikkenevaa] [pohjoistuulta]"
+msgstr "[1] [3]이 계속 [2]"
+
+msgid "hehtopascalia (mod 10=1)"
+msgstr "헥토파스칼"
+
+msgid "prosenttia (mod 10=1)"
+msgstr "퍼센트"
+
+msgid "millimetria (mod 10=1)"
+msgstr "밀리미터"
+
+msgid "metria sekunnissa (mod 10=1)"
+msgstr "미터/초"
+
+msgid "4 astetta"
+msgstr "4도"
+
+msgid "3 astetta"
+msgstr "3도"
+
+msgid "2 astetta"
+msgstr "2도"
+
+msgid "puuskittaista [etelatuulta]"
+msgstr "돌풍성 [1]"
+
+msgid "aallonkorkeus on alle [N] [metria]"
+msgstr "파고 [1][2] 미만"
+
+msgid "aallonkorkeus on [N...M] [metria]"
+msgstr "파고 [1][2]"
+
+msgid "aallonkorkeus on noin [N] [metria]"
+msgstr "파고 약 [1][2]"
+
+msgid "asteen(tuntumassa (mod 10=1))"
+msgstr "도"
+
+msgid "astetta(noin 0)"
+msgstr "도"
+
+msgid "astetta(noin 4)"
+msgstr "도"
+
+msgid "astetta(noin 3)"
+msgstr "도"
+
+msgid "astetta(noin 2)"
+msgstr "도"
+
+msgid "astetta(noin 1)"
+msgstr "도"
+
+msgid "astetta(noin (mod 10=1))"
+msgstr "도"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]"
+msgstr "[1] [2]이 약해지고 [3]으로 바뀌기 시작"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantya [etelaan]"
+msgstr "[1] [2]이 강해지고 [3]으로 바뀌기 시작"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantyy [etelaan]"
+msgstr "[1] [2]이 강해지고 [3]으로 바뀌기 시작"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja kaantyy [etelaan]"
+msgstr "[1] [2]이 강해지고 [3]으로 바뀜"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi"
+msgstr "[1] [2]이 강해지고 방향 가변으로 바뀜"
+
+msgid "[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja voimistuu edelleen"
+msgstr "[1] 바람이 일시적으로 방향 가변으로 바뀌고 계속 강해짐"
+
+msgid "[iltapaivalla] tuuli muuttuu vaihtelevaksi ja voimistuu edelleen"
+msgstr "[1] 바람이 방향 가변으로 바뀌고 계속 강해짐"
+
+msgid "[iltapaivalla] tuuli voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] 바람이 강해지고 일시적으로 방향 가변으로 바뀜"
+
+msgid "iltayosta"
+msgstr "자정 전부터"
+
+msgid "keskiyosta"
+msgstr "자정부터"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa heiketa"
+msgstr "[1] [2][3], 약해지기 시작"
+
+msgid "[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [illalla] [pohjoiseen]"
+msgstr "[1] [2] [3] [4], [5] [6]으로 바뀜"
+
+msgid "yosta"
+msgstr "오늘 밤부터"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] [2]이 [3] 약해지고 [4] [5]으로 바뀌기 시작"
+
+msgid "[ip] [p-tuulta] [m...n] [m/s], joka alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] [2] [3][4], [5] [6] [7]으로 바뀌기 시작"
+
+msgid "[iltapaivalla] [etelatuuli] heikkenee [nopeasti]"
+msgstr "[1] [2]이 [3] 약해짐"
+
+msgid "[iltapaivalla] [pohjoistuuli] heikkenee edelleen"
+msgstr "[1] [2]이 계속 약해짐"
+
+msgid "[iltapaivalla] sade voi olla runsasta"
+msgstr "[1] 비가 강해질 수 있음"
+
+msgid "1-asti"
+msgstr "월요일까지"
+
+msgid "2-asti"
+msgstr "화요일까지"
+
+msgid "3-asti"
+msgstr "수요일까지"
+
+msgid "4-asti"
+msgstr "목요일까지"
+
+msgid "6-asti"
+msgstr "금요일까지"
+
+msgid "5-asti"
+msgstr "토요일까지"
+
+msgid "7-asti"
+msgstr "일요일까지"
+
+msgid "yohon asti"
+msgstr "야간까지"
+
+msgid "aamuun asti"
+msgstr "아침까지"
+
+msgid "aamupaivaan asti"
+msgstr "오전까지"
+
+msgid "keskipaivaan asti"
+msgstr "정오까지"
+
+msgid "iltapaivaan asti"
+msgstr "오후까지"
+
+msgid "iltaan asti"
+msgstr "저녁까지"
+
+msgid "iltayohon asti"
+msgstr "자정 전까지"
+
+msgid "keskiyohon asti"
+msgstr "자정까지"
+
+msgid "huomiseen asti"
+msgstr "내일까지"
+
+msgid "1-aamupaivaan asti"
+msgstr "월요일 오전까지"
+
+msgid "2-aamupaivaan asti"
+msgstr "화요일 오전까지"
+
+msgid "3-aamupaivaan asti"
+msgstr "수요일 오전까지"
+
+msgid "4-aamupaivaan asti"
+msgstr "목요일 오전까지"
+
+msgid "5-aamupaivaan asti"
+msgstr "금요일 오전까지"
+
+msgid "6-aamupaivaan asti"
+msgstr "토요일 오전까지"
+
+msgid "7-aamupaivaan asti"
+msgstr "일요일 오전까지"
+
+msgid "1-aamuun asti"
+msgstr "월요일 아침까지"
+
+msgid "2-aamuun asti"
+msgstr "화요일 아침까지"
+
+msgid "3-aamuun asti"
+msgstr "수요일 아침까지"
+
+msgid "4-aamuun asti"
+msgstr "목요일 아침까지"
+
+msgid "5-aamuun asti"
+msgstr "금요일 아침까지"
+
+msgid "6-aamuun asti"
+msgstr "토요일 아침까지"
+
+msgid "7-aamuun asti"
+msgstr "일요일 아침까지"
+
+msgid "1-iltaan asti"
+msgstr "월요일 저녁까지"
+
+msgid "2-iltaan asti"
+msgstr "화요일 저녁까지"
+
+msgid "3-iltaan asti"
+msgstr "수요일 저녁까지"
+
+msgid "4-iltaan asti"
+msgstr "목요일 저녁까지"
+
+msgid "5-iltaan asti"
+msgstr "금요일 저녁까지"
+
+msgid "6-iltaan asti"
+msgstr "토요일 저녁까지"
+
+msgid "7-iltaan asti"
+msgstr "일요일 저녁까지"
+
+msgid "1-vastaiseen yohon asti"
+msgstr "월요일 야간까지"
+
+msgid "2-vastaiseen yohon asti"
+msgstr "화요일 야간까지"
+
+msgid "3-vastaiseen yohon asti"
+msgstr "수요일 야간까지"
+
+msgid "4-vastaiseen yohon asti"
+msgstr "목요일 야간까지"
+
+msgid "5-vastaiseen yohon asti"
+msgstr "금요일 야간까지"
+
+msgid "6-vastaiseen yohon asti"
+msgstr "토요일 야간까지"
+
+msgid "7-vastaiseen yohon asti"
+msgstr "일요일 야간까지"
+
+msgid "huomisaamuun asti"
+msgstr "내일 아침까지"
+
+msgid "huomisaamupaivaan asti"
+msgstr "내일 오전까지"
+
+msgid "huomisiltaan asti"
+msgstr "내일 저녁까지"
+
+msgid "7-iltapaivaan asti"
+msgstr "일요일 오후까지"
+
+msgid "6-iltapaivaan asti"
+msgstr "토요일 오후까지"
+
+msgid "5-iltapaivaan asti"
+msgstr "금요일 오후까지"
+
+msgid "4-iltapaivaan asti"
+msgstr "목요일 오후까지"
+
+msgid "3-iltapaivaan asti"
+msgstr "수요일 오후까지"
+
+msgid "2-iltapaivaan asti"
+msgstr "화요일 오후까지"
+
+msgid "1-iltapaivaan asti"
+msgstr "월요일 오후까지"
+
+msgid "7-iltayohon asti"
+msgstr "일요일 자정 전까지"
+
+msgid "6-iltayohon asti"
+msgstr "토요일 자정 전까지"
+
+msgid "5-iltayohon asti"
+msgstr "금요일 자정 전까지"
+
+msgid "4-iltayohon asti"
+msgstr "목요일 자정 전까지"
+
+msgid "3-iltayohon asti"
+msgstr "수요일 자정 전까지"
+
+msgid "2-iltayohon asti"
+msgstr "화요일 자정 전까지"
+
+msgid "1-iltayohon asti"
+msgstr "월요일 자정 전까지"
+
+msgid "7-keskiyohon asti"
+msgstr "일요일 자정까지"
+
+msgid "5-keskiyohon asti"
+msgstr "금요일 자정까지"
+
+msgid "4-keskiyohon asti"
+msgstr "목요일 자정까지"
+
+msgid "3-keskiyohon asti"
+msgstr "수요일 자정까지"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu edelleen"
+msgstr "[1] [2]이 계속 강해짐"
+
+msgid "[ip] [p-tuulta] [m...n] [m/s], joka alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] [2] [3][4], [5] [6] [7]으로 바뀌기 시작"
+
+msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa voimistua"
+msgstr "[1] [2][3], 강해지기 시작"
+
+msgid "aamuyohon asti"
+msgstr "새벽까지"
+
+msgid "7-aamuyohon asti"
+msgstr "일요일 새벽까지"
+
+msgid "6-aamuyohon asti"
+msgstr "토요일 새벽까지"
+
+msgid "5-aamuyohon asti"
+msgstr "금요일 새벽까지"
+
+msgid "4-aamuyohon asti"
+msgstr "목요일 새벽까지"
+
+msgid "3-aamuyohon asti"
+msgstr "수요일 새벽까지"
+
+msgid "2-aamuyohon asti"
+msgstr "화요일 새벽까지"
+
+msgid "1-aamuyohon asti"
+msgstr "월요일 새벽까지"
+
+msgid "[iltapaivalla] kuurot voivat olla voimakkaita"
+msgstr "[1] 소나기가 강해질 수 있음"
+
+msgid "B3N:lle"
+msgstr "북보트니아해 지역"
+
+msgid "[iltapaivalla] tuuli alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1] 바람이 약해지고 방향 가변으로 바뀌기 시작"
+
+msgid "[iltapaivalla] tuuli alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] 바람이 약해지고 일시적으로 방향 가변으로 바뀌기 시작"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1] [2]이 약해지고 방향 가변으로 바뀌기 시작"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2]이 약해지고 일시적으로 방향 가변으로 바뀌기 시작"
+
+msgid "inari_utsjoki:lle"
+msgstr "이나리 및 우츠요키 지역"
+
+msgid "ita_finnmark:lle"
+msgstr "동부 핀마르크 지역"
+
+msgid "lansi_finnmark:lle"
+msgstr "서부 핀마르크 지역"
+
+msgid "pohjois_ruotsi:lle"
+msgstr "북스웨덴 지역"
+
+msgid "kasivarsi:lle"
+msgstr "카시바르시 지역"
+
+msgid "kova"
+msgstr "강한"
+
+msgid "voimakas"
+msgstr "매우 강한"
+
+msgid "heikkenee"
+msgstr "약해짐"
+
+msgid "kuola:lle"
+msgstr "콜라반도 지역"
+
+msgid "[voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen"
+msgstr "[1]이 [2]으로 바뀌고 계속 약해짐"
+
+msgid "[voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]"
+msgstr "[1]이 약해지고 [2]으로 바뀜"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]"
+msgstr "[1]이 약해지고 [2]으로 바뀌기 시작"
+
+msgid "[voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1]이 약해지고 방향 가변으로 바뀜"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1]이 약해지고 방향 가변으로 바뀌기 시작"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]이 약해지고 일시적으로 방향 가변으로 바뀌기 시작"
+
+msgid "[voimakas pohjoistuuli] heikkenee edelleen"
+msgstr "[1]이 계속 약해짐"
+
+msgid "[voimakas pohjoistuuli] alkaa heiketa [nopeasti]"
+msgstr "[1]이 [2] 약해지기 시작"
+
+msgid "[voimakas pohjoistuuli] heikkenee [nopeasti]"
+msgstr "[1]이 [2] 약해짐"
+
+msgid "[voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]이 약해지고 일시적으로 방향 가변으로 바뀜"
+
+msgid "voimakas 3- ja 4-valinen tuuli"
+msgstr "강한 동~남동풍"
+
+msgid "voimakas 4-tuuli"
+msgstr "강한 남동풍"
+
+msgid "voimakas 4-puoleinen tuuli"
+msgstr "강한 주로 남동풍"
+
+msgid "voimakas 5- ja 4-valinen tuuli"
+msgstr "강한 남~남동풍"
+
+msgid "voimakas 5-tuuli"
+msgstr "강한 남풍"
+
+msgid "voimakas 5-puoleinen tuuli"
+msgstr "강한 주로 남풍"
+
+msgid "voimakas 5- ja 6-valinen tuuli"
+msgstr "강한 남~남서풍"
+
+msgid "voimakas 6-tuuli"
+msgstr "강한 남서풍"
+
+msgid "voimakas 6-puoleinen tuuli"
+msgstr "강한 주로 남서풍"
+
+msgid "voimakas 7- ja 6-valinen tuuli"
+msgstr "강한 서~남서풍"
+
+msgid "voimakas 7-tuuli"
+msgstr "강한 서풍"
+
+msgid "voimakas 7-puoleinen tuuli"
+msgstr "강한 주로 서풍"
+
+msgid "voimakas 7- ja 8-valinen tuuli"
+msgstr "강한 서~북서풍"
+
+msgid "voimakas 8-tuuli"
+msgstr "강한 북서풍"
+
+msgid "voimakas 8-puoleinen tuuli"
+msgstr "강한 주로 북서풍"
+
+msgid "voimakas 1- ja 8-valinen tuuli"
+msgstr "강한 북~북서풍"
+
+msgid "voimakas tuuli"
+msgstr "강풍"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti]"
+msgstr "[1] [2]이 [3] 약해짐"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee edelleen"
+msgstr "[1] [2]이 계속 약해짐"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa [nopeasti]"
+msgstr "[1] [2]이 [3] 약해지기 시작"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2]이 약해지고 일시적으로 방향 가변으로 바뀌기 시작"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2]이 약해지고 일시적으로 방향 가변으로 바뀜"
+
+msgid "voimakas 2-puoleinen tuuli"
+msgstr "강한 주로 북동풍"
+
+msgid "voimakas 3-puoleinen tuuli"
+msgstr "강한 주로 동풍"
+
+msgid "voimakas 3-tuuli"
+msgstr "강한 동풍"
+
+msgid "voimakas 1-tuuli"
+msgstr "강한 북풍"
+
+msgid "voimakas 1-puoleinen tuuli"
+msgstr "강한 주로 북풍"
+
+msgid "voimakas 3- ja 2-valinen tuuli"
+msgstr "강한 동~북동풍"
+
+msgid "voimakas 2-tuuli"
+msgstr "강한 북동풍"
+
+msgid "voimakas 1- ja 2-valinen tuuli"
+msgstr "강한 북~북동풍"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1] [2]이 약해지고 방향 가변으로 바뀌기 시작"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1] [2]이 약해지고 방향 가변으로 바뀜"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]"
+msgstr "[1] [2]이 약해지고 [3]으로 바뀌기 시작"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee ja kaantyy [etelaan]"
+msgstr "[1] [2]이 약해지고 [3]으로 바뀜"
+
+msgid "tiepiiri-o4:lle"
+msgstr "오울루 북부 내륙 도로 구역"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] kaantyy [etelaan] ja heikkenee edelleen"
+msgstr "[1] [2]이 [3]으로 바뀌고 계속 약해짐"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] [2]이 [3] 약해지고 [4] [5]으로 바뀜"
+
+msgid "[etelatuuli] alkaa voimistua [nopeasti]"
+msgstr "[1]이 [2] 강해지기 시작"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi"
+msgstr "[1] [2]이 강해지고 방향 가변으로 바뀌기 시작"
+
+msgid "[iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] 바람이 강해지고 일시적으로 방향 가변으로 바뀌기 시작"
+
+msgid "[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi"
+msgstr "[1] 바람이 강해지고 방향 가변으로 바뀌기 시작"
+
+msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]"
+msgstr "[1] [2]이 [3] 약해지고 [4]으로 바뀜"
+
+msgid "[pohjoistuuli] heikkenee [nopeasti]"
+msgstr "[1]이 [2] 약해짐"
+
+msgid "[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1]이 [2] 약해지고 [3] [4]으로 바뀜"
+
+msgid "[voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]"
+msgstr "[1]이 [2] 약해지고 [3]으로 바뀜"
+
+msgid "[pohjoistuuli] heikkenee ja muuttuu vaihtelevaksi"
+msgstr "[1]이 약해지고 방향 가변으로 바뀜"
+
+msgid "[etelatuuli] alkaa heiketa [nopeasti]"
+msgstr "[1]이 [2] 약해지기 시작"
+
+msgid "[pohjoistuuli] heikkenee ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]이 약해지고 일시적으로 방향 가변으로 바뀜"
+
+msgid "[pohjoistuuli] alkaa heiketa ja kaantya [etelaan]"
+msgstr "[1]이 약해지고 [2]으로 바뀌기 시작"
+
+msgid "[pohjoistuuli] alkaa heiketa [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1]이 [2] 약해지고 [3] [4]으로 바뀌기 시작"
+
+msgid "[etelatuuli] heikkenee [nopeasti]"
+msgstr "[1]이 [2] 약해짐"
+
+msgid "[pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi"
+msgstr "[1]이 강해지고 방향 가변으로 바뀌기 시작"
+
+msgid "[pohjoistuuli] alkaa heiketa ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]이 약해지고 일시적으로 방향 가변으로 바뀌기 시작"
+
+msgid "[pohjoistuuli] alkaa heiketa ja muuttuu vaihtelevaksi"
+msgstr "[1]이 약해지고 방향 가변으로 바뀌기 시작"
+
+msgid "1-keskipaivaan"
+msgstr "월요일 정오까지"
+
+msgid "2-keskipaivaan"
+msgstr "화요일 정오까지"
+
+msgid "3-keskipaivaan"
+msgstr "수요일 정오까지"
+
+msgid "4-keskipaivaan"
+msgstr "목요일 정오까지"
+
+msgid "5-keskipaivaan"
+msgstr "금요일 정오까지"
+
+msgid "6-keskipaivaan"
+msgstr "토요일 정오까지"
+
+msgid "7-keskipaivaan"
+msgstr "일요일 정오까지"
+
+msgid "1-keskipaivasta"
+msgstr "월요일 정오부터"
+
+msgid "2-keskipaivasta"
+msgstr "화요일 정오부터"
+
+msgid "3-keskipaivasta"
+msgstr "수요일 정오부터"
+
+msgid "4-keskipaivasta"
+msgstr "목요일 정오부터"
+
+msgid "5-keskipaivasta"
+msgstr "금요일 정오부터"
+
+msgid "6-keskipaivasta"
+msgstr "토요일 정오부터"
+
+msgid "7-keskipaivasta"
+msgstr "일요일 정오부터"
+
+msgid "kemi-tornio:lle"
+msgstr "케미-토르니오 지역"
+
+msgid "rovaniemen seutu:lle"
+msgstr "로바니에미 인근 지역"
+
+msgid "tornionlaakso:lle"
+msgstr "토르니오 계곡 지역"
+
+msgid "tunturi-lappi:lle"
+msgstr "툰투리-라피 지역"
+
+msgid "elyalue-epo:lle"
+msgstr "남오스트로보트니아 ELY 지역"
+
+msgid "elyalue-kas:lle"
+msgstr "남동핀란드 ELY 지역"
+
+msgid "elyalue-kes:lle"
+msgstr "중부핀란드 ELY 지역"
+
+msgid "elyalue-lap:lle"
+msgstr "라플란드 ELY 지역"
+
+msgid "elyalue-pir:lle"
+msgstr "피르칸마 ELY 지역"
+
+msgid "elyalue-pkp:lle"
+msgstr "북오스트로보트니아 ELY 지역"
+
+msgid "elyalue-pos:lle"
+msgstr "북사보 ELY 지역"
+
+msgid "elyalue-uud:lle"
+msgstr "우시마 ELY 지역"
+
+msgid "elyalue-var:lle"
+msgstr "핀란드 본토 ELY 지역"
+
+msgid "tiepiiri-h1:lle"
+msgstr "남부 하메 도로 구역"
+
+msgid "tiepiiri-h2:lle"
+msgstr "남부 파이얀네-하메 도로 구역"
+
+msgid "tiepiiri-h3:lle"
+msgstr "남부 피르칸마 도로 구역"
+
+msgid "tiepiiri-h4:lle"
+msgstr "북부 파이얀네-하메 도로 구역"
+
+msgid "tiepiiri-h5:lle"
+msgstr "북부 피르칸마 도로 구역"
+
+msgid "tiepiiri-k1:lle"
+msgstr "키멘마 해안 도로 구역"
+
+msgid "tiepiiri-k2:lle"
+msgstr "키멘마 내륙 도로 구역"
+
+msgid "tiepiiri-k3:lle"
+msgstr "남카렐리아 도로 구역"
+
+msgid "tiepiiri-k4:lle"
+msgstr "남사보 도로 구역"
+
+msgid "tiepiiri-ke1:lle"
+msgstr "중부핀란드 남부 도로 구역"
+
+msgid "tiepiiri-ke2:lle"
+msgstr "중부핀란드 북부 도로 구역"
+
+msgid "tiepiiri-l1:lle"
+msgstr "남서라플란드 도로 구역"
+
+msgid "tiepiiri-l2:lle"
+msgstr "남동라플란드 도로 구역"
+
+msgid "tiepiiri-l3:lle"
+msgstr "중부라플란드 도로 구역"
+
+msgid "tiepiiri-l4:lle"
+msgstr "북서라플란드 도로 구역"
+
+msgid "tiepiiri-l5:lle"
+msgstr "북부라플란드 도로 구역"
+
+msgid "tiepiiri-o1e:lle"
+msgstr "오울루 남부 해안 도로 구역"
+
+msgid "tiepiiri-o1p:lle"
+msgstr "오울루 북부 해안 도로 구역"
+
+msgid "tiepiiri-o2:lle"
+msgstr "오울루 남부 내륙 도로 구역"
+
+msgid "tiepiiri-o3:lle"
+msgstr "카이누 도로 구역"
+
+msgid "tiepiiri-o5:lle"
+msgstr "코일리스마 도로 구역"
+
+msgid "tiepiiri-s1:lle"
+msgstr "북카렐리아 남부 도로 구역"
+
+msgid "tiepiiri-s2:lle"
+msgstr "북사보 남부 도로 구역"
+
+msgid "[etelatuuli] voimistuu [nopeasti]"
+msgstr "[1]이 [2] 강해짐"
+
+msgid "[iltapaivalla] [pohjoistuuli] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2]이 강해지고 일시적으로 방향 가변으로 바뀌기 시작"
+
+msgid "[iltapaivalla] tuuli alkaa voimistua ja kaantyy [etelaan]"
+msgstr "[1] 바람이 강해지고 [2]으로 바뀌기 시작"
+
+msgid "[pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1]이 [2] 강해지고 [3] [4]으로 바뀌기 시작"
+
+msgid "[pohjoistuuli] alkaa voimistua ja kaantya [etelaan]"
+msgstr "[1]이 강해지고 [2]으로 바뀌기 시작"
+
+msgid "[pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]이 강해지고 일시적으로 방향 가변으로 바뀌기 시작"
+
+msgid "[pohjoistuuli] voimistuu [nopeasti]"
+msgstr "[1]이 [2] 강해짐"
+
+msgid "[pohjoistuuli] voimistuu ja kaantyy [etelaan]"
+msgstr "[1]이 강해지고 [2]으로 바뀜"
+
+msgid "[pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1]이 강해지고 일시적으로 방향 가변으로 바뀜"
+
+msgid "[pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi"
+msgstr "[1]이 강해지고 방향 가변으로 바뀜"
+
+msgid "1-aamuyolla"
+msgstr "월요일 새벽에"
+
+msgid "tiepiiri-s3:lle"
+msgstr "북카렐리아 중부 도로 구역"
+
+msgid "tiepiiri-s4:lle"
+msgstr "북사보 북부 도로 구역"
+
+msgid "tiepiiri-s5:lle"
+msgstr "북카렐리아 북부 도로 구역"
+
+msgid "tiepiiri-t1:lle"
+msgstr "핀란드 본토 해안 도로 구역"
+
+msgid "tiepiiri-t2:lle"
+msgstr "핀란드 본토 내륙 도로 구역"
+
+msgid "tiepiiri-t3:lle"
+msgstr "핀란드 본토 동부 도로 구역"
+
+msgid "tiepiiri-t4:lle"
+msgstr "사타쿤타 해안 도로 구역"
+
+msgid "tiepiiri-t5:lle"
+msgstr "사타쿤타 내륙 도로 구역"
+
+msgid "tiepiiri-u1:lle"
+msgstr "서우시마 해안 도로 구역"
+
+msgid "tiepiiri-u2:lle"
+msgstr "수도권 도로 구역"
+
+msgid "tiepiiri-u3:lle"
+msgstr "동우시마 해안 도로 구역"
+
+msgid "tiepiiri-u4:lle"
+msgstr "서우시마 내륙 도로 구역"
+
+msgid "tiepiiri-u5:lle"
+msgstr "동우시마 내륙 도로 구역"
+
+msgid "tiepiiri-v1:lle"
+msgstr "오스트로보트니아 남부 해안 도로 구역"
+
+msgid "tiepiiri-v2:lle"
+msgstr "남오스트로보트니아 도로 구역"
+
+msgid "tiepiiri-v4:lle"
+msgstr "오스트로보트니아 북부 해안 도로 구역"
+
+msgid "tiepiiri-v5:lle"
+msgstr "중부 오스트로보트니아 도로 구역"
+
+msgid "[iltap] [nop] [heikken] [tuulta] [m...n] [m sek], joka kaantyy [illalla] [pohj]"
+msgstr "[1] [2] [3] [4] [5][6], [7] [8]으로 바뀜"
+
+msgid "[lampotila] vahan nollan alapuolella"
+msgstr "[1] 영하 소폭"
+
+msgid "[lampotila] on vahan nollan alapuolella"
+msgstr "[1]이 영하 소폭"
+
+msgid "[huomenna] vahan nollan alapuolella"
+msgstr "[1] 영하 소폭"
+
+msgid "[sismaassa] vahan nollan alapuolella"
+msgstr "[1] 영하 소폭"
+
+msgid "[huomenna] [lampotila] on vahan nollan alapuolella"
+msgstr "[1] [2]이 영하 소폭"
+
+msgid "[sisamaassa] [lampotila] on vahan nollan alapuolella"
+msgstr "[1] [2]이 영하 소폭"
+
+msgid "[huomenna] [sisamaassa] vahan nollan alapuolella"
+msgstr "[1] [2] 영하 소폭"
+
+msgid "[huomenna] [sisamaassa] [lampotila] on vahan nollan alapuolella"
+msgstr "[1] [2] [3]이 영하 소폭"
+
+msgid "rannikolla vahan nollan alapuolella"
+msgstr "해안 지역 영하 소폭"
+
+msgid "muuten hyva nakyvyys"
+msgstr "그 외 양호한 시정"
+
+msgid "hyva nakyvyys"
+msgstr "양호한 시정"
+
+msgid "enimmakseen hyva nakyvyys"
+msgstr "대부분 양호한 시정"
+
+msgid "yolla ja aamulla"
+msgstr "야간 및 아침에"
+
+msgid "aamulla ja paivalla"
+msgstr "아침 및 낮에"
+
+msgid "paivalla ja illalla"
+msgstr "낮 및 저녁에"
+
+msgid "illalla ja yolla"
+msgstr "저녁 및 야간에"
+
+msgid "1-keskipaivalla"
+msgstr "월요일 정오에"
+
+msgid "2-keskipaivalla"
+msgstr "화요일 정오에"
+
+msgid "3-keskipaivalla"
+msgstr "수요일 정오에"
+
+msgid "4-keskipaivalla"
+msgstr "목요일 정오에"
+
+msgid "5-keskipaivalla"
+msgstr "금요일 정오에"
+
+msgid "6-keskipaivalla"
+msgstr "토요일 정오에"
+
+msgid "7-keskipaivalla"
+msgstr "일요일 정오에"
+
+msgid "ja huono nakyvyys"
+msgstr "및 불량한 시정"
+
+msgid "B2_B1S:lle"
+msgstr "콰르크 및 남보트니아만 지역"
+
+msgid "B2_B1:lle"
+msgstr "콰르크 및 보트니아만 지역"
+
+msgid "B3_B2_B1:lle"
+msgstr "보트니아해, 콰르크 및 보트니아만 지역"
+
+msgid "B3_B2:lle"
+msgstr "보트니아해 및 콰르크 지역"
+
+msgid "B4E_B3:lle"
+msgstr "군도해 및 보트니아해 지역"
+
+msgid "B4_B3:lle"
+msgstr "군도해, 올란드해 및 보트니아해 지역"
+
+msgid "B7_B4:lle"
+msgstr "북발트해, 군도해 및 올란드해 지역"
+
+msgid "B7_B4_B3:lle"
+msgstr "북발트해, 군도해, 올란드해 및 보트니아해 지역"
+
+msgid "B5W_B7:lle"
+msgstr "서핀란드만 및 북발트해 지역"
+
+msgid "B5_B7:lle"
+msgstr "핀란드만 및 북발트해 지역"
+
+msgid "B3N_B2:lle"
+msgstr "북보트니아해 및 콰르크 지역"
+
+msgid "vesi- tai tihkusadetta"
+msgstr "비 또는 이슬비"
+
+msgid "lumi- tai tihkusadetta"
+msgstr "강설 또는 이슬비"
+
+msgid "ranta- tai tihkusadetta"
+msgstr "진눈깨비 또는 이슬비"
+
+msgid "jaatavaa tihkusadetta"
+msgstr "어는 이슬비"
+
+msgid "jotka muuttuvat lumikuuroiksi"
+msgstr "눈소나기로 변화"
+
+msgid "jotka muuttuvat rantakuuroiksi"
+msgstr "진눈깨비 소나기로 변화"
+
+msgid "[iltapaivalla] [etelatuuli] alkaa voimistua [nopeasti]"
+msgstr "[1] [2]이 [3] 강해지기 시작"
+
+msgid "[iltapaivalla] [etelatuuli] voimistuu [nopeasti]"
+msgstr "[1] [2]이 [3] 강해짐"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
+msgstr "[1] [2]이 [3] 강해지고 [4] [5]으로 바뀌기 시작"
+
+msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2]이 강해지고 일시적으로 방향 가변으로 바뀌기 시작"
+
+msgid "4-aamuyolla ja aamulla"
+msgstr "목요일 새벽 및 아침에"
+
+msgid "B5W_B7E_B4E:lle"
+msgstr "서핀란드만, 북발트해 동부 및 군도해 지역"
+
+msgid "B5W_B7E:lle"
+msgstr "서핀란드만 및 북발트해 동부 지역"
+
+msgid "B7_B4_B3S:lle"
+msgstr "북발트해, 군도해, 올란드해 및 남보트니아해 지역"
+
+msgid "B7E_B4E_B3S:lle"
+msgstr "북발트해 동부, 군도해 및 남보트니아해 지역"
+
+msgid "B7E_B4E:lle"
+msgstr "북발트해 동부 및 군도해 지역"
+
+msgid "B7W_B4:lle"
+msgstr "서핀란드만, 군도해 및 올란드해 지역"
+
+msgid "B7W_B4W_B3S:lle"
+msgstr "서핀란드만, 올란드해 및 남보트니아해 지역"
+
+msgid "B7W_B4W:lle"
+msgstr "서핀란드만 및 올란드해 지역"
+
+msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
+msgstr "[1] [2]이 강해지고 일시적으로 방향 가변으로 바뀜"
+
+msgid "[iltapaivalla] tuuli kaantyy [etelaan] ja heikkenee edelleen"
+msgstr "[1] 바람이 [2]으로 바뀌고 계속 약해짐"
+
+msgid "tuuli voimistuu"
+msgstr "바람이 강해져"
+
+msgid "B4_B3S:lle"
+msgstr "군도해, 올란드해 및 남보트니아해 지역"
+
+msgid "aamupaivalla"
+msgstr "오전에"
+
+msgid "huomisen keskipaivaan asti"
+msgstr "내일 정오까지"
+
+msgid "huono nakyvyys"
+msgstr "불량한 시정"
+
+msgid "B1"
+msgstr "보트니아만"
+
+msgid "B2"
+msgstr "콰르크"
+
+msgid "B3"
+msgstr "보트니아해"
+
+msgid "B4"
+msgstr "군도해 및 올란드해"
+
+msgid "B5"
+msgstr "핀란드만"
+
+msgid "B6"
+msgstr "리가만"
+
+msgid "B7"
+msgstr "북발트해"
+
+msgid "B8"
+msgstr "중발트해"
+
+msgid "B9"
+msgstr "남동발트해"
+
+msgid "B10"
+msgstr "남발트해"
+
+msgid "B11"
+msgstr "아르코나해"
+
+msgid "B12"
+msgstr "외레순 및 벨트"
+
+msgid "B13"
+msgstr "카테가트"
+
+msgid "B1N"
+msgstr "북보트니아만"
+
+msgid "B1S"
+msgstr "남보트니아만"
+
+msgid "B4E"
+msgstr "군도해"
+
+msgid "B4W"
+msgstr "올란드해"
+
+msgid "B5E"
+msgstr "동핀란드만"
+
+msgid "B5W"
+msgstr "서핀란드만"
+
+msgid "B8E"
+msgstr "중발트해"
+
+msgid "B8W"
+msgstr "고틀란드해"
+
+msgid "B10N"
+msgstr "올란드 해역"
+
+msgid "B10S"
+msgstr "보른홀름해"
+
+msgid "B2_B1S"
+msgstr "콰르크 및 남보트니아만"
+
+msgid "B2_B1"
+msgstr "콰르크 및 보트니아만"
+
+msgid "B3_B2_B1"
+msgstr "보트니아해, 콰르크 및 보트니아만"
+
+msgid "B3_B2"
+msgstr "보트니아해 및 콰르크"
+
+msgid "B4E_B3"
+msgstr "군도해 및 보트니아해"
+
+msgid "B4_B3"
+msgstr "군도해, 올란드해 및 보트니아해"
+
+msgid "B7_B4"
+msgstr "북발트해, 군도해 및 올란드해"
+
+msgid "B7_B4_B3"
+msgstr "북발트해, 군도해, 올란드해 및 보트니아해"
+
+msgid "B5W_B7"
+msgstr "서핀란드만 및 북발트해"
+
+msgid "B5_B7"
+msgstr "핀란드만 및 북발트해"
+
+msgid "B3N_B2"
+msgstr "북보트니아해 및 콰르크"
+
+msgid "B3N"
+msgstr "북보트니아해"
+
+msgid "B3S"
+msgstr "남보트니아해"
+
+msgid "B4_B3S"
+msgstr "군도해, 올란드해 및 남보트니아해"
+
+msgid "B5W_B7E_B4E"
+msgstr "서핀란드만, 북발트해 동부 및 군도해"
+
+msgid "B5W_B7E"
+msgstr "서핀란드만 및 북발트해 동부"
+
+msgid "B7_B4_B3S"
+msgstr "북발트해, 군도해, 올란드해 및 남보트니아해"
+
+msgid "B7E_B4E_B3S"
+msgstr "북발트해 동부, 군도해 및 남보트니아해"
+
+msgid "B7E_B4E"
+msgstr "북발트해 동부 및 군도해"
+
+msgid "B7E"
+msgstr "북발트해 동부"
+
+msgid "B7W_B4W_B3S"
+msgstr "서핀란드만, 올란드해 및 남보트니아해"
+
+msgid "B7W_B4"
+msgstr "서핀란드만, 군도해 및 올란드해"
+
+msgid "B7W_B4W"
+msgstr "서핀란드만 및 올란드해"
+
+msgid "B7W"
+msgstr "북발트해 서부"

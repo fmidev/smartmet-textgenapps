@@ -51,7 +51,7 @@ qdtext::areas
 	}
 }
 
-qdtext::dictionary = file
+qdtext::dictionary = po
 qdtext::timezone = Europe/Helsinki
 
 qdtext::products = fi_txt,sv_txt,en_txt,en_marine_txt

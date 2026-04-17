@@ -1,0 +1,1148 @@
+# SmartMet textgen dictionary: Sonera (sonera)
+# Generated from sonera.txt by tools/txt_to_po.py
+#
+# Keywords are opaque identifiers and must not be translated.
+# Tokens in [brackets] are placeholders and must be kept as-is.
+msgid ""
+msgstr ""
+"Project-Id-Version: smartmet-library-textgen\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sonera\n"
+"X-SmartMet-Language-Name: Sonera\n"
+"X-SmartMet-Full: no\n"
+
+msgid "1-iltaan asti"
+msgstr "204,316"
+
+msgid "2-iltaan asti"
+msgstr "217,316"
+
+msgid "1-aamusta"
+msgstr "200"
+
+msgid "1-aamuun"
+msgstr "201"
+
+msgid "1-alkaen"
+msgstr "202"
+
+msgid "1-illasta"
+msgstr "203"
+
+msgid "1-iltaan"
+msgstr "204"
+
+msgid "1-na"
+msgstr "205"
+
+msgid "1-puoleiseksi tuuleksi"
+msgstr "206"
+
+msgid "1-puoleista tuulta"
+msgstr "207"
+
+msgid "1-suunnasta"
+msgstr "208"
+
+msgid "1-suuntaan"
+msgstr "209"
+
+msgid "1-tuuleksi"
+msgstr "210"
+
+msgid "1-tuulta"
+msgstr "211"
+
+msgid "1-vastaisena yona"
+msgstr "212"
+
+msgid "2-aamusta"
+msgstr "213"
+
+msgid "2-aamuun"
+msgstr "214"
+
+msgid "2-alkaen"
+msgstr "215"
+
+msgid "2-illasta"
+msgstr "216"
+
+msgid "2-iltaan"
+msgstr "217"
+
+msgid "2-na"
+msgstr "218"
+
+msgid "2-puoleiseksi tuuleksi"
+msgstr "219"
+
+msgid "2-puoleista tuulta"
+msgstr "220"
+
+msgid "2-suunnasta"
+msgstr "221"
+
+msgid "2-suuntaan"
+msgstr "222"
+
+msgid "2-tuuleksi"
+msgstr "223"
+
+msgid "2-tuulta"
+msgstr "224"
+
+msgid "2-vastaisena yona"
+msgstr "225"
+
+msgid "3-aamusta"
+msgstr "226"
+
+msgid "3-aamuun"
+msgstr "227"
+
+msgid "3-alkaen"
+msgstr "228"
+
+msgid "3-illasta"
+msgstr "229"
+
+msgid "3-iltaan"
+msgstr "230"
+
+msgid "3-na"
+msgstr "231"
+
+msgid "3-puoleiseksi tuuleksi"
+msgstr "232"
+
+msgid "3-puoleista tuulta"
+msgstr "233"
+
+msgid "3-suunnasta"
+msgstr "234"
+
+msgid "3-suuntaan"
+msgstr "235"
+
+msgid "3-tuuleksi"
+msgstr "236"
+
+msgid "3-tuulta"
+msgstr "237"
+
+msgid "3-vastaisena yona"
+msgstr "238"
+
+msgid "4-aamusta"
+msgstr "239"
+
+msgid "4-aamuun"
+msgstr "240"
+
+msgid "4-alkaen"
+msgstr "241"
+
+msgid "4-illasta"
+msgstr "242"
+
+msgid "4-iltaan"
+msgstr "243"
+
+msgid "4-na"
+msgstr "244"
+
+msgid "4-puoleiseksi tuuleksi"
+msgstr "245"
+
+msgid "4-puoleista tuulta"
+msgstr "246"
+
+msgid "4-suunnasta"
+msgstr "247"
+
+msgid "4-suuntaan"
+msgstr "248"
+
+msgid "4-tuuleksi"
+msgstr "249"
+
+msgid "4-tuulta"
+msgstr "250"
+
+msgid "4-vastaisena yona"
+msgstr "251"
+
+msgid "5-aamusta"
+msgstr "252"
+
+msgid "5-aamuun"
+msgstr "253"
+
+msgid "5-alkaen"
+msgstr "254"
+
+msgid "5-illasta"
+msgstr "255"
+
+msgid "5-iltaan"
+msgstr "256"
+
+msgid "5-na"
+msgstr "257"
+
+msgid "5-puoleiseksi tuuleksi"
+msgstr "258"
+
+msgid "5-puoleista tuulta"
+msgstr "259"
+
+msgid "5-suunnasta"
+msgstr "260"
+
+msgid "5-suuntaan"
+msgstr "261"
+
+msgid "5-tuuleksi"
+msgstr "262"
+
+msgid "5-tuulta"
+msgstr "263"
+
+msgid "5-vastaisena yona"
+msgstr "264"
+
+msgid "5-vuorokauden saa"
+msgstr "265"
+
+msgid "6-aamusta"
+msgstr "266"
+
+msgid "6-aamuun"
+msgstr "267"
+
+msgid "6-alkaen"
+msgstr "268"
+
+msgid "6-illasta"
+msgstr "269"
+
+msgid "6-iltaan"
+msgstr "270"
+
+msgid "6-na"
+msgstr "271"
+
+msgid "6-puoleiseksi tuuleksi"
+msgstr "272"
+
+msgid "6-puoleista tuulta"
+msgstr "273"
+
+msgid "6-suunnasta"
+msgstr "274"
+
+msgid "6-suuntaan"
+msgstr "275"
+
+msgid "6-tuuleksi"
+msgstr "276"
+
+msgid "6-tuulta"
+msgstr "277"
+
+msgid "6-vastaisena yona"
+msgstr "278"
+
+msgid "7-aamusta"
+msgstr "279"
+
+msgid "7-aamuun"
+msgstr "280"
+
+msgid "7-alkaen"
+msgstr "281"
+
+msgid "7-illasta"
+msgstr "282"
+
+msgid "7-iltaan"
+msgstr "283"
+
+msgid "7-na"
+msgstr "284"
+
+msgid "7-puoleiseksi tuuleksi"
+msgstr "285"
+
+msgid "7-puoleista tuulta"
+msgstr "286"
+
+msgid "7-suunnasta"
+msgstr "287"
+
+msgid "7-suuntaan"
+msgstr "288"
+
+msgid "7-tuuleksi"
+msgstr "289"
+
+msgid "7-tuulta"
+msgstr "290"
+
+msgid "7-vastaisena yona"
+msgstr "291"
+
+msgid "8-puoleiseksi tuuleksi"
+msgstr "292"
+
+msgid "8-puoleista tuulta"
+msgstr "293"
+
+msgid "8-suunnasta"
+msgstr "294"
+
+msgid "8-suuntaan"
+msgstr "295"
+
+msgid "8-tuuleksi"
+msgstr "296"
+
+msgid "8-tuulta"
+msgstr "297"
+
+msgid "aamulla"
+msgstr "298"
+
+msgid "aamupaivalla"
+msgstr "299"
+
+msgid "aamupaivasta alkaen"
+msgstr "300"
+
+msgid "aamusta alkaen"
+msgstr "301"
+
+msgid "aamuyolla"
+msgstr "302"
+
+msgid "aamuyosta alkaen"
+msgstr "303"
+
+msgid "ajoittain lumisadetta"
+msgstr "304"
+
+msgid "ajoittain sadetta"
+msgstr "305"
+
+msgid "ajoittain sateista"
+msgstr "306"
+
+msgid "ajoittain ukkosta"
+msgstr "307"
+
+msgid "aland:lle"
+msgstr "308"
+
+msgid "alempi"
+msgstr "309"
+
+msgid "alin suhteellinen kosteus"
+msgstr "310"
+
+msgid "alkavan"
+msgstr "311"
+
+msgid "alueen yli"
+msgstr "312"
+
+msgid "aluksi"
+msgstr "313"
+
+msgid "ankaran hallan todennakoisyys"
+msgstr "314"
+
+msgid "astetta"
+msgstr "315"
+
+msgid "asti"
+msgstr "316"
+
+msgid "edelleen"
+msgstr "317"
+
+msgid "enimmakseen"
+msgstr "318"
+
+msgid "ensi yona"
+msgstr "319"
+
+msgid "etela-karjala:lle"
+msgstr "320"
+
+msgid "etela-pohjanmaa:lle"
+msgstr "321"
+
+msgid "etela-savo:lle"
+msgstr "322"
+
+msgid "hallan todennakoisyys"
+msgstr "323"
+
+msgid "hame:lle"
+msgstr "324"
+
+msgid "heikkenevaa"
+msgstr "325"
+
+msgid "heikkoa sadetta"
+msgstr "326"
+
+msgid "heikkoa"
+msgstr "327"
+
+msgid "heikoksi"
+msgstr "328"
+
+msgid "hieman alempi"
+msgstr "329"
+
+msgid "hieman korkeampi"
+msgstr "330"
+
+msgid "hieman pienempi"
+msgstr "331"
+
+msgid "hieman suurempi"
+msgstr "332"
+
+msgid "hirmumyrskyksi"
+msgstr "333"
+
+msgid "hirmumyrskya"
+msgstr "334"
+
+msgid "huomattavasti alempi"
+msgstr "335"
+
+msgid "huomattavasti korkeampi"
+msgstr "336"
+
+msgid "huomattavasti lampimampi"
+msgstr "337"
+
+msgid "huomattavasti pienempi"
+msgstr "338"
+
+msgid "huomattavasti suurempi"
+msgstr "339"
+
+msgid "huomenna"
+msgstr "340"
+
+msgid "huomisaamuna"
+msgstr "341"
+
+msgid "illalla"
+msgstr "342"
+
+msgid "illasta alkaen"
+msgstr "343"
+
+msgid "iltapaivalla"
+msgstr "344"
+
+msgid "iltapaivasta alkaen"
+msgstr "345"
+
+msgid "iltayolla"
+msgstr "346"
+
+msgid "iltayosta alkaen"
+msgstr "347"
+
+msgid "kainuu:lle"
+msgstr "348"
+
+msgid "kello"
+msgstr "349"
+
+msgid "keski-pohjanmaa:lle"
+msgstr "350"
+
+msgid "keski-suomi:lle"
+msgstr "351"
+
+msgid "keskilampotila"
+msgstr "352"
+
+msgid "keskimaarainen alin lampotila"
+msgstr "353"
+
+msgid "keskimaarainen ylin lampotila"
+msgstr "354"
+
+msgid "keskipaivalla"
+msgstr "355"
+
+msgid "keskipaivasta alkaen"
+msgstr "356"
+
+msgid "keskiyolla"
+msgstr "357"
+
+msgid "keskiyosta alkaen"
+msgstr "358"
+
+msgid "kohtalaiseksi"
+msgstr "359"
+
+msgid "kohtalaista"
+msgstr "360"
+
+msgid "koillismaa:lle"
+msgstr "361"
+
+msgid "korkeampi"
+msgstr "362"
+
+msgid "korkeapaine"
+msgstr "363"
+
+msgid "korkeapaineen alue"
+msgstr "364"
+
+msgid "kosteammaksi"
+msgstr "365"
+
+msgid "kovaa"
+msgstr "366"
+
+msgid "kovaksi"
+msgstr "367"
+
+msgid "kuivemmaksi"
+msgstr "368"
+
+msgid "kymenlaakso:lle"
+msgstr "369"
+
+msgid "laaja"
+msgstr "370"
+
+msgid "lansi-lappi:lle"
+msgstr "371"
+
+msgid "leviaa"
+msgstr "372"
+
+msgid "liikkuu"
+msgstr "373"
+
+msgid "loittonee"
+msgstr "374"
+
+msgid "lopuksi"
+msgstr "375"
+
+msgid "lumi-"
+msgstr "376"
+
+msgid "lumikuuroja"
+msgstr "377"
+
+msgid "lumisadetta"
+msgstr "378"
+
+msgid "lahestyy"
+msgstr "379"
+
+msgid "lampenee"
+msgstr "380"
+
+msgid "lampimampi"
+msgstr "381"
+
+msgid "lampotila"
+msgstr "382"
+
+msgid "m/s"
+msgstr "383"
+
+msgid "mahdollisesti ukkosta"
+msgstr "384"
+
+msgid "matalapaine"
+msgstr "385"
+
+msgid "matalapaineen alue"
+msgstr "386"
+
+msgid "melko selkeaa"
+msgstr "387"
+
+msgid "metria sekunnissa"
+msgstr "388"
+
+msgid "miinus"
+msgstr "389"
+
+msgid "millimetria"
+msgstr "991,390"
+
+msgid "monin paikoin enemman"
+msgstr "391"
+
+msgid "monin paikoin"
+msgstr "392"
+
+msgid "muuttuu"
+msgstr "393"
+
+msgid "myrskyksi"
+msgstr "394"
+
+msgid "myrskya"
+msgstr "395"
+
+msgid "navakaksi"
+msgstr "396"
+
+msgid "navakkaa"
+msgstr "397"
+
+msgid "noin"
+msgstr "398,991"
+
+msgid "nyland:lle"
+msgstr "399"
+
+msgid "odotettavissa"
+msgstr "400"
+
+msgid "on"
+msgstr "401,992"
+
+msgid "osterbotten:lle"
+msgstr "402"
+
+msgid "paijat-hame:lle"
+msgstr "403"
+
+msgid "paikoin enemman"
+msgstr "404"
+
+msgid "paikoin"
+msgstr "405"
+
+msgid "pienempi"
+msgstr "406"
+
+msgid "pilvistyvaa"
+msgstr "407"
+
+msgid "pilvista"
+msgstr "408"
+
+msgid "pirkanmaa:lle"
+msgstr "409"
+
+msgid "pohjois-karjala:lle"
+msgstr "410"
+
+msgid "pohjois-lappi:lle"
+msgstr "411"
+
+msgid "pohjois-pohjanmaa:lle"
+msgstr "412"
+
+msgid "pohjois-savo:lle"
+msgstr "413"
+
+msgid "poutaa"
+msgstr "414"
+
+msgid "puolipilvista"
+msgstr "415"
+
+msgid "paivien ylin lampotila"
+msgstr "416"
+
+msgid "paivalla"
+msgstr "417"
+
+msgid "paivalampotila"
+msgstr "418"
+
+msgid "paivan ylin lampotila"
+msgstr "419"
+
+msgid "rannikolla"
+msgstr "420"
+
+msgid "runsasta sadetta"
+msgstr "421"
+
+msgid "ranta-"
+msgstr "422"
+
+msgid "rantasadetta"
+msgstr "423"
+
+msgid "sadealue"
+msgstr "424"
+
+msgid "sadesumma"
+msgstr "425"
+
+msgid "sadetta"
+msgstr "426"
+
+msgid "sakeaa lumisadetta"
+msgstr "427"
+
+msgid "sakeita lumikuuroja"
+msgstr "428"
+
+msgid "sama"
+msgstr "429"
+
+msgid "satakunta:lle"
+msgstr "430"
+
+msgid "selkenevaa"
+msgstr "431"
+
+msgid "selkeaa"
+msgstr "432"
+
+msgid "seuraava yo"
+msgstr "433"
+
+msgid "seuraavana paivana"
+msgstr "434"
+
+msgid "seuraavana yona"
+msgstr "435"
+
+msgid "suunnaltaan vaihtelevaa"
+msgstr "436"
+
+msgid "suunnilleen sama"
+msgstr "437"
+
+msgid "suurempi"
+msgstr "438"
+
+msgid "syvenee"
+msgstr "439"
+
+msgid "saa on epavakaista"
+msgstr "440"
+
+msgid "saa"
+msgstr "441"
+
+msgid "saaennuste"
+msgstr "442"
+
+msgid "tai"
+msgstr "443"
+
+msgid "tuuli heikkenee"
+msgstr "444"
+
+msgid "tuuli tyyntyy"
+msgstr "445"
+
+msgid "tuuli voimistuu"
+msgstr "446"
+
+msgid "tuuli"
+msgstr "447"
+
+msgid "tuulta"
+msgstr "448"
+
+msgid "tyyneksi"
+msgstr "449"
+
+msgid "tyynta"
+msgstr "450"
+
+msgid "tanaan"
+msgstr "451"
+
+msgid "uusimaa:lle"
+msgstr "452"
+
+msgid "vahvistuu"
+msgstr "453"
+
+msgid "vaihtelevaa pilvisyytta"
+msgstr "454"
+
+msgid "varsinais-suomi:lle"
+msgstr "455"
+
+msgid "vesi-"
+msgstr "456"
+
+msgid "vesisadetta"
+msgstr "457"
+
+msgid "viilenee"
+msgstr "458"
+
+msgid "viiva"
+msgstr "459,991"
+
+msgid "voimakkaita kuuroja"
+msgstr "460"
+
+msgid "voimistuvaa"
+msgstr "461"
+
+msgid "vahaisia kuuroja"
+msgstr "462"
+
+msgid "vahaista lumisadetta"
+msgstr "463"
+
+msgid "yli"
+msgstr "464"
+
+msgid "ylihuomenna"
+msgstr "465"
+
+msgid "yolla"
+msgstr "466"
+
+msgid "yolampotila"
+msgstr "467"
+
+msgid "yon alin lampotila"
+msgstr "468"
+
+msgid "yosta alkaen"
+msgstr "469"
+
+msgid "oiden alin lampotila"
+msgstr "470"
+
+msgid "prosenttia"
+msgstr "471"
+
+msgid "ajoittain"
+msgstr "472"
+
+msgid "1-na kello"
+msgstr "473,991"
+
+msgid "2-na kello"
+msgstr "474,991"
+
+msgid "3-na kello"
+msgstr "475,991"
+
+msgid "4-na kello"
+msgstr "476,991"
+
+msgid "5-na kello"
+msgstr "477,991"
+
+msgid "6-na kello"
+msgstr "478,991"
+
+msgid "7-na kello"
+msgstr "479,991"
+
+msgid "ei suuria muutoksia saassa"
+msgstr "480"
+
+msgid "saa selkenee"
+msgstr "481"
+
+msgid "saa muuttuu epavakaisemmaksi"
+msgstr "482"
+
+msgid "sateinen saa jatkuu"
+msgstr "483"
+
+msgid "saa muuttuu sateisemmaksi"
+msgstr "484"
+
+msgid "epavakainen saa jatkuu"
+msgstr "485"
+
+msgid "saa lauhtuu"
+msgstr "486"
+
+msgid "saa on enimmakseen poutaista"
+msgstr "487"
+
+msgid "saa poutaantuu"
+msgstr "488"
+
+msgid "saa muuttuu helteiseksi"
+msgstr "489"
+
+msgid "saa lampenee"
+msgstr "490"
+
+msgid "saa viilenee"
+msgstr "491"
+
+msgid "saa muuttuu koleaksi"
+msgstr "492"
+
+msgid "saa kylmenee"
+msgstr "493"
+
+msgid "helteinen saa jatkuu"
+msgstr "494"
+
+msgid "lammin saa jatkuu"
+msgstr "495"
+
+msgid "viilea saa jatkuu"
+msgstr "496"
+
+msgid "kolea saa jatkuu"
+msgstr "497"
+
+msgid "kylma saa jatkuu"
+msgstr "498"
+
+msgid "virtaa"
+msgstr "499"
+
+msgid "tilapaisesti"
+msgstr "500"
+
+msgid "lamminta"
+msgstr "501"
+
+msgid "kylmaa"
+msgstr "502"
+
+msgid "viileaa"
+msgstr "503"
+
+msgid "viileampaa"
+msgstr "504"
+
+msgid "lampimampaa"
+msgstr "505"
+
+msgid "kylmempaa"
+msgstr "506"
+
+msgid "hyvin"
+msgstr "507"
+
+msgid "vahan"
+msgstr "508"
+
+msgid "ilmaa"
+msgstr "509"
+
+msgid "Suomeen"
+msgstr "510"
+
+msgid "maan"
+msgstr "511"
+
+msgid "etelaosiin"
+msgstr "512"
+
+msgid "keskiosiin"
+msgstr "513"
+
+msgid "pohjoisosiin"
+msgstr "514"
+
+msgid "itaosiin"
+msgstr "515"
+
+msgid "lansiosiin"
+msgstr "516"
+
+msgid "etela-"
+msgstr "517"
+
+msgid "keski-"
+msgstr "518"
+
+msgid "pohjois-"
+msgstr "519"
+
+msgid "ita-"
+msgstr "520"
+
+msgid "lansi-"
+msgstr "521"
+
+msgid "kuivempaa"
+msgstr "522"
+
+msgid "kosteampaa"
+msgstr "523"
+
+msgid "sadealueita"
+msgstr "524"
+
+msgid "Suomen yli"
+msgstr "525"
+
+msgid "Etela-Suomen yli"
+msgstr "526"
+
+msgid "Keski-Suomen yli"
+msgstr "527"
+
+msgid "Pohjois-Suomen yli"
+msgstr "528"
+
+msgid "Ita-Suomen yli"
+msgstr "529"
+
+msgid "Lansi-Suomen yli"
+msgstr "530"
+
+msgid "Lounais-Suomen yli"
+msgstr "531"
+
+msgid "Kaakkois-Suomen yli"
+msgstr "532"
+
+msgid "uusi"
+msgstr "533"
+
+msgid "saapuu"
+msgstr "534"
+
+msgid "alue"
+msgstr "535"
+
+msgid "sateineen"
+msgstr "536"
+
+msgid "sadealueineen"
+msgstr "537"
+
+msgid "hajanaisine sadealueineen"
+msgstr "538"
+
+msgid "sateen todennakoisyys"
+msgstr "539"
+
+msgid "kuurosateen todennakoisyys"
+msgstr "540"
+
+msgid "ukkosen todennakoisyys"
+msgstr "541"
+
+msgid "kuuluu"
+msgstr "542"
+
+msgid "pakkanen jatkuu"
+msgstr "543"
+
+msgid "pakkanen kiristyy"
+msgstr "544"
+
+msgid "pakkanen heikkenee"
+msgstr "545"
+
+msgid "o'clock"
+msgstr ""
+
+msgid "pohjanmaa:lle"
+msgstr "402"
+
+msgid "ahvenanmaa:lle"
+msgstr "308"
+
+msgid "ja"
+msgstr "546"
+
+msgid "astetta (2)"
+msgstr "315"
+
+msgid "astetta (1)"
+msgstr "315"
+
+msgid "astetta (0)"
+msgstr "315"
+
+msgid "astetta (n...4)"
+msgstr "315"
+
+msgid "astetta (n...3)"
+msgstr "315"
+
+msgid "astetta (n...2)"
+msgstr "315"
+
+msgid "astetta (n...1)"
+msgstr "315"
+
+msgid "astetta (n...0)"
+msgstr "315"
+
+msgid "astetta (m...n)"
+msgstr "315"
+
+msgid "astetta (n)"
+msgstr "315"
+
+msgid "astetta (4)"
+msgstr "315"
+
+msgid "astetta (3)"
+msgstr "315"
+
+msgid "astetta (mod 10=1)"
+msgstr "315"
+
+msgid "astetta (n...(mod 10=1))"
+msgstr "315"
+
+msgid "3-iltaan asti"
+msgstr "230,316"
+
+msgid "4-iltaan asti"
+msgstr "243,316"
+
+msgid "5-iltaan asti"
+msgstr "256,316"
+
+msgid "6-iltaan asti"
+msgstr "270,316"
+
+msgid "7-iltaan asti"
+msgstr "283,316"
+
+msgid "1-aamuun asti"
+msgstr "201,316"
+
+msgid "2-aamuun asti"
+msgstr "214,316"
+
+msgid "3-aamuun asti"
+msgstr "227,316"
+
+msgid "4-aamuun asti"
+msgstr "240,316"
+
+msgid "5-aamuun asti"
+msgstr "253,316"
+
+msgid "6-aamuun asti"
+msgstr "267,316"
+
+msgid "7-aamuun asti"
+msgstr "280,316"

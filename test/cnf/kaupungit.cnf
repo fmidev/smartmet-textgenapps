@@ -33,7 +33,7 @@ qdtext
 }
 
 
-qdtext::dictionary = file
+qdtext::dictionary = po
 qdtext::timezone = Europe/Helsinki
 
 qdtext::products = fi_txt,sv_txt,en_txt,fi_html,no_txt,da_txt,de_txt,fr_txt,it_txt,es_txt,et_txt,nl_txt,ru_txt,sw_txt,id_txt,ar_txt,vi_txt,zh_txt,ja_txt,ko_txt,th_txt
