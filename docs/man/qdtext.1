@@ -1,0 +1,55 @@
+.TH QDTEXT 1 "2026-05-02" "smartmet-textgenapps" "SmartMet Tools"
+.SH NAME
+qdtext \- generate natural-language weather forecasts from querydata
+.SH SYNOPSIS
+.B qdtext
+.RI [ options ]
+.I configfile
+.SH DESCRIPTION
+.B qdtext
+reads querydata forecast files together with a configuration file and
+produces natural-language forecast text using the SmartMet
+.B textgen
+library. It is used for generating area-specific forecasts (counties,
+regions and similar) in multiple languages.
+.PP
+Output directory, areas to process and languages to use are normally
+specified in the configuration file via the
+.B qdtext::*
+namespace and may be overridden on the command line.
+.SH OPTIONS
+.TP
+.B \-h
+Print the built-in help.
+.TP
+.B \-f
+Create output directories if they do not exist (overrides
+.BR qdtext::mkdir ).
+.TP
+.BI \-d " outdir"
+Output directory (overrides
+.BR qdtext::outputdir ).
+.TP
+.BI \-a " name1,name2,..."
+Areas to process (overrides
+.BR qdtext::areas ).
+.TP
+.BI \-l " lang1,lang2,..."
+Languages to process (overrides
+.BR qdtext::languages ).
+.SH EXAMPLES
+Run with a configuration file, generating Finnish and English forecasts
+for two areas:
+.PP
+.RS 4
+qdtext \-a kainuu,lappi \-l fi,en forecast.conf
+.RE
+.SH SEE ALSO
+.BR qdpress (1),
+.BR qdarea (1),
+.BR qdpoint (1),
+.BR qdinfo (1)
+.SH AUTHOR
+Finnish Meteorological Institute
+.PP
+Report issues at <https://github.com/fmidev/smartmet-textgenapps/issues>.

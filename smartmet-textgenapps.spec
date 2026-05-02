@@ -84,6 +84,7 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(0775,root,root,0775)
 %{_bindir}/qdtext
+%{_mandir}/man1/qdtext.1.gz
 
 %changelog
 * Fri Apr 17 2026 Mika Heiskanen <mika.heiskanen@fmi.fi> - 26.4.17-1.fmi
