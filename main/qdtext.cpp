@@ -367,10 +367,10 @@ void make_forecasts()
   // only for dictionary initialization (e.g. sonera) and should not produce
   // their own templated product.
   std::vector<std::string> product_languages;
+  const std::string s_product_languages =
+      Settings::optional_string("qdtext::product_languages", s_languages);
   boost::algorithm::split(
-      product_languages,
-      Settings::optional_string("qdtext::product_languages", s_languages),
-      boost::algorithm::is_any_of(","));
+      product_languages, s_product_languages, boost::algorithm::is_any_of(","));
 
   const std::vector<ExpandedProduct> products = expand_products(product_languages);
 
