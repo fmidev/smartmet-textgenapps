@@ -33,8 +33,8 @@ BuildRequires: mysql++-devel
 BuildRequires: rpm-build
 BuildRequires: smartmet-library-calculator-devel >= 26.4.13
 BuildRequires: smartmet-library-newbase-devel >= 26.2.4
-BuildRequires: smartmet-library-textgen-devel >= 26.4.17
-BuildRequires: smartmet-library-macgyver-devel >= 26.4.13
+BuildRequires: smartmet-library-textgen-devel >= 26.5.24
+BuildRequires: smartmet-library-macgyver-devel >= 26.5.21
 BuildRequires: zlib-devel
 Requires: %{smartmet_boost}-iostreams
 Requires: %{smartmet_boost}-locale
@@ -48,9 +48,9 @@ Requires: libpng
 Requires: libstdc++
 Requires: mysql++
 Requires: smartmet-library-calculator >= 26.4.13
-Requires: smartmet-library-macgyver >= 26.4.13
+Requires: smartmet-library-macgyver >= 26.5.21
 Requires: smartmet-library-newbase >= 26.2.4
-Requires: smartmet-library-textgen >= 26.4.17
+Requires: smartmet-library-textgen >= 26.5.24
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -60,7 +60,7 @@ Requires: mysql
 %endif
 Provides: qdtext
 #TestRequires: smartmet-timezones
-#TestRequires: smartmet-library-macgyver-devel >= 26.4.13
+#TestRequires: smartmet-library-macgyver-devel >= 26.5.21
 #TestRequires: smartmet-library-newbase-devel >= 26.2.4
 #TestRequires: gcc-c++
 
