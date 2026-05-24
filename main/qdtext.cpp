@@ -52,6 +52,56 @@ namespace
 {
 TextMap textMap;
 
+// A product entry expanded from the qdtext::products list. If the list
+// contains a template such as ${LANGUAGE}_txt, the entry is expanded once
+// per supported language. concrete_name is used as the output bucket and
+// product name; template_name is the original list entry and is the
+// fallback config key when no per-language override exists. language is
+// the substitution value, or empty for non-templated entries.
+struct ExpandedProduct
+{
+  std::string concrete_name;
+  std::string template_name;
+  std::string language;
+};
+
+void substitute_vars(std::string& s, const std::string& theArea, const std::string& theLanguage)
+{
+  boost::algorithm::replace_all(s, "${AREA}", theArea);
+  if (!theLanguage.empty())
+    boost::algorithm::replace_all(s, "${LANGUAGE}", theLanguage);
+}
+
+std::vector<ExpandedProduct> expand_products(const std::vector<std::string>& theSupportedLanguages)
+{
+  const string productnames = Settings::require_string("qdtext::products");
+  const vector<string> products = NFmiStringTools::Split(productnames);
+
+  std::vector<ExpandedProduct> result;
+  for (const auto& tmpl : products)
+  {
+    if (tmpl.find("${LANGUAGE}") != std::string::npos)
+    {
+      for (const auto& lang : theSupportedLanguages)
+      {
+        ExpandedProduct p;
+        p.template_name = tmpl;
+        p.language = lang;
+        p.concrete_name = boost::algorithm::replace_all_copy(tmpl, "${LANGUAGE}", lang);
+        result.push_back(std::move(p));
+      }
+    }
+    else
+    {
+      ExpandedProduct p;
+      p.template_name = tmpl;
+      p.concrete_name = tmpl;
+      result.push_back(std::move(p));
+    }
+  }
+  return result;
+}
+
 // ----------------------------------------------------------------------
 /*!
  * \brief Write farmer forecast to a file or files
@@ -123,17 +173,22 @@ void write_forecasts(const string& theOutDir,
 void save_forecasts(const TextGen::Document& theDocument,
                     std::shared_ptr<TextGen::Dictionary>& theDictionary,
                     const string& theArea,
-                    const TextGenPosixTime& theTime)
+                    const TextGenPosixTime& theTime,
+                    const std::vector<ExpandedProduct>& theProducts)
 {
   MessageLogger log("save_forecasts");
 
-  const string productnames = Settings::require_string("qdtext::products");
-  const vector<string> products = NFmiStringTools::Split(productnames);
-
-  for (const auto& prodname : products)
+  for (const auto& prod : theProducts)
   {
-    const string product = "qdtext::product::" + prodname;
-    const string var = std::string(product).append("::filename::").append(theArea);
+    const string concrete_product = "qdtext::product::" + prod.concrete_name;
+    const string template_product = "qdtext::product::" + prod.template_name;
+
+    // Prefer literal per-language config if defined; otherwise fall back to template.
+    // Anchored on ::language since it is required for every product.
+    const string product =
+        Settings::isset(concrete_product + "::language") ? concrete_product : template_product;
+
+    const string var = std::string(concrete_product).append("::filename::").append(theArea);
 
     // if no filename is given, print to stdout (indicated by '-') ...
     string filenames = Settings::optional_string(var, "-");
@@ -146,20 +201,22 @@ void save_forecasts(const TextGen::Document& theDocument,
       string filenames2 = Settings::optional_string(var2, "");
       if (!filenames2.empty())
       {
-        boost::algorithm::replace_all(filenames2, "${AREA}", theArea);
+        substitute_vars(filenames2, theArea, prod.language);
         filenames = filenames2;
       }
     }
 
-    const string lang = Settings::require_string(product + "::language");
-    const string form = Settings::require_string(product + "::formatter");
+    string lang = Settings::require_string(product + "::language");
+    string form = Settings::require_string(product + "::formatter");
+    substitute_vars(lang, theArea, prod.language);
+    substitute_vars(form, theArea, prod.language);
 
     if (lang != theDictionary->language())
       theDictionary->changeLanguage(lang);
 
     std::shared_ptr<TextGen::TextFormatter> formatter(TextGen::TextFormatterFactory::create(form));
     formatter->dictionary(theDictionary);
-    formatter->setProductName(prodname);
+    formatter->setProductName(prod.concrete_name);
     formatter->setAreaName(theArea);
     formatter->setForecastTime(theTime);
 
@@ -305,6 +362,18 @@ void make_forecasts()
   for (const auto& lang : supported_languages)
     dict->init(lang);
 
+  // Languages over which ${LANGUAGE} product templates are expanded. Defaults to
+  // supported_languages, but may be narrower when some supported languages exist
+  // only for dictionary initialization (e.g. sonera) and should not produce
+  // their own templated product.
+  std::vector<std::string> product_languages;
+  boost::algorithm::split(
+      product_languages,
+      Settings::optional_string("qdtext::product_languages", s_languages),
+      boost::algorithm::is_any_of(","));
+
+  const std::vector<ExpandedProduct> products = expand_products(product_languages);
+
   TextGen::TextGenerator generator;
   if (Settings::isset("qdtext::forecasttime"))
     generator.time(Settings::require_time("qdtext::forecasttime"));
@@ -358,7 +427,7 @@ void make_forecasts()
           svgPath.Read(svg_string_stream);
           const TextGen::WeatherArea area(svgPath, areaname);
           const TextGen::Document document = generator.generate(area);
-          save_forecasts(document, dict, areaname, generator.time());
+          save_forecasts(document, dict, areaname, generator.time(), products);
         }
         else  // if not polygon, it must be a point
         {
@@ -366,7 +435,7 @@ void make_forecasts()
           NFmiPoint point(std_point.first, std_point.second);
           const TextGen::WeatherArea area(point, areaname);
           const TextGen::Document document = generator.generate(area);
-          save_forecasts(document, dict, areaname, generator.time());
+          save_forecasts(document, dict, areaname, generator.time(), products);
         }
       }
       else
@@ -378,7 +447,7 @@ void make_forecasts()
     {
       const TextGen::WeatherArea area = make_area(areaname);
       const TextGen::Document document = generator.generate(area);
-      save_forecasts(document, dict, areaname, generator.time());
+      save_forecasts(document, dict, areaname, generator.time(), products);
     }
   }
 

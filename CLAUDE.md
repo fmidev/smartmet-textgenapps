@@ -59,6 +59,27 @@ The entire application is a single source file: `main/qdtext.cpp`. There is no `
 - `textgen::*` — library-level settings (data paths, story parameters, section structure)
 - Products are defined under `qdtext::product::<name>` with language, formatter, and per-area filenames
 
+**Product templates** — to avoid repeating one product block per language, `qdtext::products` entries may contain the literal placeholder `${LANGUAGE}`. Each such entry is expanded once per language in `qdtext::supported_languages`:
+
+```
+qdtext::supported_languages = fi,sv,en
+qdtext::products = ${LANGUAGE}_txt,${LANGUAGE}_html,debug
+
+qdtext::product::${LANGUAGE}_txt {
+    language        = ${LANGUAGE}
+    formatter       = plainlines
+    filenamepattern = txt/${LANGUAGE}/${AREA}.txt
+}
+
+qdtext::product::debug { language = fi; formatter = debug; filenamepattern = debug/${AREA}.txt }
+```
+
+Lookup precedence per expanded product: if `qdtext::product::<concrete>` (e.g. `fi_txt`) defines `::language`, that literal block wins — useful for per-language overrides like `en_marine_txt`. Otherwise the templated block `qdtext::product::${LANGUAGE}_<suffix>` is used, and `${LANGUAGE}` + `${AREA}` are substituted in the `language`, `formatter`, and `filenamepattern` values. Entries without `${LANGUAGE}` in the products list (like `debug`) are processed once with no language substitution.
+
+By default, `${LANGUAGE}` expands over `qdtext::supported_languages` (which also drives dictionary init). Set `qdtext::product_languages` to a different comma-separated list when some supported languages exist only for dictionary initialization (e.g. `sonera`) and should not yield their own templated product.
+
+Two different mechanisms share the `${...}` syntax: (a) `${LANGUAGE}`/`${AREA}` in product setting *names and values* are substituted manually by `qdtext.cpp` (see `substitute_vars` in `main/qdtext.cpp`), while (b) NFmiSettings's own `${var}` expansion is bypassed because qdtext re-loads settings through `Fmi::Config` (a flat map with no expansion). The per-area `filename { area = path }` map is only consulted on the concrete product key, never the template key.
+
 **Dictionary backends:** `file` (flat text files for testing), `mysql`/`multimysql`, `postgresql` (production, requires host/user/passwd/database settings under `textgen::*`).
 
 ## CI

@@ -54,94 +54,15 @@ qdtext::areas
 qdtext::dictionary = po
 qdtext::timezone = Europe/Helsinki
 
-qdtext::products = fi_txt,sv_txt,en_txt,en_marine_txt
+qdtext::supported_languages = fi,sv,en,en-marine,sonera
+qdtext::product_languages   = fi,sv,en,en-marine
+qdtext::products = ${LANGUAGE}_txt
 
-qdtext::product::fi_txt
+qdtext::product::${LANGUAGE}_txt
 {
-	language = fi
-	formatter = plainlines
-
-	filename
-	{
-		B1			= fi-B1_varo.txt
-		B2			= fi-B2_varo.txt
-		B3			= fi-B3_varo.txt
-		B5			= fi-B5_varo.txt
-		B1N			= fi-B1N_varo.txt
-		B1S			= fi-B1S_varo.txt
-		B3N			= fi-B3N_varo.txt
-		B3S			= fi-B3S_varo.txt
-		B4E			= fi-B4E_varo.txt
-		B4W			= fi-B4W_varo.txt
-		B5E			= fi-B5E_varo.txt
-		B5W			= fi-B5W_varo.txt
-	}	
-}
-
-qdtext::product::sv_txt
-{
-	language = sv
-	formatter = plainlines
-
-	filename
-	{
-		B1			= sv-B1_varo.txt
-		B2			= sv-B2_varo.txt
-		B3			= sv-B3_varo.txt
-		B5			= sv-B5_varo.txt
-		B1N			= sv-B1N_varo.txt
-		B1S			= sv-B1S_varo.txt
-		B3N			= sv-B3N_varo.txt
-		B3S			= sv-B3S_varo.txt
-		B4E			= sv-B4E_varo.txt
-		B4W			= sv-B4W_varo.txt
-		B5E			= sv-B5E_varo.txt
-		B5W			= sv-B5W_varo.txt
-	}	
-}
-
-qdtext::product::en_txt
-{
-	language = en
-	formatter = plainlines
-
-	filename
-	{
-		B1			= en-B1_varo.txt
-		B2			= en-B2_varo.txt
-		B3			= en-B3_varo.txt
-		B5			= en-B5_varo.txt
-		B1N			= en-B1N_varo.txt
-		B1S			= en-B1S_varo.txt
-		B3N			= en-B3N_varo.txt
-		B3S			= en-B3S_varo.txt
-		B4E			= en-B4E_varo.txt
-		B4W			= en-B4W_varo.txt
-		B5E			= en-B5E_varo.txt
-		B5W			= en-B5W_varo.txt
-	}	
-}
-
-qdtext::product::en_marine_txt
-{
-	language = en-marine
-	formatter = plainlines
-
-	filename
-	{
-		B1			= en-marine-B1_varo.txt
-		B2			= en-marine-B2_varo.txt
-		B3			= en-marine-B3_varo.txt
-		B5			= en-marine-B5_varo.txt
-		B1N			= en-marine-B1N_varo.txt
-		B1S			= en-marine-B1S_varo.txt
-		B3N			= en-marine-B3N_varo.txt
-		B3S			= en-marine-B3S_varo.txt
-		B4E			= en-marine-B4E_varo.txt
-		B4W			= en-marine-B4W_varo.txt
-		B5E			= en-marine-B5E_varo.txt
-		B5W			= en-marine-B5W_varo.txt
-	}
+	language        = ${LANGUAGE}
+	formatter       = plainlines
+	filenamepattern = ${LANGUAGE}-${AREA}_varo.txt
 }
 
 # ======================================================================
@@ -202,7 +123,7 @@ textgen::part1
 	header::colon = true
 }
 
-# Huomiseen aamuun, klo 15 jälkeen huomisaamusta seuraavaan aamuun
+# Huomiseen aamuun, klo 15 jï¿½lkeen huomisaamusta seuraavaan aamuun
 
 textgen::part1::period
 {

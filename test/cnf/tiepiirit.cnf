@@ -59,32 +59,17 @@ qdtext::areas
 qdtext::dictionary = po
 qdtext::timezone = Europe/Helsinki
 
-qdtext::products = fi_txt,fi_html,sv_txt,en_txt
+qdtext::product_languages = fi,sv,en
+qdtext::products = ${LANGUAGE}_txt,fi_html
 
-qdtext::product::fi_txt
+qdtext::product::${LANGUAGE}_txt
 {
-	language = fi
-	formatter = plainlines
-
-	filename
-	{
-		tiepiiri-uusimaa	= fi-tiepiiri-uusimaa.txt
-		tiepiiri-hame		= fi-tiepiiri-hame.txt
-		tiepiiri-turku		= fi-tiepiiri-turku.txt
-		tiepiiri-kaakkois-suomi	= fi-tiepiiri-kaakkois-suomi.txt
-		tiepiiri-keski-suomi	= fi-tiepiiri-keski-suomi.txt
-		tiepiiri-vaasa		= fi-tiepiiri-vaasa.txt
-		tiepiiri-savo-karjala	= fi-tiepiiri-savo-karjala.txt
-		tiepiiri-oulu-ita	= fi-tiepiiri-oulu-ita.txt
-		tiepiiri-oulu-lansi	= fi-tiepiiri-oulu-lansi.txt
-		tiepiiri-lounais-lappi	= fi-tiepiiri-lounais-lappi.txt
-		tiepiiri-kaakkois-lappi	= fi-tiepiiri-kaakkois-lappi.txt
-		tiepiiri-keski-lappi	= fi-tiepiiri-keski-lappi.txt
-		tiepiiri-kasivarsi	= fi-tiepiiri-kasivarsi.txt
-		tiepiiri-yla-lappi	= fi-tiepiiri-yla-lappi.txt
-	}	
+	language        = ${LANGUAGE}
+	formatter       = plainlines
+	filenamepattern = ${LANGUAGE}-${AREA}.txt
 }
 
+# fi_html is emitted only for tiepiiri-uusimaa, hence a literal filename map.
 qdtext::product::fi_html
 {
 	language = fi
@@ -93,54 +78,6 @@ qdtext::product::fi_html
 	filename
 	{
 		tiepiiri-uusimaa	= fi-tiepiiri-uusimaa.html
-	}	
-}
-
-qdtext::product::sv_txt
-{
-	language = sv
-	formatter = plainlines
-
-	filename
-	{
-		tiepiiri-uusimaa	= sv-tiepiiri-uusimaa.txt
-		tiepiiri-hame		= sv-tiepiiri-hame.txt
-		tiepiiri-turku		= sv-tiepiiri-turku.txt
-		tiepiiri-kaakkois-suomi	= sv-tiepiiri-kaakkois-suomi.txt
-		tiepiiri-keski-suomi	= sv-tiepiiri-keski-suomi.txt
-		tiepiiri-vaasa		= sv-tiepiiri-vaasa.txt
-		tiepiiri-savo-karjala	= sv-tiepiiri-savo-karjala.txt
-		tiepiiri-oulu-ita	= sv-tiepiiri-oulu-ita.txt
-		tiepiiri-oulu-lansi	= sv-tiepiiri-oulu-lansi.txt
-		tiepiiri-lounais-lappi	= sv-tiepiiri-lounais-lappi.txt
-		tiepiiri-kaakkois-lappi	= sv-tiepiiri-kaakkois-lappi.txt
-		tiepiiri-keski-lappi	= sv-tiepiiri-keski-lappi.txt
-		tiepiiri-kasivarsi	= sv-tiepiiri-kasivarsi.txt
-		tiepiiri-yla-lappi	= sv-tiepiiri-yla-lappi.txt
-	}
-}
-
-qdtext::product::en_txt
-{
-	language = en
-	formatter = plainlines
-
-	filename
-	{
-		tiepiiri-uusimaa	= en-tiepiiri-uusimaa.txt
-		tiepiiri-hame		= en-tiepiiri-hame.txt
-		tiepiiri-turku		= en-tiepiiri-turku.txt
-		tiepiiri-kaakkois-suomi	= en-tiepiiri-kaakkois-suomi.txt
-		tiepiiri-keski-suomi	= en-tiepiiri-keski-suomi.txt
-		tiepiiri-vaasa		= en-tiepiiri-vaasa.txt
-		tiepiiri-savo-karjala	= en-tiepiiri-savo-karjala.txt
-		tiepiiri-oulu-ita	= en-tiepiiri-oulu-ita.txt
-		tiepiiri-oulu-lansi	= en-tiepiiri-oulu-lansi.txt
-		tiepiiri-lounais-lappi	= en-tiepiiri-lounais-lappi.txt
-		tiepiiri-kaakkois-lappi	= en-tiepiiri-kaakkois-lappi.txt
-		tiepiiri-keski-lappi	= en-tiepiiri-keski-lappi.txt
-		tiepiiri-kasivarsi	= en-tiepiiri-kasivarsi.txt
-		tiepiiri-yla-lappi	= en-tiepiiri-yla-lappi.txt
 	}
 }
 
@@ -227,7 +164,7 @@ textgen::part3
 	header::html::level = 4
 }
 
-# Huomiseen iltaan, klo 12 jälkeen ylihuomisiltaan
+# Huomiseen iltaan, klo 12 jï¿½lkeen ylihuomisiltaan
 
 textgen::part1::period
 {
@@ -236,7 +173,7 @@ textgen::part1::period
 	switchhour = 12
 }
 
-# Edellisen alusta +4 päivää aamuun
+# Edellisen alusta +4 pï¿½ivï¿½ï¿½ aamuun
 
 textgen::part2::period
 {
@@ -247,7 +184,7 @@ textgen::part2::period
 	endhour = 6
 }
 
-# Seuraavasta aamusta +5 päivän aamuun
+# Seuraavasta aamusta +5 pï¿½ivï¿½n aamuun
 
 textgen::part3::period
 {

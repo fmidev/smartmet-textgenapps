@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 26.4.17
+Version: 26.5.24
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -87,6 +87,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_mandir}/man1/qdtext.1.gz
 
 %changelog
+* Sun May 24 2026 Mika Heiskanen <mika.heiskanen@fmi.fi> - 26.5.24-1.fmi
+- Add ${LANGUAGE} product templates and qdtext::product_languages setting
+
 * Fri Apr 17 2026 Mika Heiskanen <mika.heiskanen@fmi.fi> - 26.4.17-1.fmi
 - Updated RPM requirement, po dictionaries are now needed
 

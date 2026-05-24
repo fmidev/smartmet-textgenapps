@@ -71,39 +71,17 @@ qdtext::areas
 qdtext::dictionary = po
 qdtext::timezone = Europe/Helsinki
 
-qdtext::products = fi_txt,sv_txt,en_txt,fi_html
+qdtext::product_languages = fi,sv,en
+qdtext::products = ${LANGUAGE}_txt,fi_html
 
-qdtext::product::fi_txt
+qdtext::product::${LANGUAGE}_txt
 {
-	language = fi
-	formatter = plainlines
-
-	filename
-	{
-		ahvenanmaa		= fi-ahvenanmaa.txt
-		etela-karjala		= fi-etela-karjala.txt
-		etela-pohjanmaa		= fi-etela-pohjanmaa.txt
-		etela-savo		= fi-etela-savo.txt
-		hame			= fi-hame.txt
-		kainuu			= fi-kainuu.txt
-		keski-pohjanmaa		= fi-keski-pohjanmaa.txt
-		keski-suomi		= fi-keski-suomi.txt
-		koillismaa		= fi-koillismaa.txt
-		kymenlaakso		= fi-kymenlaakso.txt
-		lansi-lappi		= fi-lansi-lappi.txt
-		paijat-hame		= fi-paijat-hame.txt
-		pirkanmaa		= fi-pirkanmaa.txt
-		pohjanmaa		= fi-pohjanmaa.txt
-		pohjois-karjala		= fi-pohjois-karjala.txt
-		pohjois-pohjanmaa	= fi-pohjois-pohjanmaa.txt
-		pohjois-savo		= fi-pohjois-savo.txt
-		pohjois-suomi		= fi-pohjois-suomi.txt
-		satakunta		= fi-satakunta.txt
-		uusimaa			= fi-uusimaa.txt
-		varsinais-suomi		= fi-varsinais-suomi.txt
-	}	
+	language        = ${LANGUAGE}
+	formatter       = plainlines
+	filenamepattern = ${LANGUAGE}-${AREA}.txt
 }
 
+# fi_html is emitted only for uusimaa, hence a literal filename map.
 qdtext::product::fi_html
 {
 	language = fi
@@ -112,70 +90,6 @@ qdtext::product::fi_html
 	filename
 	{
 		uusimaa			= fi-uusimaa.html
-	}	
-}
-
-qdtext::product::sv_txt
-{
-	language = sv
-	formatter = plainlines
-
-	filename
-	{
-		ahvenanmaa		= sv-ahvenanmaa.txt
-		etela-karjala		= sv-etela-karjala.txt
-		etela-pohjanmaa		= sv-etela-pohjanmaa.txt
-		etela-savo		= sv-etela-savo.txt
-		hame			= sv-hame.txt
-		kainuu			= sv-kainuu.txt
-		keski-pohjanmaa		= sv-keski-pohjanmaa.txt
-		keski-suomi		= sv-keski-suomi.txt
-		koillismaa		= sv-koillismaa.txt
-		kymenlaakso		= sv-kymenlaakso.txt
-		lansi-lappi		= sv-lansi-lappi.txt
-		paijat-hame		= sv-paijat-hame.txt
-		pirkanmaa		= sv-pirkanmaa.txt
-		pohjanmaa		= sv-pohjanmaa.txt
-		pohjois-karjala		= sv-pohjois-karjala.txt
-		pohjois-pohjanmaa	= sv-pohjois-pohjanmaa.txt
-		pohjois-savo		= sv-pohjois-savo.txt
-		pohjois-suomi		= sv-pohjois-suomi.txt
-		satakunta		= sv-satakunta.txt
-		uusimaa			= sv-uusimaa.txt
-		varsinais-suomi		= sv-varsinais-suomi.txt
-		suomi			= sv-suomi.txt
-	}
-}
-
-qdtext::product::en_txt
-{
-	language = en
-	formatter = plainlines
-
-	filename
-	{
-		ahvenanmaa		= en-ahvenanmaa.txt
-		etela-karjala		= en-etela-karjala.txt
-		etela-pohjanmaa		= en-etela-pohjanmaa.txt
-		etela-savo		= en-etela-savo.txt
-		hame			= en-hame.txt
-		kainuu			= en-kainuu.txt
-		keski-pohjanmaa		= en-keski-pohjanmaa.txt
-		keski-suomi		= en-keski-suomi.txt
-		koillismaa		= en-koillismaa.txt
-		kymenlaakso		= en-kymenlaakso.txt
-		lansi-lappi		= en-lansi-lappi.txt
-		paijat-hame		= en-paijat-hame.txt
-		pirkanmaa		= en-pirkanmaa.txt
-		pohjanmaa		= en-pohjanmaa.txt
-		pohjois-karjala		= en-pohjois-karjala.txt
-		pohjois-pohjanmaa	= en-pohjois-pohjanmaa.txt
-		pohjois-savo		= en-pohjois-savo.txt
-		pohjois-suomi		= en-pohjois-suomi.txt
-		satakunta		= en-satakunta.txt
-		uusimaa			= en-uusimaa.txt
-		varsinais-suomi		= en-varsinais-suomi.txt
-		suomi			= en-suomi.txt
 	}
 }
 
@@ -258,7 +172,7 @@ textgen::part3
 	header::html::level = 4
 }
 
-# Huomiseen iltaan, klo 12 jälkeen ylihuomisiltaan
+# Huomiseen iltaan, klo 12 jï¿½lkeen ylihuomisiltaan
 
 textgen::part1::period
 {
@@ -267,7 +181,7 @@ textgen::part1::period
 	switchhour = 12
 }
 
-# Edellisen alusta +4 päivää aamuun
+# Edellisen alusta +4 pï¿½ivï¿½ï¿½ aamuun
 
 textgen::part2::period
 {
@@ -278,7 +192,7 @@ textgen::part2::period
 	endhour = 6
 }
 
-# Seuraavasta aamusta +5 päivän aamuun
+# Seuraavasta aamusta +5 pï¿½ivï¿½n aamuun
 
 textgen::part3::period
 {
