@@ -91,6 +91,17 @@ foreach $cnffile(@cnffiles)
 	    # Run 'aamuun asti'-tests for merialueet
 	    $runtest = 1;	    
 	}
+	elsif($cnfname eq "marine_18_18" && substr($data,0,4) eq "2019")
+	{
+	    # Run marine (merivaroitusalueet) evening-to-evening tests with production settings.
+	    # Only afternoon forecast times have precipitation data covering the whole period.
+	    $runtest = (substr($data,8,2) ge "10");
+	}
+	elsif(substr($cnfname,0, 7) eq "marine_" && substr($data,0,4) eq "2019")
+	{
+	    # Run marine (merivaroitusalueet) wind_overview tests with production settings
+	    $runtest = 1;
+	}
 
 	next if(!$runtest);
 
