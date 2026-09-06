@@ -3,7 +3,7 @@
 Summary: Weather text generator binary
 Name: %{RPMNAME}
 Version: 26.9.6
-Release: 1%{?dist}.fmi
+Release: 2%{?dist}.fmi
 License: FMI
 Group: Development/Tools
 URL: https://github.com/fmidev/smartmet-textgenapps
@@ -33,7 +33,7 @@ BuildRequires: mysql++-devel
 BuildRequires: rpm-build
 BuildRequires: smartmet-library-calculator-devel >= 26.4.13
 BuildRequires: smartmet-library-newbase-devel >= 26.2.4
-BuildRequires: smartmet-library-textgen-devel >= 26.9.6
+BuildRequires: smartmet-library-textgen-devel >= 26.9.6-2
 BuildRequires: smartmet-library-macgyver-devel >= 26.5.21
 BuildRequires: zlib-devel
 Requires: %{smartmet_boost}-iostreams
@@ -50,7 +50,7 @@ Requires: mysql++
 Requires: smartmet-library-calculator >= 26.4.13
 Requires: smartmet-library-macgyver >= 26.5.21
 Requires: smartmet-library-newbase >= 26.2.4
-Requires: smartmet-library-textgen >= 26.9.6
+Requires: smartmet-library-textgen >= 26.9.6-2
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -87,6 +87,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_mandir}/man1/qdtext.1.gz
 
 %changelog
+* Sun Sep  6 2026 Mika Heiskanen <mika.heiskanen@fmi.fi> - 26.9.6-2.fmi
+- Added marine wind_sea_overview regression test (marine_sea_12_12.cnf) and refreshed the test dictionaries; requires smartmet-library-textgen >= 26.9.6-2
+
 * Sun Sep  6 2026 Mika Heiskanen <mika.heiskanen@fmi.fi> - 26.9.6-1.fmi
 - Added marine (merivaroitusalueet) wind_overview regression tests with the production marine settings (marine_12_12, marine_18_18) and a variant exercising the new wind_speed_intermediate_report_limit setting; requires smartmet-library-textgen >= 26.9.6
 

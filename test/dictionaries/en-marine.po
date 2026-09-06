@@ -6453,3 +6453,40 @@ msgstr "Western Gulf of Finland and Sea of Åland"
 
 msgid "B7W"
 msgstr "Western part of Northern Baltic"
+
+msgid "voimakkaita puuskia"
+msgstr "strong gusts"
+
+msgid "pohjoisosissa"
+msgstr "in northern parts"
+
+msgid "etelaosissa"
+msgstr "in southern parts"
+
+msgid "itaosissa"
+msgstr "in eastern parts"
+
+msgid "lansiosissa"
+msgstr "in western parts"
+
+msgid "paikoin [puuskia], kovimmillaan [n] [m/s]"
+msgstr "locally [1], up to [2] [3]"
+
+msgid "[aika] paikoin [puuskia], kovimmillaan [n] [m/s]"
+msgstr "[1], locally [2], up to [3] [4]"
+
+msgid "[aika] [suunta] paikoin [puuskia], kovimmillaan [n] [m/s]"
+msgstr "[1] [2], locally [3], up to [4] [5]"
+
+# wind_sea_overview: clockwise (veering) and counterclockwise (backing) turns
+msgid "[iltapaivalla] tuuli kaantyy myotapaivaan [etelaan]"
+msgstr "veering [2] [1]"
+
+msgid "[iltapaivalla] tuuli kaantyy vastapaivaan [etelaan]"
+msgstr "backing [2] [1]"
+
+msgid "[iltapaivalla] myotapaivaan kaantyen [etelatuulta]"
+msgstr "veering [2] [1]"
+
+msgid "[iltapaivalla] vastapaivaan kaantyen [etelatuulta]"
+msgstr "backing [2] [1]"

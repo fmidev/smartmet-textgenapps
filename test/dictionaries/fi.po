@@ -6393,3 +6393,40 @@ msgstr "yöstä"
 
 msgid "huomisen keskipaivaan asti"
 msgstr "huomiseen keskipäivään asti"
+
+msgid "voimakkaita puuskia"
+msgstr "voimakkaita puuskia"
+
+msgid "pohjoisosissa"
+msgstr "pohjoisosissa"
+
+msgid "etelaosissa"
+msgstr "eteläosissa"
+
+msgid "itaosissa"
+msgstr "itäosissa"
+
+msgid "lansiosissa"
+msgstr "länsiosissa"
+
+msgid "paikoin [puuskia], kovimmillaan [n] [m/s]"
+msgstr "paikoin [1], kovimmillaan [2] [3]"
+
+msgid "[aika] paikoin [puuskia], kovimmillaan [n] [m/s]"
+msgstr "[1] paikoin [2], kovimmillaan [3] [4]"
+
+msgid "[aika] [suunta] paikoin [puuskia], kovimmillaan [n] [m/s]"
+msgstr "[1] [2] paikoin [3], kovimmillaan [4] [5]"
+
+# wind_sea_overview: clockwise (veering) and counterclockwise (backing) turns
+msgid "[iltapaivalla] tuuli kaantyy myotapaivaan [etelaan]"
+msgstr "[1] tuuli kääntyy myötäpäivään [2]"
+
+msgid "[iltapaivalla] tuuli kaantyy vastapaivaan [etelaan]"
+msgstr "[1] tuuli kääntyy vastapäivään [2]"
+
+msgid "[iltapaivalla] myotapaivaan kaantyen [etelatuulta]"
+msgstr "[1] myötäpäivään kääntyvää [2]"
+
+msgid "[iltapaivalla] vastapaivaan kaantyen [etelatuulta]"
+msgstr "[1] vastapäivään kääntyvää [2]"

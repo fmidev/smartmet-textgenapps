@@ -1,0 +1,199 @@
+# ----------------------------------------------------------------------
+# Marine (merivaroitusalueet) wind_sea_overview + weather_forecast_at_sea
+# regression test. Settings mirror the production configuration in
+# run-products-textgen cnf/marine/marine.inc (period 12 -> 12 next day).
+# Production settings as of 2026-09.
+# ----------------------------------------------------------------------
+
+qdtext::outdir = <OUTDIR>
+qdtext::forecasttime = <FORECASTTIME>
+qdtext::logfile = ./textgen.log
+qdtext::encoding = UTF-8
+qdtext::dictionary = multipo
+qdtext::timezone = Europe/Helsinki
+
+qdtext::append_rawdata = false
+qdtext::append_windspeed_distribution = false
+qdtext::append_winddirection_distribution = false
+
+textgen::frostseason = true
+
+qdtext
+{
+	areas	= B1,B2,B3,B5,B7
+	areas	+= B1N,B1S
+	areas	+= B3N,B3S
+	areas	+= B4E,B4W
+	areas	+= B5E,B5W
+	areas	+= B7E,B7W
+}
+
+qdtext::areas
+{
+	meridir                 = $(textgen::mappath)/merivaroitusalueet
+
+	B1			= $(meridir)/B1.svg
+	B2			= $(meridir)/B2.svg
+	B3			= $(meridir)/B3.svg
+	B5			= $(meridir)/B5.svg
+	B7			= $(meridir)/B7.svg
+	B1N			= $(meridir)/B1N.svg
+	B1S			= $(meridir)/B1S.svg
+	B3N			= $(meridir)/B3N.svg
+	B3S			= $(meridir)/B3S.svg
+	B4E			= $(meridir)/B4E.svg
+	B4W			= $(meridir)/B4W.svg
+	B5E			= $(meridir)/B5E.svg
+	B5W			= $(meridir)/B5W.svg
+	B7E			= $(meridir)/B7E.svg
+	B7W			= $(meridir)/B7W.svg
+
+	marine
+	{
+		default = true
+	}
+}
+
+qdtext::supported_languages = fi,sv,en,en-marine
+qdtext::products = ${LANGUAGE}_txt
+
+qdtext::product::${LANGUAGE}_txt
+{
+	language        = ${LANGUAGE}
+	formatter       = plainlines
+	filenamepattern = ${LANGUAGE}-${AREA}.txt
+}
+
+# ----------------------------------------------------------------------
+# Ennustedata
+# ----------------------------------------------------------------------
+
+textgen::main_forecast = <DATADIR>/pinta
+
+textgen
+{
+	gustspeed_forecast			= $(main_forecast)
+	precipitation_forecast			= $(main_forecast)
+	precipitationprobability_forecast	= $(main_forecast)
+	precipitationtype_forecast		= $(main_forecast)
+	precipitationform_forecast		= $(main_forecast)
+	thunder_forecast			= $(main_forecast)
+	fog_forecast				= $(main_forecast)
+	cloudiness_forecast			= $(main_forecast)
+	temperature_forecast			= $(main_forecast)
+	windspeed_forecast			= $(main_forecast)
+	maximumwind_forecast			= $(main_forecast)
+	winddirection_forecast			= $(main_forecast)
+	windchill_forecast			= $(main_forecast)
+}
+
+textgen::mask::land = $(textgen::mappath)/sonera/suomi.svg
+textgen::mask::coast = $(textgen::mappath)/merialueet/rannikko.svg:10
+
+textgen::units
+{
+	celsius::format		= SI
+	meterspersecond::format	= SI
+	millimeters::format	= SI
+	percent::format		= phrase
+}
+
+# ----------------------------------------------------------------------
+# Tekstin kontrollointi
+# ----------------------------------------------------------------------
+
+textgen::sections = title,part1
+
+textgen::title
+{
+	period::type = now
+	content = none
+	header
+	{
+		type = report_area
+		colon = true
+		compact = true
+		date = false
+		time = false
+		utc = false
+	}
+}
+
+textgen::part1
+{
+	period::type = from_until
+	header::type = none
+	content = wind_sea_overview
+	content += weather_forecast_at_sea
+}
+
+textgen::part1::period
+{
+	startday = 0
+	starthour = 12
+	endhour = 12
+	switchhour = 23
+	days = 1
+}
+
+textgen::part1::story::wind_sea_overview
+{
+	# Change detection on the time-smoothed area mean wind
+	speed_change_threshold = 3.0
+	weak_wind_limit = 4.0
+	smoothing_hours = 3
+	max_changes = 3
+	gradual_hours = 8
+	fast_hours = 3
+	fast_change = 5.0
+
+	# Reported range from spatial percentiles around the mean
+	range_lower_percentile = 25
+	range_upper_percentile = 75
+	range_min_width = 2
+	range_max_width = 5
+	range_hours = 3
+	range_report_min_difference = 2
+
+	# Direction
+	direction_change_threshold = 45
+	direction_variable_max_speed = 6.0
+	direction_split_min_hours = 6
+	wind_direction::accurate_limit = 22.5
+	wind_direction::variable_limit = 45
+
+	# Gusts are reported in a separate sentence only when enabled
+	gust_reporting = false
+	gust_limit = 15
+}
+
+textgen::part1::story::weather_forecast_at_sea
+{
+	weekdays = false
+	short_text_mode = false
+
+	night::starthour = 18
+	night::maxstarthour = 23
+	night::endhour = 6
+	day::starthour = 6
+	day::maxstarthour = 15
+	day::endhour = 18
+
+	dry_weather_limit = 0.0125 // mm/h
+	generally_limit = 90	// percentage
+	someplaces_limit = 10	// percentage
+	manyplaces_limit = 50	// percentage
+	in_some_places_upper_limit = 90
+
+	summertime::startdate = 0401
+	summertime::enddate = 0930
+
+	summertime::thunder::normal_extent_min = 5
+	summertime::thunder::normal_extent_max = 30
+	wintertime::thunder::normal_extent_min = 10
+	wintertime::thunder::normal_extent_max = 30
+	thunder::small_probability_min = 20
+	thunder::small_probability_max = 30
+	thunder::normal_probability_min = 30
+	thunder::normal_probability_max = 60
+}

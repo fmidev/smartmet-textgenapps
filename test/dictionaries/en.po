@@ -572,10 +572,10 @@ msgid "lumisadetta"
 msgstr "snowfall"
 
 msgid "voimistuvaa"
-msgstr "strenghtening"
+msgstr "strengthening"
 
 msgid "vahvistuu"
-msgstr "strenghtens"
+msgstr "strengthens"
 
 msgid "uusimaa"
 msgstr "Uusimaa"
@@ -4979,7 +4979,7 @@ msgid "pohjoiseen"
 msgstr "to the north"
 
 msgid "[iltapaivalla] tuuli kaantyy [etelaan] ja voimistuu edelleen"
-msgstr "[1] the wind turns [2] and contines to weaken"
+msgstr "[1] the wind turns [2] and continues to weaken"
 
 msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka muuttuu [iltapaivalla] vaihtelevaksi"
 msgstr "[1] [2] [3], that becomes variable [4]"
@@ -5150,13 +5150,13 @@ msgid "keskipaivasta"
 msgstr "from the noon"
 
 msgid "[iltapaivalla] tuuli voimistuu ja kaantyy [etelaan]"
-msgstr "[1] the wind strenghtens and turns [2]"
+msgstr "[1] the wind strengthens and turns [2]"
 
 msgid "[iltapaivalla] tuuli voimistuu ja muuttuu vaihtelevaksi"
-msgstr "the wind strenghtens and becomes varying [1]"
+msgstr "the wind strengthens and becomes varying [1]"
 
 msgid "voimistuvaa tuulta"
-msgstr "strenghtening wind"
+msgstr "strengthening wind"
 
 msgid "hyvin voimakkaita puuskia"
 msgstr "very strong gusts"
@@ -5318,7 +5318,7 @@ msgid "[iltapaivalla] [nopeasti] [heikkenevaa] [etelatuulta], joka kaantyy [pohj
 msgstr "[1] [2] [3] [4], that turns [5]"
 
 msgid "[iltapaivalla] edelleen [heikkenevaa] [pohjoistuulta]"
-msgstr "[1] [3] continues to [2]"
+msgstr "[1] [3] continues [2]"
 
 msgid "hehtopascalia (mod 10=1)"
 msgstr "hectopascals"
@@ -5378,25 +5378,25 @@ msgid "[iltapaivalla] [pohjoistuuli] alkaa heiketa ja kaantyy [etelaan]"
 msgstr "[1] [2] starts to weaken and turns [3]"
 
 msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantya [etelaan]"
-msgstr "[1] [2] starts to strenghten and turn [3]"
+msgstr "[1] [2] starts to strengthen and turn [3]"
 
 msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja kaantyy [etelaan]"
-msgstr "[1] [2] starts to strenghten and turns [3]"
+msgstr "[1] [2] starts to strengthen and turns [3]"
 
 msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja kaantyy [etelaan]"
-msgstr "[1] [2] strenghtens and turns [3]"
+msgstr "[1] [2] strengthens and turns [3]"
 
 msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi"
-msgstr "[1] [2] strenghtens and becomes variable"
+msgstr "[1] [2] strengthens and becomes variable"
 
 msgid "[iltapaivalla] tuuli muuttuu tilapaisesti vaihtelevaksi ja voimistuu edelleen"
-msgstr "[1] the wind becomes temporarily variable and continues to  strenghten"
+msgstr "[1] the wind becomes temporarily variable and continues to strengthen"
 
 msgid "[iltapaivalla] tuuli muuttuu vaihtelevaksi ja voimistuu edelleen"
-msgstr "the wind becomes variable and continues to  strenghten [1]"
+msgstr "the wind becomes variable and continues to strengthen [1]"
 
 msgid "[iltapaivalla] tuuli voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
-msgstr "[1] the wind continues to strenghten and becomes temporarily variable"
+msgstr "[1] the wind continues to strengthen and becomes temporarily variable"
 
 msgid "iltayosta"
 msgstr "from the late evening"
@@ -5624,13 +5624,13 @@ msgid "3-keskiyohon asti"
 msgstr "until Wednesday midnight"
 
 msgid "[iltapaivalla] [pohjoistuuli] voimistuu edelleen"
-msgstr "[2] continues to strenghten [1]"
+msgstr "[2] continues to strengthen [1]"
 
 msgid "[ip] [p-tuulta] [m...n] [m/s], joka alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
-msgstr "[1] [2] [3] [4], which starts to strenghten [5] and turns [7] [6]"
+msgstr "[1] [2] [3] [4], which starts to strengthen [5] and turns [7] [6]"
 
 msgid "[pohjoistuulta] [m...n] [metria sekunnissa], joka alkaa voimistua"
-msgstr "[1] [2] [3], which starts to strenghten"
+msgstr "[1] [2] [3], which starts to strengthen"
 
 msgid "aamuyohon asti"
 msgstr "until early hours"
@@ -5843,16 +5843,16 @@ msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [i
 msgstr "[2] weakens [3] [1] and turns [5] [4]"
 
 msgid "[etelatuuli] alkaa voimistua [nopeasti]"
-msgstr "[1] starts to strenghten [2]"
+msgstr "[1] starts to strengthen [2]"
 
 msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu vaihtelevaksi"
-msgstr "[1] [2] starts to strenghten and becomes variable"
+msgstr "[1] [2] starts to strengthen and becomes variable"
 
 msgid "[iltapaivalla] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
-msgstr "[1] wind starts to strenghten and becomes temporarily variable"
+msgstr "[1] wind starts to strengthen and becomes temporarily variable"
 
 msgid "[iltapaivalla] tuuli alkaa voimistua ja muuttuu vaihtelevaksi"
-msgstr "[1] starts to strenghten and becomes variable"
+msgstr "[1] starts to strengthen and becomes variable"
 
 msgid "[iltapaivalla] [voimakas pohjoistuuli] heikkenee [nopeasti] ja kaantyy [etelaan]"
 msgstr "[2] weakens [3]  [1] and turns [4]"
@@ -6044,34 +6044,34 @@ msgid "tiepiiri-s2:lle"
 msgstr "for Northern Savo southern region"
 
 msgid "[etelatuuli] voimistuu [nopeasti]"
-msgstr "[1] strenghten [2]"
+msgstr "[1] strengthen [2]"
 
 msgid "[iltapaivalla] [pohjoistuuli] tuuli alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
-msgstr "[1] [2] starts to strenghten and becomes temporarily variable"
+msgstr "[1] [2] starts to strengthen and becomes temporarily variable"
 
 msgid "[iltapaivalla] tuuli alkaa voimistua ja kaantyy [etelaan]"
-msgstr "wind starts to strenghten and turns [2] [1]"
+msgstr "wind starts to strengthen and turns [2] [1]"
 
 msgid "[pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
-msgstr "[1] starts to strenghten [2] and turns [4] [3]"
+msgstr "[1] starts to strengthen [2] and turns [4] [3]"
 
 msgid "[pohjoistuuli] alkaa voimistua ja kaantya [etelaan]"
-msgstr "[1] starts to strenghten and turning [2]"
+msgstr "[1] starts to strengthen and turning [2]"
 
 msgid "[pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
-msgstr "[1] starts to strenghten and becomes temporarily variable"
+msgstr "[1] starts to strengthen and becomes temporarily variable"
 
 msgid "[pohjoistuuli] voimistuu [nopeasti]"
-msgstr "[1] strenghtens [2]"
+msgstr "[1] strengthens [2]"
 
 msgid "[pohjoistuuli] voimistuu ja kaantyy [etelaan]"
-msgstr "[1] strenghtens and turns [2]"
+msgstr "[1] strengthens and turns [2]"
 
 msgid "[pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
-msgstr "[1] strenghtens and becomes temporarily variable"
+msgstr "[1] strengthens and becomes temporarily variable"
 
 msgid "[pohjoistuuli] voimistuu ja muuttuu vaihtelevaksi"
-msgstr "[1] strenghtens and  becomes variable"
+msgstr "[1] strengthens and  becomes variable"
 
 msgid "1-aamuyolla"
 msgstr "on Monday early hours"
@@ -6254,16 +6254,16 @@ msgid "jotka muuttuvat rantakuuroiksi"
 msgstr "that turn into sleet showers"
 
 msgid "[iltapaivalla] [etelatuuli] alkaa voimistua [nopeasti]"
-msgstr "[1] [2] starts to strenghten [3]"
+msgstr "[1] [2] starts to strengthen [3]"
 
 msgid "[iltapaivalla] [etelatuuli] voimistuu [nopeasti]"
-msgstr "[2] strenghtens [3] [1]"
+msgstr "[2] strengthens [3] [1]"
 
 msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua [nopeasti] ja kaantyy [illalla] [etelaan]"
-msgstr "[1] [2] starts to strenghten [3] and turns [5] [4]"
+msgstr "[1] [2] starts to strengthen [3] and turns [5] [4]"
 
 msgid "[iltapaivalla] [pohjoistuuli] alkaa voimistua ja muuttuu tilapaisesti vaihtelevaksi"
-msgstr "[1] [2] starts to strenghten and becomes temporarily variable"
+msgstr "[1] [2] starts to strengthen and becomes temporarily variable"
 
 msgid "4-aamuyolla ja aamulla"
 msgstr "on Thursday early hours and morning"
@@ -6293,13 +6293,13 @@ msgid "B7W_B4W:lle"
 msgstr "for Western Gulf of Finland and Sea of Åland"
 
 msgid "[iltapaivalla] [pohjoistuuli] voimistuu ja muuttuu tilapaisesti vaihtelevaksi"
-msgstr "[1] [2] strenghtens and becomes temporarily variable"
+msgstr "[1] [2] strengthens and becomes temporarily variable"
 
 msgid "[iltapaivalla] tuuli kaantyy [etelaan] ja heikkenee edelleen"
-msgstr "[1] the wind turns [2] and contines to strenghten"
+msgstr "[1] the wind turns [2] and continues to strengthen"
 
 msgid "tuuli voimistuu"
-msgstr "the wind strenghtens to"
+msgstr "the wind strengthens to"
 
 msgid "B4_B3S:lle"
 msgstr "for Sea of Archipelago and Sea of Åland and Southern Sea of Bothnia"
@@ -6453,3 +6453,40 @@ msgstr "Western Gulf of Finland and Sea of Åland"
 
 msgid "B7W"
 msgstr "Western part of Northern Baltic Proper"
+
+msgid "voimakkaita puuskia"
+msgstr "strong gusts"
+
+msgid "pohjoisosissa"
+msgstr "in northern parts"
+
+msgid "etelaosissa"
+msgstr "in southern parts"
+
+msgid "itaosissa"
+msgstr "in eastern parts"
+
+msgid "lansiosissa"
+msgstr "in western parts"
+
+msgid "paikoin [puuskia], kovimmillaan [n] [m/s]"
+msgstr "in some places [1], up to [2] [3]"
+
+msgid "[aika] paikoin [puuskia], kovimmillaan [n] [m/s]"
+msgstr "[1], in some places [2], up to [3] [4]"
+
+msgid "[aika] [suunta] paikoin [puuskia], kovimmillaan [n] [m/s]"
+msgstr "[1] [2], in some places [3], up to [4] [5]"
+
+# wind_sea_overview: clockwise (veering) and counterclockwise (backing) turns
+msgid "[iltapaivalla] tuuli kaantyy myotapaivaan [etelaan]"
+msgstr "the wind veers [2] [1]"
+
+msgid "[iltapaivalla] tuuli kaantyy vastapaivaan [etelaan]"
+msgstr "the wind backs [2] [1]"
+
+msgid "[iltapaivalla] myotapaivaan kaantyen [etelatuulta]"
+msgstr "veering [2] [1]"
+
+msgid "[iltapaivalla] vastapaivaan kaantyen [etelatuulta]"
+msgstr "backing [2] [1]"

@@ -6456,3 +6456,40 @@ msgstr "från och med midnatten"
 
 msgid "yosta"
 msgstr "från och med i natt"
+
+msgid "voimakkaita puuskia"
+msgstr "kraftiga vindbyar"
+
+msgid "pohjoisosissa"
+msgstr "i de norra delarna"
+
+msgid "etelaosissa"
+msgstr "i de södra delarna"
+
+msgid "itaosissa"
+msgstr "i de östra delarna"
+
+msgid "lansiosissa"
+msgstr "i de västra delarna"
+
+msgid "paikoin [puuskia], kovimmillaan [n] [m/s]"
+msgstr "lokalt [1], upp till [2] [3]"
+
+msgid "[aika] paikoin [puuskia], kovimmillaan [n] [m/s]"
+msgstr "[1] lokalt [2], upp till [3] [4]"
+
+msgid "[aika] [suunta] paikoin [puuskia], kovimmillaan [n] [m/s]"
+msgstr "[1] [2] lokalt [3], upp till [4] [5]"
+
+# wind_sea_overview: clockwise (veering) and counterclockwise (backing) turns
+msgid "[iltapaivalla] tuuli kaantyy myotapaivaan [etelaan]"
+msgstr "[1] vrider vinden medurs [2]"
+
+msgid "[iltapaivalla] tuuli kaantyy vastapaivaan [etelaan]"
+msgstr "[1] vrider vinden moturs [2]"
+
+msgid "[iltapaivalla] myotapaivaan kaantyen [etelatuulta]"
+msgstr "[1] medurs vridande [2]"
+
+msgid "[iltapaivalla] vastapaivaan kaantyen [etelatuulta]"
+msgstr "[1] moturs vridande [2]"
