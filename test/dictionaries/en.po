@@ -6490,3 +6490,46 @@ msgstr "veering [2] [1]"
 
 msgid "[iltapaivalla] vastapaivaan kaantyen [etelatuulta]"
 msgstr "backing [2] [1]"
+
+# Wind stories: a change of day marked with "tomorrow" and the part of the day
+msgid "huomenna aamuyolla"
+msgstr "tomorrow after midnight"
+
+msgid "huomenna aamulla"
+msgstr "tomorrow morning"
+
+msgid "huomenna aamupaivalla"
+msgstr "tomorrow before noon"
+
+msgid "huomenna iltapaivalla"
+msgstr "tomorrow afternoon"
+
+msgid "huomenna illalla"
+msgstr "tomorrow evening"
+
+msgid "huomenna iltayolla"
+msgstr "tomorrow before midnight"
+
+msgid "huomenna keskiyolla"
+msgstr "tomorrow at midnight"
+
+msgid "huomenna aamuyosta alkaen"
+msgstr "from tomorrow early morning"
+
+msgid "huomenna aamusta alkaen"
+msgstr "from tomorrow morning"
+
+msgid "huomenna aamupaivasta alkaen"
+msgstr "from tomorrow forenoon"
+
+msgid "huomenna iltapaivasta alkaen"
+msgstr "from tomorrow afternoon"
+
+msgid "huomenna illasta alkaen"
+msgstr "from tomorrow evening"
+
+msgid "huomenna iltayosta alkaen"
+msgstr "from tomorrow late evening"
+
+msgid "huomenna keskiyosta alkaen"
+msgstr "from tomorrow midnight"

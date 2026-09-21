@@ -2,8 +2,8 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 26.9.6
-Release: 2%{?dist}.fmi
+Version: 26.9.21
+Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
 URL: https://github.com/fmidev/smartmet-textgenapps
@@ -33,7 +33,7 @@ BuildRequires: mysql++-devel
 BuildRequires: rpm-build
 BuildRequires: smartmet-library-calculator-devel >= 26.4.13
 BuildRequires: smartmet-library-newbase-devel >= 26.2.4
-BuildRequires: smartmet-library-textgen-devel >= 26.9.6-2
+BuildRequires: smartmet-library-textgen-devel >= 26.9.21-3
 BuildRequires: smartmet-library-macgyver-devel >= 26.5.21
 BuildRequires: zlib-devel
 Requires: %{smartmet_boost}-iostreams
@@ -50,7 +50,7 @@ Requires: mysql++
 Requires: smartmet-library-calculator >= 26.4.13
 Requires: smartmet-library-macgyver >= 26.5.21
 Requires: smartmet-library-newbase >= 26.2.4
-Requires: smartmet-library-textgen >= 26.9.6-2
+Requires: smartmet-library-textgen >= 26.9.21-3
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -87,6 +87,10 @@ rm -rf $RPM_BUILD_ROOT
 %{_mandir}/man1/qdtext.1.gz
 
 %changelog
+* Mon Sep 21 2026 Mika Heiskanen <mika.heiskanen@fmi.fi> - 26.9.21-1.fmi
+- marine_sea_12_12.cnf: convective cell settings and weekdays = false as in production
+- Refreshed the fi, en, en-marine and sv test dictionaries; marine results updated for the "huomenna" day marker in the 18-18 forecasts and the corrected English "strengthening"; requires smartmet-library-textgen >= 26.9.21-3
+
 * Sun Sep  6 2026 Mika Heiskanen <mika.heiskanen@fmi.fi> - 26.9.6-2.fmi
 - Added marine wind_sea_overview regression test (marine_sea_12_12.cnf) and refreshed the test dictionaries; requires smartmet-library-textgen >= 26.9.6-2
 

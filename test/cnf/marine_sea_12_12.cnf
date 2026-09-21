@@ -165,6 +165,16 @@ textgen::part1::story::wind_sea_overview
 	# Gusts are reported in a separate sentence only when enabled
 	gust_reporting = false
 	gust_limit = 15
+
+	# Local convective gust cells are removed from the area statistics and
+	# reported in a separate sentence only when enabled
+	convective_cell_cutoff = 13.5
+	convective_cell_max_duration = 3
+	convective_cell_max_area_fraction = 10
+	convective_cell_reporting = false
+
+	# Time phrases without weekdays
+	weekdays = false
 }
 
 textgen::part1::story::weather_forecast_at_sea

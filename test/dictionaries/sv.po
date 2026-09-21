@@ -6493,3 +6493,46 @@ msgstr "[1] medurs vridande [2]"
 
 msgid "[iltapaivalla] vastapaivaan kaantyen [etelatuulta]"
 msgstr "[1] moturs vridande [2]"
+
+# Wind stories: a change of day marked with "tomorrow" and the part of the day
+msgid "huomenna aamuyolla"
+msgstr "i morgon på efternatten"
+
+msgid "huomenna aamulla"
+msgstr "i morgon på morgonen"
+
+msgid "huomenna aamupaivalla"
+msgstr "i morgon på förmiddagen"
+
+msgid "huomenna iltapaivalla"
+msgstr "i morgon på eftermiddagen"
+
+msgid "huomenna illalla"
+msgstr "i morgon på kvällen"
+
+msgid "huomenna iltayolla"
+msgstr "i morgon senare under kvällen"
+
+msgid "huomenna keskiyolla"
+msgstr "i morgon vid midnatt"
+
+msgid "huomenna aamuyosta alkaen"
+msgstr "från och med i morgon efternatt"
+
+msgid "huomenna aamusta alkaen"
+msgstr "från och med i morgon bitti"
+
+msgid "huomenna aamupaivasta alkaen"
+msgstr "från och med i morgon förmiddag"
+
+msgid "huomenna iltapaivasta alkaen"
+msgstr "från och med i morgon eftermiddag"
+
+msgid "huomenna illasta alkaen"
+msgstr "från och med i morgon kväll"
+
+msgid "huomenna iltayosta alkaen"
+msgstr "från och med i morgon natt"
+
+msgid "huomenna keskiyosta alkaen"
+msgstr "från och med i morgon midnatt"
