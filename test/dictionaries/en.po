@@ -6533,3 +6533,16 @@ msgstr "from tomorrow late evening"
 
 msgid "huomenna keskiyosta alkaen"
 msgstr "from tomorrow midnight"
+
+# wind_overview: a reported direction qualified as veering or backing, [1] = the direction
+msgid "myotapaivaan kaantyen [etelatuulta]"
+msgstr "veering [1]"
+
+msgid "vastapaivaan kaantyen [etelatuulta]"
+msgstr "backing [1]"
+
+msgid "myotapaivaan kaantyen [etelatuuli]"
+msgstr "veering [1]"
+
+msgid "vastapaivaan kaantyen [etelatuuli]"
+msgstr "backing [1]"
