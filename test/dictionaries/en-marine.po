@@ -4715,7 +4715,7 @@ msgid "2-puolelle"
 msgstr "mainly northeast"
 
 msgid "3- ja 4-valille"
-msgstr "to the east to southeast"
+msgstr "east to southeast"
 
 msgid "3-puolelle"
 msgstr "mainly east"
@@ -4724,7 +4724,7 @@ msgid "4-puolelle"
 msgstr "mainly southeast"
 
 msgid "5- ja 6-valille"
-msgstr "to south to southwest"
+msgstr "south to southwest"
 
 msgid "5-puolelle"
 msgstr "mainly south"
@@ -4733,7 +4733,7 @@ msgid "6-puolelle"
 msgstr "mainly southwest"
 
 msgid "7- ja 8-valille"
-msgstr "to west to northwest"
+msgstr "west to northwest"
 
 msgid "7-puolelle"
 msgstr "mainly west"
@@ -4745,7 +4745,7 @@ msgid "kurzeme:lle"
 msgstr "for Kurzeme region"
 
 msgid "lanteen"
-msgstr "to the west"
+msgstr "west"
 
 msgid "latgale:lle"
 msgstr "for Latgale region"
@@ -4754,16 +4754,16 @@ msgid "latvia:lle"
 msgstr "for Latvia"
 
 msgid "lounaaseen"
-msgstr "to the south-west"
+msgstr "southwest"
 
 msgid "luoteeseen"
-msgstr "to the north-west"
+msgstr "northwest"
 
 msgid "pieksamaki:lle"
 msgstr "for Pieksämäki"
 
 msgid "pohjoiseen"
-msgstr "to the north"
+msgstr "north"
 
 msgid "suunnaltaan vaihtelevaa tuulta"
 msgstr "variable"
@@ -4793,19 +4793,19 @@ msgid "kovimmillaan"
 msgstr "up to"
 
 msgid "1- ja 8-valille"
-msgstr "to north to northwest"
+msgstr "north to northwest"
 
 msgid "1-puolelle"
 msgstr "mainly north"
 
 msgid "3- ja 2-valille"
-msgstr "to the east to northeast"
+msgstr "east to northeast"
 
 msgid "5- ja 4-valille"
-msgstr "to south to southeast"
+msgstr "south to southeast"
 
 msgid "7- ja 6-valille"
-msgstr "to west to southwest"
+msgstr "west to southwest"
 
 msgid "[huomenna] [etelatuulta]"
 msgstr "[1] [2]"
@@ -4940,22 +4940,22 @@ msgid "astetta (n...4)"
 msgstr "degrees"
 
 msgid "etelaan"
-msgstr "to the south"
+msgstr "south"
 
 msgid "heikkenevaa tuulta"
 msgstr "decreasing"
 
 msgid "itaan"
-msgstr "to the east"
+msgstr "east"
 
 msgid "ivalo:lle"
 msgstr "for Ivalo"
 
 msgid "kaakkoon"
-msgstr "to the south-east"
+msgstr "southeast"
 
 msgid "koilliseen"
-msgstr "to the north-east"
+msgstr "northeast"
 
 msgid "nopeasti"
 msgstr "rapidly"
@@ -5042,7 +5042,7 @@ msgid "7-puoleinen tuuli"
 msgstr "mainly west"
 
 msgid "1- ja 2-valille"
-msgstr "to the north to northeast"
+msgstr "north to northeast"
 
 msgid "1- ja 2-valista tuulta"
 msgstr "north to northeast"

@@ -905,7 +905,7 @@ msgid "aamusta alkaen"
 msgstr "from the morning"
 
 msgid "aamupaivasta alkaen"
-msgstr "from forenoon"
+msgstr "from the forenoon"
 
 msgid "keskipaivasta alkaen"
 msgstr "from the noon"
