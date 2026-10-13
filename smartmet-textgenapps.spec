@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 26.9.23
+Version: 26.10.13
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -31,9 +31,9 @@ BuildRequires: gdal312-devel
 BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
-BuildRequires: smartmet-library-calculator-devel >= 26.4.13
-BuildRequires: smartmet-library-newbase-devel >= 26.2.4
-BuildRequires: smartmet-library-textgen-devel >= 26.9.23
+BuildRequires: smartmet-library-calculator-devel >= 26.10.13
+BuildRequires: smartmet-library-newbase-devel >= 26.10.13
+BuildRequires: smartmet-library-textgen-devel >= 26.10.13
 BuildRequires: smartmet-library-macgyver-devel >= 26.5.21
 BuildRequires: zlib-devel
 Requires: %{smartmet_boost}-iostreams
@@ -47,10 +47,10 @@ Requires: libjpeg
 Requires: libpng
 Requires: libstdc++
 Requires: mysql++
-Requires: smartmet-library-calculator >= 26.4.13
+Requires: smartmet-library-calculator >= 26.10.13
 Requires: smartmet-library-macgyver >= 26.5.21
-Requires: smartmet-library-newbase >= 26.2.4
-Requires: smartmet-library-textgen >= 26.9.23
+Requires: smartmet-library-newbase >= 26.10.13
+Requires: smartmet-library-textgen >= 26.10.13
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -61,7 +61,7 @@ Requires: mysql
 Provides: qdtext
 #TestRequires: smartmet-timezones
 #TestRequires: smartmet-library-macgyver-devel >= 26.5.21
-#TestRequires: smartmet-library-newbase-devel >= 26.2.4
+#TestRequires: smartmet-library-newbase-devel >= 26.10.13
 #TestRequires: gcc-c++
 
 %description
@@ -87,6 +87,10 @@ rm -rf $RPM_BUILD_ROOT
 %{_mandir}/man1/qdtext.1.gz
 
 %changelog
+* Tue Oct 13 2026 Mika Heiskanen <mika.heiskanen@fmi.fi> - 26.10.13-1.fmi
+- Declare member functions and parameters const where nothing is modified (const correctness), no functional changes
+- Requires 26.10.13 versions of newbase, calculator, textgen due to their ABI changes
+
 * Wed Sep 23 2026 Mika Heiskanen <mika.heiskanen@fmi.fi> - 26.9.23-1.fmi
 - Marine regression results and test dictionaries for smartmet-library-textgen 26.9.23: a change and its turn are reported when they start, en-marine turn shorthand
 

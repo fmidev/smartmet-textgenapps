@@ -171,7 +171,7 @@ void write_forecasts(const string& theOutDir,
 // ----------------------------------------------------------------------
 
 void save_forecasts(const TextGen::Document& theDocument,
-                    std::shared_ptr<TextGen::Dictionary>& theDictionary,
+                    const std::shared_ptr<TextGen::Dictionary>& theDictionary,
                     const string& theArea,
                     const TextGenPosixTime& theTime,
                     const std::vector<ExpandedProduct>& theProducts)
