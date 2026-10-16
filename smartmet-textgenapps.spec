@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 26.10.15
+Version: 26.10.16
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -31,10 +31,10 @@ BuildRequires: gdal312-devel
 BuildRequires: make
 BuildRequires: mysql++-devel
 BuildRequires: rpm-build
-BuildRequires: smartmet-library-calculator-devel >= 26.10.15
-BuildRequires: smartmet-library-newbase-devel >= 26.10.15
-BuildRequires: smartmet-library-textgen-devel >= 26.10.15
-BuildRequires: smartmet-library-macgyver-devel >= 26.10.15
+BuildRequires: smartmet-library-calculator-devel >= 26.10.16
+BuildRequires: smartmet-library-newbase-devel >= 26.10.16
+BuildRequires: smartmet-library-textgen-devel >= 26.10.16
+BuildRequires: smartmet-library-macgyver-devel >= 26.10.16
 BuildRequires: zlib-devel
 Requires: %{smartmet_boost}-iostreams
 Requires: %{smartmet_boost}-locale
@@ -47,10 +47,10 @@ Requires: libjpeg
 Requires: libpng
 Requires: libstdc++
 Requires: mysql++
-Requires: smartmet-library-calculator >= 26.10.15
-Requires: smartmet-library-macgyver >= 26.10.15
-Requires: smartmet-library-newbase >= 26.10.15
-Requires: smartmet-library-textgen >= 26.10.15
+Requires: smartmet-library-calculator >= 26.10.16
+Requires: smartmet-library-macgyver >= 26.10.16
+Requires: smartmet-library-newbase >= 26.10.16
+Requires: smartmet-library-textgen >= 26.10.16
 Requires: zlib
 %if 0%{rhel} >= 8
 BuildRequires: mariadb-devel
@@ -60,8 +60,8 @@ Requires: mysql
 %endif
 Provides: qdtext
 #TestRequires: smartmet-timezones
-#TestRequires: smartmet-library-macgyver-devel >= 26.10.15
-#TestRequires: smartmet-library-newbase-devel >= 26.10.15
+#TestRequires: smartmet-library-macgyver-devel >= 26.10.16
+#TestRequires: smartmet-library-newbase-devel >= 26.10.16
 #TestRequires: gcc-c++
 
 %description
@@ -87,6 +87,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_mandir}/man1/qdtext.1.gz
 
 %changelog
+* Fri Oct 16 2026 Mika Heiskanen <mika.heiskanen@fmi.fi> - 26.10.16-1.fmi
+- Rebuilt due to ABI changes in macgyver, spine, newbase and other libraries
+
 * Thu Oct 15 2026 Mika Heiskanen <mika.heiskanen@fmi.fi> - 26.10.15-1.fmi
 - Declare member functions and parameters const where nothing is modified (const correctness), no functional changes
 - Requires 26.10.15 versions of newbase, calculator, textgen due to their ABI changes
