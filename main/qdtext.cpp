@@ -304,6 +304,143 @@ TextGen::WeatherArea make_area(const string& theName)
 
 // ----------------------------------------------------------------------
 /*!
+ * \brief Check and complete the settings of a database dictionary
+ */
+// ----------------------------------------------------------------------
+
+void check_database_dictionary_settings(const std::string& dictionaryId)
+{
+  if (dictionaryId != "mysql" && dictionaryId != "postgresql")
+    return;
+
+  std::vector<std::string> missing_params;
+  if (!Settings::isset("textgen::host"))
+    missing_params.emplace_back("textgen::host");
+  if (!Settings::isset("textgen::user"))
+    missing_params.emplace_back("textgen::user");
+  if (!Settings::isset("textgen::passwd"))
+    missing_params.emplace_back("textgen::passwd");
+  if (!Settings::isset("textgen::database"))
+    missing_params.emplace_back("textgen::database");
+
+  if (dictionaryId == "postgresql")
+  {
+    if (!Settings::isset("textgen::port"))
+      Settings::set("textgen::port", "5432");
+    if (!Settings::isset("textgen::encoding"))
+      Settings::set("textgen::encoding", "UTF8");
+    if (!Settings::isset("textgen::connect_timeout"))
+      Settings::set("textgen::connect_timeout", "30");
+  }
+
+  if (!missing_params.empty())
+  {
+    std::string msg = ("Settings missing for " + dictionaryId + ": ");
+    for (const auto& mp : missing_params)
+      msg += (mp + ",");
+    msg.resize(msg.size() - 1);
+    throw runtime_error(msg);
+  }
+}
+
+// ----------------------------------------------------------------------
+/*!
+ * \brief Read the area geometries from PostGIS
+ */
+// ----------------------------------------------------------------------
+
+void read_postgis_data(BrainStorm::PostGISDataSource& pgis, MessageLogger& log)
+{
+  const std::string host(Settings::require_string("qdtext::areas::postgis::host"));
+  const std::string port(Settings::require_string("qdtext::areas::postgis::port"));
+  const std::string dbname(Settings::require_string("qdtext::areas::postgis::database"));
+  const std::string user(Settings::require_string("qdtext::areas::postgis::username"));
+  const std::string password(Settings::require_string("qdtext::areas::postgis::password"));
+  const std::string schema(Settings::require_string("qdtext::areas::postgis::schema"));
+  const std::string table(Settings::require_string("qdtext::areas::postgis::table"));
+  const std::string field(Settings::require_string("qdtext::areas::postgis::field"));
+  const std::string encoding(
+      Settings::optional_string("qdtext::areas::postgis::encoding", "latin1"));
+  std::string log_message;
+
+  pgis.readData(host, port, dbname, user, password, schema, table, field, encoding, log_message);
+
+  if (!log_message.empty())
+    log << log_message << '\n';
+}
+
+// ----------------------------------------------------------------------
+/*!
+ * \brief Make the forecast for an area stored in PostGIS
+ */
+// ----------------------------------------------------------------------
+
+void make_postgis_forecast(const BrainStorm::PostGISDataSource& pgis,
+                           TextGen::TextGenerator& generator,
+                           const std::shared_ptr<TextGen::Dictionary>& dict,
+                           const std::string& areaname,
+                           const std::vector<ExpandedProduct>& products,
+                           MessageLogger& log)
+{
+  std::string area_name(Settings::require_string("qdtext::areas::" + areaname));
+  if (pgis.geoObjectExists(area_name))
+  {
+    if (pgis.isPolygon(area_name))
+    {
+      stringstream svg_string_stream(pgis.getSVGPath(area_name));
+      NFmiSvgPath svgPath;
+      svgPath.Read(svg_string_stream);
+      const TextGen::WeatherArea area(svgPath, areaname);
+      const TextGen::Document document = generator.generate(area);
+      save_forecasts(document, dict, areaname, generator.time(), products);
+    }
+    else  // if not polygon, it must be a point
+    {
+      std::pair<double, double> std_point(pgis.getPoint(area_name));
+      NFmiPoint point(std_point.first, std_point.second);
+      const TextGen::WeatherArea area(point, areaname);
+      const TextGen::Document document = generator.generate(area);
+      save_forecasts(document, dict, areaname, generator.time(), products);
+    }
+  }
+  else
+  {
+    log << "NOTE!! " + areaname << " (" << area_name << ") not found in PostGIS database!\n";
+  }
+}
+
+// ----------------------------------------------------------------------
+/*!
+ * \brief Write out all the collected forecasts
+ */
+// ----------------------------------------------------------------------
+
+void write_all_forecasts(const std::string& outdir, const Fmi::DateTime& now)
+{
+  for (const auto& textmap : textMap)
+  {
+    std::ostringstream string_stream;
+    for (const auto& tl : textmap.second)
+      string_stream << tl;
+
+    std::string outfile(textmap.first);
+
+    // if output file is '-' print to stdout
+    if (outfile == "-")
+    {
+      string encoding = Settings::optional_string("qdtext::encoding", "Latin1");
+      if (encoding != "UTF-8")
+        cout << boost::locale::conv::from_utf(string_stream.str(), encoding);
+      else
+        cout << string_stream.str();
+    }
+    else
+      write_forecasts(outdir, outfile, string_stream.str(), now);
+  }
+}
+
+// ----------------------------------------------------------------------
+/*!
  * \brief Make the farmer forecasts
  */
 // ----------------------------------------------------------------------
@@ -327,37 +464,7 @@ void make_forecasts()
   std::shared_ptr<TextGen::Dictionary> dict(TextGen::DictionaryFactory::create(dictionaryname));
   const std::string dictionaryId = dict->getDictionaryId();
 
-  if (dictionaryId == "mysql" || dictionaryId == "postgresql")
-  {
-    std::vector<std::string> missing_params;
-    if (!Settings::isset("textgen::host"))
-      missing_params.emplace_back("textgen::host");
-    if (!Settings::isset("textgen::user"))
-      missing_params.emplace_back("textgen::user");
-    if (!Settings::isset("textgen::passwd"))
-      missing_params.emplace_back("textgen::passwd");
-    if (!Settings::isset("textgen::database"))
-      missing_params.emplace_back("textgen::database");
-
-    if (dictionaryId == "postgresql")
-    {
-      if (!Settings::isset("textgen::port"))
-        Settings::set("textgen::port", "5432");
-      if (!Settings::isset("textgen::encoding"))
-        Settings::set("textgen::encoding", "UTF8");
-      if (!Settings::isset("textgen::connect_timeout"))
-        Settings::set("textgen::connect_timeout", "30");
-    }
-
-    if (!missing_params.empty())
-    {
-      std::string msg = ("Settings missing for " + dictionaryId + ": ");
-      for (const auto& mp : missing_params)
-        msg += (mp + ",");
-      msg.resize(msg.size() - 1);
-      throw runtime_error(msg);
-    }
-  }
+  check_database_dictionary_settings(dictionaryId);
 
   for (const auto& lang : supported_languages)
     dict->init(lang);
@@ -382,24 +489,7 @@ void make_forecasts()
   bool usePostGISData(Settings::isset("qdtext::areas::postgis::database"));
 
   if (usePostGISData)
-  {
-    const std::string host(Settings::require_string("qdtext::areas::postgis::host"));
-    const std::string port(Settings::require_string("qdtext::areas::postgis::port"));
-    const std::string dbname(Settings::require_string("qdtext::areas::postgis::database"));
-    const std::string user(Settings::require_string("qdtext::areas::postgis::username"));
-    const std::string password(Settings::require_string("qdtext::areas::postgis::password"));
-    const std::string schema(Settings::require_string("qdtext::areas::postgis::schema"));
-    const std::string table(Settings::require_string("qdtext::areas::postgis::table"));
-    const std::string field(Settings::require_string("qdtext::areas::postgis::field"));
-    const std::string encoding(
-        Settings::optional_string("qdtext::areas::postgis::encoding", "latin1"));
-    std::string log_message;
-
-    pgis.readData(host, port, dbname, user, password, schema, table, field, encoding, log_message);
-
-    if (!log_message.empty())
-      log << log_message << '\n';
-  }
+    read_postgis_data(pgis, log);
 
   auto now = Fmi::SecondClock::universal_time();
 
@@ -417,31 +507,7 @@ void make_forecasts()
 
     if (usePostGISData)
     {
-      std::string area_name(Settings::require_string("qdtext::areas::" + areaname));
-      if (pgis.geoObjectExists(area_name))
-      {
-        if (pgis.isPolygon(area_name))
-        {
-          stringstream svg_string_stream(pgis.getSVGPath(area_name));
-          NFmiSvgPath svgPath;
-          svgPath.Read(svg_string_stream);
-          const TextGen::WeatherArea area(svgPath, areaname);
-          const TextGen::Document document = generator.generate(area);
-          save_forecasts(document, dict, areaname, generator.time(), products);
-        }
-        else  // if not polygon, it must be a point
-        {
-          std::pair<double, double> std_point(pgis.getPoint(area_name));
-          NFmiPoint point(std_point.first, std_point.second);
-          const TextGen::WeatherArea area(point, areaname);
-          const TextGen::Document document = generator.generate(area);
-          save_forecasts(document, dict, areaname, generator.time(), products);
-        }
-      }
-      else
-      {
-        log << "NOTE!! " + areaname << " (" << area_name << ") not found in PostGIS database!\n";
-      }
+      make_postgis_forecast(pgis, generator, dict, areaname, products, log);
     }
     else
     {
@@ -454,26 +520,7 @@ void make_forecasts()
   const string outdir = Settings::require_string("qdtext::outdir");
 
   // iterate the map and write out the forecasts
-  for (const auto& textmap : textMap)
-  {
-    std::ostringstream string_stream;
-    for (const auto& tl : textmap.second)
-      string_stream << tl;
-
-    std::string outfile(textmap.first);
-
-    // if output file is '-' print to stdout
-    if (outfile == "-")
-    {
-      string encoding = Settings::optional_string("qdtext::encoding", "Latin1");
-      if (encoding != "UTF-8")
-        cout << boost::locale::conv::from_utf(string_stream.str(), encoding);
-      else
-        cout << string_stream.str();
-    }
-    else
-      write_forecasts(outdir, outfile, string_stream.str(), now);
-  }
+  write_all_forecasts(outdir, now);
 }
 
 // ----------------------------------------------------------------------
