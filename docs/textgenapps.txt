@@ -14,5 +14,6 @@ Ohjelma \c qdtext generoi maataloutta varten räätälöityjä tekstiennusteita.
 
 Ohjelma \ref page_qdarea laskee alue- ja aikaintegraaleja
 querydatasta.
+qdarea is nowadays part of smartmet-qdtools.
 
 */

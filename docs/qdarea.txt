@@ -1,6 +1,10 @@
 /*!
 \page page_qdarea qdarea
 
+<b>Note:</b> qdarea is nowadays part of smartmet-qdtools, whose
+docs/qdarea.md documents the current options. It is not built
+from this repository.
+
 The \c qdarea program segments the querydata into desired
 time intervals, and then integrates the querydata for
 those time intervals with desired space and time integration
