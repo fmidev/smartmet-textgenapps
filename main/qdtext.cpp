@@ -529,7 +529,7 @@ void make_forecasts()
  *
  * Option -d [path] sets the output directory
  * Option -a [areas] sets the areas to be processed
- * Option -l [language] sets the output languages
+ * Option -l [languages] sets the languages ${LANGUAGE} product templates are expanded to
  */
 // ----------------------------------------------------------------------
 
@@ -549,9 +549,9 @@ bool read_cmdline(int argc, const char* argv[])
          << "Options:\n"
          << "\t-h\tprint this usage information\n"
          << "\t-f\tenable creation of output directies (qdtext::mkdir)\n"
-         << "\t-d [outdir] set the output directory (qdtext::outputdir)\n"
+         << "\t-d [outdir] set the output directory (qdtext::outdir)\n"
          << "\t-a [name1,name2,...] areas to process (qdtext::areas)\n"
-         << "\t-l [lang1,lang2,...] languages to process (qdtext::languages)\n";
+         << "\t-l [lang1,lang2,...] languages to process (qdtext::product_languages)\n";
 
     return false;
   }
@@ -582,7 +582,7 @@ bool read_cmdline(int argc, const char* argv[])
       throw runtime_error("Empty argument for option -d");
     if (!NFmiFileSystem::DirectoryExists(outdir))
       throw runtime_error("-d argument " + outdir + " does not exist");
-    Settings::set("qdtext::outputdir", outdir);
+    Settings::set("qdtext::outdir", outdir);
   }
 
   if (cmdline.isOption('a') != 0)
@@ -598,7 +598,7 @@ bool read_cmdline(int argc, const char* argv[])
     const string languages = cmdline.OptionValue('l');
     if (languages.empty())
       throw runtime_error("Empty argument for option -l");
-    Settings::set("qdtext::languages", languages);
+    Settings::set("qdtext::product_languages", languages);
   }
 
   return true;

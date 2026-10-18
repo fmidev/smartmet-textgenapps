@@ -28,7 +28,7 @@ Create output directories if they do not exist (overrides
 .TP
 .BI \-d " outdir"
 Output directory (overrides
-.BR qdtext::outputdir ).
+.BR qdtext::outdir ).
 .TP
 .BI \-a " name1,name2,..."
 Areas to process (overrides
@@ -36,7 +36,12 @@ Areas to process (overrides
 .TP
 .BI \-l " lang1,lang2,..."
 Languages to process (overrides
-.BR qdtext::languages ).
+.BR qdtext::product_languages ).
+The products whose names contain
+.B ${LANGUAGE}
+are generated once for each of these languages; each language must also be
+listed in
+.BR qdtext::supported_languages .
 .SH EXAMPLES
 Run with a configuration file, generating Finnish and English forecasts
 for two areas:
