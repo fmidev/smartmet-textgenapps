@@ -2,7 +2,7 @@
 %define RPMNAME smartmet-%{BINNAME}
 Summary: Weather text generator binary
 Name: %{RPMNAME}
-Version: 26.10.17
+Version: 26.10.26
 Release: 1%{?dist}.fmi
 License: FMI
 Group: Development/Tools
@@ -87,6 +87,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_mandir}/man1/qdtext.1.gz
 
 %changelog
+* Mon Oct 26 2026 Andris Pavēnis <andris.pavenis@fmi.fi> 26.10.26-1.fmi
+- Bump version
+
 * Sat Oct 17 2026 Mika Heiskanen <mika.heiskanen@fmi.fi> - 26.10.17-1.fmi
 - Split functions with a cognitive complexity above 25 into smaller helpers, no functional changes
 - qdtext: -d now sets qdtext::outdir and -l qdtext::product_languages, the settings that are actually read
